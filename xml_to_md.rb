@@ -29,6 +29,7 @@ class NodeParser
   include NodeTypes
 
   NODE_REPLACEMENTS = [
+    ['bold', '**'],
     ['italic', '_']
   ]
 
