@@ -28,10 +28,22 @@ end
 class NodeParser
   include NodeTypes
 
-  def initialize(root_node)
-    @root_node = root_node
+  NODE_REPLACEMENTS = [
+    ['italic', '_']
+  ]
+
+  def initialize(doc)
+    @doc = doc
+    @root_node = doc.root
     @parts = {}
-    parse_node(root_node)
+
+    NODE_REPLACEMENTS.each do |mapping|
+      @doc.xpath("//#{mapping[0]}").each do |node|
+        node.replace(mapping[1] + node.inner_html + mapping[1])
+      end
+    end
+
+    parse_node(@root_node)
   end
 
   def parse_node(node)
@@ -64,5 +76,5 @@ class NodeParser
 end
 
 xml = File.open('mcm_5_jun_2016.xml') { |f| Nokogiri::HTML(f) { |config| config.nonet.noent } }
-parser = NodeParser.new(xml.root)
+parser = NodeParser.new(xml)
 parser.output
