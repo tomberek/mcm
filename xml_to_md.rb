@@ -1,26 +1,68 @@
 require 'nokogiri'
+require 'byebug'
 
-class NodeParser
-  def initialize(node)
-    return if node.name == 'text'
-    method_name = node.name.to_sym
+module NodeTypes
+  REPLACEMENTS = [
+    [/\n|\r/, ''],
+    [/(\<line\>\s*)+/, "\n\n"], ['</line>', ''],
+    ['&emsp;', ' '],
+    ['&bull;', '-'],
+    ['&ldquo;', '"'], ['&rdquo;', '"']
+  ]
 
-    if self.respond_to?(method_name)
-      self.send(method_name, )
-    end
-
-    node.children.each do |child|
-      parse_node(child)
-    end
+  def preface(node)
+    content = collect_children(node)
+    @parts[:preface] = content
+    return content
   end
 
-  def self.text
-
-
-  def preface(node, &children)
-    @preface = NodeParser.text(node)
+  def paratext(node)
+    content = node.inner_html
+    REPLACEMENTS.each do |mapping|
+      content = content.gsub(mapping[0], mapping[1])
+    end
+    return content
   end
 end
 
-xml = File.open('mcm_5_jun_2016.xml') { |f| Nokogiri::XML(f) }
-NodeParser.new(xml.root)
+class NodeParser
+  include NodeTypes
+
+  def initialize(root_node)
+    @root_node = root_node
+    @parts = {}
+    parse_node(root_node)
+  end
+
+  def parse_node(node)
+    method_name = node.name.to_sym
+    if NodeTypes.method_defined?(method_name)
+      result = self.send(method_name, node)
+      return result if result
+    end
+
+    node.element_children.each do |child|
+      parse_node(child)
+    end
+
+    return
+  end
+
+  def collect_children(node)
+    result = []
+    node.children.each do |child|
+      result << parse_node(child)
+    end
+    result.compact.join('')
+  end
+
+  def output
+    @parts.each do |key, value|
+      File.open("manual/#{key}.md", 'w') { |file| file.write(value) }
+    end
+  end
+end
+
+xml = File.open('mcm_5_jun_2016.xml') { |f| Nokogiri::HTML(f) { |config| config.nonet.noent } }
+parser = NodeParser.new(xml.root)
+parser.output
