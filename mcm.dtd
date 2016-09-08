@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MANUAL FOR COURTS-MARTIAL DOCUMENT TYPE DEFINITION  -->
+<!--                     (MCM-DTD)                       -->
+<!-- DOCTYPE doc PUBLIC 
+      "-//DOD-USAPA//DTD Manual for Courts-Martial REV 1.0 20040409//EN">  -->
+<!--         VERSION 1.0 AS OF 09 April 2004             -->
+<!--   Created 04/09/2004 by (Computer Sciences Corp.)   -->
+
+
+<!--   C H A R A C T E R   E N T I T I E S   -->
+
+<!ENTITY % admin.charent PUBLIC "-//DOD-USAPA//ENTITIES Character Entities 
+20011016//EN" "adminxml.chr">
+%admin.charent;
+
+<!ENTITY % admin.notn PUBLIC "-//DOD-USAPA//ENTITIES Notations 20011016//EN" 
+"adminxml.not">
+%admin.notn;
+
+
+<!--    A T T R I B U T E   E N T I T I E S   -->
+
+<!ENTITY % number "CDATA">
+
+<!ENTITY % months "(1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12)">
+
+<!ENTITY % date "
+day  %number; #REQUIRED
+month %months; #REQUIRED
+year  %number; #REQUIRED
+">
+
+
+<!--   E L E M E N T   E N T I T I E S   -->
+
+<!ENTITY % emphasis.text "bold | italic | subscrpt | supscrpt">
+
+<!ENTITY % spacing.text "line | rule">
+
+<!ENTITY % format.text "#PCDATA | %emphasis.text; | %spacing.text;">
+
+<!ENTITY % change.text "%format.text; | leader | page | excerpt">
+
+
+
+<!--   D O C U M E N T   E L E M E N T S   -->
+
+<!--
+    =========================================================
+                  doc
+    =========================================================
+-->
+<!ELEMENT doc (front, body, rear)>
+
+<!--
+    =========================================================
+                  front
+    =========================================================
+-->
+<!ELEMENT front (cover, preface, titlepg, contents)>
+
+<!--
+    =========================================================
+                  cover
+    =========================================================
+-->
+<!ELEMENT cover (security, revisioninfo, doctitle, issdate)>
+<!ATTLIST cover
+pin CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  security
+    =========================================================
+-->
+<!ELEMENT security (#PCDATA)>
+
+<!--
+    =========================================================
+                  revisioninfo
+    =========================================================
+-->
+<!ELEMENT revisioninfo (paratext)>
+
+<!--
+    =========================================================
+                  sigblock
+    =========================================================
+-->
+<!ELEMENT sigblock (sigline+)>
+
+<!--
+    =========================================================
+                  sigline
+    =========================================================
+-->
+<!ELEMENT sigline (#PCDATA | %spacing.text; | leader)*>
+
+<!--
+    =========================================================
+                  doctitle
+    =========================================================
+-->
+<!ELEMENT doctitle (#PCDATA | line)*>
+
+<!--
+    =========================================================
+                  issdate
+    =========================================================
+-->
+<!ELEMENT issdate EMPTY>
+<!ATTLIST issdate
+day CDATA #REQUIRED
+month CDATA #REQUIRED
+year CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  preface
+    =========================================================
+-->
+<!ELEMENT preface (paratext)>
+
+<!--
+    =========================================================
+                  titlepg
+    =========================================================
+-->
+<!ELEMENT titlepg (signer)>
+
+<!--
+    =========================================================
+                  signer
+    =========================================================
+-->
+<!ELEMENT signer EMPTY>
+<!ATTLIST signer
+boardno CDATA #REQUIRED
+type (%notation.class;) #REQUIRED
+>
+
+<!--
+    =========================================================
+                  contents
+    =========================================================
+-->
+<!ELEMENT contents EMPTY>
+<!ATTLIST contents
+frtlevl CDATA #REQUIRED
+body CDATA #REQUIRED
+rearlevl CDATA #REQUIRED
+toctype CDATA #REQUIRED
+>
+
+
+<!--
+    =========================================================
+                  body
+    =========================================================
+-->
+<!ELEMENT body (part+)>
+
+<!--
+    =========================================================
+                  part
+    =========================================================
+-->
+<!ELEMENT part (title, (para0 | rule.chapter | rule.section | section | discuss.para | article.para)+)>
+<!ATTLIST part
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  title
+    =========================================================
+-->
+<!ELEMENT title (%format.text;)*>
+
+<!--
+    =========================================================
+                  para0
+    =========================================================
+-->
+<!ELEMENT para0 (title, (paratext | subpara1 | discuss.para | sigblock | encl.para)+)>
+<!ATTLIST para0
+label CDATA #IMPLIED
+>
+
+<!--
+    =========================================================
+                  subpara1
+    =========================================================
+-->
+<!ELEMENT subpara1 (title?, (paratext | subpara2 | discuss.para | note | supguid.para)+)>
+<!ATTLIST subpara1
+label CDATA #IMPLIED
+>
+
+<!--
+    =========================================================
+                  subpara2
+    =========================================================
+-->
+<!ELEMENT subpara2 (title?, (paratext | subpara3 | discuss.para | note | supguid.para)*)>
+<!ATTLIST subpara2
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  subpara3
+    =========================================================
+-->
+<!ELEMENT subpara3 (title?, (paratext | subpara4 | discuss.para | note | supguid.para)*)>
+<!ATTLIST subpara3
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  subpara4
+    =========================================================
+-->
+<!ELEMENT subpara4 (title?, (paratext | subpara5 | discuss.para | note | supguid.para)*)>
+<!ATTLIST subpara4
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  subpara5
+    =========================================================
+-->
+<!ELEMENT subpara5 (title?, (paratext | discuss.para | note | supguid.para)*)>
+<!ATTLIST subpara5
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  discuss.para
+    =========================================================
+-->
+<!ELEMENT discuss.para (title, (paratext | dis.subpara1 | oath)+)>
+
+<!--
+    =========================================================
+                  dis.subpara1
+    =========================================================
+-->
+<!ELEMENT dis.subpara1 (title?, (paratext | dis.subpara2 | oath)+)>
+<!ATTLIST dis.subpara1
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  dis.subpara2
+    =========================================================
+-->
+<!ELEMENT dis.subpara2 (title?, (paratext | dis.subpara3 | note)+)>
+<!ATTLIST dis.subpara2
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  dis.subpara3
+    =========================================================
+-->
+<!ELEMENT dis.subpara3 (title?, (paratext | dis.subpara4 | note)+)>
+<!ATTLIST dis.subpara3
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  dis.subpara4
+    =========================================================
+-->
+<!ELEMENT dis.subpara4 (title?, (paratext | dis.subpara5 | note)+)>
+<!ATTLIST dis.subpara4
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  dis.subpara5
+    =========================================================
+-->
+<!ELEMENT dis.subpara5 (title?, (paratext | dis.subpara6 | note)+)>
+<!ATTLIST dis.subpara5
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  dis.subpara6
+    =========================================================
+-->
+<!ELEMENT dis.subpara6 (title?, (paratext | note)+)>
+<!ATTLIST dis.subpara6
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  oath
+    =========================================================
+-->
+<!ELEMENT oath (paratext)>
+
+<!--
+    =========================================================
+                  supguid.para
+    =========================================================
+-->
+<!ELEMENT supguid.para (title, (paratext | subpara1)+)>
+
+<!--
+    =========================================================
+                  encl.para
+    =========================================================
+-->
+<!ELEMENT encl.para (paratext)>
+
+<!--
+    =========================================================
+                  rule.part
+    =========================================================
+-->
+<!ELEMENT rule.part (title, rule.para*, rule.chapter*)>
+<!ATTLIST rule.part
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  rule.section
+    =========================================================
+-->
+<!ELEMENT rule.section (title, paratext?, rule.para+)>
+<!ATTLIST rule.section
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  rule.chapter
+    =========================================================
+-->
+<!ELEMENT rule.chapter (title, rule.para+)>
+<!ATTLIST rule.chapter
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  rule.para
+    =========================================================
+-->
+<!ELEMENT rule.para (title, (paratext | discuss.para | rule.subpara1)+)>
+<!ATTLIST rule.para
+label CDATA #IMPLIED
+rulenum CDATA #IMPLIED
+>
+
+<!--
+    =========================================================
+                  rule.subpara1
+    =========================================================
+-->
+<!ELEMENT rule.subpara1 (title?, (paratext | rule.subpara2 | discuss.para)+)>
+<!ATTLIST rule.subpara1
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  rule.subpara2
+    =========================================================
+-->
+<!ELEMENT rule.subpara2 (title?, (paratext | rule.subpara3 | discuss.para)+)>
+<!ATTLIST rule.subpara2
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  rule.subpara3
+    =========================================================
+-->
+<!ELEMENT rule.subpara3 (title?, (paratext | rule.subpara4 | discuss.para)+)>
+<!ATTLIST rule.subpara3
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  rule.subpara4
+    =========================================================
+-->
+<!ELEMENT rule.subpara4 (title?, (paratext | rule.subpara5 | discuss.para)+)>
+<!ATTLIST rule.subpara4
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  rule.subpara5
+    =========================================================
+-->
+<!ELEMENT rule.subpara5 (title?, (paratext | discuss.para)+)>
+<!ATTLIST rule.subpara5
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  section
+    =========================================================
+-->
+<!ELEMENT section (title, (paratext | note | margin.instruction | mjtext | othertext)+)>
+<!ATTLIST section
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  margin.instruction
+    =========================================================
+-->
+<!ELEMENT margin.instruction (%format.text;)*>
+
+<!--
+    =========================================================
+                  mjtext
+    =========================================================
+-->
+<!ELEMENT mjtext (prefix?, speaker, paratext)>
+
+<!--
+    =========================================================
+                  speaker
+    =========================================================
+-->
+<!ELEMENT speaker (#PCDATA)>
+
+<!--
+    =========================================================
+                  othertext
+    =========================================================
+-->
+<!ELEMENT othertext (prefix?, speaker?, paratext?, oath?)>
+
+<!--
+    =========================================================
+                  article.para
+    =========================================================
+-->
+<!ELEMENT article.para (title, (subpara1 | paratext)+)>
+<!ATTLIST article.para
+label CDATA #REQUIRED
+artnum CDATA #IMPLIED
+>
+
+<!--
+    =========================================================
+                  COMMON ELEMENTS
+    =========================================================
+-->
+
+<!--
+    =========================================================
+                  paratext
+    =========================================================
+-->
+<!ELEMENT paratext (%format.text; | sigblock | list | excerpt | ftnote | leader)*>
+
+<!--
+    =========================================================
+                  line
+    =========================================================
+-->
+<!ELEMENT line EMPTY>
+
+<!--
+    =========================================================
+                  rule
+    =========================================================
+-->
+<!ELEMENT rule EMPTY>
+<!ATTLIST rule
+len CDATA #REQUIRED
+wgt CDATA #IMPLIED
+>
+
+<!--
+    =========================================================
+                  italic
+    =========================================================
+-->
+<!ELEMENT italic (#PCDATA)>
+
+<!--
+    =========================================================
+                  supscrpt
+    =========================================================
+-->
+<!ELEMENT supscrpt (#PCDATA)>
+
+<!--
+    =========================================================
+                  subscrpt
+    =========================================================
+-->
+<!ELEMENT subscrpt (#PCDATA)>
+
+<!--
+    =========================================================
+                  list
+    =========================================================
+-->
+<!ELEMENT list (item+)>
+
+<!--
+    =========================================================
+                  item
+    =========================================================
+-->
+<!ELEMENT item (%format.text;)*>
+<!ATTLIST item
+label CDATA #IMPLIED
+>
+
+<!--
+    =========================================================
+                  excerpt
+    =========================================================
+-->
+<!ELEMENT excerpt (#PCDATA)>
+
+<!--
+    =========================================================
+                  note
+    =========================================================
+-->
+<!ELEMENT note (%format.text;)*>
+<!ATTLIST note
+seqnum CDATA #IMPLIED
+>
+
+<!--
+    =========================================================
+                  ftnote
+    =========================================================
+-->
+<!ELEMENT ftnote (#PCDATA)>
+<!ATTLIST ftnote
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  bold
+    =========================================================
+-->
+<!ELEMENT bold (%format.text;)*>
+
+<!--
+    =========================================================
+                  leader
+    =========================================================
+-->
+<!ELEMENT leader EMPTY>
+<!ATTLIST leader
+type (dot | rule | space) #REQUIRED
+>
+
+<!--
+    =========================================================
+                  table
+    =========================================================
+-->
+<!ELEMENT table (title?, tgroup, tabnote*)>
+<!ATTLIST table
+tablenum CDATA #IMPLIED
+colsep CDATA #IMPLIED
+rowsep CDATA #IMPLIED
+tocentry CDATA #IMPLIED
+frame (top | bottom | topbot | all | sides | none) "topbot"
+label CDATA #IMPLIED
+orient (port | land) #REQUIRED
+>
+
+<!--
+    =========================================================
+                  tgroup
+    =========================================================
+-->
+<!ELEMENT tgroup (colspec+, thead, tbody)>
+<!ATTLIST tgroup
+cols CDATA #REQUIRED
+colsep CDATA #IMPLIED
+rowsep CDATA #IMPLIED
+char CDATA ""
+align (left | right | center | justify | char) "left"
+charoff CDATA #IMPLIED
+>
+
+<!--
+    =========================================================
+                  colspec
+    =========================================================
+-->
+<!ELEMENT colspec EMPTY>
+<!ATTLIST colspec
+char CDATA #IMPLIED
+align (left | center | right | justify | char) #IMPLIED
+charoff %number;  #IMPLIED
+colsep CDATA #IMPLIED
+rowsep CDATA #IMPLIED
+colnum CDATA #REQUIRED
+justify (center | left | right) #IMPLIED
+width CDATA #REQUIRED
+colname CDATA #IMPLIED
+gutter CDATA #IMPLIED
+>
+
+<!--
+    =========================================================
+                  thead
+    =========================================================
+-->
+<!ELEMENT thead (row)>
+<!ATTLIST thead
+valign (top | middle | bottom) "top"
+>
+
+<!--
+    =========================================================
+                  row
+    =========================================================
+-->
+<!ELEMENT row (entry | row)+>
+<!ATTLIST row
+rowspc CDATA #IMPLIED
+row CDATA #IMPLIED
+>
+
+<!--
+    =========================================================
+                  entry
+    =========================================================
+-->
+<!ELEMENT entry (%format.text; | leader)*>
+<!ATTLIST entry
+col CDATA #REQUIRED
+justify (left | para | right) #IMPLIED
+>
+
+<!--
+    =========================================================
+                  tbody
+    =========================================================
+-->
+<!ELEMENT tbody (row+)>
+<!ATTLIST tbody
+valign (top | middle | bottom) "top"
+>
+
+<!--
+    =========================================================
+                  tabnote
+    =========================================================
+-->
+<!ELEMENT tabnote (%format.text;)*>
+<!ATTLIST tabnote
+label CDATA #REQUIRED
+>
+
+
+<!--
+    =========================================================
+                  rear
+    =========================================================
+-->
+<!ELEMENT rear (append+, index)>
+
+<!--
+    =========================================================
+                  append
+    =========================================================
+-->
+<!ELEMENT append (title, appendtext?, (append.excerpt | append.figure | append.guide | append.forms | appendlist | append.rules | append.article | append.para | append.execorder))>
+<!ATTLIST append
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  appendtext
+    =========================================================
+-->
+<!ELEMENT appendtext (%format.text;)*>
+
+<!--
+    =========================================================
+                  append.para
+    =========================================================
+-->
+<!ELEMENT append.para (para0+)>
+
+<!--
+    =========================================================
+                  append.excerpt
+    =========================================================
+-->
+<!ELEMENT append.excerpt (constitution | ucmj | dod.directive | memo.understand)>
+
+<!--
+    =========================================================
+                  constitution
+    =========================================================
+-->
+<!ELEMENT constitution (preamble, const.article+, const.amend+)>
+
+<!--
+    =========================================================
+                  preamble
+    =========================================================
+-->
+<!ELEMENT preamble (paratext)>
+
+<!--
+    =========================================================
+                  const.article
+    =========================================================
+-->
+<!ELEMENT const.article (title, article.section*, paratext?)>
+<!ATTLIST const.article
+num CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  article.section
+    =========================================================
+-->
+<!ELEMENT article.section (title, paratext)>
+<!ATTLIST article.section
+num CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  const.amend
+    =========================================================
+-->
+<!ELEMENT const.amend (title, paratext?, amend.section*)>
+<!ATTLIST const.amend
+num CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  amend.section
+    =========================================================
+-->
+<!ELEMENT amend.section (title, paratext)>
+<!ATTLIST amend.section
+num CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  ucmj
+    =========================================================
+-->
+<!ELEMENT ucmj (ucmj.chapter)>
+
+<!--
+    =========================================================
+                  ucmj.chapter
+    =========================================================
+-->
+<!ELEMENT ucmj.chapter (title, table, ucmj.subchapter+)>
+<!ATTLIST ucmj.chapter
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  ucmj.subchapter
+    =========================================================
+-->
+<!ELEMENT ucmj.subchapter (title, table?, ucmj.para+)>
+<!ATTLIST ucmj.subchapter
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  ucmj.para
+    =========================================================
+-->
+<!ELEMENT ucmj.para (title, (paratext | subpara1)+)>
+<!ATTLIST ucmj.para
+label CDATA #REQUIRED
+article CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  dod.directive
+    =========================================================
+-->
+<!ELEMENT dod.directive (title, dir.date, dir.number, dir.sig, subject.para, refer.para, para0+, memo.under)>
+
+<!--
+    =========================================================
+                  dir.date
+    =========================================================
+-->
+<!ELEMENT dir.date (#PCDATA)>
+
+<!--
+    =========================================================
+                  dir.number
+    =========================================================
+-->
+<!ELEMENT dir.number (#PCDATA)>
+
+<!--
+    =========================================================
+                  dir.sig
+    =========================================================
+-->
+<!ELEMENT dir.sig (#PCDATA)>
+
+<!--
+    =========================================================
+                  subject.para
+    =========================================================
+-->
+<!ELEMENT subject.para (title, paratext)>
+
+<!--
+    =========================================================
+                  refer.para
+    =========================================================
+-->
+<!ELEMENT refer.para (title, refer.list)>
+
+<!--
+    =========================================================
+                  refer.list
+    =========================================================
+-->
+<!ELEMENT refer.list (refer.listitem+)>
+
+<!--
+    =========================================================
+                  refer.listitem
+    =========================================================
+-->
+<!ELEMENT refer.listitem (#PCDATA)>
+<!ATTLIST refer.listitem
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  memo.under
+    =========================================================
+-->
+<!ELEMENT memo.under (title, paratext, memo.head, para0+)>
+
+<!--
+    =========================================================
+                  memo.head
+    =========================================================
+-->
+<!ELEMENT memo.head (title)>
+
+<!--
+    =========================================================
+                  memo.understand
+    =========================================================
+-->
+<!ELEMENT memo.understand (paratext, subpara1+, approvalblock)>
+
+<!--
+    =========================================================
+                  approvalblock
+    =========================================================
+-->
+<!ELEMENT approvalblock (title, sigline+, date.line)>
+
+<!--
+    =========================================================
+                  append.figure
+    =========================================================
+-->
+<!ELEMENT append.figure (figure+)>
+
+<!--
+    =========================================================
+                  figure
+    =========================================================
+-->
+<!ELEMENT figure (title?, graphic)>
+<!ATTLIST figure
+orient CDATA #REQUIRED
+prtcol CDATA #REQUIRED
+width (1col | page) #IMPLIED
+>
+
+<!--
+    =========================================================
+                  graphic
+    =========================================================
+-->
+<!ELEMENT graphic EMPTY>
+<!ATTLIST graphic
+boardno CDATA #REQUIRED
+type (%notation.class;) #REQUIRED
+width CDATA #IMPLIED
+depth CDATA #IMPLIED
+>
+
+<!--
+    =========================================================
+                  app.subpara1
+    =========================================================
+-->
+<!ELEMENT app.subpara1 (title?, (app.subpara2 | date.line | form.order | line | note | paratext | formtext | margin.instruction | form.sample)+)>
+<!ATTLIST app.subpara1
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  app.subpara2
+    =========================================================
+-->
+<!ELEMENT app.subpara2 (title?, (note | date.line | form.order | line | app.subpara3 | paratext | instruction.para | form.sample | margin.instruction)+)>
+<!ATTLIST app.subpara2
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  app.subpara3
+    =========================================================
+-->
+<!ELEMENT app.subpara3 (title?, (note | line | form.order)+)>
+<!ATTLIST app.subpara3
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  date.line
+    =========================================================
+-->
+<!ELEMENT date.line (#PCDATA | rule | leader)*>
+
+<!--
+    =========================================================
+                  form.order
+    =========================================================
+-->
+<!ELEMENT form.order (title?, paratext)>
+
+<!--
+    =========================================================
+                  instruction.para
+    =========================================================
+-->
+<!ELEMENT instruction.para (#PCDATA | title | inst.text | note)*>
+
+<!--
+    =========================================================
+                  inst.text
+    =========================================================
+-->
+<!ELEMENT inst.text (#PCDATA)>
+
+<!--
+    =========================================================
+                  form.sample
+    =========================================================
+-->
+<!ELEMENT form.sample (form.prefix?, title?, (margin.instruction | formtext | note | charge.para | line)+)>
+
+<!--
+    =========================================================
+                  form.prefix
+    =========================================================
+-->
+<!ELEMENT form.prefix (#PCDATA)>
+
+<!--
+    =========================================================
+                  formtext
+    =========================================================
+-->
+<!ELEMENT formtext (%format.text; | leader | margin.instruction)*>
+
+<!--
+    =========================================================
+                  charge.para
+    =========================================================
+-->
+<!ELEMENT charge.para (title?, (formtext | note)+)>
+
+<!--
+    =========================================================
+                  append.guide
+    =========================================================
+-->
+<!ELEMENT append.guide (note | section | sectionheader | margin.instruction | othertext | app.subpara1 | form.sample | guideforprep)+>
+
+<!--
+    =========================================================
+                  sectionheader
+    =========================================================
+-->
+<!ELEMENT sectionheader (#PCDATA)>
+
+<!--
+    =========================================================
+                  guideforprep
+    =========================================================
+-->
+<!ELEMENT guideforprep (title, (note | form.sample | margin.instruction | mjtext | othertext | qa.section)+)>
+
+
+<!--
+    =========================================================
+                  prefix
+    =========================================================
+-->
+<!ELEMENT prefix (#PCDATA)>
+
+
+<!--
+    =========================================================
+                  qa.section
+    =========================================================
+-->
+<!ELEMENT qa.section (title, paratext)>
+
+<!--
+    =========================================================
+                  append.forms
+    =========================================================
+-->
+<!ELEMENT append.forms (paratext | app.subpara1 | form.section | note)+>
+
+<!--
+    =========================================================
+                  form.section
+    =========================================================
+-->
+<!ELEMENT form.section (title?, (paratext | form.action | form.finding | form.sentence)+)>
+
+<!--
+    =========================================================
+                  form.finding
+    =========================================================
+-->
+<!ELEMENT form.finding (title, paratext)>
+<!ATTLIST form.finding
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  form.sentence
+    =========================================================
+-->
+<!ELEMENT form.sentence (paratext)>
+<!ATTLIST form.sentence
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  form.action
+    =========================================================
+-->
+<!ELEMENT form.action (paratext)>
+<!ATTLIST form.action
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  appendlist
+    =========================================================
+-->
+<!ELEMENT appendlist (table)>
+
+<!--
+    =========================================================
+                  append.rules
+    =========================================================
+-->
+<!ELEMENT append.rules (paratext | rule.para | rule.part | rule.section)+>
+
+<!--
+    =========================================================
+                  append.article
+    =========================================================
+-->
+<!ELEMENT append.article (para0, article.para+)>
+
+<!--
+    =========================================================
+                  append.execorder
+    =========================================================
+-->
+<!ELEMENT append.execorder (exec.order+)>
+
+<!--
+    =========================================================
+                  exec.order
+    =========================================================
+-->
+<!ELEMENT exec.order (title?, paratext?, (exec.sigblock | exec.section | figure)+)>
+<!ATTLIST exec.order
+ordrnum CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  exec.sigblock
+    =========================================================
+-->
+<!ELEMENT exec.sigblock (figure, paratext)>
+
+<!--
+    =========================================================
+                  exec.section
+    =========================================================
+-->
+<!ELEMENT exec.section (title, paratext, exec.subpara1*, exec.sigblock?)>
+<!ATTLIST exec.section
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  exec.subpara1
+    =========================================================
+-->
+<!ELEMENT exec.subpara1 (title?, paratext, exec.subpara2*)>
+<!ATTLIST exec.subpara1
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  exec.subpara2
+    =========================================================
+-->
+<!ELEMENT exec.subpara2 (title?, paratext?, exec.subpara3*)>
+<!ATTLIST exec.subpara2
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  exec.subpara3
+    =========================================================
+-->
+<!ELEMENT exec.subpara3 (title?, paratext?, exec.subpara4*)>
+<!ATTLIST exec.subpara3
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  exec.subpara4
+    =========================================================
+-->
+<!ELEMENT exec.subpara4 (title?, paratext?, exec.subpara5*)>
+<!ATTLIST exec.subpara4
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  exec.subpara5
+    =========================================================
+-->
+<!ELEMENT exec.subpara5 (title?, paratext)>
+<!ATTLIST exec.subpara5
+label CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  index
+    =========================================================
+-->
+<!ELEMENT index (index.table)>
+
+<!--
+    =========================================================
+                  index.table
+    =========================================================
+-->
+<!ELEMENT index.table (title, tabdef, coldef+, thead, tbody)>
+<!ATTLIST index.table
+orient CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  tabdef
+    =========================================================
+-->
+<!ELEMENT tabdef EMPTY>
+<!ATTLIST tabdef
+gutter CDATA #REQUIRED
+justify CDATA #REQUIRED
+indtype CDATA #REQUIRED
+orient CDATA #REQUIRED
+width CDATA #REQUIRED
+>
+
+<!--
+    =========================================================
+                  coldef
+    =========================================================
+-->
+<!ELEMENT coldef EMPTY>
+<!ATTLIST coldef
+colnum CDATA #REQUIRED
+indtype CDATA #IMPLIED
+indent CDATA #IMPLIED
+justify (left | para) #REQUIRED
+width CDATA #REQUIRED
+gutter CDATA #IMPLIED
+>
+
