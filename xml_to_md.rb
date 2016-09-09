@@ -1,48 +1,48 @@
 require 'nokogiri'
 require 'byebug'
 
-module NodeTypes
-  REPLACEMENTS = [
+class Nokogiri::XML::Node
+  TEXT_CLEANERS = [
     [/\n|\r/, ''],
-    [/(\<line\>\s*)+/, "\n\n"], ['</line>', ''],
+    [/(<line>\s*)+/, "\n\n"], ['</line>', ''],
     ['&emsp;', ' '],
     ['&bull;', '-'],
     ['&ldquo;', '"'], ['&rdquo;', '"']
   ]
 
-  def preface(node)
-    content = collect_children(node)
-    @parts[:preface] = content
-    return content
+  def clean_text
+    content = self.inner_html
+
+    TEXT_CLEANERS.each do |mapping|
+      content.gsub!(mapping[0], mapping[1])
+    end
+
+    content
+  end
+end
+
+module NodeTypes
+  def preface(node, &block)
+    @parts[:preface] = yield
   end
 
-  def paratext(node)
-    content = node.inner_html
-    REPLACEMENTS.each do |mapping|
-      content = content.gsub(mapping[0], mapping[1])
-    end
-    return content
+  def paratext(node, &block)
+    content = yield
+    node.clean_text
+  end
+
+  def sigblock(node)
+    "\n\n#{node.clean_text}"
   end
 end
 
 class NodeParser
   include NodeTypes
 
-  NODE_REPLACEMENTS = [
-    ['bold', '**'],
-    ['italic', '_']
-  ]
-
   def initialize(doc)
     @doc = doc
     @root_node = doc.root
     @parts = {}
-
-    NODE_REPLACEMENTS.each do |mapping|
-      @doc.xpath("//#{mapping[0]}").each do |node|
-        node.replace(mapping[1] + node.inner_html + mapping[1])
-      end
-    end
 
     parse_node(@root_node)
   end
@@ -50,23 +50,20 @@ class NodeParser
   def parse_node(node)
     method_name = node.name.to_sym
     if NodeTypes.method_defined?(method_name)
-      result = self.send(method_name, node)
-      return result if result
+      self.send(method_name, node) do
+        node.children.collect do |child|
+          result = parse_node(child)
+          if result.is_a?(String)
+            child.remove
+          end
+          result
+        end
+      end
+    else
+      node.children.collect do |child|
+        parse_node(child)
+      end
     end
-
-    node.element_children.each do |child|
-      parse_node(child)
-    end
-
-    return
-  end
-
-  def collect_children(node)
-    result = []
-    node.children.each do |child|
-      result << parse_node(child)
-    end
-    result.compact.join('')
   end
 
   def output
