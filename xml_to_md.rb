@@ -3,7 +3,6 @@ require 'byebug'
 
 TEXT_CLEANERS = [
   [/\n|\r/, ''],
-  [/(<line>\s*)+(&emsp;\s*){0,2}/, "\n\n"], ['</line>', ''],
   ['&emsp;', ' '],
   ['&bull;', '-'],
   ['&ldquo;', '"'], ['&rdquo;', '"']
@@ -81,6 +80,46 @@ class NodeParser
       end.join('')
     end
   end
+end
+
+module SAXOpenNodes
+  def preface(name, attrs)
+    @parts[:preface] = @output = []
+  end
+
+  def line(name, attrs)
+    @output << '\n\n' unless @output.last == '\n\n'
+  end
+end
+
+class MCMDoc < Nokogiri::XML::SAX::Document
+  attr_reader :output
+  attr_reader :parts
+
+  def initialize
+    super
+    @output = []
+    @parts = {}
+  end
+
+  def start_element(name, attrs=[])
+    method_name = name.downcase.to_sym
+    if SAXOpenNodes.method_defined?(method_name)
+      SAXOpenNodes.send(method_name, name, attrs)
+    end
+  end
+
+  def end_element(name, attrs=[])
+    # puts "ending: #{name}"
+  end
+
+  def characters(string)
+    @output << clean_text(string)
+  end
+  #
+  # def error string
+  #   puts "ERROR #{string}"
+  # end
 
   def output
     @parts.each do |key, value|
@@ -89,6 +128,9 @@ class NodeParser
   end
 end
 
-xml = File.open('mcm_5_jun_2016.xml') { |f| Nokogiri::HTML(f) { |config| config.nonet.noent } }
-parser = NodeParser.new(xml)
-parser.output
+document = MCMDoc.new
+parser = Nokogiri::XML::SAX::Parser.new(document)
+File.open('mcm_5_jun_2016.xml') { |f| parser.parse(f) { |ctx| ctx.recovery = true } }
+
+# document.output
+puts document.parts
