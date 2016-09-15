@@ -4,7 +4,7 @@ require 'byebug'
 class Nokogiri::XML::Node
   TEXT_CLEANERS = [
     [/\n|\r/, ''],
-    [/(<line>\s*)+/, "\n\n"], ['</line>', ''],
+    [/(<line>\s*)+(&emsp;\s*){0,2}/, "\n\n"], ['</line>', ''],
     ['&emsp;', ' '],
     ['&bull;', '-'],
     ['&ldquo;', '"'], ['&rdquo;', '"']
