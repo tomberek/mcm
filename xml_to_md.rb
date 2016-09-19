@@ -1,11 +1,11 @@
-require 'nokogiri'
+require 'oga'
 require 'byebug'
 
 TEXT_CLEANERS = [
   [/\n|\r/, ''],
   ['&emsp;', ' '],
   ['&bull;', '-'],
-  ['&ldquo;', '"'], ['&rdquo;', '"']
+  ['&ldquo;', "\""], ['&rdquo;', "\""]
 ]
 
 def clean_node(node)
@@ -18,68 +18,6 @@ def clean_text(content)
   end
 
   content
-end
-
-module NodeTypes
-  def preface(node, &block)
-    @parts[:preface] = yield
-  end
-
-  def paratext(node, &block)
-    yield
-  end
-
-  def line(node, &block)
-    if node.next_element&.name == 'line'
-      ''
-    else
-      "\n\n#{yield}"
-    end
-  end
-
-  def sigblock(node)
-    "\n\n#{clean_node node}"
-  end
-
-  def italic(node, &block)
-    "_#{yield}_"
-  end
-
-  def change(node, &block)
-    "___#{yield}___"
-  end
-
-  def text(node)
-    clean_node node
-  end
-end
-
-class NodeParser
-  include NodeTypes
-
-  def initialize(doc)
-    @doc = doc
-    @root_node = doc.root
-    @parts = {}
-
-    parse_node(@root_node)
-  end
-
-  def parse_node(node)
-    method_name = node.name.to_sym
-    if NodeTypes.method_defined?(method_name)
-      # byebug unless node.text?
-      self.send(method_name, node) do
-        node.children.collect do |child|
-          parse_node(child)
-        end.join('')
-      end
-    else
-      node.children.collect do |child|
-        parse_node(child)
-      end.join('')
-    end
-  end
 end
 
 module SAXNodes
@@ -100,7 +38,7 @@ module SAXNodes
   end
 
   def bold(string)
-    @output << "__#{string}__"
+    @output << "**#{string}**"
   end
 
   def change(string)
@@ -140,13 +78,8 @@ class MCMDoc < Nokogiri::XML::SAX::Document
   end
 
   def characters(string)
-    puts string if string.include? '&bull;'
     @output << clean_text(string) unless continue_whole_node(string)
   end
-  #
-  # def error string
-  #   puts "ERROR #{string}"
-  # end
 
   def output
     @parts.each do |key, value|
