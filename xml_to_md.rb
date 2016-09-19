@@ -3,14 +3,14 @@ require 'byebug'
 
 TEXT_CLEANERS = [
   [/\n|\r/, ''],
-  ['&emsp;', ' '],
-  ['&bull;', '-'],
-  ['&ldquo;', "\""], ['&rdquo;', "\""]
+  [/&(emsp|ensp|thinsp);/, ' '],
+  [/&(bull|mdash|ndash);/, '-'],
+  [/&(ldquo|rdquo|lsquo|rsquo)/;, "\\\""]
+  ['&sect;', "--SECT--"],
+  ['&lsqb;', "--LSQP--"], ['&rsqb;', "--RSQP--"],
+  ['&puncsp;', "--PUNCSP--"],
+  ['&hellip;', "..."]
 ]
-
-def clean_node(node)
-  clean_text node.text? ? node.inner_text : node.inner_html
-end
 
 def clean_text(content)
   TEXT_CLEANERS.each do |mapping|
@@ -46,20 +46,19 @@ module SAXNodes
   end
 end
 
-class MCMDoc < Nokogiri::XML::SAX::Document
+class MCMDoc
   include SAXNodes
 
   attr_reader :output
   attr_reader :parts
 
   def initialize
-    super
     @output = []
     @parts = {}
     @whole_node_cache = []
   end
 
-  def start_element(name, attrs=[])
+  def on_element(namespace, name, attrs = {})
     method_name = "#{name}_open".downcase.to_sym
     if SAXNodes.method_defined?(method_name)
       send(method_name, name, attrs)
@@ -68,7 +67,7 @@ class MCMDoc < Nokogiri::XML::SAX::Document
     start_whole_node(name, attrs)
   end
 
-  def end_element(name, attrs=[])
+  def after_element(namespace, name, attrs = {})
     method_name = "#{name}_close".downcase.to_sym
     if SAXNodes.method_defined?(method_name)
       send(method_name, name, attrs)
@@ -77,7 +76,7 @@ class MCMDoc < Nokogiri::XML::SAX::Document
     end_whole_node(name, attrs)
   end
 
-  def characters(string)
+  def on_text(string)
     @output << clean_text(string) unless continue_whole_node(string)
   end
 
@@ -116,8 +115,9 @@ class MCMDoc < Nokogiri::XML::SAX::Document
   end
 end
 
-document = MCMDoc.new
-parser = Nokogiri::XML::SAX::Parser.new(document)
-File.open('mcm_5_jun_2016.xml') { |f| parser.parse(f) { |ctx| ctx.recovery = true } }
+handler = MCMDoc.new
+xml = File.read('mcm_5_jun_2016.xml').dup.force_encoding('BINARY')
+xml = clean_text(xml)
+Oga.sax_parse_html(handler, xml)
 
-document.output
+handler.output
