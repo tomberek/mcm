@@ -2,14 +2,14 @@ require 'oga'
 require 'byebug'
 
 TEXT_CLEANERS = [
-  [/\n|\r/, ''],
   [/&(emsp|ensp|thinsp);/, ' '],
   [/&(bull|mdash|ndash);/, '-'],
-  [/&(ldquo|rdquo|lsquo|rsquo)/;, "\\\""]
+  [/&(ldquo|rdquo|lsquo|rsquo);/, "\\\""],
   ['&sect;', "--SECT--"],
   ['&lsqb;', "--LSQP--"], ['&rsqb;', "--RSQP--"],
   ['&puncsp;', "--PUNCSP--"],
-  ['&hellip;', "..."]
+  ['&hellip;', "..."],
+  ['<?Pub Caret>', '']
 ]
 
 def clean_text(content)
@@ -77,7 +77,7 @@ class MCMDoc
   end
 
   def on_text(string)
-    @output << clean_text(string) unless continue_whole_node(string)
+    @output << string unless continue_whole_node(string)
   end
 
   def output
@@ -105,7 +105,7 @@ class MCMDoc
     return if !last
 
     if last[:key] != method_name
-      puts "ERROR"
+      puts "ERROR #{method_name}" unless method_name == :line
       return
     end
 
@@ -118,6 +118,7 @@ end
 handler = MCMDoc.new
 xml = File.read('mcm_5_jun_2016.xml').dup.force_encoding('BINARY')
 xml = clean_text(xml)
+
 Oga.sax_parse_html(handler, xml)
 
 handler.output
