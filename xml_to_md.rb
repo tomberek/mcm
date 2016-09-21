@@ -55,6 +55,14 @@ module SAXNodes
   def change(string)
     @output << "___#{string}___"
   end
+
+  def sigblock(string)
+    @output << "\n\n```sigline\n#{string}```"
+  end
+
+  def sigline(string)
+    @output << "#{string}\n"
+  end
 end
 
 class MCMDoc
@@ -89,7 +97,7 @@ class MCMDoc
 
   def on_text(string)
     clean_whitespace(string)
-    @output << string unless continue_whole_node(string)
+    @output << string
   end
 
   def output
@@ -103,12 +111,9 @@ class MCMDoc
   def start_whole_node(name, attrs)
     method_name = name.downcase.to_sym
     if SAXNodes.method_defined?(method_name)
-      @whole_node_cache << {key: method_name, value: []}
+      @whole_node_cache << {key: method_name, previous: @output, value: []}
+      @output = @whole_node_cache.last[:value]
     end
-  end
-
-  def continue_whole_node(string)
-    @whole_node_cache.last&.fetch(:value)&.push(string)
   end
 
   def end_whole_node(name, attrs)
@@ -121,9 +126,12 @@ class MCMDoc
       return
     end
 
-    output = last[:value].join('')
+    string = last[:value].join('')
+    @output = last[:previous]
+
+    send(method_name, string)
+
     @whole_node_cache.pop
-    send(method_name, output)
   end
 end
 

@@ -116,4 +116,9 @@ ___Other UCMJ Articles contained in Appendix 2 of the MCM___:
 
 - Article 120 was significantly restructured and broken into three new statutes: Article 120 for adult sex offenses; Article 120b for child sex offenses; and Article 120c for other sexual misconduct. These changes take effect on 28 June 2012. The 2012 MCM will contain all three versions of Article 120. For offenses committed prior to 1 October 2007, see Appendix 27. For offenses committed during the period 1 October 2007 through 27 June 2012, see Appendix 28. For offenses committed on or after 28 June 2012, see Part IV of this Manual.
 
-- Article 136 was amended to allow judges sitting on the Court of Appeals for the Armed Forces to administer oaths.JOINT SERVICE COMMITTEEON MILITARY JUSTICE 
+- Article 136 was amended to allow judges sitting on the Court of Appeals for the Armed Forces to administer oaths.
+
+```sigline
+JOINT SERVICE COMMITTEE
+ON MILITARY JUSTICE
+``` 
