@@ -78,6 +78,10 @@ module SAXNodes
     @header_label = ''
   end
 
+  def chapter(name, attrs)
+    @output << "Chapter #{attrs['label']}"
+  end
+
   def italic(string)
     @output << "_#{string}_"
   end
@@ -114,7 +118,7 @@ class MCMDoc
   end
 
   def on_element(namespace, name, attrs = {})
-    unsuffixed_name = name.match(/(\D+)/)[0]
+    unqualified_name = name.match(/\w*\.(\D+)/)[0]
     method_name = "#{unsuffixed_name}_open".downcase.to_sym
     if SAXNodes.method_defined?(method_name)
       send(method_name, name, attrs)
