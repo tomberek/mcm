@@ -32,12 +32,21 @@ def clean_whitespace(content)
 end
 
 module SAXNodes
+  def part_open(name, attrs)
+    part_label = attrs['label'].downcase.to_sym
+    @parts[part_label] = @output = []
+  end
+
+  def part_close(name, attrs)
+    @output = []
+  end
+
   def preface_open(name, attrs)
-    @parts[:preface] = @output = []
+    part_open 'part', {'label' => 'preface'}
   end
 
   def preface_close(name, attrs)
-    @output = []
+    part_close 'part', attrs
   end
 
   def line_open(name, attrs)
