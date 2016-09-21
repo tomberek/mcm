@@ -53,6 +53,31 @@ module SAXNodes
     @output << "\n\n" unless @output.last == '\n\n'
   end
 
+  def para_open(name, attrs)
+    @header_level += 1
+    @header_label = attrs.fetch('label', '')
+  end
+
+  def para_close(name, attrs)
+    @header_level -= 1
+    @header_label = ''
+  end
+
+  alias_method :subpara_open, :para_open
+  alias_method :subpara_close, :para_close
+
+  def title(string)
+    @header_level.times { @output << '#' }
+    @output << " #{@header_label} #{string}\n\n"
+    @header_label = ''
+  end
+
+  def paratext_open(name, attrs)
+    return if @header_label.empty?
+    @output << "#{@header_label} "
+    @header_label = ''
+  end
+
   def italic(string)
     @output << "_#{string}_"
   end
@@ -84,10 +109,13 @@ class MCMDoc
     @output = []
     @parts = {}
     @whole_node_cache = []
+    @header_level = 1
+    @header_label = ''
   end
 
   def on_element(namespace, name, attrs = {})
-    method_name = "#{name}_open".downcase.to_sym
+    unsuffixed_name = name.match(/(\D+)/)[0]
+    method_name = "#{unsuffixed_name}_open".downcase.to_sym
     if SAXNodes.method_defined?(method_name)
       send(method_name, name, attrs)
     end
@@ -96,7 +124,8 @@ class MCMDoc
   end
 
   def after_element(namespace, name, attrs = {})
-    method_name = "#{name}_close".downcase.to_sym
+    unsuffixed_name = name.match(/(\D+)/)[0]
+    method_name = "#{unsuffixed_name}_close".downcase.to_sym
     if SAXNodes.method_defined?(method_name)
       send(method_name, name, attrs)
     end
@@ -105,13 +134,14 @@ class MCMDoc
   end
 
   def on_text(string)
-    clean_whitespace(string)
+    # clean_whitespace(string)
     @output << string
   end
 
   def output
     @parts.each do |key, value|
       File.open("manual/#{key}.md", 'w') { |file| file.write(clean_newlines(value.join(''))) }
+      # File.open("manual/#{key}.md", 'w') { |file| file.write((value.join(''))) }
     end
   end
 
