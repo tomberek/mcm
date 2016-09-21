@@ -4,7 +4,8 @@ require 'byebug'
 TEXT_CLEANERS = [
   [/&(emsp|ensp|thinsp);/, ' '],
   [/&(bull|mdash|ndash);/, '-'],
-  [/&(ldquo|rdquo|lsquo|rsquo);/, "\\\""],
+  [/&(ldquo|rdquo);/, "\""],
+  [/&(lsquo|rsquo);/, "\'"],
   ['&sect;', "--SECT--"],
   ['&lsqb;', "--LSQP--"], ['&rsqb;', "--RSQP--"],
   ['&puncsp;', "--PUNCSP--"],
@@ -20,6 +21,16 @@ def clean_text(content)
   content
 end
 
+def clean_newlines(content)
+  content.gsub! /\r|\n{1}/, "\n"
+  content.gsub! /\r|\n{2,}/, "\n\n"
+end
+
+def clean_whitespace(content)
+  content.gsub! /\r|\n/, ''
+  content.gsub! /\s+/, ' '
+end
+
 module SAXNodes
   def preface_open(name, attrs)
     @parts[:preface] = @output = []
@@ -30,7 +41,7 @@ module SAXNodes
   end
 
   def line_open(name, attrs)
-    @output << "\n\n" unless @output.last == "\n\n"
+    @output << "\n\n" unless @output.last == '\n\n'
   end
 
   def italic(string)
@@ -77,12 +88,13 @@ class MCMDoc
   end
 
   def on_text(string)
+    clean_whitespace(string)
     @output << string unless continue_whole_node(string)
   end
 
   def output
     @parts.each do |key, value|
-      File.open("manual/#{key}.md", 'w') { |file| file.write(value.join('')) }
+      File.open("manual/#{key}.md", 'w') { |file| file.write(clean_newlines(value.join(''))) }
     end
   end
 
