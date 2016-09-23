@@ -2,11 +2,11 @@
 
 #  RULES FOR COURTS-MARTIAL
 
-#  GENERAL PROVISIONS
+# CHAPTER I. GENERAL PROVISIONS
 
-#  Scope, title
+## Rule 101. Scope, title
 
-#  In general.
+### (a) In general.
 
 These rules govern the procedures and punishments in all courts-martial
 
@@ -14,21 +14,21 @@ and, whenever expressly provided, preliminary, supplementary, and appellate
 
 procedures and activities. 
 
-#  Title.
+### (b) Title.
 
 These rules may be known and cited as the Rules for Courts-Martial
 
 (R.C.M.). 
 
-#  Purpose and construction
+## Rule 102. Purpose and construction
 
-#  Purpose.
+### (a) Purpose.
 
 These rules are intended to provide for the just determination of
 
  every proceeding relating to trial by court-martial. 
 
-#  Construction.
+### (b) Construction.
 
 These rules shall be construed to secure simplicity in procedure,
 
@@ -36,17 +36,17 @@ These rules shall be construed to secure simplicity in procedure,
 
 and delay. 
 
-#  Definitions and rules of construction
+## Rule 103. Definitions and rules of construction
 
 The following definitions and rules of construction apply throughout
 
  this Manual, unless otherwise expressly provided. 
 
-"Article" refers to articles of the Uniform Code of
+(1) "Article" refers to articles of the Uniform Code of
 
  Military Justice unless the context indicates otherwise. 
 
-"Capital case" means a general court-martial to which
+(2) "Capital case" means a general court-martial to which
 
 a capital offense has been referred with an instruction that the case
 
@@ -56,57 +56,57 @@ be treated as capital, and, in the case of a rehearing or new or other
 
 810(d). 
 
-"Capital offense" means an offense for which death is
+(3) "Capital offense" means an offense for which death is
 
 an authorized punishment under the code and Part IV of this Manual or under
 
 the law of war. 
 
-"Code" refers to the Uniform Code of Military Justice,
+(4) "Code" refers to the Uniform Code of Military Justice,
 
  unless the context indicates otherwise.
 
-#  Discussion
+###  Discussion
 
 The Uniform Code of Military Justice is set forth at Appendix 2.
 
-"Commander" means a commissioned officer in command
+(5) "Commander" means a commissioned officer in command
 
 or an officer in charge except in Part V or unless the context indicates
 
 otherwise. 
 
-"Convening authority" includes a commissioned officer
+(6) "Convening authority" includes a commissioned officer
 
 in command for the time being and successors in command.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 504 concerning who may convene courts-martial.
 
-"Copy" means an accurate reproduction, however made.
+(7) "Copy" means an accurate reproduction, however made.
 
  Whenever necessary and feasible, a copy may be made by handwriting. 
 
-"Court-martial" includes, depending on the context:
+(8) "Court-martial" includes, depending on the context:
 
-The military judge and members of a general or special court-martial;
+(A) The military judge and members of a general or special court-martial;
 
-The military judge when a session of a general or special court-martial
+(B) The military judge when a session of a general or special court-martial
 
 is conducted without members under Article 39(a);
 
-The military judge when a request for trial by military judge alone
+(C) The military judge when a request for trial by military judge alone
 
  has been approved under R.C.M. 903;
 
-The members of a special court-martial when a military judge has
+(D) The members of a special court-martial when a military judge has
 
 not been detailed; or
 
-The summary court-martial officer.
+(E) The summary court-martial officer.
 
-"Days." When a period of time is expressed in a number
+(9) "Days." When a period of time is expressed in a number
 
 of days, the period shall be in calendar days, unless otherwise specified.
 
@@ -114,11 +114,11 @@ Unless otherwise specified, the date on which the period begins shall not
 
 count, but the date on which the period ends shall count as one day.
 
-"Detail" means to order a person to perform a specific
+(10) "Detail" means to order a person to perform a specific
 
  temporary duty, unless the context indicates otherwise.
 
-"Explosive" means gunpowders, powders used for blasting,
+(11) "Explosive" means gunpowders, powders used for blasting,
 
  all forms of high explosives, blasting materials, fuzes (other than electrical
 
@@ -132,21 +132,21 @@ count, but the date on which the period ends shall count as one day.
 
  or 844(j). 
 
-"Firearm" means any weapon which is designed to or may
+(12) "Firearm" means any weapon which is designed to or may
 
 be readily converted to expel any projectile by the action of an explosive.
 
-"Joint" in connection with military organization connotes
+(13) "Joint" in connection with military organization connotes
 
  activities, operations, organizations, and the like in which elements of
 
 more than one military service of the same nation participate. 
 
-"Members." The members of a court-martial are the voting
+(14) "Members." The members of a court-martial are the voting
 
 members detailed by the convening authority. 
 
-"Military judge" means the presiding officer of a general
+(15) "Military judge" means the presiding officer of a general
 
 or special court-martial detailed in accordance with Article 26. Except as
 
@@ -162,35 +162,35 @@ the military judge detailed to the court-martial to which charges in a case
 
 have been referred for trial. 
 
-"Party." Party, in the context of parties to a court-martial,
+(16) "Party." Party, in the context of parties to a court-martial,
 
 means: 
 
-The accused and any defense or associate or assistant defense counsel
+(A) The accused and any defense or associate or assistant defense counsel
 
 and agents of the defense counsel when acting on behalf of the accused with
 
 respect to the court-martial in question; and
 
-Any trial or assistant trial counsel representing the United States,
+(B) Any trial or assistant trial counsel representing the United States,
 
 and agents of the trial counsel when acting on behalf of the trial counsel
 
 with respect to the court-martial in question.
 
-"Staff judge advocate" means a judge advocate so designated
+(17) "Staff judge advocate" means a judge advocate so designated
 
 in Army, Air Force, or Marine Corps, and means the principal legal advisor
 
 of a command in the Navy and Coast Guard who is a judge advocate.
 
-"_sua sponte_" means that the person
+(18) "_sua sponte_" means that the person
 
  involved acts on that person's initiative, without the need for a request,
 
  motion, or application.
 
-"War, time of." For purpose of R.C.M. 1004(c)(6) and
+(19) "War, time of." For purpose of R.C.M. 1004(c)(6) and
 
 of implementing the applicable paragraphs of Parts IV and V of this Manual
 
@@ -202,17 +202,17 @@ or the factual determination by the President that the existence of hostilities
 
  R.C.M. 1004(c)(6) and Parts IV and V of this Manual.
 
-"Writing" includes printing and typewriting and reproductions of visual symbols by handwriting, typewriting, printing, photostating, photographing, magnetic impulse, mechanical or electronic recording, or other form of data compilation.
+(20) "Writing" includes printing and typewriting and reproductions of visual symbols by handwriting, typewriting, printing, photostating, photographing, magnetic impulse, mechanical or electronic recording, or other form of data compilation.
 
-#  Discussion
+###  Discussion
 
 The definition of "writing" includes letters, words, or numbers set down by handwriting, typewriting, printing, photostating, photographing, magnetic impulse, mechanical or electronic recording, or any other form of data compilation.  This section makes it clear that computers and other modern reproduction systems are included in this definition, and consistent with the definition of "writing" in Military Rule of Evidence 1001.  The definition is comprehensive, covering all forms of writing or recording of words or word-substitutes.
 
-The definitions and rules of construction in 1 U.S.C. --SECT----SECT--
+(21) The definitions and rules of construction in 1 U.S.C. --SECT----SECT--
 
 1 through 5 and in 10 U.S.C. --SECT----SECT-- 101 and 801.
 
-#  Discussion
+###  Discussion
 
 1 U.S.C. --SECT----SECT-- 1 through 5, 10 U.S.C. --SECT-- 101, and 10
 
@@ -308,7 +308,7 @@ and assigns of such company or association", in like manner as if these
 
 last-named words, or words of similar import, were expressed.
 
-#  Definitions
+###  Definitions
 
   In addition to the definitions in sections 1-5
 
@@ -632,7 +632,7 @@ Guard serving in or having the grade of admiral, vice admiral, rear admiral,
 
 or commodore.
 
-#  Article 1. Definitions
+###  Article 1. Definitions
 
   In this chapter:
 
@@ -718,11 +718,11 @@ as defined in section 2014(y) of title 42, United States Code.
 
 relations of the United States.
 
-#  Unlawful command influence
+## Rule 104. Unlawful command influence
 
-#  General prohibitions.
+### (a) General prohibitions.
 
-#  Convening authorities and commanders.
+#### (1) Convening authorities and commanders.
 
 No convening authority or commander may censure, reprimand, or
 
@@ -736,7 +736,7 @@ the functions of the court-martial or tribunal or such persons in the conduct
 
 of the proceedings. 
 
-#  All persons subject to the code.
+#### (2) All persons subject to the code.
 
 No person subject to the code may attempt to coerce or, by any unauthorized
 
@@ -748,9 +748,9 @@ the action of any convening, approving, or reviewing authority with respect
 
 to such authority's judicial acts.
 
-#  Exceptions.
+#### (3) Exceptions.
 
-#  Instructions.
+##### (A) Instructions.
 
 Subsections (a)(1) and (2) of the rule do not prohibit general instructional
 
@@ -760,19 +760,19 @@ solely for the purpose of instructing personnel of a command in the substantive
 
 and procedural aspects of courts-martial.
 
-#  Court-martial statements.
+##### (B) Court-martial statements.
 
 Subsections (a)(1) and (2) of this rule do not prohibit statements
 
 and instructions given in open session by the military judge or counsel.
 
-#  Professional supervision.
+##### (C) Professional supervision.
 
 Subsections (a)(1) and (2) of this rule do not prohibit action by
 
 the Judge Advocate General concerned under R.C.M. 109.
 
-#  Offense.
+##### (D) Offense.
 
 Subsection (a)(1) and (2) of this rule do not prohibit appropriate
 
@@ -782,9 +782,9 @@ judge, counsel, or member of a court-martial, or while serving as individual
 
 counsel.
 
-#  Prohibitions concerning evaluations.
+### (b) Prohibitions concerning evaluations.
 
-#  Evaluation of member or defense counsel.
+#### (1) Evaluation of member or defense counsel.
 
 In the preparation of an effectiveness, fitness, or efficiency report
 
@@ -798,17 +798,17 @@ armed forces, or in determining whether a member of the armed forces should
 
 be retained on active duty, no person subject to the code may:
 
-Consider or evaluate the performance of duty of any such person
+(A) Consider or evaluate the performance of duty of any such person
 
 as a member of a court-martial; or 
 
-Give a less favorable rating or evaluation of any defense counsel
+(B) Give a less favorable rating or evaluation of any defense counsel
 
 because of the zeal with which such counsel represented any accused.
 
-#  Evaluation of military judge.
+#### (2) Evaluation of military judge.
 
-#  General courts-martial.
+##### (A) General courts-martial.
 
 Unless the general court-martial was convened by the President or
 
@@ -822,7 +822,7 @@ a general court-martial, which relates to the performance of duty as a military
 
 judge.
 
-#  Special courts-martial.
+##### (B) Special courts-martial.
 
 The convening authority may not prepare or review any report concerning
 
@@ -842,17 +842,17 @@ shall ensure the absence of any command influence in the rating or evaluation
 
 of the military judge's judicial performance.
 
-#  Discussion
+#####  Discussion
 
 _See_ paragraph 22 of Part IV concerning prosecuting
 
 violations of Article 37 under Article 98.
 
-#  Direct communications: convening authorities and staff judge advocates;
+## Rule 105. Direct communications: convening authorities and staff judge advocates;
 
  among staff judge advocates
 
-#  Convening authorities and staff judge advocates.
+### (a) Convening authorities and staff judge advocates.
 
 Convening authorities shall at all times communicate directly with
 
@@ -860,7 +860,7 @@ their staff judge advocates in matters relating to the administration of
 
 military justice.
 
-#  Among staff judge advocates and with the Judge Advocate General.
+### (b) Among staff judge advocates and with the Judge Advocate General.
 
 The staff judge advocate of any command is entitled to communicate
 
@@ -868,13 +868,13 @@ directly with the staff judge advocate of a superior or subordinate command,
 
 or with the Judge Advocate General.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 103(17) for a definition of staff judge
 
  advocate.
 
-#  Delivery of military offenders to civilian authorities
+## Rule 106. Delivery of military offenders to civilian authorities
 
 Under such regulations as the Secretary concerned may prescribe,
 
@@ -894,13 +894,13 @@ Such restraint may continue only for such time as is reasonably necessary
 
 to effect the delivery.
 
-#  Discussion
+##  Discussion
 
 _See_ R.C.M. 1113(e)(2)(A)(ii) for the effect of
 
 such delivery on the execution of a court-martial sentence.
 
-#  Dismissed officer's right to request trial by court-martial
+## Rule 107. Dismissed officer's right to request trial by court-martial
 
 If a commissioned officer of any armed force is dismissed by order
 
@@ -908,13 +908,13 @@ of the President under 10 U.S.C. --SECT-- 1161(a)(3), that officer may apply
 
 for trial by general court-martial within a reasonable time.
 
-#  Discussion
+##  Discussion
 
 _See_ Article 4 for the procedures to be followed. _
 
 See also_ Article 75(c).
 
-#  Rules of court
+## Rule 108. Rules of court
 
 The Judge Advocate General concerned and persons designated by the
 
@@ -936,9 +936,9 @@ of such notice. Copies of all rules of court issued under this rule shall
 
 be forwarded to the Judge Advocate General concerned.
 
-#  Professional supervision of military judges and counsel
+## Rule 109. Professional supervision of military judges and counsel
 
-#  In general.
+### (a) In general.
 
 Each Judge Advocate General is responsible for the professional
 
@@ -970,7 +970,7 @@ suspension. Procedures to investigate complaints against military trial judges
 
  and appellate military judges are contained in subsection (c) of this rule.
 
-#  Action after suspension or disbarment.
+### (b) Action after suspension or disbarment.
 
 When a Judge Advocate General suspends a person from practice or
 
@@ -980,9 +980,9 @@ the Court of Appeals for the Armed Forces disbars a person, any Judge Advocate
 
 to be heard in writing.
 
-#  Investigation of judges.
+### (c) Investigation of judges.
 
-#  In general.
+#### (1) In general.
 
 These rules and procedures promulgated pursuant to Article 6a are
 
@@ -992,7 +992,7 @@ These rules and procedures promulgated pursuant to Article 6a are
 
 judge to perform the duties of the judge's office.
 
-#  Policy.
+#### (2) Policy.
 
 Allegations of judicial misconduct or unfitness shall be investigated
 
@@ -1004,7 +1004,7 @@ unfitness for further duty as a judge, including, but not limited to violations
 
 of applicable ethical standards.
 
-#  Discussion
+####  Discussion
 
 The term "unfitness" should be construed broadly, including,
 
@@ -1016,7 +1016,7 @@ under this rule. Challenges to these decisions are more appropriately left
 
 to the appellate process.
 
-#  Complaints.
+#### (3) Complaints.
 
 Complaints concerning a military trial judge or appellate military
 
@@ -1026,7 +1026,7 @@ Complaints concerning a military trial judge or appellate military
 
 such complaints.
 
-#  Discussion
+####  Discussion
 
 Complaints need not be made in any specific form, but if possible
 
@@ -1046,7 +1046,7 @@ experience. The chief trial judge of a service may be designated to receive
 
 complaints against military trial judges.
 
-#  Initial action upon receipt of a complaint.
+#### (4) Initial action upon receipt of a complaint.
 
 Upon receipt, a complaint will be screened by the Judge Advocate
 
@@ -1070,7 +1070,7 @@ conducted pursuant to this rule. Such inquiries or investigations shall be
 
 conducted with reasonable promptness.
 
-#  Discussion
+####  Discussion
 
 Complaints under this subsection will be treated with confidentiality.
 
@@ -1088,9 +1088,9 @@ of criminality should be referred to the appropriate criminal investigative
 
 agency in accordance with Appendix 3 of this Manual.
 
-#  Initial inquiry.
+#### (5) Initial inquiry.
 
-#  In general.
+##### (A) In general.
 
 An initial inquiry is necessary to determine if the complaint is
 
@@ -1100,7 +1100,7 @@ likely than not that the subject judge has engaged in judicial misconduct
 
 or is otherwise unfit for further service as a judge.
 
-#  Responsibility to conduct initial inquiry.
+##### (B) Responsibility to conduct initial inquiry.
 
 The Judge Advocate General concerned, or the person designated to
 
@@ -1122,7 +1122,7 @@ to conduct the inquiry should, if practicable, have experience as an appellate
 
 military judge.
 
-#  Discussion
+#####  Discussion
 
 To avoid the type of conflict prohibited in Article 66(g), the Judge
 
@@ -1132,13 +1132,13 @@ Court of Criminal Appeals as the subject of the complaint. If practicable,
 
 a former appellate military judge should be designated.
 
-#  Due process.
+##### (C) Due process.
 
 During the initial inquiry, the subject of the complaint will, at
 
 a minimum, be given notice and an opportunity to be heard.
 
-#  Action following the initial inquiry.
+##### (D) Action following the initial inquiry.
 
 If the complaint is not substantiated pursuant to subsection (c)(5)(A)
 
@@ -1158,9 +1158,9 @@ taking minor professional disciplinary action or dismissing a complaint as
 
  unfounded.
 
-#  Action by the Judge Advocate General.
+#### (6) Action by the Judge Advocate General.
 
-#  In general.
+##### (A) In general.
 
 The Judge Advocates General are responsible for the professional
 
@@ -1172,7 +1172,7 @@ by subsection (c)(5) of this rule the Judge Advocate General concerned will
 
 take appropriate action. 
 
-#  Appropriate actions.
+##### (B) Appropriate actions.
 
 The Judge Advocate General concerned may dismiss the complaint,
 
@@ -1188,7 +1188,7 @@ take appropriate professional disciplinary action pursuant to the rules of
 
 rule, is final and is not subject to appeal.
 
-#  Discussion
+#####  Discussion
 
 The discretionary reassignment of military trial judges or appellate
 
@@ -1196,7 +1196,7 @@ The discretionary reassignment of military trial judges or appellate
 
 action.
 
-#  Standard of proof.
+##### (C) Standard of proof.
 
 Prior to taking professional disciplinary action, other than minor
 
@@ -1210,7 +1210,7 @@ service as a military judge, and that such misconduct or unfitness is establishe
 
 by clear and convincing evidence.
 
-#  Due process.
+##### (D) Due process.
 
 Prior to taking final action on the complaint, the Judge Advocate
 
@@ -1218,9 +1218,9 @@ Prior to taking final action on the complaint, the Judge Advocate
 
  minimum, given notice and an opportunity to be heard.
 
-#  The Ethics Commission.
+#### (7) The Ethics Commission.
 
-#  Membership.
+##### (A) Membership.
 
 If appointed pursuant to subsection (c)(6)(B) of this rule, an ethics
 
@@ -1238,7 +1238,7 @@ an appellate military judge. Members of the commission should, if practicable,
 
  be senior to the subject of the complaint.
 
-#  Duties.
+##### (B) Duties.
 
 The commission will perform those duties assigned by the Judge
 
@@ -1254,13 +1254,13 @@ may be required to recommend an appropriate disposition to The Judge Advocate
 
 General concerned.
 
-#  Discussion
+#####  Discussion
 
 The Judge Advocate General concerned may appoint an ad hoc or a
 
 standing commission.
 
-#  Rules of procedure.
+#### (8) Rules of procedure.
 
 The Secretary of Defense or the Secretary of the service concerned
 
@@ -1268,15 +1268,15 @@ The Secretary of Defense or the Secretary of the service concerned
 
  6a.
 
-#  JURISDICTION
+# CHAPTER II. JURISDICTION
 
-#  Jurisdiction in general
+## Rule 201. Jurisdiction in general
 
-#  Nature of courts-martial jurisdiction.
+### (a) Nature of courts-martial jurisdiction.
 
-The jurisdiction of courts-martial is entirely penal or disciplinary.
+(1) The jurisdiction of courts-martial is entirely penal or disciplinary.
 
-#  Discussion
+####  Discussion
 
 "Jurisdiction" means the power to hear a case and to
 
@@ -1292,13 +1292,13 @@ under 10 U.S.C. --SECT----SECT-- 4712 or 9712 to dispose of the effects of a
 
 deceased person is not affected by these Rules or this Manual.
 
-The code applies in all places.
+(2) The code applies in all places.
 
-#  Discussion
+####  Discussion
 
  Except insofar as required by the Constitution, the Code, or the Manual, such as persons listed under Article 2(a)(10), jurisdiction of courts-martial does not depend on where the offense was committed.
 
-The jurisdiction of a court-martial with respect to offenses under
+(3) The jurisdiction of a court-martial with respect to offenses under
 
 the code is not affected by the place where the court-martial sits. The jurisdiction
 
@@ -1308,7 +1308,7 @@ is not affected by the place where the court-martial sits except as otherwise
 
 expressly required by this Manual or applicable rule of international law.
 
-#  Discussion
+####  Discussion
 
 In addition to the power to try persons for offenses under the code,
 
@@ -1334,21 +1334,21 @@ in Time of War, August 12, 1949, arts. 4, 64, and 66, 6 U.S.T. 3516, 3559-60
 
  T.I.A.S. No. 3365.
 
-#  Requisites of court-martial jurisdiction.
+### (b) Requisites of court-martial jurisdiction.
 
 A court-martial always has jurisdiction to determine whether it
 
 has jurisdiction. Otherwise for a court-martial to have jurisdiction:
 
-The court-martial must be convened by an official empowered to convene
+(1) The court-martial must be convened by an official empowered to convene
 
 it;
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 504; 1302.
 
-The court-martial must be composed in accordance with these rules
+(2) The court-martial must be composed in accordance with these rules
 
  with respect to number and qualifications of its personnel. As used here
 
@@ -1356,29 +1356,29 @@ The court-martial must be composed in accordance with these rules
 
 the summary court-martial;
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 501-504; 1301.
 
-Each charge before the court-martial must be referred to it by
+(3) Each charge before the court-martial must be referred to it by
 
 competent authority;
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 601.
 
-The accused must be a person subject to court-martial jurisdiction;
+(4) The accused must be a person subject to court-martial jurisdiction;
 
  and
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 202.
 
-The offense must be subject to court-martial jurisdiction.
+(5) The offense must be subject to court-martial jurisdiction.
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 203. 
 
@@ -1392,21 +1392,21 @@ effect. _See_ R.C.M. 907(b)(2)(C)(iv). _But see_ R.C.M.
 
 jurisdiction.
 
-#  Contempt.
+### (c) Contempt.
 
 A judge detailed to a court-martial may punish for contempt any person who uses any menacing word, sign, or gesture in the presence of the judge during the proceedings of the court-martial; disturbs the proceedings of the court-martial by any riot or disorder; or willfully disobeys the lawful writ, process, order, rule, decree, or command of the court-martial. The punishment may not exceed confinement for 30 days or a fine of $1,000, or both.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 809 for procedures and standards for
 
 contempt proceedings.
 
-#  Exclusive and nonexclusive jurisdiction.
+### (d) Exclusive and nonexclusive jurisdiction.
 
-Courts-martial have exclusive jurisdiction of purely military offenses.
+(1) Courts-martial have exclusive jurisdiction of purely military offenses.
 
-An act or omission which violates both the code and local criminal
+(2) An act or omission which violates both the code and local criminal
 
 law, foreign or domestic, may be tried by a court-martial, or by a proper
 
@@ -1414,7 +1414,7 @@ civilian tribunal, foreign or domestic, or, subject to R.C.M. 907(b)(2)(C)
 
 and regulations of the Secretary concerned, by both.
 
-Where an act or omission is subject to trial by court-martial and
+(3) Where an act or omission is subject to trial by court-martial and
 
 by one or more civil tribunals, foreign or domestic, the determination which
 
@@ -1422,7 +1422,7 @@ nation, state, or agency will exercise jurisdiction is a matter for the nations,
 
 states, and agencies concerned, and is not a right of the suspect or accused.
 
-#  Discussion
+####  Discussion
 
 In the case of an act or omission which violates the code and a
 
@@ -1488,17 +1488,17 @@ See_ also R.C.M. 201(g) concerning the jurisdiction of other military
 
 tribunals.
 
-#  Reciprocal jurisdiction.
+### (e) Reciprocal jurisdiction.
 
-Each armed force has court-martial jurisdiction over all persons
+(1) Each armed force has court-martial jurisdiction over all persons
 
 subject to the code.
 
-A commander of a unified or specified combatant command may convene
+(2)(A) A commander of a unified or specified combatant command may convene
 
  courts-martial over members of any of the armed forces.
 
-So much of the authority vested in the President under Article
+(B) So much of the authority vested in the President under Article
 
 22(a)(9) to empower any commanding officer of a joint command or joint task
 
@@ -1508,7 +1508,7 @@ and such a commanding officer may convene general courts-martial for the
 
 trial of members of any of the armed forces assigned or attached to a combatant command or joint command.
 
-A commander who is empowered to convene a court-martial under subsections
+(C) A commander who is empowered to convene a court-martial under subsections
 
 (e)(2)(A) or (e)(2)(B) of this rule may expressly authorize a commanding
 
@@ -1520,15 +1520,15 @@ courts-martial for the trial of members of other armed forces assigned or attach
 
 which the superior command may prescribe. 
 
-A member of one armed force may be tried by a court-martial convened
+(3) A member of one armed force may be tried by a court-martial convened
 
  by a member of another armed force, using the implementing regulations and procedures prescribed by the Secretary concerned of the military service of the accused, when:
 
-The court-martial is convened by a commander authorized to convene
+(A) The court-martial is convened by a commander authorized to convene
 
  courts-martial under subsection (e)(2) of this rule; or
 
-The accused cannot be delivered to the armed force of which the
+(B) The accused cannot be delivered to the armed force of which the
 
  accused is a member without manifest injury to the armed forces. 
 
@@ -1542,13 +1542,13 @@ or (B) exist. However, failure to comply with this policy does not affect
 
 an otherwise valid referral.
 
-Nothing in this rule prohibits detailing to a court-martial a military
+(4) Nothing in this rule prohibits detailing to a court-martial a military
 
 judge, member, or counsel who is a member of an armed force different from that of the accused
 
 or the convening authority, or both.
 
-In all cases, departmental review after that by the officer with
+(5) In all cases, departmental review after that by the officer with
 
 authority to convene a general court-martial for the command which held the
 
@@ -1556,7 +1556,7 @@ trial, where that review is required by the code, shall be carried out by
 
 the department that includes the armed force of which the accused is a member.
 
-When there is a disagreement between the Secretaries of two military
+(6) When there is a disagreement between the Secretaries of two military
 
  departments or between the Secretary of a military department and the commander
 
@@ -1570,15 +1570,15 @@ the authority of the Secretary of Defense shall designate which organization
 
 will exercise jurisdiction.
 
-Except as provided in subsections (5) and (6) or as otherwise directed
+(7) Except as provided in subsections (5) and (6) or as otherwise directed
 
 by the President or Secretary of Defense, whenever action under this Manual
 
 is required or authorized to be taken by a person superior to-
 
-a commander of a unified or specified combatant command or;
+(A) a commander of a unified or specified combatant command or;
 
-a commander of any other joint command or joint task force that
+(B) a commander of any other joint command or joint task force that
 
 is not part of a unified or specified combatant command, the matter
 
@@ -1590,7 +1590,7 @@ action, or, subject to R.C.M. 504(c), refer the matter to any person authorized
 
 to convene a court-martial of the accused.
 
-#  Discussion
+#####  Discussion
 
 As to the authority to convene courts-martial, see R.C.M. 504.
 
@@ -1612,15 +1612,15 @@ two or more accused who are members of different armed forces should not
 
 be referred to a court-martial for a common trial.
 
-#  Types of courts-martial.
+### (f) Types of courts-martial.
 
 **--LSQP--Note: R.C.M. 201(f)(1) and (f)(2) apply to offenses committed on or after 24 June 2014.--RSQP--**
 
-#  General courts-martial.
+#### (1) General courts-martial.
 
-#  Cases under the code.
+##### (A) Cases under the code.
 
-Except as otherwise expressly provided, general courts-martial may
+(i) Except as otherwise expressly provided, general courts-martial may
 
 try any person subject to the code for any offense made punishable under
 
@@ -1628,33 +1628,33 @@ the code. General courts-martial also may try any person for a violation
 
 of Article 83, 104, or 106. 
 
-Upon a finding of guilty of an offense made punishable by the code,
+(ii) Upon a finding of guilty of an offense made punishable by the code,
 
  general courts-martial may, within limits prescribed by this Manual, adjudge
 
  any punishment authorized under R.C.M. 1003. 
 
-Notwithstanding any other rule, the death penalty may not be adjudged
+(iii) Notwithstanding any other rule, the death penalty may not be adjudged
 
 if:
 
-Not specifically authorized for the offense by the code and Part
+(a) Not specifically authorized for the offense by the code and Part
 
 IV of this Manual; or
 
-The case has not been referred with a special instruction that the
+(b) The case has not been referred with a special instruction that the
 
 case is to be tried as capital.
 
-#  Cases under the law of war.
+##### (B) Cases under the law of war.
 
-General courts-martial may try any person who by the law of war
+(i) General courts-martial may try any person who by the law of war
 
 is subject to trial by military tribunal for any crime or offense against:
 
-The law of war; or
+(a) The law of war; or
 
-The law of the territory occupied as an incident of war or belligerency
+(b) The law of the territory occupied as an incident of war or belligerency
 
 whenever the local civil authority is superseded in whole or part by the
 
@@ -1666,17 +1666,17 @@ and the proclamations, ordinances, regulations, or orders promulgated by
 
 competent authority of the occupying power.
 
-#  Discussion
+#######  Discussion
 
 Subsection (f)(1)(B)(i)(b) is an exercise of the
 
 power of military government.
 
-When a general court-martial exercises jurisdiction under the law
+(ii) When a general court-martial exercises jurisdiction under the law
 
 of war, it may adjudge any punishment permitted by the law of war.
 
-#  Discussion
+######  Discussion
 
 Certain limitations on the discretion of military tribunals to adjudge
 
@@ -1688,7 +1688,7 @@ Civilian Persons in Time of War, Aug. 12, 1949, art. 68, 6 U.S.T. 3516, T.I.A.S.
 
 No. 3365.
 
-#  Limitations in judge alone cases.
+##### (C) Limitations in judge alone cases.
 
 A general court-martial composed only of a military judge does not
 
@@ -1696,13 +1696,13 @@ have jurisdiction to try any person for any offense for which the death penalty
 
 may be adjudged unless the case has been referred to trial as noncapital.
 
-#  Jurisdiction for Certain Sexual Offenses.
+##### (D) Jurisdiction for Certain Sexual Offenses.
 
  Only a general court-martial has jurisdiction to try offenses under Articles 120(a), 120(b), 120b(a), and 120b(b), UCMJ, forcible sodomy under Article 125, UCMJ, and attempts thereof under Article 80, UCMJ.
 
-#  Special courts-martial.
+#### (2) Special courts-martial.
 
-#  In general.
+##### (A) In general.
 
 Except as otherwise expressly provided, special courts-martial may
 
@@ -1710,9 +1710,9 @@ try any person subject to the code for any noncapital offense made punishable
 
 by the code and, as provided in this rule, for capital offenses. 
 
-#  Punishments.
+##### (B) Punishments.
 
-Upon a finding of guilty, special courts-martial may adjudge, under
+(i) Upon a finding of guilty, special courts-martial may adjudge, under
 
 limitations prescribed by this Manual, any punishment authorized under R.C.M.
 
@@ -1724,17 +1724,17 @@ of pay exceeding two-thirds pay per month, or any forfeiture of pay for more
 
 than 1 year. 
 
-A bad-conduct discharge, confinement for more than six months, or
+(ii) A bad-conduct discharge, confinement for more than six months, or
 
 forfeiture of pay for more than six months, may not be adjudged by a special
 
 court-martial unless:
 
-Counsel qualified under Article 27(b) is detailed to represent the
+(a) Counsel qualified under Article 27(b) is detailed to represent the
 
  accused; and
 
-A military judge is detailed to the trial, except in a case in which
+(b) A military judge is detailed to the trial, except in a case in which
 
 a military judge could not be detailed because of physical conditions or
 
@@ -1766,7 +1766,7 @@ and shall set forth in detail the reasons why a military judge could not be
 
 detailed, and why the trial had to be held at that time and place.
 
-#  Discussion
+#######  Discussion
 
 _See_ R.C.M. 503 concerning detailing the military
 
@@ -1792,15 +1792,15 @@ under Article 27(b).
 
 concerning the requirements for a record of trial in special courts-martial.
 
-#  Capital offenses
+##### (C) Capital offenses
 
-A capital offense for which there is prescribed a mandatory punishment
+(i) A capital offense for which there is prescribed a mandatory punishment
 
 beyond the punitive power of a special court-martial shall not be referred
 
 to such a court-martial. 
 
-An officer exercising general court-martial jurisdiction over the
+(ii) An officer exercising general court-martial jurisdiction over the
 
 command which includes the accused may permit any capital offense other than
 
@@ -1808,7 +1808,7 @@ one described in subsection (f)(2)(C)(i) of this rule to be referred to a
 
 special court-martial for trial. 
 
-The Secretary concerned may authorize, by regulation, officers exercising
+(iii) The Secretary concerned may authorize, by regulation, officers exercising
 
 special court-martial jurisdiction to refer capital offenses, other than
 
@@ -1818,23 +1818,23 @@ court-martial without first obtaining the consent of the officer exercising
 
 general court-martial jurisdiction over the command.
 
-#  Certain Offenses under Articles 120, 120b, and 125.
+###### (D) Certain Offenses under Articles 120, 120b, and 125.
 
 Notwithstanding subsection (f)(2)(A), special courts-martial do not have jurisdiction over offenses under Articles 120(a), 120(b), 120b(a), and 120b(b), forcible sodomy under Article 125, UCMJ, and attempts thereof under Article 80, UCMJ. Such offenses shall not be referred to a special court-martial.
 
-#  Discussion
+######  Discussion
 
  Pursuant to the National Defense Authorization Act for Fiscal Year 2014, only a general court-martial has jurisdiction over penetrative sex offenses under subsections (a) and (b) of Article 120, subsections (a) and (b) of Article 120b, Article 125, and attempts to commit such penetrative sex offenses under Article 80, UCMJ.
 
-#  Discussion
+######  Discussion
 
 _See_ R.C.M. 103(3) for a definition of capital offenses.
 
-#  Summary courts-martial.
+#### (3) Summary courts-martial.
 
 _See_ R.C.M. 1301(c) and (d)(1). 
 
-#  Concurrent jurisdiction of other military tribunals.
+### (g) Concurrent jurisdiction of other military tribunals.
 
 The provisions of the code and this Manual conferring jurisdiction
 
@@ -1846,23 +1846,23 @@ or offenses that by statute or by the law of war may be tried by military
 
 commissions, provost courts, or other military tribunals.
 
-#  Discussion
+###  Discussion
 
 _See_ Articles 104 and 106 for some instances of
 
 concurrent jurisdiction.
 
-#  Persons subject to the jurisdiction of courts-martial
+## Rule 202. Persons subject to the jurisdiction of courts-martial
 
-#  In general.
+### (a) In general.
 
 Courts-martial may try any person when authorized to do so under
 
 the code.
 
-#  Discussion
+###  Discussion
 
-#  Authority under the code.
+###  Authority under the code.
 
 Article 2 lists classes of persons who are subject to the code.
 
@@ -1894,7 +1894,7 @@ court-martial under Articles 83, 104, or 106. _See also_ Article
 
 a court-martial. 
 
-#  Active duty personnel.
+###  Active duty personnel.
 
 Court-martial jurisdiction is most commonly exercised over active
 
@@ -1916,9 +1916,9 @@ a discharge certificate for purposes of jurisdiction.
 
 are several important qualifications and exceptions to these general guidelines.
 
-#  Inception of court-martial jurisdiction over active duty personnel.
+###  Inception of court-martial jurisdiction over active duty personnel.
 
-#  Enlistment.
+###  Enlistment.
 
 "The voluntary enlistment of any person who has the capacity
 
@@ -2008,7 +2008,7 @@ never underwent an enlistment or induction proceeding of any kind, court-martial
 
 jurisdiction could be established under this provision.
 
-#  Induction.
+###  Induction.
 
 Court-martial jurisdiction does not extend to a draftee until: the
 
@@ -2034,7 +2034,7 @@ may be defeated if improper induction is found, depending on all the circumstanc
 
 of the case.
 
-#  Call to active duty.
+###  Call to active duty.
 
 A member of a reserve component may be called or ordered to active
 
@@ -2060,13 +2060,13 @@ the right to contest involuntary activation by failure to exercise this right
 
  within a reasonable time after notice of the right to do so.
 
-#  Termination of jurisdiction over active duty personnel.
+###  Termination of jurisdiction over active duty personnel.
 
 As indicated above, the delivery of a valid discharge certificate
 
 or its equivalent ordinarily serves to terminate court-martial jurisdiction.
 
-#  Effect of completion of term of service.
+###  Effect of completion of term of service.
 
 Completion of an enlistment or term of service does not by itself
 
@@ -2098,7 +2098,7 @@ of self-executing orders, a person may be retained beyond the date that the
 
 orders.
 
-#  Effect of discharge and reenlistment.
+###  Effect of discharge and reenlistment.
 
 For offenses occurring on or after 23 October 1992, under the 1992
 
@@ -2116,7 +2116,7 @@ could not be tried in the courts of the United States or of a State, a Territory
 
 or the District of Columbia. However, _see_ (iii)(a) below.
 
-#  Exceptions.
+###  Exceptions.
 
 There are several exceptions to the general principle that court-martial
 
@@ -2220,7 +2220,7 @@ personnel status from temporary to permanent officer, and court-martial jurisdic
 
 over an offense committed before the discharge is not affected.
 
-#  Public Health Service and National Oceanic and Atmospheric Administration.
+###  Public Health Service and National Oceanic and Atmospheric Administration.
 
 Members of the Public Health Service and the National Oceanic and
 
@@ -2228,11 +2228,11 @@ Atmospheric Administration become subject to the code when assigned to and
 
 serving with the armed forces.
 
-#  Limitations on jurisdiction over civilians.
+###  Limitations on jurisdiction over civilians.
 
 Court-martial jurisdiction over civilians under the code is limited by the Constitution and other applicable laws, including as construed in judicial decisions. The exercise of jurisdiction under Article 2(a)(11) in peace time has been held unconstitutional by the Supreme Court of the United States.  Before initiating court-martial proceedings against a civilian, relevant statutes, decisions, service regulations, and policy memoranda should be carefully examined.
 
-#  Members of a Reserve Component.
+###  Members of a Reserve Component.
 
 Members of a reserve component in federal service on active duty,
 
@@ -2244,15 +2244,15 @@ jurisdiction of courts-martial notwithstanding the termination of a period
 
 of such duty. _See_ R.C.M. 204.
 
-#  Offenses under the law of war.
+### (b) Offenses under the law of war.
 
 Nothing in this rule limits the power of general courts-martial
 
 to try persons under the law of war. _See_ R.C.M. 201(f)(1)(B).
 
-#  Attachment of jurisdiction over the person.
+### (c) Attachment of jurisdiction over the person.
 
-#  In general.
+#### (1) In general.
 
 Court-martial jurisdiction attaches over a person when action with
 
@@ -2272,7 +2272,7 @@ over objection pending disposition of any offense for which held and shall
 
 remain subject to the code during the entire period.
 
-#  Discussion
+####  Discussion
 
 Court-martial jurisdiction exists to try a person as long as that
 
@@ -2302,7 +2302,7 @@ the person may be held for trial by court-martial beyond the effective terminal
 
 date.
 
-#  Procedure.
+#### (2) Procedure.
 
 Actions by which court-martial jurisdiction attaches include: apprehension;
 
@@ -2310,7 +2310,7 @@ imposition of restraint, such as restriction, arrest, or confinement; and
 
 preferral of charges. 
 
-#  Jurisdiction over the offense
+## Rule 203. Jurisdiction over the offense
 
 To the extent permitted by the Constitution, courts-martial may
 
@@ -2318,9 +2318,9 @@ try any offense under the code and, in the case of general courts-martial,
 
 the law of war.
 
-#  Discussion
+##  Discussion
 
-#  In general.
+##  In general.
 
 Courts-martial have power to try any offense under the code except
 
@@ -2334,7 +2334,7 @@ to the Uniform Code of Military Justice, and not on the "service-connection"
 
 of the offense charged.
 
-#  Pleading and proof.
+##  Pleading and proof.
 
 Normally, the inclusion of the accused's rank or grade will be sufficient
 
@@ -2344,9 +2344,9 @@ the accused's armed force or unit is necessary for military members on active
 
 duty. _See_ R.C.M. 307 regarding required specificity of pleadings.
 
-#  Jurisdiction over certain reserve component personnel
+## Rule 204. Jurisdiction over certain reserve component personnel
 
-#  Service regulations.
+### (a) Service regulations.
 
 The Secretary concerned shall prescribe regulations setting forth
 
@@ -2356,7 +2356,7 @@ punishment authority over reserve component personnel under Article 2(a)(3)
 
 and 2(d), subject to the limitations of this Manual and the UCMJ.
 
-#  Discussion
+###  Discussion
 
 Such regulations should describe procedures for ordering a reservist
 
@@ -2384,9 +2384,9 @@ only when the offense concerned is committed while the member is in Federal
 
 service.
 
-#  Courts-Martial
+### (b) Courts-Martial
 
-#  General and special court-martial proceedings.
+#### (1) General and special court-martial proceedings.
 
 A member of a reserve component must be on active duty prior to
 
@@ -2406,7 +2406,7 @@ the confinement or other restriction on liberty. All punishments remaining
 
 over to subsequent periods of inactive-duty training or active duty.
 
-#  Discussion
+####  Discussion
 
 An accused ordered to active duty pursuant to Article 2(d) may be
 
@@ -2418,7 +2418,7 @@ duty ordered pursuant to Article 2(d) may be retained on active duty pursuant
 
  to R.C.M. 202(c)(1).
 
-#  Summary courts-martial.
+#### (2) Summary courts-martial.
 
 A member of a reserve component may be tried by summary court-martial
 
@@ -2436,7 +2436,7 @@ of inactive duty training may be carried over to subsequent periods of inactive-
 
 training or active duty.
 
-#  Discussion
+####  Discussion
 
 A "normal period" of inactive-duty training does not
 
@@ -2444,13 +2444,13 @@ A "normal period" of inactive-duty training does not
 
  court-martial proceedings.
 
-#  Applicability.
+### (c) Applicability.
 
 This subsection is not applicable when a member is held on active
 
 duty pursuant to R.C.M. 202(c). 
 
-#  Changes in type of service.
+### (d) Changes in type of service.
 
 A member of a reserve component at the time disciplinary action
 
@@ -2466,7 +2466,7 @@ This subsection does not apply to a person whose military status was completely
 
 terminated after commission of an offense.
 
-#  Discussion
+###  Discussion
 
 A member of a regular or reserve component remains subject to court-martial
 
@@ -2490,15 +2490,15 @@ service. It does not include a discharge conditioned upon acceptance of further
 
  military service.
 
-#  INITIATION OF CHARGES; APPREHENSION; PRETRIAL RESTRAINT; RELATED MATTERS
+# CHAPTER III. INITIATION OF CHARGES; APPREHENSION; PRETRIAL RESTRAINT; RELATED MATTERS
 
-#  Report of offense
+## Rule 301. Report of offense
 
-#  Who may report.
+### (a) Who may report.
 
 Any person may report an offense subject to trial by court-martial.
 
-#  To whom reports conveyed for disposition.
+### (b) To whom reports conveyed for disposition.
 
 Ordinarily, any military authority who receives a report of an
 
@@ -2508,7 +2508,7 @@ information to the immediate commander of the suspect. Competent authority
 
 superior to that commander may direct otherwise.
 
-#  Discussion
+###  Discussion
 
 Any military authority may receive a report of an offense. Typically
 
@@ -2540,15 +2540,15 @@ See also_ R.C.M. 302 (Apprehension); R.C.M. 303 (Preliminary inquiry);
 
 R.C.M. 304, 305 (Pretrial restraint, confinement).
 
-#  Apprehension
+## Rule 302. Apprehension
 
-#  Definition and scope.
+### (a) Definition and scope.
 
-#  Definition.
+#### (1) Definition.
 
 Apprehension is the taking of a person into custody.
 
-#  Discussion
+####  Discussion
 
 Apprehension is the equivalent of "arrest" in civilian
 
@@ -2596,7 +2596,7 @@ Mil. R. Evid. 311(c)(1). Evidence obtained as the result of an unlawful civilian
 
 arrest may be challenged under Mil. R. Evid. 311(c)(1), (2).
 
-#  Scope.
+#### (2) Scope.
 
 This rule applies only to apprehensions made by persons authorized
 
@@ -2610,7 +2610,7 @@ trial by court-martial, to the extent permitted by applicable enabling statutes
 
 and other law.
 
-#  Discussion
+####  Discussion
 
 R.C.M. 302 does not affect the authority of any official to detain,
 
@@ -2642,13 +2642,13 @@ of the agency and the agency's formal or informal relationships with the
 
 Department of Defense.
 
-#  Who may apprehend.
+### (b) Who may apprehend.
 
 The following officials may apprehend any person subject to trial
 
 by court-martial: 
 
-#  Military law enforcement officials.
+#### (1) Military law enforcement officials.
 
 Security police, military police, master at arms personnel, members
 
@@ -2660,7 +2660,7 @@ to the code or not, when in each of the foregoing instances, the official
 
 making the apprehension is in the execution of law enforcement duties;
 
-#  Discussion
+####  Discussion
 
 Whenever enlisted persons, including police and guards, and civilian
 
@@ -2678,13 +2678,13 @@ police duties" includes special agents of the Defense Criminal Investigative
 
 Service.
 
-#  Commissioned, warrant, petty, and noncommissioned officers.
+#### (2) Commissioned, warrant, petty, and noncommissioned officers.
 
 All commissioned, warrant, petty, and noncommissioned officers on
 
 active duty or inactive duty training; 
 
-#  Discussion
+####  Discussion
 
 Noncommissioned and petty officers not otherwise performing law
 
@@ -2694,7 +2694,7 @@ to do so by a commissioned officer or in order to prevent disgrace to the
 
 service or the escape of one who has committed a serious offense.
 
-#  Civilians authorized to apprehend deserters.
+#### (3) Civilians authorized to apprehend deserters.
 
 Under Article 8, any civilian officer having authority to apprehend
 
@@ -2704,7 +2704,7 @@ or possession, or the District of Columbia, when the apprehension is of a
 
 deserter from the armed forces.
 
-#  Discussion
+####  Discussion
 
 The code specifically provides that any civil officer, whether of
 
@@ -2716,7 +2716,7 @@ apprehend persons for other violations of the code. _ See_ Article
 
 8.
 
-#  Grounds for apprehension.
+### (c) Grounds for apprehension.
 
 A person subject to the code or trial thereunder may be apprehended
 
@@ -2732,7 +2732,7 @@ committed or is committing it. Persons authorized to apprehend under subsection
 
 part in quarrels, frays, or disorders, wherever they occur.
 
-#  Discussion
+###  Discussion
 
 "Reasonable grounds" means that there must be the kind
 
@@ -2744,9 +2744,9 @@ not enough but proof which would support a conviction is not necessary. A
 
 person who determines probable cause may rely on the reports of others.
 
-#  How an apprehension may be made.
+### (d) How an apprehension may be made.
 
-#  In general.
+#### (1) In general.
 
 An apprehension is made by clearly notifying the person to be apprehended
 
@@ -2754,7 +2754,7 @@ that person is in custody. This notice should be given orally or in writing,
 
 but it may be implied by the circumstances.
 
-#  Warrants.
+#### (2) Warrants.
 
 Neither warrants nor any other authorization shall be required for
 
@@ -2762,7 +2762,7 @@ an apprehension under these rules except as required in subsection (e)(2)
 
 of this rule. 
 
-#  Use of force.
+#### (3) Use of force.
 
 Any person authorized under these rules to make an apprehension
 
@@ -2770,7 +2770,7 @@ may use such force and means as reasonably necessary under the circumstances
 
 to effect the apprehension.
 
-#  Discussion
+####  Discussion
 
 In addition to any other action required by law or regulation or
 
@@ -2784,15 +2784,15 @@ higher in the chain of command of the person apprehended if it is impractical
 
  to inform the immediate commander.
 
-#  Where an apprehension may be made.
+### (e) Where an apprehension may be made.
 
-#  In general.
+#### (1) In general.
 
 An apprehension may be made at any place, except as provided in
 
 subsection (e)(2) of this rule. 
 
-#  Private dwellings.
+#### (2) Private dwellings.
 
 A private dwelling includes dwellings, on or off a military installation,
 
@@ -2810,17 +2810,17 @@ field encampments, and similar places. No person may enter a private dwelling
 
 for the purpose of making an apprehension under these rules unless: 
 
-Pursuant to consent under Mil. R. Evid. 314(e) or 316(d)(2); 
+(A) Pursuant to consent under Mil. R. Evid. 314(e) or 316(d)(2); 
 
-Under exigent circumstances described in Mil. R. Evid. 315(g) or
+(B) Under exigent circumstances described in Mil. R. Evid. 315(g) or
 
 316(d)(4)(B); 
 
-In the case of a private dwelling which is military property or
+(C) In the case of a private dwelling which is military property or
 
 under military control, or nonmilitary property in a foreign country
 
-if the person to be apprehended is a resident of the private dwelling,
+(i) if the person to be apprehended is a resident of the private dwelling,
 
 there exists, at the time of the entry, reason to believe that the person
 
@@ -2830,7 +2830,7 @@ authorized by an official listed in Mil. R. Evid. 315(d) upon a determination
 
 that probable cause to apprehend the person exists; or 
 
-if the person to be apprehended is not a resident of the private
+(ii) if the person to be apprehended is not a resident of the private
 
  dwelling, the entry has been authorized by an official listed in Mil. R.
 
@@ -2840,11 +2840,11 @@ the person and to believe that the person to be apprehended is or will be
 
  present at the time of the entry; 
 
-In the case of a private dwelling not included in subsection (e)(2)(C)
+(D) In the case of a private dwelling not included in subsection (e)(2)(C)
 
 of this rule, 
 
-if the person to be apprehended is a resident of the private dwelling,
+(i) if the person to be apprehended is a resident of the private dwelling,
 
 there exists at the time of the entry, reason to believe that the person to
 
@@ -2852,7 +2852,7 @@ be apprehended is present and the apprehension is authorized by an arrest
 
 warrant issued by competent civilian authority; or 
 
-if the person to be apprehended is not a resident of the private
+(ii) if the person to be apprehended is not a resident of the private
 
  dwelling, the apprehension is authorized by an arrest warrant and the entry
 
@@ -2870,7 +2870,7 @@ of the sufficiency of such a warrant or authorization. Nothing in this subsectio
 
 lawful presence in a private dwelling.
 
-#  Discussion
+######  Discussion
 
 For example, if law enforcement officials enter a private dwelling
 
@@ -2886,7 +2886,7 @@ or state procedure. _See e.g._ Fed. R. Crim. P. 41 and 28 C.F.R.
 
 60.1. 
 
-#  Preliminary inquiry into reported offenses
+## Rule 303. Preliminary inquiry into reported offenses
 
 Upon receipt of information that a member of the command is accused
 
@@ -2896,7 +2896,7 @@ the immediate commander shall make or cause to be made a preliminary inquiry
 
 into the charges or suspected offenses.
 
-#  Discussion
+##  Discussion
 
 The preliminary inquiry is usually informal. It may be an examination
 
@@ -2954,9 +2954,9 @@ of the command. That officer may be informed that charges may be preferred
 
 if the officer determines that preferral is warranted.
 
-#  Pretrial restraint
+## Rule 304. Pretrial restraint
 
-#  Types of pretrial restraint.
+### (a) Types of pretrial restraint.
 
 Pretrial restraint is moral or physical restraint on a person's
 
@@ -2966,7 +2966,7 @@ restraint may consist of conditions on liberty, restriction in lieu of arrest,
 
  arrest, or confinement.
 
-#  Conditions on liberty.
+#### (1) Conditions on liberty.
 
 Conditions on liberty are imposed by orders directing a person to
 
@@ -2974,7 +2974,7 @@ do or refrain from doing specified acts. Such conditions may be imposed in
 
 conjunction with other forms of restraint or separately.
 
-#  Restriction in lieu of arrest.
+#### (2) Restriction in lieu of arrest.
 
 Restriction in lieu of arrest is the restraint of a person by oral
 
@@ -2984,7 +2984,7 @@ a restricted person shall, unless otherwise directed, perform full military
 
 duties while restricted.
 
-#  Arrest.
+#### (3) Arrest.
 
 Arrest is the restraint of a person by oral or written order not
 
@@ -3004,7 +3004,7 @@ the person arrested to do ordinary cleaning or policing, or to take part
 
 in routine training and duties.
 
-#  Confinement.
+#### (4) Confinement.
 
 Pretrial confinement is physical restraint, imposed by order of
 
@@ -3012,7 +3012,7 @@ competent authority, depriving a person of freedom pending disposition of
 
 offenses. _See_ R.C.M. 305.
 
-#  Discussion
+####  Discussion
 
 Conditions on liberty include orders to report periodically to a
 
@@ -3060,27 +3060,27 @@ that the accused be brought to trial within 120 days of preferral of charges
 
 or imposition of restraint under R.C.M. 304(a)(2)-(4).
 
-#  Who may order pretrial restraint.
+### (b) Who may order pretrial restraint.
 
-#  Of civilians and officers.
+#### (1) Of civilians and officers.
 
 Only a commanding officer to whose authority the civilian or officer
 
 is subject may order pretrial restraint of that civilian or officer.
 
-#  Discussion
+####  Discussion
 
 Civilians may be restrained under these rules only when they are
 
 subject to trial by court-martial. _See_ R.C.M. 202.
 
-#  Of enlisted persons.
+#### (2) Of enlisted persons.
 
 Any commissioned officer may order pretrial restraint of any enlisted
 
 person.
 
-#  Delegation of authority.
+#### (3) Delegation of authority.
 
 The authority to order pretrial restraint of civilians and commissioned
 
@@ -3092,13 +3092,13 @@ restraint of enlisted persons of the commanding officer's command or subject
 
 to the authority of that commanding officer.
 
-#  Authority to withhold.
+#### (4) Authority to withhold.
 
 A superior competent authority may withhold from a subordinate the
 
  authority to order pretrial restraint.
 
-#  When a person may be restrained.
+### (c) When a person may be restrained.
 
 No person may be ordered into restraint before trial except for
 
@@ -3106,13 +3106,13 @@ probable cause. Probable cause to order pretrial restraint exists when there
 
 is a reasonable belief that:
 
-An offense triable by court-martial has been committed;
+(1) An offense triable by court-martial has been committed;
 
-The person to be restrained committed it; and
+(2) The person to be restrained committed it; and
 
-The restraint ordered is required by the circumstances.
+(3) The restraint ordered is required by the circumstances.
 
-#  Discussion
+####  Discussion
 
 The decision whether to impose pretrial restraint, and, if so, what
 
@@ -3136,7 +3136,7 @@ See_ R.C.M. 305 concerning the standards and procedures governing
 
 pretrial confinement.
 
-#  Procedures for ordering pretrial restraint.
+### (d) Procedures for ordering pretrial restraint.
 
 Pretrial restraint other than confinement is imposed by notifying
 
@@ -3154,13 +3154,13 @@ is imposed pursuant to orders by a competent authority by the delivery of
 
 a person to a place of confinement.
 
-#  Notice of basis for restraint.
+### (e) Notice of basis for restraint.
 
 When a person is placed under restraint, the person shall be informed
 
 of the nature of the offense which is the basis for such restraint.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 305(e) concerning additional information
 
@@ -3170,7 +3170,7 @@ restrain is not the commander of the person restrained, that officer should
 
 be notified.
 
-#  Punishment prohibited.
+### (f) Punishment prohibited.
 
 Pretrial restraint is not punishment and shall not be used as such.
 
@@ -3190,13 +3190,13 @@ Prisoners shall be afforded facilities and treatment under regulations of
 
 the Secretary concerned.
 
-#  Discussion
+###  Discussion
 
 Offenses under the code by a person under restraint may be disposed
 
  of in the same manner as any other offenses.
 
-#  Release.
+### (g) Release.
 
 Except as otherwise provided in R.C.M. 305, a person may be released
 
@@ -3206,7 +3206,7 @@ shall terminate when a sentence is adjudged, the accused is acquitted of
 
 all charges, or all charges are dismissed.
 
-#  Discussion
+###  Discussion
 
 Pretrial restraint may be imposed (or reimposed) if charges are
 
@@ -3214,7 +3214,7 @@ to be reinstated or a rehearing or "other" trial is to be
 
 ordered.
 
-#  Administrative restraint.
+### (h) Administrative restraint.
 
 Nothing in this rule prohibits limitations on a servicemember imposed
 
@@ -3222,13 +3222,13 @@ Nothing in this rule prohibits limitations on a servicemember imposed
 
 including administrative hold or medical reasons.
 
-#  Discussion
+###  Discussion
 
 _See also_ R.C.M. 306.
 
-#  Pretrial confinement
+## Rule 305. Pretrial confinement
 
-#  In general.
+### (a) In general.
 
 Pretrial confinement is physical restraint, imposed by order of
 
@@ -3236,7 +3236,7 @@ Pretrial confinement is physical restraint, imposed by order of
 
  charges.
 
-#  Discussion
+###  Discussion
 
 No member of the armed forces may be placed in confinement in immediate
 
@@ -3250,23 +3250,23 @@ other categories mentioned, they may be confined in the same confinement
 
 facilities.
 
-#  Who may be confined.
+### (b) Who may be confined.
 
 Any person who is subject to trial by court-martial may be confined
 
  if the requirements of this rule are met.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 201 and 202 and the discussions therein
 
 concerning persons who are subject to trial by courts-martial.
 
-#  Who may order confinement.
+### (c) Who may order confinement.
 
 _See_ R.C.M. 304(b).
 
-#  Discussion
+###  Discussion
 
 "No provost marshal, commander of a guard, or master at arms
 
@@ -3278,7 +3278,7 @@ commissioned officer of the armed forces, when the committing officer furnishes
 
  Article 11(a).
 
-#  When a person may be confined.
+### (d) When a person may be confined.
 
 No person may be ordered into pretrial confinement except for probable
 
@@ -3286,13 +3286,13 @@ cause. Probable cause to order pretrial confinement exists when there is
 
 a reasonable belief that:
 
-An offense triable by court-martial has been committed;
+(1) An offense triable by court-martial has been committed;
 
-The person confined committed it; and
+(2) The person confined committed it; and
 
-Confinement is required by the circumstances.
+(3) Confinement is required by the circumstances.
 
-#  Discussion
+####  Discussion
 
 The person who directs confinement should consider the matters
 
@@ -3334,23 +3334,23 @@ confinement in the sense of this rule until a person authorized to do so
 
 under R.C.M. 304(b) directed confinement.
 
-#  Advice to the accused upon confinement.
+### (e) Advice to the accused upon confinement.
 
 Each person confined shall be promptly informed of:
 
-The nature of the offenses for which held;
+(1) The nature of the offenses for which held;
 
-The right to remain silent and that any statement made by the person
+(2) The right to remain silent and that any statement made by the person
 
 may be used against the person; 
 
-The right to retain civilian counsel at no expense to the United
+(3) The right to retain civilian counsel at no expense to the United
 
 States, and the right to request assignment of military counsel; and
 
-The procedures by which pretrial confinement will be reviewed.
+(4) The procedures by which pretrial confinement will be reviewed.
 
-#  Military counsel.
+### (f) Military counsel.
 
 If requested by the prisoner and such request is made known to
 
@@ -3372,7 +3372,7 @@ concerned, a prisoner does not have a right under this rule to have military
 
 counsel of the prisoner's own selection.
 
-#  Who may direct release from confinement.
+### (g) Who may direct release from confinement.
 
 Any commander of a prisoner, an officer appointed under regulations
 
@@ -3390,9 +3390,9 @@ higher commander of the prisoner and the commander of the installation on
 
 which the confinement facility is located.
 
-#  Notification and action by commander.
+### (h) Notification and action by commander.
 
-#  Report.
+#### (1) Report.
 
 Unless the commander of the prisoner ordered the pretrial confinement,
 
@@ -3406,7 +3406,7 @@ the prisoner, the offenses charged against the prisoner, and the name of
 
 the person who ordered or authorized confinement.
 
-#  Discussion
+####  Discussion
 
 This report may be made by any means. Ordinarily, the immediate
 
@@ -3418,9 +3418,9 @@ to whose authority the prisoner is subject, such as the commander of the
 
 so notified must ensure compliance with subsection (h)(2) of this rule.
 
-#  Action by commander.
+#### (2) Action by commander.
 
-#  Decision.
+##### (A) Decision.
 
 Not later than 72 hours after the commander's ordering of a prisoner
 
@@ -3446,7 +3446,7 @@ determination and the 72-hour commander's decision immediately after an accused
 
 is ordered into pretrial confinement.
 
-#  Requirements for confinement.
+##### (B) Requirements for confinement.
 
 The commander shall direct the prisoner's release from pretrial
 
@@ -3454,19 +3454,19 @@ The commander shall direct the prisoner's release from pretrial
 
  reasonable grounds, that:
 
-An offense triable by a court-martial has been committed;
+(i) An offense triable by a court-martial has been committed;
 
-The prisoner committed it; and
+(ii) The prisoner committed it; and
 
-Confinement is necessary because it is foreseeable that:
+(iii) Confinement is necessary because it is foreseeable that:
 
-The prisoner will not appear at trial, pretrial hearing, or investigation,
+(a) The prisoner will not appear at trial, pretrial hearing, or investigation,
 
 or
 
-The prisoner will engage in serious criminal misconduct; and
+(b) The prisoner will engage in serious criminal misconduct; and
 
-Less severe forms of restraint are inadequate. 
+(iv) Less severe forms of restraint are inadequate. 
 
  Serious
 
@@ -3490,7 +3490,7 @@ resisting hostile or destructive action from within or without, overt or
 
 covert.
 
-#  Discussion
+######  Discussion
 
 A person should not be confined as a mere matter of convenience
 
@@ -3552,7 +3552,7 @@ to the prisoner's unit, at liberty or under restriction, arrest, or conditions
 
 on liberty. _See_ R.C.M. 304.
 
-#  72-hour memorandum.
+##### (C) 72-hour memorandum.
 
 If continued pretrial confinement is approved, the commander shall
 
@@ -3574,9 +3574,9 @@ the commander before ordering confinement, a second memorandum need not be
 
 at any time.
 
-#  Procedures for review of pretrial confinement.
+### (i) Procedures for review of pretrial confinement.
 
-#  48-hour probable cause determination.
+#### (1) 48-hour probable cause determination.
 
 Review of the adequacy of probable cause to continue pretrial confinement
 
@@ -3590,7 +3590,7 @@ authorities, reasonable efforts will be made to bring the prisoner under
 
 military control in a timely fashion.
 
-#  7-day review of pretrial confinement.
+#### (2) 7-day review of pretrial confinement.
 
 Within 7 days of the imposition of confinement, a neutral and detached
 
@@ -3606,13 +3606,13 @@ control shall count as one day and the date of the review shall also count
 
 as one day.
 
-#  Nature of the 7-day review.
+##### (A) Nature of the 7-day review.
 
-#  Matters considered.
+###### (i) Matters considered.
 
 The review under this subsection shall include a review of the memorandum submitted by the prisoner's commander under subsection (h)(2)(C) of this rule. Additional written matters may be considered, including any submitted by the prisoner. The prisoner and the prisoner's counsel, if any, shall be allowed to appear before the 7-day reviewing officer and make a statement, if practicable. A representative of the command may also appear before the reviewing officer to make a statement.
 
-#  Rules of evidence.
+###### (ii) Rules of evidence.
 
 Except for Mil. R. Evid., Section V (Privileges) and Mil. R. Evid.
 
@@ -3620,21 +3620,21 @@ Except for Mil. R. Evid., Section V (Privileges) and Mil. R. Evid.
 
 considered.
 
-#  Standard of proof.
+###### (iii) Standard of proof.
 
 The requirements for confinement under subsection (h)(2)(B) of this
 
  rule must be proved by a preponderance of the evidence.
 
-#  Victim's right to be reasonably heard.
+###### (iv) Victim's right to be reasonably heard.
 
 A victim of an alleged offense committed by the prisoner has the right to reasonable, accurate, and timely notice of the 7-day review; the right to confer with the representative of the command and counsel for the government, if any, and the right to be reasonably heard during the review. However, the hearing may not be unduly delayed for this purpose. The right to be heard under this rule includes the right to be heard through counsel. The victim of an alleged offense shall be notified of these rights in accordance with regulations of the Secretary concerned.
 
-#  Discussion
+######  Discussion
 
  Personal appearance by the victim is not required. A victim's right to be reasonably heard at a 7-day review may also be accomplished telephonically, by video teleconference, or by written statement.
 
-#  Extension of time limit.
+##### (B) Extension of time limit.
 
 The 7-day reviewing officer may, for good cause, extend the time
 
@@ -3642,15 +3642,15 @@ limit for completion of the review to 10 days after the imposition of pretrial
 
 confinement.
 
-#  Action by 7-day reviewing officer.
+##### (C) Action by 7-day reviewing officer.
 
 Upon completion of review, the reviewing officer shall approve continued confinement or order immediate release. If the reviewing officer orders immediate release, a victim of an alleged offense committed by the prisoner has the right to reasonable, accurate, and timely notice of the release, unless such notice may endanger the safety of any person.
 
-#  Memorandum.
+##### (D) Memorandum.
 
 The 7-day reviewing officer's conclusions, including the factual findings on which they are based, shall be set forth in a written memorandum. The memorandum shall also state whether the victim was notified of the review, was given the opportunity to confer with the representative of the command or counsel for the government, and was given a reasonable opportunity to be heard. A copy of the memorandum and all documents considered by the 7-day reviewing officer shall be maintained in accordance with regulations prescribed by the Secretary concerned and provided to the accused or the Government on request.
 
-#  Reconsideration of approval of continued confinement.
+##### (E) Reconsideration of approval of continued confinement.
 
 The 7-day reviewing officer shall upon request, and after notice
 
@@ -3658,7 +3658,7 @@ to the parties, reconsider the decision to confine the prisoner based upon
 
 any significant information not previously considered.
 
-#  Review by military judge.
+### (j) Review by military judge.
 
 Once the charges for which the accused has been confined are referred
 
@@ -3666,25 +3666,25 @@ to trial, the military judge shall review the propriety of pretrial confinement
 
 upon motion for appropriate relief.
 
-#  Release.
+#### (1) Release.
 
  The military judge shall order release from pretrial confinement
 
 only if:
 
-The 7-day reviewing officer's decision was an abuse of discretion,
+(A) The 7-day reviewing officer's decision was an abuse of discretion,
 
 and there is not sufficient information presented to the military judge justifying
 
 continuation of pretrial confinement under subsection (h)(2)(B) of this rule;
 
-Information not presented to the 7-day reviewing officer establishes
+(B) Information not presented to the 7-day reviewing officer establishes
 
  that the prisoner should be released under subsection (h)(2)(B) of this rule;
 
  or
 
-The provisions of subsection (i)(1) or (2) of this rule have not
+(C) The provisions of subsection (i)(1) or (2) of this rule have not
 
 been complied with and information presented to the military judge does not
 
@@ -3692,11 +3692,11 @@ establish sufficient grounds for continued confinement under subsection (h)(2)(B
 
 of this rule.
 
-#  Discussion
+#####  Discussion
 
  Upon a motion for release from pretrial confinement, a victim of an alleged offense committed by the prisoner has the right to reasonable, accurate, and timely notice of the motion and any hearing, the right to confer with counsel representing the government, and the right to be reasonably heard. Inability to reasonably afford a victim these rights shall not delay the proceedings. The right to be heard under this rule includes the right to be heard through counsel. _See_ R.C.M. 906(b)(8).
 
-#  Credit.
+#### (2) Credit.
 
 The military judge shall order administrative credit under subsection
 
@@ -3706,7 +3706,7 @@ of discretion or failure to comply with the provisions of subsections (f),
 
 (h), or (i) of this rule.
 
-#  Remedy.
+### (k) Remedy.
 
 The remedy for noncompliance with subsections (f), (h), (i), or
 
@@ -3740,7 +3740,7 @@ shall be equal to 1 day of total forfeiture or a like amount of fine. The
 
 credit shall not be applied against any other form of punishment. 
 
-#  Confinement after release.
+### (l) Confinement after release.
 
 No person whose release from pretrial confinement has been directed
 
@@ -3752,13 +3752,13 @@ No person whose release from pretrial confinement has been directed
 
  with all other available evidence, justifies confinement.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 304(b) concerning who may order confinement.
 
-#  Exceptions.
+### (m) Exceptions.
 
-#  Operational necessity.
+#### (1) Operational necessity.
 
 The Secretary of Defense may suspend application of subsections
 
@@ -3768,7 +3768,7 @@ units or in specified areas when operational requirements of such units or
 
  in such areas would make application of such provisions impracticable.
 
-#  At sea.
+#### (2) At sea.
 
 Subsections (e)(2) and (3), (f), (h)(2)(C), and (i) of this rule
 
@@ -3788,15 +3788,15 @@ reviewing officer under subsection (i) of this rule and shall include an
 
 explanation of any delay in the transfer.
 
-#  Notice to victim of escaped prisoner.
+### (n) Notice to victim of escaped prisoner.
 
 A victim of an alleged offense committed by the prisoner for which the prisoner has been placed in pretrial confinement has the right to reasonable, accurate, and timely notice of the escape of the prisoner, unless such notice may endanger the safety of any person.
 
-#  Discussion
+###  Discussion
 
  For purposes of this rule, the term "victim of an alleged offense" means a person who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under the UCMJ.
 
-#  Discussion
+###  Discussion
 
 Under this subsection the standards for confinement remain the same
 
@@ -3818,9 +3818,9 @@ reasonably possible, however. (This provision is not suspended under subsection
 
 (2) since the commander of a vessel is always available.)
 
-#  Initial disposition
+## Rule 306. Initial disposition
 
-#  Who may dispose of offenses.
+### (a) Who may dispose of offenses.
 
 Each commander has discretion to dispose of offenses by members
 
@@ -3836,7 +3836,7 @@ A superior commander may not limit the discretion of a subordinate commander
 
 to act on cases over which authority has not been withheld.
 
-#  Discussion
+###  Discussion
 
 Each commander in the chain of command has independent, yet overlapping
 
@@ -3860,7 +3860,7 @@ with R.C.M. 604.
 
 to offenses for which coordination with the Department of Justice is required.
 
-#  Policy.
+### (b) Policy.
 
 Allegations of offenses should be disposed of in a timely manner
 
@@ -3868,7 +3868,7 @@ at the lowest appropriate level of disposition listed in subsection (c) of
 
 this rule.
 
-#  Discussion
+###  Discussion
 
 The disposition decision is one of the most important and difficult decisions facing a commander. Many factors must be taken into consideration and balanced, including, to the extent practicable, the nature of the offenses, any mitigating or extenuating circumstances, the views of the victim as to disposition, any recommendations made by subordinate commanders, the interest of justice, military exigencies, and the effect of the decision on the accused and the command. The goal should be a disposition that is warranted, appropriate, and fair.
 
@@ -3892,7 +3892,7 @@ The disposition decision is one of the most important and difficult decisions fa
 
   (I) appropriateness of the authorized punishment to the particular accused or offense.
 
-#  How offenses may be disposed of.
+### (c) How offenses may be disposed of.
 
 Within the limits of the commander's authority, a commander may
 
@@ -3900,7 +3900,7 @@ take the actions set forth in this subsection to initially dispose of a charge
 
 or suspected offense.
 
-#  Discussion
+###  Discussion
 
 Prompt disposition of charges is essential. _See_ R.C.M.
 
@@ -3940,13 +3940,13 @@ may lack mental capacity to stand trial or may not have been mentally responsibl
 
 at the times of the offenses, _see_ R.C.M. 706; 909; 916(k).
 
-#  No action.
+#### (1) No action.
 
 A commander may decide to take no action on an offense. If charges
 
  have been preferred, they may be dismissed.
 
-#  Discussion
+####  Discussion
 
 A decision to take no action or dismissal of charges at this stage
 
@@ -3962,7 +3962,7 @@ who may dismiss charges, and R.C.M. 401(c)(1) concerning dismissal of charges.
 
 a decision is made to take no action, the accused should be informed.
 
-#  Administrative action.
+#### (2) Administrative action.
 
 A commander may take or initiate administrative action, in addition
 
@@ -3976,7 +3976,7 @@ censure, reproach, rebuke, extra military instruction, or the administrative
 
 withholding of privileges, or any combination of the above.
 
-#  Discussion
+####  Discussion
 
 Other administrative measures, which are subject to regulations
 
@@ -3992,17 +3992,17 @@ changes; pecuniary liability for negligence or misconduct; and administrative
 
 separation.
 
-#  Nonjudicial punishment.
+#### (3) Nonjudicial punishment.
 
 A commander may consider the matter pursuant to Article 15, nonjudicial
 
 punishment. _See_ Part V. 
 
-#  Disposition of charges.
+#### (4) Disposition of charges.
 
 Charges may be disposed of in accordance with R.C.M. 401.
 
-#  Discussion
+####  Discussion
 
 If charges have not been preferred, they may be preferred. _
 
@@ -4024,13 +4024,13 @@ R.C.M. 405 and 406 is necessary. Therefore, if appropriate, an investigation
 
 found in R.C.M. 401-407.
 
-#  Forwarding for disposition.
+#### (5) Forwarding for disposition.
 
 A commander may forward a matter concerning an offense, or charges,
 
 to a superior or subordinate authority for disposition.
 
-#  Discussion
+####  Discussion
 
 The immediate commander may lack authority to take action which
 
@@ -4052,7 +4052,7 @@ matter may be forwarded for other reasons, such as for investigation of allegati
 
 and preferral of charges, if warranted (_see_ R.C.M. 303, 307), or so that a subordinate can dispose of the matter.
 
-#  National security matters.
+### (d) National security matters.
 
 If a commander not authorized to convene general courts-martial
 
@@ -4064,13 +4064,13 @@ security, the matter shall be forwarded to the general court-martial convening
 
 authority for action under R.C.M. 407(b). 
 
-#  Preferral of charges
+## Rule 307. Preferral of charges
 
-#  Who may prefer charges.
+### (a) Who may prefer charges.
 
 Any person subject to the code may prefer charges.
 
-#  Discussion
+###  Discussion
 
 No person may be ordered to prefer charges to which that person
 
@@ -4116,21 +4116,21 @@ knowledge becomes apparent-a reasonable delay is permissible. However, _
 
 see_ R.C.M. 707 concerning speedy trial requirements.
 
-#  How charges are preferred; oath.
+### (b) How charges are preferred; oath.
 
 A person who prefers charges must:
 
-Sign the charges and specifications under oath before a commissioned
+(1) Sign the charges and specifications under oath before a commissioned
 
  officer of the armed forces authorized to administer oaths; and
 
-State that the signer has personal knowledge of or has investigated
+(2) State that the signer has personal knowledge of or has investigated
 
  the matters set forth in the charges and specifications and that they are
 
 true in fact to the best of that person's knowledge and belief.
 
-#  Discussion
+####  Discussion
 
 _See_ Article 136 for authority to administer oaths.
 
@@ -4152,27 +4152,27 @@ and specification(s), and that the same are true in fact to the best of your
 
 of others in whole or in part.
 
-#  How to allege offenses.
+### (c) How to allege offenses.
 
-#  In general.
+#### (1) In general.
 
 The format of charge and specification is used to allege violations
 
 of the code.
 
-#  Discussion
+####  Discussion
 
 _See_ Appendix 4 for a sample of a Charge Sheet (DD
 
 Form 458).
 
-#  Charge.
+#### (2) Charge.
 
 A charge states the article of the code, law of war, or local penal
 
 law of an occupied territory which the accused is alleged to have violated.
 
-#  Discussion
+####  Discussion
 
 The particular subdivision of an article of the code (for example,
 
@@ -4186,13 +4186,13 @@ allege a violation of a different article of the code. For violations of
 
 the law of war, _see_ (D) below.
 
-#  Numbering charges.
+####  Numbering charges.
 
 If there is only one charge, it is not numbered. When there is
 
 more than one charge, each charge is numbered by a Roman numeral.
 
-#  Additional charges.
+####  Additional charges.
 
 Charges preferred after others have been preferred are labeled "additional
 
@@ -4208,7 +4208,7 @@ charges were preferred. Additional charges do not require a separate trial
 
 See_ R.C.M. 601(e)(2). 
 
-#  Preemption.
+####  Preemption.
 
 An offense specifically defined by Articles 81 through 132 may not
 
@@ -4216,7 +4216,7 @@ be alleged as a violation of Article 134. _See_ paragraph
 
 60c(5)(a) of Part IV. _But see_ subsection (d) of this rule.
 
-#  Charges under the law of war.
+####  Charges under the law of war.
 
 In the case of a person subject to trial by general court-martial
 
@@ -4234,15 +4234,15 @@ persons subject to the code should be charged with a specific violation of
 
 the code rather than a violation of the law of war.
 
-#  Specification.
+#### (3) Specification.
 
 A specification is a plain, concise, and definite statement of the essential facts constituting the offense charged. A specification is sufficient if it alleges every element of the charged offense expressly or by necessary implication; however, specifications under Article 134 must expressly allege the terminal element. Except for aggravating factors under R.C.M 1003(d) and R.C.M. 1004, facts that increase the maximum authorized punishment must be alleged in order to permit the possible increased punishment. No particular format is required.
 
-#  Discussion
+####  Discussion
 
   How to draft specifications. For Article 134 offenses, also refer to paragraph 60c(6) in Part IV.
 
-#  Sample specifications.
+####  Sample specifications.
 
 Before drafting a specification, the drafter should read the pertinent
 
@@ -4252,7 +4252,7 @@ forms for specifications appear.
 
 --LSQP--Note:  Be advised that the sample specifications in this Manual have not been amended to comport with _United States v. Jones_, 68 M.J. 465 (C.A.A.F. 2010) and _United States v. Fosler_, 70 M.J. 225 (C.A.A.F. 2011). Practitioners should read the notes above and draft specifications in conformity with the cases cited therein.--RSQP--
 
-#  Numbering specifications.
+####  Numbering specifications.
 
 If there is only one specification under a charge it is not numbered.
 
@@ -4262,9 +4262,9 @@ If there is only one specification under a charge it is not numbered.
 
 used in connection with the specifications under an additional charge.
 
-#  Name and description of the accused.
+####  Name and description of the accused.
 
-#  Name.
+####  Name.
 
 The specification should state the accused's full name: first name,
 
@@ -4278,7 +4278,7 @@ first, followed by all known aliases. For example: Seaman John P. Smith,
 
 U.S. Navy, alias Lt. Robert R. Brown, U.S. Navy.
 
-#  Military association.
+####  Military association.
 
 The specification should state the accused's rank or grade. If the
 
@@ -4292,21 +4292,21 @@ date of the alleged offense. For example: In that
 
 Seaman  , then Seaman Apprentice , etc.
 
-#  Social security number or service number.
+####  Social security number or service number.
 
 The social security number or service number of an accused should
 
 not be stated in the specification.
 
-#  Basis of personal jurisdiction.
+####  Basis of personal jurisdiction.
 
-#  Military members on active duty.
+####  Military members on active duty.
 
 Ordinarily, no allegation of the accused's armed force or unit or
 
 organization is necessary for military members on active duty.
 
-#  Persons subject to the code under Article 2(a), subsections (3) through
+####  Persons subject to the code under Article 2(a), subsections (3) through
 
  (12), or subject to trial by court-martial under Articles 3 or 4.
 
@@ -4320,9 +4320,9 @@ For example: John Jones, (a person employed by and serving with the U.S. Army
 
 discharge), etc.
 
-#  Date and time of offense
+####  Date and time of offense
 
-#  In general.
+####  In general.
 
 The date of the commission of the offense charged should be stated
 
@@ -4332,13 +4332,13 @@ enable the accused to understand what particular act or omission to defend
 
 against.
 
-#  Use of "on or about."
+####  Use of "on or about."
 
 In alleging the date of the offense it is proper to allege it as
 
 "on or about" a specified day.
 
-#  Hour.
+####  Hour.
 
 The exact hour of the offense is ordinarily not alleged except
 
@@ -4346,7 +4346,7 @@ in certain absence offenses. When the exact time is alleged, the 24-hour
 
 clock should be used. The use of "at or about" is proper.
 
-#  Extended periods.
+####  Extended periods.
 
 When the acts specified extend(s) over a considerable period of
 
@@ -4356,7 +4356,7 @@ time it is proper to allege it (or them) as having occurred, for example,
 
 on divers occasions between 15 June 1983 and 4 November 1983."
 
-#  Place of offense.
+####  Place of offense.
 
 The place of the commission of the offense charged should be stated
 
@@ -4368,19 +4368,19 @@ against. In alleging the place of the offense, it is proper to allege it
 
 as "at or near" a certain place if the exact place is uncertain.
 
-#  Subject-matter jurisdiction allegations.
+####  Subject-matter jurisdiction allegations.
 
 Pleading the accused's rank or grade along with the proper elements
 
 of the offense normally will be sufficient to establish subject-matter jurisdiction.
 
-#  Description of offense.
+####  Description of offense.
 
-#  Elements.
+####  Elements.
 
 The elements of the offense must be alleged, either expressly or by necessary implication, except that Article 134 specifications must expressly allege the terminal element. _See_ paragraph 60.c.(6) in Part IV. If a specific intent, knowledge, or state of mind is an element of the offense, it must be alleged.
 
-#  Words indicating criminality.
+####  Words indicating criminality.
 
 If the alleged act is not itself an offense but is made an offense
 
@@ -4394,7 +4394,7 @@ authority" (depending upon the nature of the offense) should be used
 
 to describe the accused's acts.
 
-#  Specificity.
+####  Specificity.
 
 The specification should be sufficiently specific to inform the
 
@@ -4408,7 +4408,7 @@ make the accused's conduct criminal ordinarily should be alleged. Specific
 
 the specifications.
 
-#  Duplicitousness.
+####  Duplicitousness.
 
 One specification should not allege more than one offense, either
 
@@ -4420,19 +4420,19 @@ series of acts constitute one offense, they may be alleged conjunctively. _
 
 See_ R.C.M. 906(b)(5).
 
-#  Lesser Included Offenses.
+####  Lesser Included Offenses.
 
 The elements of the contemplated lesser included offense should be compared with the elements of the greater offense to determine if the elements of the lesser offense are derivative of the greater offense and vice versa. _See_ discussion following paragraph 3.b.(1)(c) in Part IV and the related analysis in Appendix 23.
 
-#  Other considerations in drafting specifications.
+####  Other considerations in drafting specifications.
 
-#  Principals.
+####  Principals.
 
 All principals are charged as if each was the perpetrator. _
 
 See_ paragraph 1 of Part IV for a discussion of principals.
 
-#  Victim.
+####  Victim.
 
 In the case of an offense against the person or property of a person,
 
@@ -4454,7 +4454,7 @@ of using provoking words toward a person subject to the code. _ See
 
 _ paragraph 42 of Part IV.
 
-#  Property.
+####  Property.
 
 In describing property generic terms should be used, such as "a
 
@@ -4470,7 +4470,7 @@ violation of general regulation prohibiting carrying a knife with a blade
 
 that exceeds a certain length.
 
-#  Value.
+####  Value.
 
 When the value of property or other amount determines the maximum
 
@@ -4496,7 +4496,7 @@ the term "of some value" may be used. These principles apply to
 
 allegations of amounts.
 
-#  Documents.
+####  Documents.
 
 When documents other than regulations or orders must be alleged
 
@@ -4508,9 +4508,9 @@ may be described, in which case the description must be sufficient to inform
 
 the accused of the offense charged.
 
-#  Orders.
+####  Orders.
 
-#  General orders.
+####  General orders.
 
 A specification alleging a violation of a general order or regulation
 
@@ -4522,7 +4522,7 @@ title or number, section or paragraph, and date. It is not necessary to recite
 
 the text of the general order or regulation verbatim.
 
-#  Other orders.
+####  Other orders.
 
 If the order allegedly violated is an "other lawful order"
 
@@ -4530,7 +4530,7 @@ If the order allegedly violated is an "other lawful order"
 
 When the order is oral, _see_ (vii) below.
 
-#  Negating exceptions.
+####  Negating exceptions.
 
 If the order contains exceptions, it is not necessary that the specification
 
@@ -4540,13 +4540,13 @@ criminality may be required if the alleged act is not necessarily criminal.
 
  _See_ subsection (G)(ii) of this discussion.
 
-#  Oral statements.
+####  Oral statements.
 
 When alleging oral statements the phrase "or words to that
 
 effect" should be added.
 
-#  Joint offense.
+####  Joint offense.
 
 In the case of a joint offense each accused may be charged separately
 
@@ -4578,7 +4578,7 @@ Roe, Roe may be charged as follows:
 
 that Roe did, in conjunction with Doe, .--PUNCSP--.--PUNCSP--.--PUNCSP--."
 
-#  Matters in aggravation.
+####  Matters in aggravation.
 
 Matters in aggravation that do not increase the maximum authorized
 
@@ -4590,7 +4590,7 @@ Aggravating factors in capital cases should not be alleged in the specification.
 
  Notice of such factors is normally provided in accordance with R.C.M. 1004(b)(1).
 
-#  Abbreviations.
+####  Abbreviations.
 
 Commonly used and understood abbreviations may be used, particularly
 
@@ -4598,11 +4598,11 @@ Commonly used and understood abbreviations may be used, particularly
 
  geographic or political entities, such as the names of states or countries.
 
-#  Multiple offenses.
+#### (4) Multiple offenses.
 
 Charges and specifications alleging all known offenses by an accused may be preferred at the same time. Each specification shall state only one offense. What is substantially one transaction should not be made the basis for an unreasonable multiplication of charges against one person. Unreasonable multiplication of charges is addressed in R.C.M. 906(b)(12); multiplicity is addressed in R.C.M. 907(b)(3)(B); and punishment limitations are addressed in R.C.M. 1003(c)(1)(C).
 
-#  Discussion
+####  Discussion
 
 The prohibition against unreasonable multiplication of charges addresses those features of military law that increase the potential for overreaching in the exercise of prosecutorial discretion. It is based on reasonableness, and has no foundation in Constitutional rights. To determine if charges are unreasonably multiplied, see R.C.M. 906(b)(12). Because prosecutors are free to plead in the alternative, it may be reasonable to charge two or more offenses that arise from one transaction if sufficient doubt exists as to the facts or the law. In no case should both an offense and a lesser included offense thereof be separately charged. See also Part IV, paragraph 3, and R.C.M. 601(e)(2) concerning referral of several offenses.
 
@@ -4626,7 +4626,7 @@ or more offenses. In no case should both an offense and a lesser included
 
 _ R.C.M. 601(e)(2) concerning referral of several offenses.
 
-#  Multiple offenders.
+#### (5) Multiple offenders.
 
 A specification may name more than one person as an accused if each
 
@@ -4634,7 +4634,7 @@ person so named is believed by the accuser to be a principal in the offense
 
 which is the subject of the specification.
 
-#  Discussion
+####  Discussion
 
 _See also_ R.C.M. 601(e)(3) concerning joinder of
 
@@ -4698,7 +4698,7 @@ See also_ Mil. R. Evid. 306.
 
 particulars.
 
-#  Harmless error in citation.
+### (d) Harmless error in citation.
 
 Error in or omission of the designation of the article of the code
 
@@ -4708,9 +4708,9 @@ for dismissal of a charge or reversal of a conviction if the error or omission
 
 did not prejudicially mislead the accused. 
 
-#  Notification to accused of charges
+## Rule 308. Notification to accused of charges
 
-#  Immediate commander.
+### (a) Immediate commander.
 
 The immediate commander of the accused shall cause the accused to
 
@@ -4720,13 +4720,13 @@ the person who preferred the charges and of any person who ordered the charges
 
 to be preferred, if known, as soon as practicable.
 
-#  Discussion
+###  Discussion
 
 When notice is given, a certificate to that effect on the Charge
 
 Sheet should be completed. _See_ Appendix 4.
 
-#  Commanders at higher echelons.
+### (b) Commanders at higher echelons.
 
 When the accused has not been informed of the charges, commanders
 
@@ -4736,7 +4736,7 @@ the accused to be informed of the matters required under subsection (a) of
 
 this rule as soon as practicable. 
 
-#  Remedy.
+### (c) Remedy.
 
 The sole remedy for violation of this rule is a continuance or recess
 
@@ -4748,11 +4748,11 @@ the accused demonstrates that the accused has been hindered in the preparation
 
 of a defense. 
 
-#  FORWARDING AND DISPOSITION OF CHARGES
+# CHAPTER IV. FORWARDING AND DISPOSITION OF CHARGES
 
-#  Forwarding and disposition of charges in general
+## Rule 401. Forwarding and disposition of charges in general
 
-#  Who may dispose of charges.
+### (a) Who may dispose of charges.
 
 Only persons authorized to convene courts-martial or to administer
 
@@ -4762,7 +4762,7 @@ competent authority may withhold the authority of a subordinate to dispose
 
  of charges in individual cases, types of cases, or generally.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 504 as to who may convene courts-martial
 
@@ -4800,7 +4800,7 @@ to refer such charges to a general or special court-martial. _See_ R.C.M.
 
 court-martial).
 
-#  Prompt determination.
+### (b) Prompt determination.
 
 When a commander with authority to dispose of charges receives charges,
 
@@ -4808,7 +4808,7 @@ that commander shall promptly determine what disposition will be made in
 
 the interest of justice and discipline.
 
-#  Discussion
+###  Discussion
 
 In determining what level of disposition is appropriate, _
 
@@ -4838,7 +4838,7 @@ accused has been notified in accordance with R.C.M. 308; and (3) the charges
 
 are in proper form.
 
-#  How charges may be disposed of.
+### (c) How charges may be disposed of.
 
 Unless the authority to do so has been limited or withheld by superior
 
@@ -4852,7 +4852,7 @@ empowered to convene. Charges should be disposed of in accordance with the
 
 policy in R.C.M. 306(b).
 
-#  Discussion
+###  Discussion
 
 A commander may dispose of charges individually or collectively.
 
@@ -4866,13 +4866,13 @@ _ Appendix 3 when the charges may involve matters in which the Department
 
 of Justice has an interest.
 
-#  Dismissal.
+#### (1) Dismissal.
 
 When a commander dismisses charges further disposition under R.C.M.
 
 306(c) of the offenses is not barred.
 
-#  Discussion
+####  Discussion
 
 Charges are ordinarily dismissed by lining out and initialing the
 
@@ -4924,9 +4924,9 @@ See_ R.C.M. 907(b)(2)(C) concerning the effect of dismissing charges
 
 after the court-martial has begun.
 
-#  Forwarding charges.
+#### (2) Forwarding charges.
 
-#  Forwarding to a superior commander.
+##### (A) Forwarding to a superior commander.
 
 When charges are forwarded to a superior commander for disposition,
 
@@ -4936,7 +4936,7 @@ If the forwarding commander is disqualified from acting as convening authority
 
 in the case, the basis for the disqualification shall be noted.
 
-#  Discussion
+#####  Discussion
 
 A commander's recommendation is within that commander's sole discretion.
 
@@ -5002,13 +5002,13 @@ they should be accompanied by sufficient information to enable the authority
 
 receiving them to dispose of them without further investigation.
 
-#  Other cases.
+##### (B) Other cases.
 
 When charges are forwarded to a commander who is not a superior
 
 of the forwarding commander, no recommendation as to disposition may be made.
 
-#  Discussion
+#####  Discussion
 
 Except when directed to forward charges, a subordinate commander
 
@@ -5022,11 +5022,11 @@ for compliance with procedural requirements. _See_, for example,
 
 R.C.M. 303 (preliminary inquiry); R.C.M. 308 (notification to accused of charges).
 
-#  Referral of charges.
+#### (3) Referral of charges.
 
 _See_ R.C.M. 403, 404, 407, 601. 
 
-#  National security matters.
+### (d) National security matters.
 
 If a commander who is not a general court-martial convening authority
 
@@ -5038,27 +5038,27 @@ security, the charges shall be forwarded to the officer exercising general
 
 court-martial convening authority.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 407(b).
 
-#  Action by commander not authorized to convene courts-martial
+## Rule 402. Action by commander not authorized to convene courts-martial
 
 When in receipt of charges, a commander authorized to administer
 
 nonjudicial punishment but not authorized to convene courts-martial may:
 
-Dismiss any charges; or
+(1) Dismiss any charges; or
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 401(c)(1) concerning dismissal of charges,
 
 the effect of dismissal, and options for further action.
 
-Forward them to a superior commander for disposition.
+(2) Forward them to a superior commander for disposition.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 401(c)(2) for additional guidance concerning
 
@@ -5074,9 +5074,9 @@ the immediate commander is authorized to convene courts-martial, _
 
 see_ R.C.M. 403, 404, or 407, as appropriate.
 
-#  Action by commander exercising summary court-martial jurisdiction
+## Rule 403. Action by commander exercising summary court-martial jurisdiction
 
-#  Recording receipt.
+### (a) Recording receipt.
 
 Immediately upon receipt of sworn charges, an officer exercising
 
@@ -5084,7 +5084,7 @@ summary court-martial jurisdiction over the command shall cause the hour
 
 and date of receipt to be entered on the charge sheet.
 
-#  Discussion
+###  Discussion
 
 _See_ Article 24 and R.C.M. 1302(a) concerning who
 
@@ -5102,25 +5102,25 @@ jurisdiction over the command to stop the running of the statute of limitations
 
 even though the accused is absent without authority.
 
-#  Disposition.
+### (b) Disposition.
 
 When in receipt of charges a commander exercising summary court-martial
 
 jurisdiction may: 
 
-Dismiss any charges;
+(1) Dismiss any charges;
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 401(c)(1) concerning dismissal of charges,
 
 the effect of dismissing charges, and options for further action.
 
-Forward charges (or, after dismissing charges, the matter) to a
+(2) Forward charges (or, after dismissing charges, the matter) to a
 
 subordinate commander for disposition; 
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 401(c)(2)(B) concerning forwarding charges
 
@@ -5128,31 +5128,31 @@ to a subordinate. When appropriate, charges may be forwarded to a subordinate
 
 even if the subordinate previously considered them.
 
-Forward any charges to a superior commander for disposition;
+(3) Forward any charges to a superior commander for disposition;
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 401(c)(2)(A) for guidance concerning
 
 forwarding charges to a superior.
 
-Subject to R.C.M. 601(d), refer charges to a summary court-martial
+(4) Subject to R.C.M. 601(d), refer charges to a summary court-martial
 
 for trial; or
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 1302(c) concerning referral of charges
 
 to a summary court-martial.
 
-Unless otherwise prescribed by the Secretary concerned, direct a
+(5) Unless otherwise prescribed by the Secretary concerned, direct a
 
 pretrial investigation under R.C.M. 405, and, if appropriate, forward the
 
 report of investigation with the charges to a superior commander for disposition.
 
-#  Discussion
+####  Discussion
 
 An investigation should be directed when it appears that the charges
 
@@ -5162,25 +5162,25 @@ See_ R.C.M. 405. If an investigation of the subject matter already
 
 has been conducted, _see_ R.C.M. 405(b).
 
-#  Action by commander exercising special court-martial jurisdiction
+## Rule 404. Action by commander exercising special court-martial jurisdiction
 
 When in receipt of charges, a commander exercising special court-martial
 
 jurisdiction may: 
 
-Dismiss any charges;
+(a) Dismiss any charges;
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 401(c)(1) concerning dismissal of charges,
 
 the effect of dismissing charges, and options for further action.
 
-Forward charges (or, after dismissing charges, the matter) to a
+(b) Forward charges (or, after dismissing charges, the matter) to a
 
  subordinate commander for disposition; 
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 401(c)(2)(B) concerning forwarding charges
 
@@ -5188,19 +5188,19 @@ to a subordinate. When appropriate, charges may be forwarded to a subordinate
 
 even if that subordinate previously considered them.
 
-Forward any charges to a superior commander for disposition;
+(c) Forward any charges to a superior commander for disposition;
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 401(c)(2)(A) for guidance concerning
 
 forwarding charges to a superior.
 
-Subject to R.C.M. 601(d), refer charges to a summary court-martial
+(d) Subject to R.C.M. 601(d), refer charges to a summary court-martial
 
 or to a special court-martial for trial; or
 
-#  Discussion
+###  Discussion
 
 _See_ Article 23 and R.C.M. 504(b)(2) concerning
 
@@ -5212,53 +5212,53 @@ who may convene special courts-martial.
 
 _ R.C.M. 1302(c) concerning referral of charges to a summary court-martial.
 
-Unless otherwise prescribed by the Secretary concerned, direct a preliminary hearing under R.C.M. 405, and, if appropriate, forward the report of preliminary hearing with the charges to a superior commander for disposition.
+(e) Unless otherwise prescribed by the Secretary concerned, direct a preliminary hearing under R.C.M. 405, and, if appropriate, forward the report of preliminary hearing with the charges to a superior commander for disposition.
 
-#  Discussion
+###  Discussion
 
  A preliminary hearing should be directed when it appears that the charges are of such a serious nature that trial by general court-martial may be warranted. _See_ R.C.M. 405. If a preliminary hearing of the subject matter already has been conducted, see R.C.M. 405(b) and 405(e)(2).
 
-#  Disclosure of matters following direction of preliminary hearing
+## Rule 404A. Disclosure of matters following direction of preliminary hearing
 
-When a convening authority directs a preliminary hearing under R.C.M. 405, counsel for
+(a) When a convening authority directs a preliminary hearing under R.C.M. 405, counsel for
 
 the government shall, subject to R.C.M. 404A(b)-(d) below, within 5 days of issuance of the Article 32 appointing order, provide to the defense the following information or matters:
 
-Charge sheet;
+(1) Charge sheet;
 
-Article 32 appointing order;
+(2) Article 32 appointing order;
 
-Documents accompanying the charge sheet on which the preferral decision was based;
+(3) Documents accompanying the charge sheet on which the preferral decision was based;
 
-Documents provided to the convening authority when deciding to direct the preliminary hearing;
+(4) Documents provided to the convening authority when deciding to direct the preliminary hearing;
 
-Documents the counsel for the government intends to present at the preliminary hearing; and
+(5) Documents the counsel for the government intends to present at the preliminary hearing; and
 
-Access to tangible objects counsel for the government intends to present at the preliminary hearing.
+(6) Access to tangible objects counsel for the government intends to present at the preliminary hearing.
 
-#  Contraband.
+### (b) Contraband.
 
 If items covered by subsection 404A(a) above are contraband, the disclosure required under this rule is a reasonable opportunity to inspect said contraband prior to the hearing.
 
-#  Privilege.
+### (c) Privilege.
 
 If items covered by subsection 404A(a) above are privileged, classified or otherwise protected under Section V of Part III, no disclosure of those items is required under this rule. However, counsel for the government may disclose privileged, classified, or otherwise protected information covered by subsection 404A(a) above if authorized by the holder of the privilege, or in the case of Mil. R. Evid. 505 or 506, if authorized by a competent authority.
 
-#  Protective order if privileged information is disclosed.
+### (d) Protective order if privileged information is disclosed.
 
 If the government agrees to disclose to the accused information to which the protections afforded by Section V of Part III may apply, the convening authority, or other person designated by regulation of the Secretary concerned, may enter an appropriate protective order, in writing, to guard against the compromise of information disclosed to the accused. The terms of any such protective order may include prohibiting the disclosure of the information except as authorized by the authority issuing the protective order, as well as those terms specified by Mil. R. Evid. 505(g)(2)-(6) or 506(g)(2)(5).
 
-#  Discussion
+###  Discussion
 
  The purposes of this rule are to provide the accused with the documents used to make the determination to prefer charges and direct a preliminary hearing, and to allow the accused to prepare for the preliminary hearing. This rule is not intended to be a tool for discovery and does not impose the same discovery obligations found in R.C.M. 405 prior to amendments required by the National Defense Authorization Act for Fiscal Year 2014 or R.C.M. 701. Additional rules for disclosure of witnesses and other evidence in the preliminary hearing are provided in R.C.M. 405(g).
 
-#  Preliminary hearing
+## Rule 405. Preliminary hearing
 
-#  In general.
+### (a) In general.
 
 Except as provided in subsection (k) of this rule, no charge or specification may be referred to a general court-martial for trial until completion of a preliminary hearing in substantial compliance with this rule. A preliminary hearing conducted under this rule is not intended to serve as a means of discovery and will be limited to an examination of those issues necessary to determine whether there is probable cause to conclude that an offense or offenses have been committed and whether the accused committed it; to determine whether a court-martial would have jurisdiction over the offense(s) and the accused; to consider the form of the charge(s); and to recommend the disposition that should be made of the charge(s). Failure to comply with this rule shall have no effect on the disposition of the charge(s) if the charge(s) is not referred to a general court-martial.
 
-#  Discussion
+###  Discussion
 
  The function of the preliminary hearing is to ascertain and impartially weigh the facts needed for the limited scope and purpose of the preliminary hearing. The preliminary hearing is not intended to perfect a case against the accused and is not intended to serve as a means of discovery or to provide a right of confrontation required at trial. Determinations and recommendations of the preliminary hearing officer are advisory.
 
@@ -5266,17 +5266,17 @@ Except as provided in subsection (k) of this rule, no charge or specification ma
 
  The accused may waive the preliminary hearing. See subsection (k) of this rule. In such case, no preliminary hearing need be held. However, the convening authority authorized to direct the preliminary hearing may direct that it be conducted notwithstanding the waiver.
 
-#  Earlier preliminary hearing.
+### (b) Earlier preliminary hearing.
 
 If a preliminary hearing of the subject matter of an offense has been conducted before the accused is charged with an offense, and the accused was present at the preliminary hearing and afforded the rights to counsel, cross-examination, and presentation of evidence required by this rule, no further preliminary hearing is required. 
 
-#  Who may direct a preliminary hearing.
+### (c) Who may direct a preliminary hearing.
 
 Unless prohibited by regulations of the Secretary concerned, a preliminary hearing may be directed under this rule by any court-martial convening authority. That authority may also give procedural instructions not inconsistent with these rules. 
 
-#  Personnel.
+### (d) Personnel.
 
-#  Preliminary hearing officer.
+#### (1) Preliminary hearing officer.
 
 Whenever practicable, the convening authority directing a preliminary hearing under this rule shall detail an impartial judge advocate certified under Article 27(b), not the accuser, as a preliminary hearing officer, who shall conduct the preliminary hearing and make a report that addresses whether there is probable cause to believe that an offense or offenses have been committed and that the accused committed the offense(s); whether a court-martial would have jurisdiction over the offense(s) and the accused; the form of the charges(s); and a recommendation as to the disposition of the charge(s).
 
@@ -5286,195 +5286,195 @@ Whenever practicable, the convening authority directing a preliminary hearing un
 
  The preliminary hearing officer shall not depart from an impartial role and become an advocate for either side. The preliminary hearing officer is disqualified to act later in the same case in any other capacity.
 
-#  Discussion
+####  Discussion
 
  The preliminary hearing officer, if not a judge advocate, should be an officer in the grade of O-4 or higher. The preliminary hearing officer may seek legal advice concerning the preliminary hearing officer's responsibilities from an impartial source, but may not obtain such advice from counsel for any party or counsel for a victim.
 
-#  Counsel to represent the United States.
+#### (2) Counsel to represent the United States.
 
 A judge advocate, not the accuser, shall serve as counsel to represent the United States, and shall present evidence on behalf of the government relevant to the limited scope and purpose of the preliminary hearing as set forth in subsection (a) of this rule.
 
-#  Defense counsel.
+#### (3) Defense counsel.
 
 The commander who directed the investigation may also, as a matter
 
 of discretion, detail or request an appropriate authority to detail:
 
-#  Detailed counsel.
+##### (A) Detailed counsel.
 
 Except as provided in subsection (d)(3)(B) of this rule, military counsel certified in accordance with Article 27(b) shall be detailed to represent the accused. 
 
-#  Individual military counsel.
+##### (B) Individual military counsel.
 
 The accused may request to be represented by individual military counsel. Such requests shall be acted on in accordance with R.C.M. 506(b). 
 
-#  Civilian counsel.
+##### (C) Civilian counsel.
 
 The accused may be represented by civilian counsel at no expense to the United States. Upon request, the accused is entitled to a reasonable time to obtain civilian counsel and to have such counsel present for the preliminary hearing. However, the preliminary hearing shall not be unduly delayed for this purpose. Representation by civilian counsel shall not limit the rights to military counsel under subsections (d)(3)(A) and (B) of this rule. 
 
-#  Others.
+#### (4) Others.
 
 The convening authority who directed the preliminary hearing may also, as a matter of discretion, detail or request an appropriate authority to detail:
 
-A reporter; and 
+(A) A reporter; and 
 
-An interpreter. 
+(B) An interpreter. 
 
-#  Scope of preliminary hearing.
+### (e) Scope of preliminary hearing.
 
-The preliminary hearing officer shall limit the inquiry to the examination of evidence, including witnesses, necessary to:
+(1) The preliminary hearing officer shall limit the inquiry to the examination of evidence, including witnesses, necessary to:
 
-Determine whether there is probable cause to believe an offense or offenses have been committed and whether the accused committed it;
+(A) Determine whether there is probable cause to believe an offense or offenses have been committed and whether the accused committed it;
 
-Determine whether a court-martial would have jurisdiction over the offense(s) and the accused;
+(B) Determine whether a court-martial would have jurisdiction over the offense(s) and the accused;
 
-Consider whether the form of the charge(s) is proper; and
+(C) Consider whether the form of the charge(s) is proper; and
 
-Make a recommendation as to the disposition of the charge(s). 
+(D) Make a recommendation as to the disposition of the charge(s). 
 
-If evidence adduced during the preliminary hearing indicates that the accused committed any uncharged offense(s), the preliminary hearing officer may examine evidence and hear witnesses relating to the subject matter of such offense(s) and make the findings and recommendations enumerated in subsection (e)(1) of this rule regarding such offense(s) without the accused first having been charged with the offense. The accused's rights under subsection (f)(2) of this rule, and, where it would not cause undue delay to the proceedings, subsection (g) of this rule, are the same with regard to both charged and uncharged offenses. When considering uncharged offenses identified during the preliminary hearing, the preliminary hearing officer shall inform the accused of the general nature of each uncharged offense considered, and otherwise afford the accused the same opportunity for representation, cross examination, and presentation afforded during the preliminary hearing of any charged offense.
+(2) If evidence adduced during the preliminary hearing indicates that the accused committed any uncharged offense(s), the preliminary hearing officer may examine evidence and hear witnesses relating to the subject matter of such offense(s) and make the findings and recommendations enumerated in subsection (e)(1) of this rule regarding such offense(s) without the accused first having been charged with the offense. The accused's rights under subsection (f)(2) of this rule, and, where it would not cause undue delay to the proceedings, subsection (g) of this rule, are the same with regard to both charged and uncharged offenses. When considering uncharged offenses identified during the preliminary hearing, the preliminary hearing officer shall inform the accused of the general nature of each uncharged offense considered, and otherwise afford the accused the same opportunity for representation, cross examination, and presentation afforded during the preliminary hearing of any charged offense.
 
-#  Discussion
+####  Discussion
 
  Except as set forth in subsection (h) below, the Mil. R. Evid. do not apply at a preliminary hearing. Except as prohibited elsewhere in this rule, a preliminary hearing officer may consider evidence, including hearsay, which would not be admissible at trial.
 
-#  Rights of the accused.
+### (f) Rights of the accused.
 
-Prior to any preliminary hearing under this rule the accused shall have the right to:
+(1) Prior to any preliminary hearing under this rule the accused shall have the right to:
 
-Notice of any witnesses that the government intends to call at the preliminary hearing and copies of or access to any written or recorded statements made by those witnesses that relate to the subject matter of any charged offense; 
+(A) Notice of any witnesses that the government intends to call at the preliminary hearing and copies of or access to any written or recorded statements made by those witnesses that relate to the subject matter of any charged offense; 
 
-For purposes of this rule, a "written statement" is one that is signed or otherwise adopted or approved by the witness that is within the possession or control of counsel for the government; and
+(i) For purposes of this rule, a "written statement" is one that is signed or otherwise adopted or approved by the witness that is within the possession or control of counsel for the government; and
 
-For purposes of this rule, a "recorded statement" is an oral statement made by the witness that is recorded contemporaneously with the making of the oral statement and contained in a digital or other recording or a transcription thereof that is within the possession or control of counsel for the government. 
+(ii) For purposes of this rule, a "recorded statement" is an oral statement made by the witness that is recorded contemporaneously with the making of the oral statement and contained in a digital or other recording or a transcription thereof that is within the possession or control of counsel for the government. 
 
-Notice of, and reasonable access to, any other evidence that the government intends to offer at the preliminary hearing; and
+(B) Notice of, and reasonable access to, any other evidence that the government intends to offer at the preliminary hearing; and
 
-Notice of, and reasonable access to, evidence that is within the possession or control of counsel for the government that negates or reduces the degree of guilt of the accused for an offense charged.
+(C) Notice of, and reasonable access to, evidence that is within the possession or control of counsel for the government that negates or reduces the degree of guilt of the accused for an offense charged.
 
-At any preliminary hearing under this rule the accused shall have the right to:
+(2) At any preliminary hearing under this rule the accused shall have the right to:
 
-Be advised of the charges under consideration;
+(A) Be advised of the charges under consideration;
 
-Be represented by counsel;
+(B) Be represented by counsel;
 
-Be informed of the purpose of the preliminary hearing;
+(C) Be informed of the purpose of the preliminary hearing;
 
-Be informed of the right against self-incrimination under Article 31;
+(D) Be informed of the right against self-incrimination under Article 31;
 
-Except in the circumstances described in R.C.M. 804(c)(2), be present throughout the taking of evidence;
+(E) Except in the circumstances described in R.C.M. 804(c)(2), be present throughout the taking of evidence;
 
-Cross-examine witnesses on matters relevant to the limited scope and purpose of the preliminary hearing;
+(F) Cross-examine witnesses on matters relevant to the limited scope and purpose of the preliminary hearing;
 
-Present matters in defense and mitigation relevant to the limited scope and purpose of the preliminary hearing; and
+(G) Present matters in defense and mitigation relevant to the limited scope and purpose of the preliminary hearing; and
 
-#  Discussion
+###########  Discussion
 
  Unsworn statements by the accused, unlike those made under R.C.M. 1001(c)(2), shall be limited to matters in defense and mitigation.
 
-Make a statement relevant to the limited scope and purpose of the preliminary hearing.
+(H) Make a statement relevant to the limited scope and purpose of the preliminary hearing.
 
-#  Production of Witnesses and Other Evidence.
+### (g) Production of Witnesses and Other Evidence.
 
-#  Military Witnesses.
+#### (1) Military Witnesses.
 
-Prior to the preliminary hearing, defense counsel shall provide to counsel for the government the names of proposed military witnesses whom the accused requests that the government produce to testify at the preliminary hearing, and the requested form of the testimony, in accordance with the timeline established by the preliminary hearing officer. Counsel for the government shall respond that either: (1) the government agrees that the witness's testimony is relevant, not cumulative, and necessary for the limited scope and purpose of the preliminary hearing and will seek to secure the witness's testimony for the hearing; or (2) the government objects to the proposed defense witness on the grounds that the testimony would be irrelevant, cumulative, or unnecessary based on the limited scope and purpose of the preliminary hearing.
+(A) Prior to the preliminary hearing, defense counsel shall provide to counsel for the government the names of proposed military witnesses whom the accused requests that the government produce to testify at the preliminary hearing, and the requested form of the testimony, in accordance with the timeline established by the preliminary hearing officer. Counsel for the government shall respond that either: (1) the government agrees that the witness's testimony is relevant, not cumulative, and necessary for the limited scope and purpose of the preliminary hearing and will seek to secure the witness's testimony for the hearing; or (2) the government objects to the proposed defense witness on the grounds that the testimony would be irrelevant, cumulative, or unnecessary based on the limited scope and purpose of the preliminary hearing.
 
-If the government objects to the proposed defense witness, defense counsel may request that the preliminary hearing officer determine whether the witness is relevant, not cumulative, and necessary based on the limited scope and purpose of the preliminary hearing. 
+(B) If the government objects to the proposed defense witness, defense counsel may request that the preliminary hearing officer determine whether the witness is relevant, not cumulative, and necessary based on the limited scope and purpose of the preliminary hearing. 
 
-If the government does not object to the proposed defense military witness or the preliminary hearing officer determines that the military witness is relevant, not cumulative, and necessary, counsel for the government shall request that the commanding officer of the proposed military witness make that person available to provide testimony. The commanding officer shall determine whether the individual is available based on operational necessity or mission requirements, except that a victim, as defined in this rule, who declines to testify shall be deemed to be not available. If the commanding officer determines that the military witness is available, counsel for the government shall make arrangements for that individual's testimony. The commanding officer's determination of unavailability due to operational necessity or mission requirements is final. The military witness's commanding officer determines the availability of the witness and, if there is a dispute among the parties, determines whether the witness testifies in person, by video teleconference, by telephone, or by similar means of remote testimony.
+(C) If the government does not object to the proposed defense military witness or the preliminary hearing officer determines that the military witness is relevant, not cumulative, and necessary, counsel for the government shall request that the commanding officer of the proposed military witness make that person available to provide testimony. The commanding officer shall determine whether the individual is available based on operational necessity or mission requirements, except that a victim, as defined in this rule, who declines to testify shall be deemed to be not available. If the commanding officer determines that the military witness is available, counsel for the government shall make arrangements for that individual's testimony. The commanding officer's determination of unavailability due to operational necessity or mission requirements is final. The military witness's commanding officer determines the availability of the witness and, if there is a dispute among the parties, determines whether the witness testifies in person, by video teleconference, by telephone, or by similar means of remote testimony.
 
-#  Discussion
+#####  Discussion
 
  A commanding officer's determination of whether an individual is available, as well as the means by which the individual is available, is a balancing test. The more important the testimony of the witness, the greater the difficulty, expense, delay, or effect on military operations must be to deny production of the witness. Based on operational necessity and mission requirements, the witness's commanding officer may authorize the witness to testify by video teleconference, telephone, or similar means of remote testimony. Factors to be considered in making this determination include the costs of producing the witness; the timing of the request for production of the witness; the potential delay in the proceeding that may be caused by the production of the witness; and the likelihood of significant interference with operational deployment, mission accomplishment, or essential training.
 
-#  Civilian Witnesses.
+#### (2) Civilian Witnesses.
 
-#  Military witnesses.
+##### (A) Military witnesses.
 
 Defense counsel shall provide to counsel for the government the names of proposed civilian witnesses whom the accused requests that the government produce to testify at the preliminary hearing, and the requested form of the testimony, in accordance with the timeline established by the preliminary hearing officer. Counsel for the government shall respond that either: (1) the government agrees that the witness's testimony is relevant, not cumulative, and necessary for the limited scope and purpose of the preliminary hearing and will seek to secure the witness's testimony for the hearing; or (2) the government objects to the proposed defense witness on the grounds that the testimony would be irrelevant, cumulative, or unnecessary based on the limited scope and purpose of the preliminary hearing.
 
-If the government objects to the proposed defense witness, defense counsel may request that the preliminary hearing officer determine whether the witness is relevant, not cumulative, and necessary based on the limited scope and purpose of the preliminary hearing.
+(B) If the government objects to the proposed defense witness, defense counsel may request that the preliminary hearing officer determine whether the witness is relevant, not cumulative, and necessary based on the limited scope and purpose of the preliminary hearing.
 
-#  Evidence generally.
+##### (C) Evidence generally.
 
 If the government does not object to the proposed civilian witness or the preliminary hearing officer determines that the civilian witness's testimony is relevant, not cumulative, and necessary, counsel for the government shall invite the civilian witness to provide testimony and, if the individual agrees, shall make arrangements for that witness's testimony. If expense to the government is to be incurred, the convening authority who directed the preliminary hearing, or the convening authority's delegate, shall determine whether the witness testifies in person, by video teleconference, by telephone, or by similar means of remote testimony.
 
-#  Discussion
+#####  Discussion
 
  Factors to be considered in making this determination include the costs of producing the witness; the timing of the request for production of the witness; the potential delay in the proceeding that may be caused by the production of the witness; the willingness of the witness to testify in person; and, for child witnesses, the traumatic effect of providing in-person testimony. Civilian witnesses may not be compelled to provide testimony at a preliminary hearing. Civilian witnesses may be paid for travel and associated expenses to testify at a preliminary hearing. _See_ Department of Defense Joint Travel Regulations.
 
-#  Other evidence.
+##### (3) Other evidence.
 
-#  Evidence under the control of the government.
+###### (A) Evidence under the control of the government.
 
-Prior to the preliminary hearing, defense counsel shall provide to counsel for the government a list of evidence under the control of the government the accused requests the government produce to the defense for introduction at the preliminary hearing. The preliminary hearing officer may set a deadline by which defense requests must be received. Counsel for the government shall respond that either: (1) the government agrees that the evidence is relevant, not cumulative, and necessary for the limited scope and purpose of the preliminary hearing and shall make reasonable efforts to obtain the evidence; or (2) the government objects to production of the evidence on the grounds that the evidence would be irrelevant, cumulative, or unnecessary based on the limited scope and purpose of the preliminary hearing.
+(i) Prior to the preliminary hearing, defense counsel shall provide to counsel for the government a list of evidence under the control of the government the accused requests the government produce to the defense for introduction at the preliminary hearing. The preliminary hearing officer may set a deadline by which defense requests must be received. Counsel for the government shall respond that either: (1) the government agrees that the evidence is relevant, not cumulative, and necessary for the limited scope and purpose of the preliminary hearing and shall make reasonable efforts to obtain the evidence; or (2) the government objects to production of the evidence on the grounds that the evidence would be irrelevant, cumulative, or unnecessary based on the limited scope and purpose of the preliminary hearing.
 
-If the government objects to production of the evidence, defense counsel may request that the preliminary hearing officer determine whether the evidence should be produced.  The preliminary hearing officer shall determine whether the evidence is relevant, not cumulative, and necessary based on the limited scope and purpose of the hearing. If the preliminary hearing officer determines that the evidence shall be produced, counsel for the government shall make reasonable efforts to obtain the evidence.
+(ii) If the government objects to production of the evidence, defense counsel may request that the preliminary hearing officer determine whether the evidence should be produced.  The preliminary hearing officer shall determine whether the evidence is relevant, not cumulative, and necessary based on the limited scope and purpose of the hearing. If the preliminary hearing officer determines that the evidence shall be produced, counsel for the government shall make reasonable efforts to obtain the evidence.
 
-#  Evidence not under the control of the government.
+###### (B) Evidence not under the control of the government.
 
-Evidence not under the control of the government may be obtained through noncompulsory means or by _subpoenas duces tecum_ issued by counsel for the government in accordance with the process established by R.C.M. 703.
+(i) Evidence not under the control of the government may be obtained through noncompulsory means or by _subpoenas duces tecum_ issued by counsel for the government in accordance with the process established by R.C.M. 703.
 
-Prior to the preliminary hearing, defense counsel shall provide to counsel for the government a list of evidence not under the control of the government that the accused requests the government obtain. The preliminary hearing officer may set a deadline by which defense requests must be received. Counsel for the government shall respond that either: (1) the government agrees that the evidence is relevant, not cumulative, and necessary for the limited scope and purpose of the preliminary hearing and shall issue _subpoenas duces tecum_ for the evidence; or (2) the government objects to production of the evidence on the grounds that the evidence would be irrelevant, cumulative, or unnecessary based on the limited scope and purpose of the preliminary hearing. 
+(ii) Prior to the preliminary hearing, defense counsel shall provide to counsel for the government a list of evidence not under the control of the government that the accused requests the government obtain. The preliminary hearing officer may set a deadline by which defense requests must be received. Counsel for the government shall respond that either: (1) the government agrees that the evidence is relevant, not cumulative, and necessary for the limited scope and purpose of the preliminary hearing and shall issue _subpoenas duces tecum_ for the evidence; or (2) the government objects to production of the evidence on the grounds that the evidence would be irrelevant, cumulative, or unnecessary based on the limited scope and purpose of the preliminary hearing. 
 
-If the government objects to production of the evidence, defense counsel may request that the preliminary hearing officer determine whether the evidence should be produced.  If the preliminary hearing officer determines that the evidence is relevant, not cumulative, and necessary based on the limited scope and purpose of the preliminary hearing and that the issuance of _subpoenas duces tecum_ would not cause undue delay to the preliminary hearing, the preliminary hearing officer shall direct counsel for the government to issue _subpoenas duces tecum_ for the defense-requested evidence. Failure on the part of counsel for the government to issue _subpoenas duces tecum_ directed by the preliminary hearing officer shall be noted by the preliminary hearing officer in the report of preliminary hearing.
+(iii) If the government objects to production of the evidence, defense counsel may request that the preliminary hearing officer determine whether the evidence should be produced.  If the preliminary hearing officer determines that the evidence is relevant, not cumulative, and necessary based on the limited scope and purpose of the preliminary hearing and that the issuance of _subpoenas duces tecum_ would not cause undue delay to the preliminary hearing, the preliminary hearing officer shall direct counsel for the government to issue _subpoenas duces tecum_ for the defense-requested evidence. Failure on the part of counsel for the government to issue _subpoenas duces tecum_ directed by the preliminary hearing officer shall be noted by the preliminary hearing officer in the report of preliminary hearing.
 
-#  Discussion
+#######  Discussion
 
  A _subpoena duces tecum_ to produce books, papers, documents, data, electronically stored information, or other objects for a preliminary hearing pursuant to Article 32 may be issued by counsel for the government. The preliminary hearing officer has no authority to issue a _subpoena duces tecum_. However, the preliminary hearing officer may direct counsel for the government to issue a _subpoena duces tecum_ for defense-requested evidence.
 
-#  Military Rules of Evidence.
+### (h) Military Rules of Evidence.
 
 The Military Rules of Evidence do not apply in preliminary hearings under this rule except as follows:
 
-Mil. R. Evid. 301-303 and 305 shall apply in their entirety.
+(1) Mil. R. Evid. 301-303 and 305 shall apply in their entirety.
 
-Mil. R. Evid. 412 shall apply in any case that includes a charge defined as a sexual offense in Mil. R. Evid. 412(d), except that Mil. R. Evid. 412(b)(1)(C) shall not apply.
+(2) Mil. R. Evid. 412 shall apply in any case that includes a charge defined as a sexual offense in Mil. R. Evid. 412(d), except that Mil. R. Evid. 412(b)(1)(C) shall not apply.
 
-Mil. R. Evid., Section V, Privileges, shall apply, except that Mil. R. Evid. 505(f)-(h) and (j); 506(f)-(h), (j), (k), and (m); and 514(d)(6) shall not apply.
+(3) Mil. R. Evid., Section V, Privileges, shall apply, except that Mil. R. Evid. 505(f)-(h) and (j); 506(f)-(h), (j), (k), and (m); and 514(d)(6) shall not apply.
 
-In applying these rules to a preliminary hearing, the term "military judge," as used in these rules, shall mean the preliminary hearing officer, who shall assume the military judge's authority to exclude evidence from the preliminary hearing, and who shall, in discharging this duty, follow the procedures set forth in the rules cited in subsections (h)(1)-(3) of this rule. However, the preliminary hearing officer is not authorized to order production of communications covered by Mil. R. Evid. 513 and 514.
+(4) In applying these rules to a preliminary hearing, the term "military judge," as used in these rules, shall mean the preliminary hearing officer, who shall assume the military judge's authority to exclude evidence from the preliminary hearing, and who shall, in discharging this duty, follow the procedures set forth in the rules cited in subsections (h)(1)-(3) of this rule. However, the preliminary hearing officer is not authorized to order production of communications covered by Mil. R. Evid. 513 and 514.
 
-#  Discussion
+####  Discussion
 
  The prohibition against ordering production of evidence does not preclude a preliminary hearing officer from considering evidence offered by the parties under Mil. R. Evid. 513 or 514.
 
-Failure to meet the procedural requirements of the applicable rules of evidence shall result in exclusion of that evidence from the preliminary hearing, unless good cause is shown.
+(5) Failure to meet the procedural requirements of the applicable rules of evidence shall result in exclusion of that evidence from the preliminary hearing, unless good cause is shown.
 
-#  Discussion
+####  Discussion
 
  Before considering evidence offered under subsection (h)(2), the preliminary hearing officer must determine that the evidence offered is relevant for the limited scope and purpose of the hearing, that the evidence is proper under subsection (h)(2), and that the probative value of such evidence outweighs the danger of unfair prejudice to the alleged victim's privacy. The preliminary hearing officer shall set forth any limitations on the scope of such evidence.
 
  Evidence offered under subsection (h)(2) above must be protected pursuant to the Privacy Act of 1974, 5 U.S.C. --SECT-- 552a. Although Mil. R. Evid. 412(b)(1)(C) allows admission of evidence of the victim's sexual behavior or predisposition at trial when it is constitutionally required, there is no constitutional requirement at an Article 32 hearing. There is likewise no constitutional requirement for a pretrial hearing officer to consider evidence under Mil. R. Evid. 514(d)(6) at an Article 32 hearing. Evidence deemed admissible by the preliminary hearing officer should be made a part of the report of preliminary hearing. _See_ subsection (j)(2)(C), _infra_. Evidence not considered, and the testimony taken during a closed hearing, should not be included in the report of preliminary hearing but should be appropriately safeguarded or sealed. The preliminary hearing officer and counsel representing the government are responsible for careful handling of any such evidence to prevent unauthorized viewing or disclosure.
 
-#  Procedure.
+### (i) Procedure.
 
-#  Generally.
+#### (1) Generally.
 
  The preliminary hearing shall begin with the preliminary hearing officer informing the accused of the accused's rights under subsection (f) of this rule. Counsel for the government will then present evidence. Upon the conclusion of counsel for the government's presentation of evidence, defense counsel may present matters in defense and mitigation consistent with subsection (f) of this rule. For the purposes of this rule, "matters in mitigation" are defined as matters that may serve to explain the circumstances surrounding a charged offense. Both counsel for the government and defense shall be afforded an opportunity to cross-examine adverse witnesses. The preliminary hearing officer may also question witnesses called by the parties. If the preliminary hearing officer determines that additional evidence is necessary to satisfy the requirements of subsection (e) above, the preliminary hearing officer may provide the parties an opportunity to present additional testimony or evidence relevant to the limited scope and purpose of the preliminary hearing. The preliminary hearing officer shall not consider evidence not presented at the preliminary hearing. The preliminary hearing officer shall not call witnesses _sua sponte_.
 
-#  Discussion
+####  Discussion
 
  A preliminary hearing officer may only consider evidence within the limited purpose of the preliminary hearing and shall ensure that the scope of the hearing is limited to that purpose. When the preliminary hearing officer finds that evidence offered by either party is not within the scope of the hearing, he shall inform the parties and halt the presentation of that information.
 
-#  Notice to and presence of the victim(s).
+#### (2) Notice to and presence of the victim(s).
 
-The victim(s) of an offense under the UCMJ has the right to reasonable, accurate, and timely notice of a preliminary hearing relating to the alleged offense and the reasonable right to confer with counsel for the government. For the purposes of this rule, a "victim" is a person who is alleged to have suffered a direct physical, emotional, or pecuniary harm as a result of the matters set forth in a charge or specification under consideration and is named in one of the specifications under consideration. 
+(A) The victim(s) of an offense under the UCMJ has the right to reasonable, accurate, and timely notice of a preliminary hearing relating to the alleged offense and the reasonable right to confer with counsel for the government. For the purposes of this rule, a "victim" is a person who is alleged to have suffered a direct physical, emotional, or pecuniary harm as a result of the matters set forth in a charge or specification under consideration and is named in one of the specifications under consideration. 
 
-A victim of an offense under consideration at the preliminary hearing is not required to testify at the preliminary hearing.
+(B) A victim of an offense under consideration at the preliminary hearing is not required to testify at the preliminary hearing.
 
-A victim has the right not to be excluded from any portion of a preliminary hearing related to the alleged offense, unless the preliminary hearing officer, after receiving clear and convincing evidence, determines the testimony by the victim would be materially altered if the victim heard other testimony at the proceeding.
+(C) A victim has the right not to be excluded from any portion of a preliminary hearing related to the alleged offense, unless the preliminary hearing officer, after receiving clear and convincing evidence, determines the testimony by the victim would be materially altered if the victim heard other testimony at the proceeding.
 
-A victim shall be excluded if a privilege set forth in Mil. R. Evid. 505 or 506 is invoked or if evidence is offered under Mil. R. Evid. 412, 513, or 514, for charges other than those in which the victim is named.
+(D) A victim shall be excluded if a privilege set forth in Mil. R. Evid. 505 or 506 is invoked or if evidence is offered under Mil. R. Evid. 412, 513, or 514, for charges other than those in which the victim is named.
 
-#  Presentation of evidence. 
+#### (3) Presentation of evidence. 
 
-#  Testimony.
+##### (A) Testimony.
 
  Witness testimony may be provided in person, by video teleconference, by telephone, or by similar means of remote testimony. All testimony shall be taken under oath, except that the accused may make an unsworn statement. The preliminary hearing officer shall only consider testimony that is relevant to the limited scope and purpose of the preliminary hearing.
 
-#  Discussion
+#####  Discussion
 
  The following oath may be given to witnesses:
 
@@ -5488,103 +5488,103 @@ A victim shall be excluded if a privilege set forth in Mil. R. Evid. 505 or 506 
 
  Bearing in mind that counsel are responsible for preparing and presenting their cases, the preliminary hearing officer may ask a witness questions relevant to the limited scope and purpose of the hearing. When questioning a witness, the preliminary hearing officer may not depart from an impartial role and become an advocate for either side.
 
-#  Other evidence.
+##### (B) Other evidence.
 
  If relevant to the limited scope and purpose of the preliminary hearing, and not cumulative, a preliminary hearing officer may consider other evidence, in addition to or in lieu of witness testimony, including statements, tangible evidence, or reproductions thereof, offered by either side, that the preliminary hearing officer determines is reliable. This other evidence need not be sworn.
 
-#  Access by spectators.
+#### (4) Access by spectators.
 
  Access by spectators to all or part of the proceedings may be restricted or foreclosed in the discretion of the convening authority who directed the preliminary hearing or the preliminary hearing officer. Preliminary hearings are public proceedings and should remain open to the public whenever possible. When an overriding interest exists that outweighs the value of an open preliminary hearing, the preliminary hearing may be closed to spectators. Any closure must be narrowly tailored to achieve the overriding interest that justified the closure. Convening authorities or preliminary hearing officers must conclude that no lesser methods short of closing the preliminary hearing can be used to protect the overriding interest in the case. Convening authorities or preliminary hearing officers must conduct a case-by-case, witness-by-witness, circumstance-by-circumstance analysis of whether closure is necessary. If a convening authority or preliminary hearing officer believes closing the preliminary hearing is necessary, the convening authority or preliminary hearing officer must make specific findings of fact in writing that support the closure. The written findings of fact must be included in the report of preliminary hearing. Examples of overriding interests may include: preventing psychological harm or trauma to a child witness or an alleged victim of a sexual crime, protecting the safety or privacy of a witness or alleged victim, protecting classified material, and receiving evidence where a witness is incapable of testifying in an open setting. 
 
-#  Presence of accused.
+##### (5) Presence of accused.
 
  The further progress of the taking of evidence shall not be prevented and the accused shall be considered to have waived the right to be present whenever the accused: 
 
-After being notified of the time and place of the proceeding is voluntarily absent; or 
+(A) After being notified of the time and place of the proceeding is voluntarily absent; or 
 
-After being warned by the preliminary hearing officer that disruptive conduct will cause removal from the proceeding, persists in conduct which is such as to justify exclusion from the proceeding. 
+(B) After being warned by the preliminary hearing officer that disruptive conduct will cause removal from the proceeding, persists in conduct which is such as to justify exclusion from the proceeding. 
 
-#  Recording of the preliminary hearing.
+##### (6) Recording of the preliminary hearing.
 
  Counsel for the government shall ensure that the preliminary hearing is recorded by a suitable recording device. A victim, as defined by subsection (i)(2)(A) of this rule, may request access to, or a copy of, the recording of the proceedings. Upon request, counsel for the government shall provide the requested access to, or a copy of, the recording to the victim not later than a reasonable time following dismissal of the charges, unless charges are dismissed for the purpose of re-referral, or court-martial adjournment. A victim is not entitled to classified information or access to or a copy of a recording of closed sessions which the victim did not have the right to attend under subsections (i)(2)(C) or (i)(2)(D) of this rule. 
 
-#  Discussion
+#####  Discussion
 
 Counsel for the government shall provide victims with access to, or a copy of, the recording of the proceedings in accordance with such regulations as the Secretary concerned may prescribe.
 
-#  Objections.
+##### (7) Objections.
 
  Any objection alleging failure to comply with this rule shall be made to the convening authority via the preliminary hearing officer. 
 
-#  Sealed exhibits and proceedings.
+##### (8) Sealed exhibits and proceedings.
 
  The preliminary hearing officer has the authority to order exhibits, proceedings, or other matters sealed as described in R.C.M. 1103A.  
 
-#  Report of preliminary hearing.
+### (j) Report of preliminary hearing.
 
-#  In general.
+#### (1) In general.
 
 The preliminary hearing officer shall make a timely written report of the preliminary hearing to the convening authority who directed the preliminary hearing. 
 
-#  Discussion
+####  Discussion
 
  If practicable, the charges and the report of preliminary hearing should be forwarded to the general court-martial convening authority within 8 days after an accused is ordered into arrest or confinement. _See_ Article 33, UCMJ.
 
-#  Contents.
+#### (2) Contents.
 
 The report of preliminary hearing shall include: 
 
-A statement of names and organizations or addresses of defense counsel and whether defense counsel was present throughout the taking of evidence, or if not present the reason why; 
+(A) A statement of names and organizations or addresses of defense counsel and whether defense counsel was present throughout the taking of evidence, or if not present the reason why; 
 
-The substance of the testimony taken on both sides; 
+(B) The substance of the testimony taken on both sides; 
 
-Any other statements, documents, or matters considered by the preliminary hearing officer, or recitals of the substance or nature of such evidence; 
+(C) Any other statements, documents, or matters considered by the preliminary hearing officer, or recitals of the substance or nature of such evidence; 
 
-A statement that an essential witness may not be available for trial; 
+(D) A statement that an essential witness may not be available for trial; 
 
-An explanation of any delays in the preliminary hearing; 
+(E) An explanation of any delays in the preliminary hearing; 
 
-A notation if counsel for the government failed to issue a subpoena duces tecum that was directed by the preliminary hearing officer; 
+(F) A notation if counsel for the government failed to issue a subpoena duces tecum that was directed by the preliminary hearing officer; 
 
-The preliminary hearing officer's determination as to whether there is probable cause to believe the offense(s) listed on the charge sheet or otherwise considered at the preliminary hearing occurred; 
+(G) The preliminary hearing officer's determination as to whether there is probable cause to believe the offense(s) listed on the charge sheet or otherwise considered at the preliminary hearing occurred; 
 
-The preliminary hearing officer's determination as to whether there is probable cause to believe the accused committed the offense(s) listed on the charge sheet or otherwise considered at the preliminary hearing; 
+(H) The preliminary hearing officer's determination as to whether there is probable cause to believe the accused committed the offense(s) listed on the charge sheet or otherwise considered at the preliminary hearing; 
 
-The preliminary hearing officer's determination as to whether a court-martial has jurisdiction over the offense(s) and the accused;
+(I) The preliminary hearing officer's determination as to whether a court-martial has jurisdiction over the offense(s) and the accused;
 
-The preliminary hearing officer's determination as to whether the charge(s) and specification(s) are in proper form; and 
+(J) The preliminary hearing officer's determination as to whether the charge(s) and specification(s) are in proper form; and 
 
-The recommendations of the preliminary hearing officer regarding disposition of the charge(s).
+(K) The recommendations of the preliminary hearing officer regarding disposition of the charge(s).
 
-#  Discussion
+#####  Discussion
 
  The preliminary hearing officer may include any additional matters useful to the convening authority in determining disposition. The preliminary hearing officer may recommend that the charges and specifications be amended or that additional charges be preferred. _See_ R.C.M. 306 and 401 concerning other possible dispositions.
 
-#  Sealed exhibits and proceedings.
+#### (3) Sealed exhibits and proceedings.
 
 . If the report of preliminary hearing contains exhibits, proceedings, or other matters ordered sealed by the preliminary hearing officer in accordance with R.C.M. 1103A, counsel for the government shall cause such materials to be sealed so as to prevent unauthorized viewing or disclosure.
 
-#  Distribution of the report. 
+#### (4) Distribution of the report. 
 
 The preliminary hearing officer shall cause the report to be delivered to the convening authority who directed the preliminary hearing. That convening authority shall promptly cause a copy of the report to be delivered to each accused. 
 
-#  Objections.
+#### (5) Objections.
 
 Any objection to the report shall be made to the convening authority who directed the preliminary hearing, via the preliminary hearing officer, within 5 days of its receipt by the accused. This subsection does not prohibit a convening authority from referring the charge(s) or taking other action within the 5-day period. 
 
-#  Waiver.
+### (k) Waiver.
 
 The accused may waive a preliminary hearing under this rule. In addition, failure to make a timely objection under this rule, including an objection to the report, shall constitute waiver of the objection. Relief from the waiver may be granted by the convening authority who directed the preliminary hearing, a superior convening authority, or the military judge, as appropriate, for good cause shown.
 
-#  Discussion
+###  Discussion
 
  _See also_ R.C.M. 905(b)(1); 906(b)(3).
 
  The convening authority who receives an objection may direct that the preliminary hearing be reopened or take other action, as appropriate.
 
-#  Pretrial advice
+## Rule 406. Pretrial advice
 
-#  In general.
+### (a) In general.
 
 Before any charge may be referred for trial by a general court-martial,
 
@@ -5592,7 +5592,7 @@ it shall be referred to the staff judge advocate of the convening authority
 
 for consideration and advice.
 
-#  Discussion
+###  Discussion
 
 A pretrial advice need not be prepared in cases referred to special
 
@@ -5614,29 +5614,29 @@ judge advocate may make changes in the charges and specifications in accordance
 
  with R.C.M. 603.
 
-#  Contents.
+### (b) Contents.
 
 The advice of the staff judge advocate shall include a written and
 
 signed statement which sets forth that person's: 
 
-Conclusion with respect to whether each specification alleges an
+(1) Conclusion with respect to whether each specification alleges an
 
  offense under the code; 
 
-Conclusion with respect to whether the allegation of each offense
+(2) Conclusion with respect to whether the allegation of each offense
 
 is warranted by the evidence indicated in the report of preliminary hearing (if
 
 there is such a report); 
 
-Conclusion with respect to whether a court-martial would have jurisdiction
+(3) Conclusion with respect to whether a court-martial would have jurisdiction
 
 over the accused and the offense; and 
 
-Recommendation of the action to be taken by the convening authority.
+(4) Recommendation of the action to be taken by the convening authority.
 
-#  Discussion
+####  Discussion
 
 The staff judge advocate is personally responsible for the pretrial
 
@@ -5682,33 +5682,33 @@ See_ R.C.M. 905(b)(1); 906(b)(3).
 
 by pretrial motion. _See_ R.C.M.905(b)(1) and its Discussion.
 
-#  Distribution.
+### (c) Distribution.
 
 A copy of the advice of the staff judge advocate shall be provided
 
 to the defense if charges are referred to trial by general court-martial.
 
-#  Action by commander exercising general court-martial jurisdiction
+## Rule 407. Action by commander exercising general court-martial jurisdiction
 
-#  Disposition.
+### (a) Disposition.
 
 When in receipt of charges, a commander exercising general court-martial
 
 jurisdiction may: 
 
-Dismiss any charges;
+(1) Dismiss any charges;
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 401(c)(1) concerning dismissal of charges
 
 and the effect of dismissing charges.
 
-Forward charges (or, after dismissing charges, the matter) to a
+(2) Forward charges (or, after dismissing charges, the matter) to a
 
 subordinate commander for disposition; 
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 401(c)(2)(B) concerning forwarding charges
 
@@ -5726,29 +5726,29 @@ with procedural requirements. _See_, for example, R.C.M. 303
 
 (preliminary inquiry); R.C.M. 308 (notification to accused of charges).
 
-Forward any charges to a superior commander for disposition;
+(3) Forward any charges to a superior commander for disposition;
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 401 (c)(2)(A) for guidance concerning
 
 forwarding charges to a superior.
 
-Refer charges to a summary court-martial or a special court-martial
+(4) Refer charges to a summary court-martial or a special court-martial
 
  for trial;
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 601; 1302(c).
 
-Unless otherwise prescribed by the Secretary concerned, direct a
+(5) Unless otherwise prescribed by the Secretary concerned, direct a
 
 pretrial investigation under R.C.M. 405, after which additional action under
 
 this rule may be taken;
 
-#  Discussion
+####  Discussion
 
 An investigation should be directed when it appears the charges
 
@@ -5758,9 +5758,9 @@ See_ R.C.M. 405. If an investigation of the subject matter already
 
 has been conducted. _See_ R.C.M. 405(b).
 
-Subject to R.C.M. 601(d), refer charges to a general court-martial.
+(6) Subject to R.C.M. 601(d), refer charges to a general court-martial.
 
-#  Discussion
+####  Discussion
 
 _See_ Article 22 and R.C.M. 504(b)(1) concerning who
 
@@ -5772,7 +5772,7 @@ See_ R.C.M. 601 concerning referral of charges. _See_ R.C.M.
 
 306 and 401 concerning other dispositions.
 
-#  National security matters.
+### (b) National security matters.
 
 When in receipt of charges the trial of which the commander exercising
 
@@ -5790,7 +5790,7 @@ commander may dismiss the charges, authorize trial of them, or forward them
 
 to a superior authority.
 
-#  Discussion
+###  Discussion
 
 In time of war, charges may be forwarded to the Secretary concerned
 
@@ -5798,21 +5798,21 @@ In time of war, charges may be forwarded to the Secretary concerned
 
  take action suspending the statute of limitations in time of war.
 
-#  COURT-MARTIAL COMPOSITION AND PERSONNEL; CONVENING COURTS-MARTIAL
+# CHAPTER V. COURT-MARTIAL COMPOSITION AND PERSONNEL; CONVENING COURTS-MARTIAL
 
-#  Composition and personnel of courts-martial
+## Rule 501. Composition and personnel of courts-martial
 
-#  Composition of courts-martial.
+### (a) Composition of courts-martial.
 
-#  General courts-martial.
+#### (1) General courts-martial.
 
-Except in capital cases, general courts-martial shall consist of a military judge and
+(A) Except in capital cases, general courts-martial shall consist of a military judge and
 
 not less than five members, or of the military judge alone if requested and approved
 
 under R.C.M. 903.
 
-In all capital cases, general courts-martial shall consist of a military judge and no
+(B) In all capital cases, general courts-martial shall consist of a military judge and no
 
 fewer than 12 members, unless 12 members are not reasonably available because of
 
@@ -5826,25 +5826,25 @@ members under 12, but in no event fewer than five. In such a case, the convening
 
 reasonably available.
 
-#  Special courts-martial.
+#### (2) Special courts-martial.
 
 Special courts-martial shall consist of: 
 
-Not less than three members; 
+(A) Not less than three members; 
 
-A military judge and not less than three members; or 
+(B) A military judge and not less than three members; or 
 
-A military judge alone if a military judge is detailed and if requested
+(C) A military judge alone if a military judge is detailed and if requested
 
 and approved under R.C.M. 903. 
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 1301(a) concerning composition of summary
 
 courts-martial.
 
-#  Counsel in general and special courts-martial.
+### (b) Counsel in general and special courts-martial.
 
 Military trial and defense counsel shall be detailed to general
 
@@ -5852,7 +5852,7 @@ and special courts-martial. Assistant trial and associate or assistant defense
 
 counsel may be detailed. 
 
-#  Other personnel.
+### (c) Other personnel.
 
 Other personnel, such as reporters, interpreters, bailiffs, clerks,
 
@@ -5860,7 +5860,7 @@ escorts, and orderlies, may be detailed or employed as appropriate but need
 
 not be detailed by the convening authority personally.
 
-#  Discussion
+###  Discussion
 
 The convening authority may direct that a reporter not be used in
 
@@ -5868,11 +5868,11 @@ special courts-martial. Regulations of the Secretary concerned may also require
 
 or restrict the use of reporters in special courts-martial.
 
-#  Qualifications and duties of personnel of courts-martial
+## Rule 502. Qualifications and duties of personnel of courts-martial
 
-#  Members.
+### (a) Members.
 
-#  Qualifications.
+#### (1) Qualifications.
 
 The members detailed to a court-martial shall be those persons who
 
@@ -5884,17 +5884,17 @@ and judicial temperament. Each member shall be on active duty with the armed
 
 forces and shall be: 
 
-A commissioned officer; 
+(A) A commissioned officer; 
 
-A warrant officer, except when the accused is a commissioned officer;
+(B) A warrant officer, except when the accused is a commissioned officer;
 
 or 
 
-An enlisted person if the accused is an enlisted person and has
+(C) An enlisted person if the accused is an enlisted person and has
 
 made a timely request under R.C.M. 503(a)(2). 
 
-#  Discussion
+#####  Discussion
 
 Retired members of any Regular component and members of Reserve
 
@@ -5912,7 +5912,7 @@ members when assigned to and serving with an armed force. The Public Health
 
 and Atmospheric Administration includes only commissioned officers.
 
-#  Duties.
+#### (2) Duties.
 
 The members of a court-martial shall determine whether the accused
 
@@ -5934,7 +5934,7 @@ other reference material, except the president of a special court-martial
 
 without a military judge may use such materials in open session.
 
-#  Discussion
+####  Discussion
 
 Members should avoid any conduct or communication with the military
 
@@ -5952,35 +5952,35 @@ of the offense. Members should not form an opinion on any matter in connection
 
 with a case until that matter has been submitted to them for determination.
 
-#  President.
+### (b) President.
 
-#  Qualifications.
+#### (1) Qualifications.
 
 The president of a court-martial shall be the detailed member senior
 
 in rank then serving. 
 
-#  Duties.
+#### (2) Duties.
 
 The president shall have the same duties as the other members and
 
 shall also: 
 
-Preside over closed sessions of the members of the court-martial
+(A) Preside over closed sessions of the members of the court-martial
 
 during their deliberations; 
 
-Speak for the members of the court-martial when announcing the decision
+(B) Speak for the members of the court-martial when announcing the decision
 
 of the members or requesting instructions from the military judge; and 
 
-In a special court-martial without a military judge, perform the
+(C) In a special court-martial without a military judge, perform the
 
 duties assigned by this Manual to the military judge except as otherwise
 
 expressly provided. 
 
-#  Qualifications of military judge.
+### (c) Qualifications of military judge.
 
 A military judge shall be a commissioned officer of the armed forces
 
@@ -6008,7 +6008,7 @@ for military judges in special courts-martial. As used in this subsection
 
 court-martial without a military judge. 
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 801 for description of some of the general
 
@@ -6028,9 +6028,9 @@ which a military judge in special courts-martial may perform may be prescribed
 
 in regulations of the Secretary concerned.
 
-#  Counsel.
+### (d) Counsel.
 
-#  Certified counsel required.
+#### (1) Certified counsel required.
 
 Only persons certified under Article 27(b) as competent to perform
 
@@ -6042,7 +6042,7 @@ or associate defense counsel in general or special courts-martial or as trial
 
 counsel in general courts-martial.
 
-#  Discussion
+####  Discussion
 
 To be certified by the Judge Advocate General concerned under Article
 
@@ -6058,7 +6058,7 @@ military or civilian defense counsel, the detailed counsel is "associate
 
 counsel" unless excused from the case. _See_ R.C.M. 506(b)(3).
 
-#  Other military counsel.
+#### (2) Other military counsel.
 
 Any commissioned officer may be detailed as trial counsel in special
 
@@ -6068,17 +6068,17 @@ in general or special courts-martial. The Secretary concerned may establish
 
 additional qualifications for such counsel. 
 
-#  Qualifications of individual military and civilian defense counsel.
+#### (3) Qualifications of individual military and civilian defense counsel.
 
 Individual military or civilian defense counsel who represents an
 
 accused in a court-martial shall be: 
 
-A member of the bar of a Federal court or of the bar of the highest
+(A) A member of the bar of a Federal court or of the bar of the highest
 
 court of a State; or 
 
-If not a member of such a bar, a lawyer who is authorized by a recognized
+(B) If not a member of such a bar, a lawyer who is authorized by a recognized
 
 licensing authority to practice law and is found by the military judge to
 
@@ -6088,7 +6088,7 @@ of the military judge that the counsel has appropriate training and familiarity
 
 with the general principles of criminal law which apply in a court-martial.
 
-#  Discussion
+#####  Discussion
 
 In making such a determination-particularly in the case of
 
@@ -6120,7 +6120,7 @@ whether ethnic or other similarity between the accused and the counsel
 
  defense counsel.
 
-#  Disqualifications.
+#### (4) Disqualifications.
 
 No person shall act as trial counsel or assistant trial counsel
 
@@ -6130,19 +6130,19 @@ associate or assistant defense counsel in any case in which that person is
 
 or has been: 
 
-The accuser; 
+(A) The accuser; 
 
-An investigating officer; 
+(B) An investigating officer; 
 
-A military judge; or 
+(C) A military judge; or 
 
-A member. 
+(D) A member. 
 
 No person who has acted as counsel for a party may
 
 serve as counsel for an opposing party in the same case.
 
-#  Discussion
+#####  Discussion
 
 In the absence of evidence to the contrary, it is presumed that
 
@@ -6152,7 +6152,7 @@ counsel for any party to the court-martial to which the case has been referred,
 
  has acted in that capacity.
 
-#  Duties of trial and assistant trial counsel.
+#### (5) Duties of trial and assistant trial counsel.
 
 The trial counsel shall prosecute cases on behalf of the United
 
@@ -6164,9 +6164,9 @@ any act or duty which trial counsel may perform under law, regulation, or
 
 custom of the service.
 
-#  Discussion
+####  Discussion
 
-#  General duties before trial.
+####  General duties before trial.
 
 Immediately upon receipt of referred charges, trial counsel should
 
@@ -6186,7 +6186,7 @@ information about the accused on the charge sheet and any evidence of previous
 
 convictions are accurate.
 
-#  Relationship with convening authority.
+####  Relationship with convening authority.
 
 Trial counsel should: report to the convening authority any substantial
 
@@ -6200,7 +6200,7 @@ any case in which trial counsel finds trial inadvisable for lack of evidence
 
 or other reasons.
 
-#  Relations with the accused and defense counsel.
+####  Relations with the accused and defense counsel.
 
 Trial counsel must communicate with a represented accused only
 
@@ -6210,7 +6210,7 @@ through the accused's defense counsel. However, _see_ R.C.M.
 
  surrender other important rights.
 
-#  Preparation for trial.
+####  Preparation for trial.
 
 Trial counsel should: ensure that a suitable room, a reporter (if
 
@@ -6250,7 +6250,7 @@ argument on the findings and, if necessary, on sentencing (_see_ R.C.M.
 
 919; 1001(g)).
 
-#  Trial.
+####  Trial.
 
 Trial counsel should bring to the attention of the military judge
 
@@ -6266,7 +6266,7 @@ or others as to the guilt or innocence of the accused, an appropriate sentence,
 
 or any other matter within the discretion of the court-martial.
 
-#  Post-trial duties.
+####  Post-trial duties.
 
 Trial counsel must promptly provide written notice of the findings
 
@@ -6282,7 +6282,7 @@ rules and regulations of the Secretary concerned (_see_ R.C.M.
 
 1103; 1104).
 
-#  Assistant trial counsel.
+####  Assistant trial counsel.
 
 An assistant trial counsel may act in that capacity only under the
 
@@ -6300,7 +6300,7 @@ counsel may not act in the absence of trial counsel at trial in a general
 
 counsel. _See_ R.C.M. 805(c).
 
-#  Duties of defense and associate or assistant defense counsel.
+#### (6) Duties of defense and associate or assistant defense counsel.
 
 Defense counsel shall represent the accused in matters under the
 
@@ -6312,9 +6312,9 @@ or assistant defense counsel may perform any act or duty which a defense counsel
 
 may perform under law, regulation, or custom of the service.
 
-#  Discussion
+####  Discussion
 
-#  Initial advice by military defense counsel.
+####  Initial advice by military defense counsel.
 
 Defense counsel should promptly explain to the accused the general
 
@@ -6338,7 +6338,7 @@ waiting for approval of a request for individual military counsel or retention
 
 of civilian counsel. _See R.C.M. 506._ 
 
-#  General duties of defense counsel.
+####  General duties of defense counsel.
 
 Defense counsel must: guard the interests of the accused zealously
 
@@ -6392,7 +6392,7 @@ accused, and should give the accused a candid opinion of the merits of the
 
 case.
 
-#  Preparation for trial.
+####  Preparation for trial.
 
 Defense counsel may have the assistance of trial counsel in obtaining
 
@@ -6418,7 +6418,7 @@ and to make final argument on the findings and, if necessary, on sentencing
 
 (_see_ R.C.M. 919; 1001(g)).
 
-#  Trial.
+####  Trial.
 
 Defense counsel should represent and protect the interests of the
 
@@ -6428,9 +6428,9 @@ accused at trial.
 
 defense counsel must continue to represent the accused.
 
-#  Post-trial duties.
+####  Post-trial duties.
 
-#  Deferment of confinement.
+####  Deferment of confinement.
 
 If the accused is sentenced to confinement, the defense counsel
 
@@ -6442,7 +6442,7 @@ making such a request if the accused chooses to make one. _See_ R.C.M.
 
 1101(c).
 
-#  Examination of the record; appellate brief.
+####  Examination of the record; appellate brief.
 
 The defense counsel should in any case examine the record for accuracy
 
@@ -6452,7 +6452,7 @@ the record. _See_ R.C.M. 1103(b)(3)(C). _See_
 
 also R.C.M. 1103(i)(1)(B).
 
-#  Submission of matters.
+####  Submission of matters.
 
 If the accused is convicted, the defense counsel may submit to the
 
@@ -6468,7 +6468,7 @@ authority in taking action on the case. Defense counsel may also submit a
 
  brief of any matters counsel believes should be considered on further review.
 
-#  Appellate rights.
+####  Appellate rights.
 
 Defense counsel must explain to the accused the rights to appellate
 
@@ -6510,7 +6510,7 @@ under Article 69(b) when such review is available. _See_ R.C.M.
 
 1201(b)(3).
 
-#  Examination of post-trial recommendation.
+####  Examination of post-trial recommendation.
 
 When the post-trial recommendation is served on defense counsel,
 
@@ -6520,7 +6520,7 @@ errors or omissions. Failure to note defects in the recommendation waives
 
 them. _See_ R.C.M. 1106(f).
 
-#  Associate or assistant defense counsel.
+####  Associate or assistant defense counsel.
 
 Associate or assistant counsel may act in that capacity only under
 
@@ -6552,9 +6552,9 @@ assistant or associate defense counsel are presumed to have been done under
 
 the supervision of the defense counsel.
 
-#  Interpreters, reporters, escorts, bailiffs, clerks, and guards.
+### (e) Interpreters, reporters, escorts, bailiffs, clerks, and guards.
 
-#  Qualifications.
+#### (1) Qualifications.
 
 The qualifications of interpreters and reporters may be prescribed
 
@@ -6564,7 +6564,7 @@ by the Secretary concerned. Any person who is not disqualified under subsection
 
 to removal by the military judge. 
 
-#  Disqualifications.
+#### (2) Disqualifications.
 
 In addition to any disqualifications which may be prescribed by
 
@@ -6574,37 +6574,37 @@ bailiff, clerk, or orderly in any case in which that person is or has been
 
 in the same case: 
 
-The accuser; 
+(A) The accuser; 
 
-A witness; 
+(B) A witness; 
 
-An investigating officer; 
+(C) An investigating officer; 
 
-Counsel for any party; or 
+(D) Counsel for any party; or 
 
-A member of the court-martial or of any earlier court-martial of
+(E) A member of the court-martial or of any earlier court-martial of
 
 which the trial is a rehearing or new or other trial. 
 
-#  Duties.
+#### (3) Duties.
 
 In addition to such other duties as the Secretary concerned may
 
 prescribe, the following persons may perform the following duties. 
 
-#  Interpreters.
+##### (A) Interpreters.
 
 Interpreters shall interpret for the court-martial or for an accused
 
 who does not speak or understand English.
 
-#  Discussion
+#####  Discussion
 
 The accused also may retain an unofficial interpreter without expense
 
 to the United States.
 
-#  Reporters.
+##### (B) Reporters.
 
 Reporters shall record the proceedings and testimony and shall transcribe
 
@@ -6612,25 +6612,25 @@ them so as to comply with the requirements for the record of trial as prescribed
 
 in these rules. 
 
-#  Others.
+##### (C) Others.
 
 Other personnel detailed for the assistance of the court-martial
 
 shall have such duties as may be imposed by the military judge. 
 
-#  Payment of reporters, interpreters.
+#### (4) Payment of reporters, interpreters.
 
 The Secretary concerned may prescribe regulations for the payment
 
 of allowances, expenses, per diem, and compensation of reporters and interpreters.
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 807 regarding oaths for reporters, interpreters,
 
 and escorts.
 
-#  Action upon discovery of disqualification or lack of qualifications.
+### (f) Action upon discovery of disqualification or lack of qualifications.
 
 Any person who discovers that a person detailed to a court-martial
 
@@ -6642,17 +6642,17 @@ cause a report of the matter to be made before the court-martial is first
 
 judge. 
 
-#  Detailing members, military judge, and counsel
+## Rule 503. Detailing members, military judge, and counsel
 
-#  Members.
+### (a) Members.
 
-#  In general.
+#### (1) In general.
 
  The convening authority shall detail qualified persons as members
 
 for courts-martial.
 
-#  Discussion
+####  Discussion
 
 The following persons are subject to challenge under R.C.M. 912(f)
 
@@ -6668,7 +6668,7 @@ is junior to the accused, unless this is unavoidable; an enlisted member from
 
 the same unit as the accused; or any person who is in arrest or confinement.
 
-#  Enlisted members.
+#### (2) Enlisted members.
 
 An enlisted accused may, before assembly, request orally on the
 
@@ -6694,7 +6694,7 @@ why enlisted members could not be obtained which must be appended to the record
 
 of trial.
 
-#  Discussion
+####  Discussion
 
 When such a request is made, the convening authority should:
 
@@ -6718,7 +6718,7 @@ cannot be detailed because of physical conditions or military exigencies.
 
     _See also_ R.C.M. 1103(b)(2)(D)(iii).
 
-#  Members from another command or armed force.
+#### (3) Members from another command or armed force.
 
 A convening authority may detail as members of general and special
 
@@ -6728,7 +6728,7 @@ by their commander, even if those persons are members of an armed force differen
 
 from that of the convening authority or accused.
 
-#  Discussion
+####  Discussion
 
 Concurrence of the proper commander may be oral and need not be
 
@@ -6744,9 +6744,9 @@ members should be of the same armed force as the accused unless exigent circumst
 
 make it impractical to do so without manifest injury to the service.
 
-#  Military judge.
+### (b) Military judge.
 
-#  By whom detailed.
+#### (1) By whom detailed.
 
 The military judge shall be detailed, in accordance with regulations
 
@@ -6762,7 +6762,7 @@ has been delegated to a military judge, that military judge may detail himself
 
 or herself as military judge for a court-martial. 
 
-#  Record of detail.
+#### (2) Record of detail.
 
 The order detailing a military judge shall be reduced to writing
 
@@ -6774,7 +6774,7 @@ military judge was detailed. The Secretary concerned may require that the
 
 order be reduced to writing. 
 
-#  Military judge from a different armed force.
+#### (3) Military judge from a different armed force.
 
 A military judge from one armed force may be detailed to a court-martial
 
@@ -6786,9 +6786,9 @@ Advocate General may delegate authority to make military judges available
 
 for this purpose. 
 
-#  Counsel.
+### (c) Counsel.
 
-#  By whom detailed.
+#### (1) By whom detailed.
 
 Trial and defense counsel, assistant trial and defense counsel,
 
@@ -6798,7 +6798,7 @@ of the Secretary concerned. If authority to detail counsel has been delegated
 
 to a person, that person may detail himself or herself as counsel for a court-martial.
 
-#  Record of detail.
+#### (2) Record of detail.
 
 The order detailing a counsel shall be reduced to writing and included
 
@@ -6808,7 +6808,7 @@ The writing or announcement shall indicate by whom the counsel was detailed.
 
 The Secretary concerned may require that the order be reduced to writing.
 
-#  Counsel from a different armed force.
+#### (3) Counsel from a different armed force.
 
 A person from one armed force may be detailed to serve as counsel
 
@@ -6818,17 +6818,17 @@ Judge Advocate General may delegate authority to make persons available for
 
 this purpose. 
 
-#  Convening courts-martial
+## Rule 504. Convening courts-martial
 
-#  In general.
+### (a) In general.
 
 A court-martial is created by a convening order of the convening
 
 authority. 
 
-#  Who may convene courts-martial.
+### (b) Who may convene courts-martial.
 
-#  General courts-martial.
+#### (1) General courts-martial.
 
 Unless otherwise limited by superior competent authority, general
 
@@ -6838,7 +6838,7 @@ in Article 22(a) and by any commander designated by the Secretary concerned
 
  or empowered by the President.
 
-#  Discussion
+####  Discussion
 
 The authority to convene courts-martial is independent of rank and
 
@@ -6848,7 +6848,7 @@ of the designated positions. The rule by which command devolves are found
 
 in regulations of the Secretary concerned.
 
-#  Special courts-martial.
+#### (2) Special courts-martial.
 
 Unless otherwise limited by superior competent authority, special
 
@@ -6856,7 +6856,7 @@ courts-martial may be convened by persons occupying positions designated
 
 in Article 23(a) and by commanders designated by the Secretary concerned.
 
-#  Discussion
+####  Discussion
 
 _See_ the discussion of subsection (b)(1) of this
 
@@ -6864,7 +6864,7 @@ rule. Persons authorized to convene general courts-martial may also convene
 
 special courts-martial.
 
-#  Definition.
+##### (A) Definition.
 
 For purposes of Articles 23 and 24, a command or unit is "separate
 
@@ -6878,7 +6878,7 @@ or detached" is used in a disciplinary sense and not necessarily in
 
 a tactical or physical sense. A subordinate joint command or joint task force is ordinarily considered to be "separate or detached."
 
-#  Discussion
+#####  Discussion
 
 The power of a commander of a separate or detached unit to convene
 
@@ -6886,53 +6886,53 @@ courts-martial, like that of any other commander, may be limited by superior
 
 competent authority.
 
-#  Determination.
+##### (B) Determination.
 
 If a commander is in doubt whether the command is separate or detached,
 
 the matter shall be determined: 
 
-In the Army or the Air Force, by the officer exercising general
+(i) In the Army or the Air Force, by the officer exercising general
 
 court-martial jurisdiction over the command; or
 
-In the Naval Service or Coast Guard, by the flag or general officer
+(ii) In the Naval Service or Coast Guard, by the flag or general officer
 
 in command or the senior officer present who designated the detachment; or
 
-In a combatant command or joint command, by the officer exercising general
+(iii) In a combatant command or joint command, by the officer exercising general
 
 court-martial jurisdiction over the command.
 
-#  Summary courts-martial.
+#### (3) Summary courts-martial.
 
 _See_ R.C.M. 1302(a).
 
-#  Discussion
+####  Discussion
 
 _See_ the discussion under subsection (b)(1) of this
 
  rule.
 
-#  Delegation prohibited.
+#### (4) Delegation prohibited.
 
 The power to convene courts-martial may not be delegated. 
 
-#  Disqualification.
+### (c) Disqualification.
 
-#  Accuser.
+#### (1) Accuser.
 
 An accuser may not convene a general or special court-martial for
 
 the trial of the person accused.
 
-#  Discussion
+####  Discussion
 
 _See also_ Article 1(9); 307(a); 601(c). However, _
 
  see_ R.C.M. 1302(b) (accuser may convene a summary court-martial).
 
-#  Other.
+#### (2) Other.
 
 A convening authority junior in rank to an accuser may not convene
 
@@ -6944,7 +6944,7 @@ junior in command to an accuser may not convene a general or special court-marti
 
  for the trial of the accused. 
 
-#  Action when disqualified.
+#### (3) Action when disqualified.
 
 When a commander who would otherwise convene a general or special
 
@@ -6958,13 +6958,13 @@ who is superior in rank to the accuser, or, if in the same chain of command,
 
 who is superior in command to the accuser.
 
-#  Discussion
+####  Discussion
 
 _See also_ R.C.M. 401(c).
 
-#  Convening orders.
+### (d) Convening orders.
 
-#  General and special courts-martial.
+#### (1) General and special courts-martial.
 
 A convening order for a general or special court-martial shall designate
 
@@ -6974,13 +6974,13 @@ the court-martial will meet. If the convening authority has been designated
 
 by the Secretary concerned, the convening order shall so state.
 
-#  Discussion
+####  Discussion
 
 _See_ Appendix 6 for a suggested format for a convening
 
 order.
 
-#  Summary courts-martial.
+#### (2) Summary courts-martial.
 
 A convening order for a summary court-martial shall designate that
 
@@ -6990,25 +6990,25 @@ designate where the court-martial will meet. If the convening authority has
 
 been designated by the Secretary concerned, the convening order shall so state.
 
-#  Discussion
+####  Discussion
 
 _See also_ R.C.M. 1302(c).
 
-#  Additional matters.
+#### (3) Additional matters.
 
 Additional matters to be included in convening orders may be prescribed
 
 by the Secretary concerned. 
 
-#  Place.
+### (e) Place.
 
 The convening authority shall ensure that an appropriate location
 
 and facilities for courts-martial are provided. 
 
-#  Changes of members, military judge, and counsel
+## Rule 505. Changes of members, military judge, and counsel
 
-#  In general.
+### (a) In general.
 
 Subject to this rule, the members, military judge, and counsel may
 
@@ -7018,7 +7018,7 @@ may be excused as provided in subsections (c)(1)(B)(ii) and (c)(2)(A) of
 
 this rule.
 
-#  Discussion
+###  Discussion
 
 Changes of the members of the court-martial should be kept to a
 
@@ -7028,7 +7028,7 @@ has begun, it may be appropriate to withdraw the charges from one court-martial
 
 and refer them to another. _See_ R.C.M. 604.
 
-#  Procedure.
+### (b) Procedure.
 
 When new persons are added as members or counsel or when substitutions
 
@@ -7040,7 +7040,7 @@ of the court-martial, except one which excuses members without replacement,
 
 shall be reduced to writing before authentication of the record of trial.
 
-#  Discussion
+###  Discussion
 
 When members or counsel have been excused and the excusal is not
 
@@ -7050,19 +7050,19 @@ who has been temporarily excused need not be formally reappointed to the
 
 court-martial.
 
-#  Changes of members.
+### (c) Changes of members.
 
-#  Before assembly.
+#### (1) Before assembly.
 
-#  By convening authority.
+##### (A) By convening authority.
 
 Before the court-martial is assembled, the convening authority may
 
 change the members of the court-martial without showing cause. 
 
-#  By convening authority's delegate.
+##### (B) By convening authority's delegate.
 
-#  Delegation.
+###### (i) Delegation.
 
 The convening authority may delegate, under regulations of the Secretary
 
@@ -7070,7 +7070,7 @@ concerned, authority to excuse individual members to the staff judge advocate
 
 or legal officer or other principal assistant to the convening authority.
 
-#  Limitations.
+###### (ii) Limitations.
 
 Before the court-martial is assembled, the convening authority's
 
@@ -7082,19 +7082,19 @@ of the total number of members detailed by the convening authority may be
 
 assembly the convening authority's delegate may not excuse members. 
 
-#  After assembly.
+#### (2) After assembly.
 
-#  Excusal.
+##### (A) Excusal.
 
 After assembly no member may be excused, except: 
 
-By the convening authority for good cause shown on the record;
+(i) By the convening authority for good cause shown on the record;
 
-By the military judge for good cause shown on the record; or 
+(ii) By the military judge for good cause shown on the record; or 
 
-As a result of challenge under R.C.M. 912. 
+(iii) As a result of challenge under R.C.M. 912. 
 
-#  New members.
+##### (B) New members.
 
 New members may be detailed after assembly only when, as a result
 
@@ -7106,17 +7106,17 @@ members, when the accused has made a timely written request for enlisted
 
 members, is reduced below one-third of the total membership. 
 
-#  Changes of detailed counsel.
+### (d) Changes of detailed counsel.
 
-#  Trial counsel.
+#### (1) Trial counsel.
 
 An authority competent to detail trial counsel may change the trial
 
 counsel and any assistant trial counsel at any time without showing cause.
 
-#  Defense counsel.
+#### (2) Defense counsel.
 
-#   Before formation of attorney-client relationship.
+##### (A)  Before formation of attorney-client relationship.
 
 Before an attorney-client relationship has been formed between the
 
@@ -7126,7 +7126,7 @@ an authority competent to detail defense counsel may excuse or change such
 
  counsel without showing cause. 
 
-#  After formation of attorney-client relationship.
+##### (B) After formation of attorney-client relationship.
 
 After an attorney-client relationship has been formed between the
 
@@ -7136,17 +7136,17 @@ an authority competent to detail such counsel may excuse or change such counsel
 
 only: 
 
-Under R.C.M. 506(b)(3); 
+(i) Under R.C.M. 506(b)(3); 
 
-Upon request of the accused or application for withdrawal by such
+(ii) Upon request of the accused or application for withdrawal by such
 
 counsel under R.C.M. 506(c); or 
 
-For other good cause shown on the record. 
+(iii) For other good cause shown on the record. 
 
-#  Change of military judge.
+### (e) Change of military judge.
 
-#  Before assembly.
+#### (1) Before assembly.
 
 Before the court-martial is assembled, the military judge may be
 
@@ -7154,7 +7154,7 @@ changed by an authority competent to detail the military judge, without cause
 
 shown on the record. 
 
-#  After assembly.
+#### (2) After assembly.
 
 After the court-martial is assembled, the military judge may be
 
@@ -7164,7 +7164,7 @@ as a result of disqualification under R.C.M. 902 or for good cause shown,
 
 the previously detailed military judge is unable to proceed. 
 
-#  Good cause.
+### (f) Good cause.
 
 For purposes of this rule, "good cause" includes physical
 
@@ -7178,9 +7178,9 @@ include temporary inconveniences which are incident to normal conditions
 
 of military life. 
 
-#  Accused's rights to counsel
+## Rule 506. Accused's rights to counsel
 
-#  In general.
+### (a) In general.
 
 The accused has the right to be represented before a general or
 
@@ -7192,15 +7192,15 @@ or military counsel of the accused's own selection, if reasonably available.
 
 The accused is not entitled to be represented by more than one military counsel.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 502(d)(3) as to qualifications of civilian
 
 counsel or individual military counsel.
 
-#  Individual military counsel.
+### (b) Individual military counsel.
 
-#  Reasonably available.
+#### (1) Reasonably available.
 
 Subject to this subsection, the Secretary concerned shall define
 
@@ -7210,25 +7210,25 @@ are not reasonably available to serve as individual military counsel because
 
 of the nature of their duties or positions: 
 
-A general or flag officer; 
+(A) A general or flag officer; 
 
-A trial or appellate military judge; 
+(B) A trial or appellate military judge; 
 
-A trial counsel; 
+(C) A trial counsel; 
 
-An appellate defense or government counsel; 
+(D) An appellate defense or government counsel; 
 
-A principal legal advisor to a command, organization, or agency
+(E) A principal legal advisor to a command, organization, or agency
 
 and, when such command, organization, or agency has general court-martial
 
 jurisdiction, the principal assistant of such an advisor; 
 
-An instructor or student at a service school or academy: 
+(F) An instructor or student at a service school or academy: 
 
-A student at a college or university; 
+(G) A student at a college or university; 
 
-A member of the staff of the Judge Advocate General of the Army,
+(H) A member of the staff of the Judge Advocate General of the Army,
 
 Navy, or Air Force, the Chief Counsel of the Coast Guard, or the Director,
 
@@ -7262,7 +7262,7 @@ the counsel represented the accused on review under Article 70, this exception
 
 shall not apply. 
 
-#  Procedure.
+#### (2) Procedure.
 
 Subject to this subsection, the Secretary concerned shall prescribe
 
@@ -7308,7 +7308,7 @@ no administrative review may be made which requires action at the departmental
 
 or higher level. 
 
-#  Excusal of detailed counsel.
+#### (3) Excusal of detailed counsel.
 
 If the accused is represented by individual military counsel, detailed
 
@@ -7322,7 +7322,7 @@ action of the authority who detailed the counsel is subject to review only
 
 for abuse of discretion.
 
-#  Discussion
+####  Discussion
 
 A request under subsection (b)(3) should be considered in light
 
@@ -7344,7 +7344,7 @@ individual military counsel or retention of detailed counsel as associate
 
 counsel.
 
-#  Excusal or withdrawal.
+### (c) Excusal or withdrawal.
 
 Except as otherwise provided in R.C.M. 505(d)(2) and subsection
 
@@ -7354,7 +7354,7 @@ consent of the accused, or by the military judge upon application for withdrawal
 
  by the defense counsel for good cause shown. 
 
-#  Waiver.
+### (d) Waiver.
 
 The accused may expressly waive the right to be represented by counsel
 
@@ -7374,7 +7374,7 @@ defense personally may be revoked if the accused is disruptive or fails to
 
 follow basic rules of decorum and procedure. 
 
-#  Nonlawyer present.
+### (e) Nonlawyer present.
 
 Subject to the discretion of the military judge, the accused may
 
@@ -7382,23 +7382,23 @@ have present and seated at the counsel table for purpose of consultation
 
 persons not qualified to serve as counsel under R.C.M. 502.
 
-#  Discussion
+###  Discussion
 
 _See_ also Mil. R. Evid. 615 if the person is a potential
 
 witness in the case.
 
-#  REFERRAL, SERVICE, AMENDMENT, AND WITHDRAWAL OF CHARGES
+# CHAPTER VI. REFERRAL, SERVICE, AMENDMENT, AND WITHDRAWAL OF CHARGES
 
-#  Referral
+## Rule 601. Referral
 
-#  In general.
+### (a) In general.
 
 Referral is the order of a convening authority that charges against
 
 an accused will be tried by a specified court-martial.
 
-#  Discussion
+###  Discussion
 
 Referral of charges requires three elements: a convening authority
 
@@ -7420,7 +7420,7 @@ to the prosecution of a war or inimical to national security, _see
 
 _ R.C.M. 401(d) and 407(b).
 
-#  Who may refer.
+### (b) Who may refer.
 
 Any convening authority may refer charges to a court-martial convened
 
@@ -7428,7 +7428,7 @@ by that convening authority or a predecessor, unless the power to do so has
 
 been withheld by superior competent authority.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 306(a), 403, 404, 407, and 504. 
 
@@ -7446,11 +7446,11 @@ authority's control to assure the appearance of the accused at trial. The
 
 between the commanders concerned.
 
-#  Disqualification.
+### (c) Disqualification.
 
 An accuser may not refer charges to a general or special court-martial.
 
-#  Discussion
+###  Discussion
 
 Convening authorities are not disqualified from referring charges
 
@@ -7468,9 +7468,9 @@ See_ R.C.M. 401(c) concerning actions which the superior may take.
 
 See_ R.C.M. 1302 for rules relating to convening summary courts-martial.
 
-#  When charges may be referred.
+### (d) When charges may be referred.
 
-#  Basis for referral.
+#### (1) Basis for referral.
 
 If the convening authority finds or is advised by a judge advocate
 
@@ -7494,7 +7494,7 @@ shall not be required before charges are referred to resolve legal issues,
 
 including objections to evidence, which may arise at trial.
 
-#  Discussion
+####  Discussion
 
 For a discussion of selection among alternative dispositions, _
 
@@ -7506,23 +7506,23 @@ consider the options and considerations under R.C.M. 306 in exercising the
 
 discretion to refer.
 
-#  General courts-martial.
+#### (2) General courts-martial.
 
 The convening authority may not refer a specification under a charge
 
  to a general court-martial unless- 
 
-There has been substantial compliance with the pretrial investigation
+(A) There has been substantial compliance with the pretrial investigation
 
 requirements of R.C.M. 405; and 
 
-The convening authority has received the advice of the staff judge
+(B) The convening authority has received the advice of the staff judge
 
 advocate required under R.C.M. 406. These requirements may be waived by the
 
 accused.
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 201(f)(2)(C) concerning limitations
 
@@ -7536,15 +7536,15 @@ See_ R.C.M. 1301(c) concerning limitations on the referral of certain
 
 cases to summary courts-martial.
 
-#  How charges shall be referred.
+### (e) How charges shall be referred.
 
-#  Order, instructions.
+#### (1) Order, instructions.
 
 Referral shall be by the personal order of the convening authority.
 
 The convening authority may include proper instructions in the order.
 
-#  Discussion
+####  Discussion
 
 Referral is ordinarily evidenced by an indorsement on the charge
 
@@ -7616,7 +7616,7 @@ have been referred to a court-martial, the indorsed charge sheet and allied
 
  papers should be promptly transmitted to the trial counsel.
 
-#  Joinder of offenses.
+#### (2) Joinder of offenses.
 
 In the discretion of the convening authority, two or more offenses
 
@@ -7634,11 +7634,11 @@ accused upon charges, no additional charges may be referred to the same trial
 
 without consent of the accused.
 
-#  Discussion
+####  Discussion
 
 Ordinarily all known charges should be referred to a single court-martial.
 
-#  Joinder of accused.
+#### (3) Joinder of accused.
 
 Allegations against two or more accused may be referred for joint
 
@@ -7654,7 +7654,7 @@ Related allegations against two or more accused which may be proved by substanti
 
 the same evidence may be referred to a common trial.
 
-#  Discussion
+####  Discussion
 
 A joint offense is one committed by two or more persons acting together
 
@@ -7672,7 +7672,7 @@ should consider that joint and common trials may be complicated by procedural
 
 and evidentiary rules.
 
-#  Superior convening authorities.
+### (f) Superior convening authorities.
 
 Except as otherwise provided in these rules, a superior competent
 
@@ -7680,15 +7680,15 @@ authority may cause charges, whether or not referred, to be transmitted to
 
 the authority for further consideration, including, if appropriate, referral.
 
-#  Parallel convening authorities.
+### (g) Parallel convening authorities.
 
 If it is impracticable for the original convening authority to continue exercising authority over the charges, the convening authority may cause the charges, even if referred, to be transmitted to a parallel convening authority. This transmittal must be in writing and in accordance with such regulations as the Secretary concerned may prescribe. Subsequent actions taken by the parallel convening authority are within the sole discretion of that convening authority.
 
-#  Discussion
+###  Discussion
 
  Parallel convening authorities are those convening authorities that possess the same court-martial jurisdiction authority. Examples of permissible transmittal of charges under this rule include the transmittal from a general court-martial convening authority to another general court-martial convening authority, or from one special court-martial convening authority to another special court-martial convening authority. It would be impracticable for an original convening authority to continue exercising authority over the charges, for example, when a command is being decommissioned or inactivated, or when deploying or redeploying and the accused is remaining behind. If charges have been referred, there is no requirement that the charges be withdrawn or dismissed prior to transfer. _See_ R.C.M. 604. In the event that the case has been referred, the receiving convening authority may adopt the original court-martial convening order, including the court-martial panel selected to hear the case as indicated in that convening order. When charges are transmitted under this rule, no recommendation as to disposition may be made.
 
-#  Service of charges
+## Rule 602. Service of charges
 
 The trial counsel detailed to the court-martial to which charges
 
@@ -7706,7 +7706,7 @@ of charges. In computing these periods, the date of service of charges and
 
 the date of trial are excluded; holidays and Sundays are included.
 
-#  Discussion
+##  Discussion
 
 Trial counsel should comply with this rule immediately upon receipt
 
@@ -7732,9 +7732,9 @@ been served.
 
 charges, the accused should be told to discuss the matter with defense counsel.
 
-#  Changes to charges and specifications
+## Rule 603. Changes to charges and specifications
 
-#  Minor changes defined.
+### (a) Minor changes defined.
 
 Minor changes in charges and specifications are any except those
 
@@ -7744,7 +7744,7 @@ those previously preferred, or which are likely to mislead the accused as
 
 to the offenses charged.
 
-#  Discussion
+###  Discussion
 
 Minor changes include those necessary to correct inartfully drafted
 
@@ -7758,7 +7758,7 @@ of an allegedly stolen item in a larceny specification is reduced, or when
 
 a desertion specification is amended to allege only unauthorized absence.
 
-#  Minor changes before arraignment.
+### (b) Minor changes before arraignment.
 
 Any person forwarding, acting upon, or prosecuting charges on behalf
 
@@ -7766,7 +7766,7 @@ of the United States except a preliminary hearing officer appointed under R.C.M.
 
 405 may make minor changes to charges or specifications before arraignment.
 
-#  Discussion
+###  Discussion
 
 Charges forwarded or referred for trial should be free from defects
 
@@ -7782,7 +7782,7 @@ ordinarily should consult with the convening authority before making any changes
 
  which, even though minor, change the nature or seriousness of the offense.
 
-#  Minor changes after arraignment.
+### (c) Minor changes after arraignment.
 
 After arraignment the military judge may, upon motion, permit minor
 
@@ -7790,7 +7790,7 @@ changes in the charges and specifications at any time before findings are
 
 announced if no substantial right of the accused is prejudiced. 
 
-#  Major changes.
+### (d) Major changes.
 
 Changes or amendments to charges or specifications other than minor
 
@@ -7798,7 +7798,7 @@ changes may not be made over the objection of the accused unless the charge
 
 or specification affected is preferred anew.
 
-#  Discussion
+###  Discussion
 
 If there has been a major change or amendment over the accused's
 
@@ -7818,9 +7818,9 @@ are necessary. When charges are re-referred, they must be served anew under
 
 R.C.M. 602.
 
-#  Withdrawal of charges
+## Rule 604. Withdrawal of charges
 
-#  Withdrawal.
+### (a) Withdrawal.
 
 The convening authority or a superior competent authority may for
 
@@ -7828,7 +7828,7 @@ any reason cause any charges or specifications to be withdrawn from a court-mart
 
 at any time before findings are announced.
 
-#  Discussion
+###  Discussion
 
 Charges which are withdrawn from a court-martial should be dismissed
 
@@ -7872,7 +7872,7 @@ to the attention of the members, the military judge must instruct them that
 
 the withdrawn charges or specifications may not be considered for any reason.
 
-#  Referral of withdrawn charges.
+### (b) Referral of withdrawn charges.
 
 Charges which have been withdrawn from a court-martial may be referred
 
@@ -7884,7 +7884,7 @@ Charges withdrawn after the introduction of evidence on the general issue
 
 was necessitated by urgent and unforeseen military necessity.
 
-#  Discussion
+###  Discussion
 
 _See also_ R.C.M. 915 (Mistrial). 
 
@@ -7942,11 +7942,11 @@ on the general issue of guilty is introduced may be re-referred only under
 
 the narrow circumstances described in the rule.
 
-#  PRETRIAL MATTERS
+# CHAPTER VII. PRETRIAL MATTERS
 
-#  Discovery
+## Rule 701. Discovery
 
-#  Disclosure by the trial counsel.
+### (a) Disclosure by the trial counsel.
 
 Except as otherwise provided in subsections (f) and (g)(2) of this
 
@@ -7954,7 +7954,7 @@ rule, the trial counsel shall provide the following information or matters
 
 to the defense- 
 
-#  Papers accompanying charges; convening orders; statements.
+#### (1) Papers accompanying charges; convening orders; statements.
 
 As soon as practicable after service of charges under R.C.M. 602,
 
@@ -7964,25 +7964,25 @@ circumstances make it impracticable to provide copies, permit the defense
 
 to inspect: 
 
-Any paper which accompanied the charges when they were referred
+(A) Any paper which accompanied the charges when they were referred
 
 to the court-martial, including papers sent with charges upon a rehearing
 
 or new trial; 
 
-The convening order and any amending orders; and 
+(B) The convening order and any amending orders; and 
 
-Any sworn or signed statement relating to an offense charged in
+(C) Any sworn or signed statement relating to an offense charged in
 
 the case which is in the possession of the trial counsel. 
 
-#  Documents, tangible objects, reports.
+#### (2) Documents, tangible objects, reports.
 
 After service of charges, upon request of the defense, the Government
 
 shall permit the defense to inspect: 
 
-Any books, papers, documents, photographs, tangible objects, buildings,
+(A) Any books, papers, documents, photographs, tangible objects, buildings,
 
 or places, or copies of portions thereof, which are within the possession,
 
@@ -7994,7 +7994,7 @@ evidence in the prosecution case-in-chief at trial, or were obtained from
 
 or belong to the accused; and 
 
-Any results or reports of physical or mental examinations, and of
+(B) Any results or reports of physical or mental examinations, and of
 
 scientific tests or experiments, or copies thereof, which are within the
 
@@ -8008,7 +8008,7 @@ are intended for use by the trial counsel as evidence in the prosecution
 
 case-in-chief at trial.
 
-#  Discussion
+#####  Discussion
 
 For specific rules concerning certain mental examinations of the
 
@@ -8016,7 +8016,7 @@ accused or third party patients, _see_ R.C.M. 701(f), R.C.M.
 
 706, Mil. R. Evid. 302 and Mil. R. Evid. 513.
 
-#  Witnesses.
+#### (3) Witnesses.
 
 Before the beginning of trial on the merits the trial counsel shall
 
@@ -8024,19 +8024,19 @@ notify the defense of the names and addresses of the witnesses the trial
 
 counsel intends to call: 
 
-In the prosecution case-in-chief; and 
+(A) In the prosecution case-in-chief; and 
 
-To rebut a defense of alibi, innocent ingestion, or lack of mental
+(B) To rebut a defense of alibi, innocent ingestion, or lack of mental
 
 responsibility, when trial counsel has received timely notice under subsection
 
 (b)(1) or (2) of this rule.
 
-#  Discussion
+#####  Discussion
 
 Such notice should be in writing except when impracticable.
 
-#  Prior convictions of accused offered on the merits.
+#### (4) Prior convictions of accused offered on the merits.
 
 Before arraignment the trial counsel shall notify the defense of
 
@@ -8048,21 +8048,21 @@ on the merits for any purpose, including impeachment, and shall permit the
 
 defense to inspect such records when they are in the trial counsel's possession.
 
-#  Information to be offered at sentencing.
+#### (5) Information to be offered at sentencing.
 
 Upon request of the defense the trial counsel shall: 
 
-Permit the defense to inspect such written material as will be
+(A) Permit the defense to inspect such written material as will be
 
 presented by the prosecution at the presentencing proceedings; and 
 
-Notify the defense of the names and addresses of the witnesses the
+(B) Notify the defense of the names and addresses of the witnesses the
 
  trial counsel intends to call at the presentencing proceedings under R.C.M.
 
 1001(b). 
 
-#  Evidence favorable to the defense.
+#### (6) Evidence favorable to the defense.
 
 The trial counsel shall, as soon as practicable, disclose to the
 
@@ -8070,15 +8070,15 @@ The trial counsel shall, as soon as practicable, disclose to the
 
 tends to: 
 
-Negate the guilt of the accused of an offense charged; 
+(A) Negate the guilt of the accused of an offense charged; 
 
-Reduce the degree of guilt of the accused of an offense charged;
+(B) Reduce the degree of guilt of the accused of an offense charged;
 
 or 
 
-Reduce the punishment.
+(C) Reduce the punishment.
 
-#  Discussion
+#####  Discussion
 
 In addition to the matters required to be disclosed under subsection
 
@@ -8132,15 +8132,15 @@ privilege government information), and 609(b) (intent to impeach with conviction
 
 over 10 years old).
 
-#  Disclosure by the defense.
+### (b) Disclosure by the defense.
 
 Except as otherwise provided in subsections (f) and (g)(2) of this
 
 rule, the defense shall provide the following information to the trial counsel-
 
-#  Names of witnesses and statements.
+#### (1) Names of witnesses and statements.
 
-Before the beginning of trial on the merits, the defense shall notify
+(A) Before the beginning of trial on the merits, the defense shall notify
 
 the trial counsel of the names and addresses of all witnesses, other than
 
@@ -8150,25 +8150,25 @@ chief, and provide all sworn or signed statements known by the defense to
 
 have been made by such witnesses in connection with the case. 
 
-Upon request of the trial counsel, the defense shall also 
+(B) Upon request of the trial counsel, the defense shall also 
 
-Provide the trial counsel with the names and addresses of any witnesses
+(i) Provide the trial counsel with the names and addresses of any witnesses
 
 whom the defense intends to call at the presentencing proceedings under R.C.M.
 
 1001(c); and 
 
-Permit the trial counsel to inspect any written material that will
+(ii) Permit the trial counsel to inspect any written material that will
 
 be presented by the defense at the presentencing proceeding.
 
-#  Discussion
+######  Discussion
 
 Such notice shall be in writing except when impracticable. _
 
 See_ R.C.M. 701(f) for statements that would not be subject to disclosure.
 
-#  Notice of certain defenses.
+#### (2) Notice of certain defenses.
 
 The defense shall notify the trial counsel before the beginning
 
@@ -8190,7 +8190,7 @@ ingested the substance in question, and the names and addresses of the witnesses
 
 upon whom the accused intends to rely to establish any such defenses.
 
-#  Discussion
+####  Discussion
 
 Such notice should be in writing except when impracticable. _
 
@@ -8206,7 +8206,7 @@ to the time, date, or place of the offense to comply with this rule, it should
 
 request a bill of particulars. _See_ R.C.M. 906(b)(6).
 
-#  Documents and tangible objects.
+#### (3) Documents and tangible objects.
 
 If the defense requests disclosure under subsection (a)(2)(A) of
 
@@ -8222,7 +8222,7 @@ and which the defense intends to introduce as evidence in the defense case-in-ch
 
 at trial. 
 
-#  Reports of examination and tests.
+#### (4) Reports of examination and tests.
 
 If the defense requests disclosure under subsection (a)(2)(B) of
 
@@ -8244,7 +8244,7 @@ at trial or that were prepared by a witness whom the defense intends to call
 
 at trial when the results or reports relate to that witness' testimony.
 
-#  Inadmissibility of withdrawn defense.
+#### (5) Inadmissibility of withdrawn defense.
 
 If an intention to rely upon a defense under subsection (b)(2) of
 
@@ -8256,7 +8256,7 @@ in any court-martial, admissible against the accused who gave notice of the
 
 intention.
 
-#  Discussion
+####  Discussion
 
 In addition to the matters covered in subsection (b) of this rule,
 
@@ -8278,7 +8278,7 @@ older than 10 years), 612(2) (writing used to refresh recollection), and
 
 613(a) (prior inconsistent statements).
 
-#  Failure to call witness.
+### (c) Failure to call witness.
 
 The fact that a witness' name is on a list of expected or intended
 
@@ -8286,7 +8286,7 @@ witnesses provided to an opposing party, whether required by this rule or
 
 not, shall not be ground for comment upon a failure to call the witness.
 
-#  Continuing duty to disclose.
+### (d) Continuing duty to disclose.
 
 If, before or during the court-martial, a party discovers additional
 
@@ -8298,23 +8298,23 @@ notify the other party or the military judge of the existence of the additional
 
 evidence or material. 
 
-#  Access to witnesses and evidence.
+### (e) Access to witnesses and evidence.
 
 Each party shall have adequate opportunity to prepare its case and equal opportunity to interview witnesses and inspect evidence, subject to the limitations in subsection (e)(1) of this rule. No party may unreasonably impede the access of another party to a witness or evidence.
 
-#  Counsel for the Accused Interview of Victim of Alleged Sex-Related Offense.
+#### (1) Counsel for the Accused Interview of Victim of Alleged Sex-Related Offense.
 
-Upon notice by counsel for the government to counsel for the accused of the name of an alleged victim of a sex-related offense whom counsel for the government intends to call to testify at a court-martial, counsel for the accused, or that lawyer's representative, as defined in Mil. R. Evid. 502(b)(3), shall make any request to interview that victim through special victims' counsel or other counsel for the victim, if applicable.
+(A) Upon notice by counsel for the government to counsel for the accused of the name of an alleged victim of a sex-related offense whom counsel for the government intends to call to testify at a court-martial, counsel for the accused, or that lawyer's representative, as defined in Mil. R. Evid. 502(b)(3), shall make any request to interview that victim through special victims' counsel or other counsel for the victim, if applicable.
 
-If requested by an alleged victim of a sex-related offense who is subject to a request for interview under subsection (e)(1)(A) of this rule, any interview of the victim by counsel for the accused, or that lawyer's representative, as defined in Mil. R. Evid. 502(b)(3), shall take place only in the presence of counsel for the government, counsel for the victim, or a sexual assault victim advocate.
+(B) If requested by an alleged victim of a sex-related offense who is subject to a request for interview under subsection (e)(1)(A) of this rule, any interview of the victim by counsel for the accused, or that lawyer's representative, as defined in Mil. R. Evid. 502(b)(3), shall take place only in the presence of counsel for the government, counsel for the victim, or a sexual assault victim advocate.
 
-In this subsection, the term "sex-related offense" means-
+(C) In this subsection, the term "sex-related offense" means-
 
-a violation of Article 120, 120a, 120b, 120c, or 125; or
+(i) a violation of Article 120, 120a, 120b, 120c, or 125; or
 
-an attempt to commit an offense specified in subsection (e)(1)(C)(i) of this rule under Article 80.
+(ii) an attempt to commit an offense specified in subsection (e)(1)(C)(i) of this rule under Article 80.
 
-#  Discussion
+######  Discussion
 
 Convening authorities, commanders and members of their immediate
 
@@ -8330,7 +8330,7 @@ testimony.
 
  Counsel must remain cognizant of professional responsibility rules regarding communicating with represented persons.
 
-#  Information not subject to disclosure.
+### (f) Information not subject to disclosure.
 
 Nothing in this rule shall be construed to require the disclosure
 
@@ -8342,9 +8342,9 @@ memoranda, or similar working papers prepared by counsel and counsel's assistant
 
 and representatives. 
 
-#  Regulation of discovery.
+### (g) Regulation of discovery.
 
-#  Time, place, and manner.
+#### (1) Time, place, and manner.
 
 The military judge may, consistent with this rule, specify the time,
 
@@ -8352,7 +8352,7 @@ place, and manner of making discovery and may prescribe such terms and condition
 
 as are just. 
 
-#  Protective and modifying orders.
+#### (2) Protective and modifying orders.
 
 Upon a sufficient showing the military judge may at any time order
 
@@ -8372,7 +8372,7 @@ Such material may be examined by reviewing authorities in closed proceedings
 
 for the purpose of reviewing the determination of the military judge. 
 
-#  Failure to comply.
+#### (3) Failure to comply.
 
 If at any time during the court-martial it is brought to the attention
 
@@ -8380,21 +8380,21 @@ of the military judge that a party has failed to comply with this rule, the
 
 military judge may take one or more of the following actions: 
 
-Order the party to permit discovery; 
+(A) Order the party to permit discovery; 
 
-Grant a continuance; 
+(B) Grant a continuance; 
 
-Prohibit the party from introducing evidence, calling a witness,
+(C) Prohibit the party from introducing evidence, calling a witness,
 
 or raising a defense not disclosed; and 
 
-Enter such other order as is just under the circumstances. This
+(D) Enter such other order as is just under the circumstances. This
 
 rule shall not limit the right of the accused to testify in the accused's
 
 behalf.
 
-#  Discussion
+#####  Discussion
 
 Factors to be considered in determining whether to grant an exception
 
@@ -8440,19 +8440,19 @@ are in Mil. R. Evid. 506. Procedures governing refusal to disclose an informant'
 
 identity are in Mil. R. Evid. 507.
 
-#  Inspect.
+### (h) Inspect.
 
 As used in this rule "inspect" includes the right to
 
 photograph and copy. 
 
-#  Depositions
+## Rule 702. Depositions
 
-#  In general.
+### (a) In general.
 
 A deposition may be ordered whenever, after preferral of charges, due to exceptional circumstances of the case it is in the interest of justice that the testimony of a prospective witness be taken and preserved for use at a preliminary hearing under Article 32 or a court-martial. A victim's declination to testify at a preliminary hearing or a victim's declination to submit to pretrial interviews shall not, by themselves, be considered exceptional circumstances. In accordance with subsection (b) of this rule below, the convening authority or military judge may order a deposition of a victim only if it is determined, by a preponderance of the evidence, that the victim will not be available to testify at court-martial.
 
-#  Discussion
+###  Discussion
 
 A deposition is the out-of-court testimony of a witness under oath
 
@@ -8532,7 +8532,7 @@ used in presentencing proceedings as substantive evidence as provided in R.C.M.
 
 used in conjunction with this rule.
 
-#  Who may order.
+### (b) Who may order.
 
 A convening authority who has the charges for disposition or, after
 
@@ -8540,35 +8540,35 @@ referral, the convening authority or the military judge may order that a
 
 deposition be taken on request of a party. 
 
-#  Request to take deposition.
+### (c) Request to take deposition.
 
-#  Submission of request.
+#### (1) Submission of request.
 
 At any time after charges have been preferred, any party may request
 
 in writing that a deposition be taken.
 
-#  Discussion
+####  Discussion
 
 A copy of the request and any accompanying papers ordinarily should
 
 be served on the other parties when the request is submitted.
 
-#  Contents of request.
+#### (2) Contents of request.
 
 A request for a deposition shall include: 
 
-The name and address of the person whose deposition is requested, or, if the name of the person is unknown, a description of the office or position of the person; 
+(A) The name and address of the person whose deposition is requested, or, if the name of the person is unknown, a description of the office or position of the person; 
 
-A statement of the matters on which the person is to be examined; and
+(B) A statement of the matters on which the person is to be examined; and
 
-Whether an oral or written deposition is requested.
+(C) Whether an oral or written deposition is requested.
 
-#  Action on request.
+#### (3) Action on request.
 
-Upon receipt of a request for a deposition, the convening authority or military judge shall determine whether the requesting party has shown, by a preponderance of the evidence, that due to exceptional circumstances and in the interest of justice, the testimony of the prospective witness must be taken and preserved for use at a preliminary hearing under Article 32 or court-martial.
+(A) Upon receipt of a request for a deposition, the convening authority or military judge shall determine whether the requesting party has shown, by a preponderance of the evidence, that due to exceptional circumstances and in the interest of justice, the testimony of the prospective witness must be taken and preserved for use at a preliminary hearing under Article 32 or court-martial.
 
-#  Written deposition.
+##### (B) Written deposition.
 
 A request for a written deposition may not be approved without the
 
@@ -8580,13 +8580,13 @@ ordering the deposition determines that the interests of the parties and the
 
 court-martial can be adequately served by a written deposition.
 
-#  Discussion
+#####  Discussion
 
 A request for an oral deposition may be approved without the consent
 
  of the opposing party.
 
-#  Notification of decision.
+##### (C) Notification of decision.
 
 The authority who acts on the request shall promptly inform the
 
@@ -8594,19 +8594,19 @@ requesting party of the action on the request and, if the request is denied,
 
 the reasons for denial. 
 
-#  Waiver.
+##### (D) Waiver.
 
 Failure to review before the military judge a request for a deposition
 
 denied by a convening authority waives further consideration of the request.
 
-#  Action when request is approved.
+### (d) Action when request is approved.
 
-#  Detail of deposition officer.
+#### (1) Detail of deposition officer.
 
 When a request for a deposition is approved, the convening authority shall detail a judge advocate certified under Art. 27(b) to serve as deposition officer. When the appointment of a judge advocate as deposition officer is not practicable, the convening authority may detail an impartial commissioned officer or appropriate civil officer authorized to administer oaths, not the accuser, to serve as deposition officer. If the deposition officer is not a judge advocate, an impartial judge advocate certified under Art. 27(b) shall be made available to provide legal advice to the deposition officer.
 
-#  Discussion
+####  Discussion
 
 _See_ Article 49(c). 
 
@@ -8616,7 +8616,7 @@ will be at a point distant from the command, an appropriate authority may
 
 be requested to make available an officer to serve as deposition officer.
 
-#  Assignment of counsel.
+#### (2) Assignment of counsel.
 
 If charges have not yet been referred to a court-martial when a
 
@@ -8626,7 +8626,7 @@ the taking of the deposition shall ensure that counsel qualified as required
 
 under R.C.M. 502(d) are assigned to represent each party.
 
-#  Discussion
+####  Discussion
 
 The counsel who represents the accused at a deposition ordinarily
 
@@ -8642,17 +8642,17 @@ concerning the charges in question, ordinarily that counsel should be appointed
 
 to represent the accused.
 
-#  Instructions.
+#### (3) Instructions.
 
 The convening authority may give instructions not inconsistent with
 
  this rule to the deposition officer.
 
-#  Discussion
+####  Discussion
 
 Such instruction may include the time and place for taking the deposition.
 
-#  Notice.
+### (e) Notice.
 
 The party at whose request a deposition is to be taken shall give
 
@@ -8666,51 +8666,51 @@ may for cause shown extend or shorten the time or change the place for taking
 
 the deposition, consistent with any instructions from the convening authority.
 
-#  Duties of the deposition officer.
+### (f) Duties of the deposition officer.
 
 In accordance with this rule, and subject to any instructions under
 
 subsection (d)(3) of this rule, the deposition officer shall: 
 
-Arrange a time and place for taking the deposition and, in the case
+(1) Arrange a time and place for taking the deposition and, in the case
 
 of an oral deposition, notify the party who requested the deposition accordingly;
 
-Arrange for the presence of any witness whose deposition is to be
+(2) Arrange for the presence of any witness whose deposition is to be
 
 taken in accordance with the procedures for production of witnesses and evidence
 
 under R.C.M. 703(e); 
 
-Maintain order during the deposition and protect the parties and
+(3) Maintain order during the deposition and protect the parties and
 
 witnesses from annoyance, embarrassment, or oppression; 
 
-Administer the oath to each witness, the reporter, and interpreter,
+(4) Administer the oath to each witness, the reporter, and interpreter,
 
 if any; 
 
-In the case of a written deposition, ask the questions submitted
+(5) In the case of a written deposition, ask the questions submitted
 
 by counsel to the witness; 
 
-Cause the proceedings to be recorded so that a verbatim record is
+(6) Cause the proceedings to be recorded so that a verbatim record is
 
 made or may be prepared; 
 
-Record, but not rule upon, objections or motions and the testimony
+(7) Record, but not rule upon, objections or motions and the testimony
 
 to which they relate; 
 
-Authenticate the record of the deposition and forward it to the
+(8) Authenticate the record of the deposition and forward it to the
 
 authority who ordered the deposition; and 
 
-Report to the convening authority any substantial irregularity in
+(9) Report to the convening authority any substantial irregularity in
 
 the proceeding.
 
-#  Discussion
+####  Discussion
 
 When any unusual problem, such as improper conduct by counsel or
 
@@ -8722,15 +8722,15 @@ should adjourn the proceedings and inform the convening authority.
 
 authority who ordered the deposition should forward copies to the parties.
 
-#  Procedure.
+### (g) Procedure.
 
-#  Oral depositions.
+#### (1) Oral depositions.
 
-#  Rights of accused.
+##### (A) Rights of accused.
 
 At an oral deposition, the accused shall have the rights to: 
 
-Be present except when: _(a)_ the accused, absent
+(i) Be present except when: _(a)_ the accused, absent
 
 good cause shown, fails to appear after notice of time and place of the deposition; _
 
@@ -8746,9 +8746,9 @@ can be served adequately by an oral deposition without the presence of the
 
 accused; and 
 
-Be represented by counsel as provided in R.C.M. 506. 
+(ii) Be represented by counsel as provided in R.C.M. 506. 
 
-#  Examination of witnesses.
+##### (B) Examination of witnesses.
 
 Each witness giving an oral deposition shall be examined under oath.
 
@@ -8762,7 +8762,7 @@ statement of the witness which is in the possession of the United States
 
 and to which the accused would be entitled at the trial.
 
-#  Discussion
+#####  Discussion
 
 As to objections, _ see_ subsections (f)(7) and (h)
 
@@ -8780,9 +8780,9 @@ shall be the truth, the whole truth, and nothing but the truth (so help you
 
 God)?"
 
-#  Written depositions.
+#### (2) Written depositions.
 
-#  Rights of accused.
+##### (A) Rights of accused.
 
 The accused shall have the right to be represented by counsel as
 
@@ -8790,11 +8790,11 @@ provided in R.C.M. 506 for the purpose of taking a written deposition, except
 
 when the deposition is taken for use at a summary court-martial. 
 
-#  Presence of parties.
+##### (B) Presence of parties.
 
 No party has a right to be present at a written deposition. 
 
-#  Submission of interrogatories to opponent.
+##### (C) Submission of interrogatories to opponent.
 
 The party requesting a written deposition shall submit to opposing
 
@@ -8804,7 +8804,7 @@ counsel may examine the questions and shall be allowed a reasonable time
 
 to prepare cross-interrogatories and objections, if any.
 
-#  Discussion
+#####  Discussion
 
 The interrogatories and cross-interrogatories should be sent to
 
@@ -8812,7 +8812,7 @@ the deposition officer by the party who requested the deposition. _
 
 See_ subsection (h)(3) of this rule concerning objections.
 
-#  Examination of witnesses.
+##### (D) Examination of witnesses.
 
 The deposition officer shall swear the witness, read each question
 
@@ -8834,7 +8834,7 @@ officer shall record the reason. The certificate of authentication shall
 
 then be executed. 
 
-#  How recorded.
+#### (3) How recorded.
 
 In the discretion of the authority who ordered the deposition, a
 
@@ -8846,7 +8846,7 @@ recorded by videotape, audiotape, or sound film may be played for the court-mart
 
 or may be transcribed and read to the court-martial.
 
-#  Discussion
+####  Discussion
 
 A deposition read in evidence or one that is played during a court-martial,
 
@@ -8854,9 +8854,9 @@ is recorded and transcribed by the reporter in the same way as any other
 
 testimony. The deposition need not be included in the record of trial.
 
-#  Objections.
+### (h) Objections.
 
-#  In general.
+#### (1) In general.
 
 A failure to object prior to the deposition to the taking of the
 
@@ -8864,7 +8864,7 @@ deposition on grounds which may be corrected if the objection is made prior
 
 to the deposition waives such objection. 
 
-#  Oral depositions.
+#### (2) Oral depositions.
 
 Objections to questions, testimony, or evidence at an oral deposition
 
@@ -8876,7 +8876,7 @@ such deposition. If an objection relates to a matter which could have been
 
 is waived if not made at the deposition.
 
-#  Discussion
+####  Discussion
 
 A party may show that an objection was made during the deposition
 
@@ -8884,7 +8884,7 @@ but not recorded, but, in the absence of such evidence, the transcript of
 
 the deposition governs.
 
-#  Written depositions.
+#### (3) Written depositions.
 
 Objections to any question in written interrogatories shall be served
 
@@ -8894,9 +8894,9 @@ to the deposition officer or the objection is waived. Objections to answers
 
  in a written deposition may be made at trial. 
 
-#  Deposition by agreement not precluded.
+### (i) Deposition by agreement not precluded.
 
-#  Taking deposition.
+#### (1) Taking deposition.
 
 Nothing in this rule shall preclude the taking of a deposition without
 
@@ -8904,7 +8904,7 @@ cost to the United States, orally or upon written questions, by agreement
 
 of the parties.
 
-#  Use of deposition.
+#### (2) Use of deposition.
 
 Subject to Article 49, nothing in this rule shall preclude the use
 
@@ -8912,21 +8912,21 @@ of a deposition at the court-martial by agreement of the parties unless the
 
 military judge forbids its use for good cause.
 
-#  Production of witnesses and evidence
+## Rule 703. Production of witnesses and evidence
 
-#  In general.
+### (a) In general.
 
 The prosecution and defense and the court-martial shall have equal opportunity to obtain witnesses and evidence, subject to the limitations set forth in R.C.M. 701(e)(1), including the benefit of compulsory process.
 
-#  Discussion
+###  Discussion
 
 _See also_ R.C.M. 801(c) concerning the opportunity
 
 of the court-martial to obtain witnesses and evidence.
 
-#  Right to witnesses.
+### (b) Right to witnesses.
 
-#  On the merits or on interlocutory questions.
+#### (1) On the merits or on interlocutory questions.
 
 Each party is entitled to the production of any witness whose testimony
 
@@ -8934,7 +8934,7 @@ on a matter in issue on the merits or on an interlocutory question would
 
 be relevant and necessary. With the consent of both the accused and Government, the military judge may authorize any witness to testify via remote means. Over a party's objection, the military judge may authorize any witness to testify on interlocutory questions via remote means or similar technology if the practical difficulties of producing the witness outweigh the significance of the witness' personal appearance (although such testimony will not be admissible over the accused's objection as evidence on the ultimate issue of guilt). Factors to be considered include, but are not limited to: the costs of producing the witness; the timing of the request for production of the witness; the potential delay in the interlocutory proceeding that may be caused by the production of the witness; the willingness of the witness to testify in person; the likelihood of significant interference with military operational deployment, mission accomplishment, or essential training; and, for child witnesses, the traumatic effect of providing in-court testimony.
 
-#  Discussion
+####  Discussion
 
 _See_ Mil. R. Evid. 401 concerning relevance.
 
@@ -8946,13 +8946,13 @@ issue. A matter is not in issue when it is stipulated as a fact.
 
   The procedures for receiving testimony via remote means and the definition thereof are contained in R.C.M. 914B.  An issue may arise as both an interlocutory question and a question that bears on the ultimate issue of guilt.  See R.C.M. 801(e)(5).  In such circumstances, this rule authorizes the admission of testimony by remote means or similar technology over the accused's objection only as evidence on the interlocutory question.  In most instances, testimony taken over a party's objection will not be admissible as evidence on the question that bears on the ultimate issue of guilt; however, there may be certain limited circumstances where the testimony is admissible on the ultimate issue of guilt.  Such determinations must be made based upon the relevant rules of evidence.
 
-#  On sentencing.
+#### (2) On sentencing.
 
 Each party is entitled to the production of a witness whose testimony
 
 on sentencing is required under R.C.M. 1001(e). 
 
-#  Unavailable witness.
+#### (3) Unavailable witness.
 
 Notwithstanding subsections (b)(1) and (2) of this rule, a party
 
@@ -8972,25 +8972,25 @@ the unavailability of the witness is the fault of or could have been prevented
 
 by the requesting party. 
 
-#  Determining which witness will be produced.
+### (c) Determining which witness will be produced.
 
-#  Witnesses for the prosecution.
+#### (1) Witnesses for the prosecution.
 
 The trial counsel shall obtain the presence of witnesses whose testimony
 
 the trial counsel considers relevant and necessary for the prosecution.
 
-#  Witnesses for the defense.
+#### (2) Witnesses for the defense.
 
-#  Request.
+##### (A) Request.
 
 The defense shall submit to the trial counsel a written list of
 
 witnesses whose production by the Government the defense requests. 
 
-#  Contents of request.
+##### (B) Contents of request.
 
-#  Witnesses on merits or interlocutory questions.
+###### (i) Witnesses on merits or interlocutory questions.
 
 A list of witnesses whose testimony the defense considers relevant
 
@@ -9004,7 +9004,7 @@ a synopsis of the expected testimony sufficient to show its relevance and
 
 necessity. 
 
-#  Witnesses on sentencing.
+###### (ii) Witnesses on sentencing.
 
 A list of witnesses wanted for presentencing proceedings shall include
 
@@ -9018,7 +9018,7 @@ reasons why the witness' personal appearance will be necessary under the
 
 standards set forth in R.C.M. 1001(e). 
 
-#  Time of request.
+##### (C) Time of request.
 
 A list of witnesses under this subsection shall be submitted in
 
@@ -9034,7 +9034,7 @@ of the witness, but relief from such denial may be granted for good cause
 
 shown. 
 
-#  Determination.
+##### (D) Determination.
 
 The trial counsel shall arrange for the presence of any witness
 
@@ -9050,7 +9050,7 @@ for a witness, the trial counsel shall produce the witness or the proceedings
 
 shall be abated.
 
-#  Discussion
+#####  Discussion
 
 When significant or unusual costs would be involved in producing
 
@@ -9062,7 +9062,7 @@ a court-martial. _See_ R.C.M. 906(b)(7). _See also
 
 _ R.C.M. 905(j).
 
-#  Employment of expert witnesses.
+### (d) Employment of expert witnesses.
 
 When the employment at Government expense of an expert is considered
 
@@ -9092,13 +9092,13 @@ absence of advance authorization, an expert witness may not be paid fees
 
 other than those to which entitled under subsection (e)(2)(D) of this rule.
 
-#  Discussion
+###  Discussion
 
 _See_ Mil. R. Evid. 702, 706.
 
-#  Procedures for production of witnesses.
+### (e) Procedures for production of witnesses.
 
-#  Military witnesses.
+#### (1) Military witnesses.
 
 The attendance of a military witness may be obtained by notifying
 
@@ -9108,7 +9108,7 @@ is required and requesting the commander to issue any necessary orders to
 
 the witness.
 
-#  Discussion
+####  Discussion
 
 When military witnesses are located near the court-martial, their
 
@@ -9134,15 +9134,15 @@ attendance of persons not on active duty should be obtained in the manner
 
 prescribed in subsection (e)(2) of this rule.
 
-#  Civilian witnesses-subpoena.
+#### (2) Civilian witnesses-subpoena.
 
-#  In general.
+##### (A) In general.
 
 The presence of witnesses not on active duty may be obtained by
 
  subpoena.
 
-#  Discussion
+#####  Discussion
 
 A subpoena is not necessary if the witness appears voluntarily at
 
@@ -9170,45 +9170,45 @@ country are not subject to subpoena. Their presence may be obtained through
 
 cooperation of the host nation.
 
-#  Contents. 
+##### (B) Contents. 
 
 A subpoena shall state the command by which the proceeding is directed, and the title, if any, of the proceeding. A subpoena shall command each person to whom it is directed to attend and give testimony at the time and place specified therein. A subpoena may also command the person to whom it is directed to produce books, papers, documents, data, or other objects or electronically stored information designated therein at the proceeding or at an earlier time for inspection by the parties. A subpoena issued for a preliminary hearing pursuant to Article 32 shall not command any person to attend or give testimony at an Article 32 preliminary hearing.
 
-#  Discussion
+#####  Discussion
 
 A subpoena may not be used to compel a witness to appear at an examination or interview before trial, but a subpoena may be used to obtain witnesses for a deposition or a court of inquiry. In accordance with subsection (f)(4)(B) of this rule, a subpoena duces tecum to produce books, papers, documents, data, or other objects or electronically stored information for pretrial investigation pursuant to Article 32 may be issued, following the convening authority's order directing such pretrial investigation, by either the investigating officer appointed under R.C.M. 405(d)(1) or the counsel representing the United States.
 
   A subpoena normally is prepared, signed, and issued in duplicate on the official forms. _See_ Appendix 7 for an example of a subpoena with certificate of service (DD Form 453) and a Travel Order (DD Form 453-1).
 
-#  Who may issue.
+##### (C) Who may issue.
 
-A subpoena to secure evidence may be issued by:
+(1) A subpoena to secure evidence may be issued by:
 
-The summary court-martial;
+(a) The summary court-martial;
 
-Detailed counsel for the government at an Article 32 preliminary hearing;
+(b) Detailed counsel for the government at an Article 32 preliminary hearing;
 
-After referral to a court-martial, detailed trial counsel;
+(c) After referral to a court-martial, detailed trial counsel;
 
-The president of a court of inquiry; or
+(d) The president of a court of inquiry; or
 
-An officer detailed to take a deposition.
+(e) An officer detailed to take a deposition.
 
-A subpoena to secure witnesses may be issued by:
+(2) A subpoena to secure witnesses may be issued by:
 
-the summary court-martial;
+(a) the summary court-martial;
 
-after referral to a court-martial, detailed trial counsel;
+(b) after referral to a court-martial, detailed trial counsel;
 
-the president of a court of inquiry; or
+(c) the president of a court of inquiry; or
 
-an officer detailed to take a deposition.
+(d) an officer detailed to take a deposition.
 
-#  Service.
+##### (D) Service.
 
 A subpoena may be served by the person authorized by this rule to issue it, a United States Marshal, or any other person who is not less than 18 years of age. Service shall be made by delivering a copy of the subpoena to the person named and by providing to the person named travel orders and a means for reimbursement for fees and mileage as may be prescribed by the Secretary concerned, or in the case of hardship resulting in the subpoenaed witness's inability to comply with the subpoena absent initial government payment, by providing to the person named travel orders, fees, and mileage sufficient to comply with the subpoena in rules prescribed by the Secretary concerned.
 
-#  Discussion
+#####  Discussion
 
 If practicable, a subpoena should be issued in time to permit service at least 24 hours before the time the witness will have to travel to comply with the subpoena.
 
@@ -9220,9 +9220,9 @@ If practicable, a subpoena should be issued in time to permit service at least 2
 
   For purposes of this Rule, _hardship_ is defined as any situation which would substantially preclude reasonable efforts to appear that could be solved by providing transportation or fees and mileage to which the witness is entitled for appearing at the hearing in question.
 
-#  Place of service.
+##### (E) Place of service.
 
-#  In general.
+###### (i) In general.
 
 A subpoena requiring the attendance of a witness at a deposition,
 
@@ -9230,7 +9230,7 @@ A subpoena requiring the attendance of a witness at a deposition,
 
 United States, it Territories, Commonwealths, or possessions. 
 
-#  Foreign territory.
+###### (ii) Foreign territory.
 
 In foreign territory, the attendance of civilian witnesses may be
 
@@ -9238,13 +9238,13 @@ In foreign territory, the attendance of civilian witnesses may be
 
 with principles of international law. 
 
-#  Occupied territory.
+###### (iii) Occupied territory.
 
 In occupied enemy territory, the appropriate commander may compel
 
 the attendance of civilian witnesses located within the occupied territory.
 
-#  Relief.
+##### (F) Relief.
 
 If a person subpoenaed requests relief on grounds that compliance
 
@@ -9254,9 +9254,9 @@ the military judge may direct that the subpoena be modified or withdrawn
 
 if appropriate. 
 
-#  Neglect or refusal to appear.
+##### (G) Neglect or refusal to appear.
 
-#  Issuance of warrant of attachment.
+###### (i) Issuance of warrant of attachment.
 
 The military judge or, if there is no military judge, the convening
 
@@ -9264,7 +9264,7 @@ authority may, in accordance with this rule, issue a warrant of attachment
 
 to compel the attendance of a witness or production of documents.
 
-#  Discussion
+######  Discussion
 
 A warrant of attachment (DD Form 454) may be used when necessary to compel a witness to appear or produce evidence under this rule. A warrant of attachment is a legal order addressed to an official directing that official to have the person named in the order brought before a court.
 
@@ -9274,11 +9274,11 @@ A warrant of attachment (DD Form 454) may be used when necessary to compel a wit
 
   For subpoenas issued for a pretrial investigation pursuant to Article 32 under subsection (f)(4)(B), the general court-martial convening authority with jurisdiction over the case may issue a warrant of attachment to compel production of documents.
 
-#  Requirements.
+###### (ii) Requirements.
 
 A warrant of attachment may be issued only upon probable cause to believe that the witness was duly served with a subpoena, that the subpoena was issued in accordance with these rules, that a means of reimbursement of fees and mileage was provided to the witness or advanced to the witness in cases of hardship, that the witness is material, that the witness refused or willfully neglected to appear at the time and place specified on the subpoena, and that no valid excuse is reasonably apparent for the witness's failure to appear.
 
-#  Form.
+###### (iii) Form.
 
 A warrant of attachment shall be written. All documents in support
 
@@ -9286,7 +9286,7 @@ of the warrant of attachment shall be attached to the warrant, together with
 
 the charge sheet and convening orders. 
 
-#  Execution.
+###### (iv) Execution.
 
 A warrant of attachment may be executed by a United States marshal
 
@@ -9302,7 +9302,7 @@ before the court-martial or proceeding without delay and shall testify as
 
 soon as practicable and be released.
 
-#  Discussion
+######  Discussion
 
 In executing a warrant of attachment, no more force than necessary
 
@@ -9310,7 +9310,7 @@ to bring the witness to the court-martial, deposition, or court of inquiry
 
 may be used.
 
-#  Definition.
+###### (v) Definition.
 
 For purposes of subsection (e)(2)(G) of this rule "military
 
@@ -9318,19 +9318,19 @@ judge" does not include a summary court-martial or the president of
 
 a special court-martial without a military judge. 
 
-#  Right to evidence.
+### (f) Right to evidence.
 
-#  In general.
+#### (1) In general.
 
 Each party is entitled to the production of evidence which is relevant
 
 and necessary.
 
-#  Discussion
+####  Discussion
 
 Relevance is defined by Mil. R. Evid. 401. Relevant evidence is necessary when it is not cumulative and when it would contribute to a party's presentation of the case in some positive way on a matter in issue. A matter is not in issue when it is stipulated as a fact. The discovery and introduction of classified or other government information is controlled by Mil. R. Evid. 505 and 506.
 
-#  Unavailable evidence.
+#### (2) Unavailable evidence.
 
 Notwithstanding subsection (f)(1) of this rule, a party is not entitled
 
@@ -9348,7 +9348,7 @@ or shall abate the proceedings, unless the unavailability of the evidence
 
 is the fault of or could have been prevented by the requesting party. 
 
-#  Determining what evidence will be produced.
+#### (3) Determining what evidence will be produced.
 
 The procedures in subsection (c) of this rule shall apply to a determination
 
@@ -9362,9 +9362,9 @@ and necessity, a statement where it can be obtained, and, if known, the name,
 
 address, and telephone number of the custodian of the evidence. 
 
-#  Procedures for production of evidence.
+#### (4) Procedures for production of evidence.
 
-#  Evidence under the control of the Government.
+##### (A) Evidence under the control of the Government.
 
 Evidence under the control of the Government may be obtained by
 
@@ -9372,15 +9372,15 @@ notifying the custodian of the evidence of the time, place, and date the
 
 evidence is required and requesting the custodian to send or deliver the evidence.
 
-#  Evidence not under the control of the government. 
+##### (B) Evidence not under the control of the government. 
 
 Evidence not under the control of the government may be obtained by a subpoena issued in accordance with subsection (e)(2) of this rule. A _subpoena duces tecum_ to produce books, papers, documents, data, or other objects or electronically stored information for a preliminary hearing pursuant to Article 32 may be issued, following the convening authority's order directing such preliminary hearing, by counsel for the government. A person in receipt of a _subpoena duces tecum_ for an Article 32 hearing need not personally appear in order to comply with the subpoena.
 
-#  Discussion
+#####  Discussion
 
 The National Defense Authorization Act for Fiscal Year 2012, P.L. 112-81, --SECT-- 542, amended Article 47 to allow the issuance of subpoenas duces tecum for Article 32 hearings. Although the amended language cites Article 32(b), this new subpoena power extends to documents subpoenaed by the investigating officer and counsel representing the United States, whether or not requested by the defense.
 
-#  Relief.
+##### (C) Relief.
 
 If the person having custody of evidence requests relief on grounds
 
@@ -9396,19 +9396,19 @@ the evidence be submitted to the military judge for an in camera inspection
 
 in order to determine whether such relief should be granted. 
 
-#  Immunity
+## Rule 704. Immunity
 
-#  Types of immunity.
+### (a) Types of immunity.
 
 Two types of immunity may be granted under this rule. 
 
-#  Transactional immunity.
+#### (1) Transactional immunity.
 
 A person may be granted transactional immunity from trial by court-martial
 
 for one or more offenses under the code. 
 
-#  Testimonial immunity.
+#### (2) Testimonial immunity.
 
 A person may be granted immunity from the use of testimony, statements,
 
@@ -9416,7 +9416,7 @@ and any information directly or indirectly derived from such testimony or
 
 statements by that person in a later court-martial.
 
-#  Discussion
+####  Discussion
 
 "Testimonial" immunity is also called "use"
 
@@ -9460,25 +9460,25 @@ that person may testify or make statements, it may be necessary to try that
 
 person before the testimony or statements are given.
 
-#  Scope.
+### (b) Scope.
 
 Nothing in this rule bars: 
 
-A later court-martial for perjury, false swearing, making a false
+(1) A later court-martial for perjury, false swearing, making a false
 
 official statement, or failure to comply with an order to testify; or 
 
-Use in a court-martial under subsection (b)(1) of this rule of testimony
+(2) Use in a court-martial under subsection (b)(1) of this rule of testimony
 
 or statements derived from such testimony or statements. 
 
-#  Authority to grant immunity.
+### (c) Authority to grant immunity.
 
 Only a general court-martial convening authority may grant immunity,
 
 and may do so only in accordance with this rule.
 
-#  Discussion
+###  Discussion
 
 Only general court-martial convening authorities are authorized
 
@@ -9506,7 +9506,7 @@ immunity to a prosecution witness in a court-martial may be disqualified
 
 from taking post-trial action in the case under some circumstances.
 
-#  Persons subject to the code.
+#### (1) Persons subject to the code.
 
 A general court-martial convening authority may grant immunity to
 
@@ -9520,7 +9520,7 @@ to do so by the Attorney General of the United States or other authority
 
 designated under 18 U.S.C. --SECT-- 6004.
 
-#  Discussion
+####  Discussion
 
 When testimony or a statement for which a person subject to the
 
@@ -9548,7 +9548,7 @@ by the Attorney General for the grant of immunity may be necessary to compel
 
 would make the person liable for a Federal civilian offense.
 
-#  Persons not subject to the code.
+#### (2) Persons not subject to the code.
 
 A general court-martial convening authority may grant immunity to
 
@@ -9558,7 +9558,7 @@ by the Attorney General of the United States or other authority designated
 
  under 18 U.S.C. --SECT-- 6004.
 
-#  Discussion
+####  Discussion
 
 _See_ the discussion under subsection (c)(1) of this
 
@@ -9566,13 +9566,13 @@ rule concerning forwarding a request for authorization to grant immunity
 
 to the Attorney General.
 
-#  Other limitations.
+#### (3) Other limitations.
 
 The authority to grant immunity under this rule may not be delegated.
 
 The authority to grant immunity may be limited by superior authority.
 
-#  Discussion
+####  Discussion
 
 Department of Defense Directive 1355.1 (21 July 1981) provides:
 
@@ -9590,7 +9590,7 @@ shall obtain the view of other appropriate elements of the Department of
 
 defense in furtherance of such consultation."
 
-#  Procedure.
+### (d) Procedure.
 
 A grant of immunity shall be written and signed by the convening
 
@@ -9598,7 +9598,7 @@ authority who issues it. The grant shall include a statement of the authority
 
 under which it is made and shall identify the matters to which it extends.
 
-#  Discussion
+###  Discussion
 
 A person who has received a valid grant of immunity from a proper
 
@@ -9632,7 +9632,7 @@ immunity is granted to a prosecution witness, the accused must be notified
 
 in accordance with Mil. R. Evid. 301(c)(2).
 
-#  Decision to grant immunity.
+### (e) Decision to grant immunity.
 
 Unless limited by superior competent authority, the decision to
 
@@ -9650,11 +9650,11 @@ to the affected charges and specifications, the proceedings against the accused
 
 be abated, upon findings that: 
 
-The witness intends to invoke the right against self-incrimination
+(1) The witness intends to invoke the right against self-incrimination
 
 to the extent permitted by law if called to testify; and 
 
-The Government has engaged in discriminatory use of immunity to
+(2) The Government has engaged in discriminatory use of immunity to
 
 obtain a tactical advantage, or the Government, through its own overreaching,
 
@@ -9662,15 +9662,15 @@ has forced the witness to invoke the privilege against self-incrimination;
 
 and 
 
-The witness' testimony is material, clearly exculpatory, not cumulative,
+(3) The witness' testimony is material, clearly exculpatory, not cumulative,
 
 not obtainable from any other source and does more than merely affect the
 
 credibility of other witnesses. 
 
-#  Pretrial agreements
+## Rule 705. Pretrial agreements
 
-#  In general.
+### (a) In general.
 
 Subject to such limitations as the Secretary concerned may prescribe,
 
@@ -9678,7 +9678,7 @@ Subject to such limitations as the Secretary concerned may prescribe,
 
 in accordance with this rule.
 
-#  Discussion
+###  Discussion
 
 The authority of convening authorities to refer cases to trial and
 
@@ -9702,11 +9702,11 @@ in cases where such consultation is required. _ See_ Appendix
 
 3.
 
-#  Nature of agreement.
+### (b) Nature of agreement.
 
 A pretrial agreement may include: 
 
-A promise by the accused to plead guilty to, or to enter a confessional
+(1) A promise by the accused to plead guilty to, or to enter a confessional
 
 stipulation as to one or more charges and specifications, and to fulfill
 
@@ -9714,15 +9714,15 @@ such additional terms or conditions which may be included in the agreement
 
 and which are not prohibited under this rule; and 
 
-A promise by the convening authority to do one or more of the following:
+(2) A promise by the convening authority to do one or more of the following:
 
-Refer the charges to a certain type of court-martial; 
+(A) Refer the charges to a certain type of court-martial; 
 
-Refer a capital offense as noncapital; 
+(B) Refer a capital offense as noncapital; 
 
-Withdraw one or more charges or specifications from the court-martial;
+(C) Withdraw one or more charges or specifications from the court-martial;
 
-#  Discussion
+#####  Discussion
 
 A convening authority may withdraw certain specifications and/or
 
@@ -9750,13 +9750,13 @@ has breached the terms of the pretrial agreement. If the agreement is intended
 
  to grant immunity to an accused, _see_ R.C.M. 704.
 
-Have the trial counsel present no evidence as to one or more specifications
+(D) Have the trial counsel present no evidence as to one or more specifications
 
 or portions thereof; and 
 
-Take specified action on the sentence adjudged by the court-martial.
+(E) Take specified action on the sentence adjudged by the court-martial.
 
-#  Discussion
+#####  Discussion
 
 For example, the convening authority may agree to approve no sentence
 
@@ -9766,17 +9766,17 @@ to defer confinement, or to mitigate certain forms of punishment into less
 
 severe forms.
 
-#  Terms and conditions.
+### (c) Terms and conditions.
 
-#  Prohibited terms or conditions.
+#### (1) Prohibited terms or conditions.
 
-#  Not voluntary.
+##### (A) Not voluntary.
 
 A term or condition in a pretrial agreement shall not be enforced
 
 if the accused did not freely and voluntarily agree to it. 
 
-#  Deprivation of certain rights.
+##### (B) Deprivation of certain rights.
 
 A term or condition in a pretrial agreement shall not be enforced
 
@@ -9788,7 +9788,7 @@ to a speedy trial; the right to complete sentencing proceedings; the complete
 
 and effective exercise of post-trial and appellate rights.
 
-#  Discussion
+#####  Discussion
 
 A pretrial agreement provision which prohibits the accused from
 
@@ -9796,7 +9796,7 @@ A pretrial agreement provision which prohibits the accused from
 
 may be improper.
 
-#  Permissible terms or conditions.
+#### (2) Permissible terms or conditions.
 
 Subject to subsection (c)(1)(A) of this rule, subsection (c)(1)(B)
 
@@ -9804,23 +9804,23 @@ of this rule does not prohibit either party from proposing the following
 
 additional conditions: 
 
-A promise to enter into a stipulation of fact concerning offenses
+(A) A promise to enter into a stipulation of fact concerning offenses
 
 to which a plea of guilty or as to which a confessional stipulation will
 
 be entered; 
 
-A promise to testify as a witness in the trial of another person;
+(B) A promise to testify as a witness in the trial of another person;
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 704(a)(2) concerning testimonial immunity.
 
 Only a general court-martial convening authority may grant immunity.
 
-A promise to provide restitution; 
+(C) A promise to provide restitution; 
 
-A promise to conform the accused's conduct to certain conditions
+(D) A promise to conform the accused's conduct to certain conditions
 
 of probation before action by the convening authority as well as during
 
@@ -9832,15 +9832,15 @@ terms may relieve the convening authority of the obligation to fulfill the
 
 agreement; and 
 
-A promise to waive procedural requirements such as the Article 32 preliminary hearing, the right to trial by court-martial composed of members or
+(E) A promise to waive procedural requirements such as the Article 32 preliminary hearing, the right to trial by court-martial composed of members or
 
 the right to request trial by military judge alone, or the opportunity to
 
 obtain the personal appearance of witnesses at sentencing proceedings. 
 
-#  Procedure.
+### (d) Procedure.
 
-#  Negotiation.
+#### (1) Negotiation.
 
 Pretrial agreement negotiations may be initiated by the accused,
 
@@ -9854,7 +9854,7 @@ Government representatives shall negotiate with defense counsel unless the
 
 accused has waived the right to counsel. 
 
-#  Formal submission.
+#### (2) Formal submission.
 
 After negotiation, if any, under subsection (d)(1) of this rule,
 
@@ -9870,7 +9870,7 @@ on the adjudged sentence, such action shall be set forth on a page separate
 
 from the other portions of the agreement.
 
-#  Discussion
+####  Discussion
 
 The first part of the agreement ordinarily contains an offer to
 
@@ -9890,7 +9890,7 @@ voluntarily and may contain a statement that the accused has been advised
 
 of certain rights in connection with the agreement.
 
-#  Acceptance.
+#### (3) Acceptance.
 
 The convening authority may either accept or reject an offer of
 
@@ -9908,15 +9908,15 @@ a person, such as the staff judge advocate or trial counsel, who has been
 
 authorized by the convening authority to sign.
 
-#  Discussion
+####  Discussion
 
 The convening authority should consult with the staff judge advocate
 
  or trial counsel before acting on an offer to enter into a pretrial agreement.
 
-#  Withdrawal.
+#### (4) Withdrawal.
 
-#  By accused.
+##### (A) By accused.
 
 The accused may withdraw from a pretrial agreement at any time;
 
@@ -9926,7 +9926,7 @@ entered pursuant to a pretrial agreement only as provided in R.C.M. 910(h)
 
 or 811(d), respectively. 
 
-#  By convening authority.
+##### (B) By convening authority.
 
 The convening authority may withdraw from a pretrial agreement at
 
@@ -9942,7 +9942,7 @@ set aside because a plea of guilty entered pursuant to the agreement is held
 
 improvident on appellate review. 
 
-#  Nondisclosure of existence of agreement.
+### (e) Nondisclosure of existence of agreement.
 
 Except in a special court-martial without a military judge, no member
 
@@ -9956,13 +9956,13 @@ accused in connection therewith, whether during negotiations or during a
 
 providence inquiry, shall not be otherwise disclosed to the members.
 
-#  Discussion
+###  Discussion
 
  _See also_ R.C.M. 910(f) (plea agreement inquiry).
 
-#  Inquiry into the mental capacity or mental responsibility of the accused
+## Rule 706. Inquiry into the mental capacity or mental responsibility of the accused
 
-#  Initial action.
+### (a) Initial action.
 
 If it appears to any commander who considers the disposition of
 
@@ -9980,7 +9980,7 @@ an inquiry into the mental condition of the accused. The submission may be
 
 accompanied by an application for a mental examination under this rule.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 909 concerning the capacity of the accused
 
@@ -9988,9 +9988,9 @@ to stand trial and R.C.M. 916(k) concerning mental responsibility of the
 
 accused.
 
-#  Ordering an inquiry.
+### (b) Ordering an inquiry.
 
-#  Before referral.
+#### (1) Before referral.
 
 Before referral of charges, an inquiry into the mental capacity
 
@@ -9998,7 +9998,7 @@ or mental responsibility of the accused may be ordered by the convening authorit
 
 before whom the charges are pending for disposition. 
 
-#  After referral.
+#### (2) After referral.
 
 After referral of charges, an inquiry into the mental capacity or
 
@@ -10014,9 +10014,9 @@ The military judge may order a mental examination of the accused regardless
 
 of any earlier determination by the convening authority. 
 
-#  Inquiry.
+### (c) Inquiry.
 
-#  By whom conducted.
+#### (1) By whom conducted.
 
 When a mental examination is ordered under subsection (b) of this
 
@@ -10030,7 +10030,7 @@ or a clinical psychologist. The board shall report as to the mental capacity
 
 or mental responsibility or both of the accused. 
 
-#  Matters in inquiry.
+#### (2) Matters in inquiry.
 
 When a mental examination is ordered under this rule, the order
 
@@ -10042,7 +10042,7 @@ In addition to other requirements, the order shall require the board to make
 
 separate and distinct findings as to each of the following questions: 
 
-At the time of the alleged criminal conduct, did the accused have
+(A) At the time of the alleged criminal conduct, did the accused have
 
 a severe mental disease or defect? (The term "severe mental disease
 
@@ -10052,15 +10052,15 @@ or defect" does not include an abnormality manifested only by repeated
 
 behavior disorders and personality defects.) 
 
-What is the clinical psychiatric diagnosis? 
+(B) What is the clinical psychiatric diagnosis? 
 
-Was the accused, at the time of the alleged criminal conduct and
+(C) Was the accused, at the time of the alleged criminal conduct and
 
 as a result of such severe mental disease or defect, unable to appreciate
 
 the nature and quality or wrongfulness of his or her conduct? 
 
-Is the accused presently suffering from a mental disease or defect
+(D) Is the accused presently suffering from a mental disease or defect
 
 rendering the accused unable to understand the nature of the proceedings
 
@@ -10072,13 +10072,13 @@ Other
 
 appropriate questions may also be included. 
 
-#  Directions to board.
+#### (3) Directions to board.
 
 In addition to the requirements specified in subsection (c)(2) of
 
  this rule, the order to the board shall specify: 
 
-That upon completion of the board's investigation, a statement
+(A) That upon completion of the board's investigation, a statement
 
 consisting only of the board's ultimate conclusions as to all questions specified
 
@@ -10090,7 +10090,7 @@ in the order shall be submitted to the officer ordering the examination,
 
 and, after referral, to the military judge; 
 
-That the full report of the board may be released by the board or
+(B) That the full report of the board may be released by the board or
 
  other medical personnel only to other medical personnel for medical purposes,
 
@@ -10102,7 +10102,7 @@ shall be furnished to the defense and, upon request, to the commanding officer
 
 of the accused; and 
 
-That neither the contents of the full report nor any matter considered
+(C) That neither the contents of the full report nor any matter considered
 
 by the board during its investigation shall be released by the board or other
 
@@ -10110,7 +10110,7 @@ medical personnel to any person not authorized to receive the full report,
 
  except pursuant to an order by the military judge.
 
-#  Discussion
+#####  Discussion
 
 Based on the report, further action in the case may be suspended,
 
@@ -10120,13 +10120,13 @@ action may be taken to discharge the accused from the service or, subject
 
 to Mil. R. Evid. 302, the charges may be tried by court-martial.
 
-#  Additional examinations.
+#### (4) Additional examinations.
 
 Additional examinations may be directed under this rule at any stage
 
  of the proceedings as circumstances may require. 
 
-#  Disclosure to trial counsel.
+#### (5) Disclosure to trial counsel.
 
 No person, other than the defense counsel, accused, or, after referral
 
@@ -10134,21 +10134,21 @@ of charges, the military judge may disclose to the trial counsel any statement
 
 made by the accused to the board or any evidence derived from such statement.
 
-#  Discussion
+####  Discussion
 
  _See_ Mil. R. Evid. 302.
 
-#  Speedy trial
+## Rule 707. Speedy trial
 
-#  In general.
+### (a) In general.
 
 The accused shall be brought to trial within 120 days after the
 
  earlier of: 
 
-Preferral of charges;
+(1) Preferral of charges;
 
-#  Discussion
+####  Discussion
 
 Delay from the time of an offense to preferral of charges or the
 
@@ -10164,13 +10164,13 @@ to serve the interests of good order and discipline. Priority shall be given
 
 to persons in arrest or confinement.
 
-The imposition of restraint under R.C.M. 304(a)(2)-(4); or
+(2) The imposition of restraint under R.C.M. 304(a)(2)-(4); or
 
-Entry on active duty under R.C.M. 204. 
+(3) Entry on active duty under R.C.M. 204. 
 
-#  Accountability.
+### (b) Accountability.
 
-#  In general.
+#### (1) In general.
 
 The date of preferral of charges, the date on which pretrial restraint
 
@@ -10184,7 +10184,7 @@ count. The accused is brought to trial within the meaning of this rule at
 
 the time of arraignment under R.C.M. 904. 
 
-#  Multiple Charges.
+#### (2) Multiple Charges.
 
 When charges are preferred at different times, accountability for
 
@@ -10192,9 +10192,9 @@ When charges are preferred at different times, accountability for
 
 (a) of this rule for that charge. 
 
-#  Events which affect time periods.
+#### (3) Events which affect time periods.
 
-#  Dismissal or mistrial.
+##### (A) Dismissal or mistrial.
 
 If charges are dismissed, or if a mistrial is granted, a new 120-day
 
@@ -10206,11 +10206,11 @@ is in pretrial restraint. In all other cases, a new 120-day time period under
 
 the rule shall begin on the earlier of 
 
-the date of repreferral; or
+(i) the date of repreferral; or
 
-the date of imposition of restraint under R.C.M. 304(a)(2)-(4).
+(ii) the date of imposition of restraint under R.C.M. 304(a)(2)-(4).
 
-#  Release from restraint.
+##### (B) Release from restraint.
 
 If the accused is released from pretrial restraint for a significant
 
@@ -10218,15 +10218,15 @@ If the accused is released from pretrial restraint for a significant
 
 of 
 
-the date of preferral of charges; 
+(i) the date of preferral of charges; 
 
-the date on which restraint under R.C.M. 304(a) (2)-(4) is reimposed;
+(ii) the date on which restraint under R.C.M. 304(a) (2)-(4) is reimposed;
 
  or
 
-the date of entry on active duty under R.C.M. 204.
+(iii) the date of entry on active duty under R.C.M. 204.
 
-#  Government appeals.
+##### (C) Government appeals.
 
 If notice of appeal under R.C.M. 908 is filed, a new 120-day time
 
@@ -10250,7 +10250,7 @@ are notified of the final decision of the Court of Appeals for the Armed
 
 Forces, or, if appropriate, the Supreme Court. 
 
-#  Rehearings.
+##### (D) Rehearings.
 
 If a rehearing is ordered or authorized by an appellate court, a
 
@@ -10266,7 +10266,7 @@ is not required (such as in the case of a sentence-only rehearing), at the
 
 time of the first session under R.C.M. 803.
 
-#  Commitment of the incompetent accused.
+##### (E) Commitment of the incompetent accused.
 
 If the accused is committed to the custody of the Attorney General
 
@@ -10282,7 +10282,7 @@ a new 120-day time period under this rule shall begin on the date of such
 
 return to custody. 
 
-#  Excludable delay.
+### (c) Excludable delay.
 
 All periods of time during which appellate courts have issued stays
 
@@ -10296,7 +10296,7 @@ subsection (a) of this rule has run. All other pretrial delays approved by
 
 a military judge or the convening authority shall be similarly excluded.
 
-#  Procedure.
+#### (1) Procedure.
 
 Prior to referral, all requests for pretrial delay, together with
 
@@ -10308,7 +10308,7 @@ military judge for resolution. After referral, such requests for pretrial
 
  delay will be submitted to the military judge for resolution.
 
-#  Discussion
+####  Discussion
 
 The decision to grant or deny a reasonable delay is a matter within
 
@@ -10346,7 +10346,7 @@ to referral, the convening authority may delegate the authority to grant
 
 continuances to an Article 32 preliminary hearing officer.
 
-#  Motions.
+#### (2) Motions.
 
 Upon accused's timely motion to a military judge under R.C.M. 905
 
@@ -10356,13 +10356,13 @@ the processing of the case. This chronology should be made a part of the
 
 appellate record. 
 
-#  Remedy.
+### (d) Remedy.
 
 A failure to comply with this rule will result in dismissal of the
 
 affected charges, or, in a sentence-only rehearing, sentence relief as appropriate.
 
-#  Dismissal.
+#### (1) Dismissal.
 
 Dismissal will be with or without prejudice to the government's
 
@@ -10384,7 +10384,7 @@ justice; and any prejudice to the accused resulting from the denial of a speedy
 
 trial.
 
-#  Sentence relief.
+#### (2) Sentence relief.
 
 In determining whether or how much sentence relief is appropriate,
 
@@ -10398,33 +10398,33 @@ relief granted will be applied against the sentence approved by the convening
 
 authority.
 
-#  Discussion
+####  Discussion
 
 _See_ subsection (c)(1) and the accompanying Discussion
 
 concerning reasons for delay and procedures for parties to request delay.
 
-#  Waiver.
+### (e) Waiver.
 
 Except as provided in R.C.M. 910(a)(2), a plea of guilty which
 
 results in a finding of guilty waives any speedy trial issue as to that offense.
 
-#  Discussion
+###  Discussion
 
 Speedy trial issues may also be waived by a failure to raise the
 
  issue at trial. _See_ R.C.M. 905(e) and 907(b)(2).
 
-#  TRIAL PROCEDURE GENERALLY
+# CHAPTER VIII. TRIAL PROCEDURE GENERALLY
 
-#  Military judge's responsibilities; other matters
+## Rule 801. Military judge's responsibilities; other matters
 
-#  Responsibilities of military judge.
+### (a) Responsibilities of military judge.
 
 The military judge is the presiding officer in a court-martial.
 
-#  Discussion
+###  Discussion
 
 The military judge is responsible for ensuring that court-martial
 
@@ -10438,9 +10438,9 @@ and responsibility as a military judge. _See_ R.C.M. 502(b)(2).
 
 The military judge shall:
 
-Determine the time and uniform for each session of a court-martial;
+(1) Determine the time and uniform for each session of a court-martial;
 
-#  Discussion
+####  Discussion
 
 The military judge should consult with counsel concerning the scheduling
 
@@ -10452,9 +10452,9 @@ judge may also determine the place of trial. _See also_ R.C.M.
 
 906(b)(11).
 
-Ensure that the dignity and decorum of the proceedings are maintained;
+(2) Ensure that the dignity and decorum of the proceedings are maintained;
 
-#  Discussion
+####  Discussion
 
 _See also_ R.C.M. 804 and 806. Courts-martial should
 
@@ -10464,11 +10464,11 @@ and determination of the issues presented and which reflects the seriousness
 
 of the proceedings.
 
-Subject to the code and this Manual, exercise reasonable control
+(3) Subject to the code and this Manual, exercise reasonable control
 
 over the proceedings to promote the purposes of these rules and this Manual;
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 102. The military judge may, within
 
@@ -10500,15 +10500,15 @@ opportunity to properly present and support their contentions on any relevant
 
 matter.
 
-Subject to subsection (e) of this rule, rule on all interlocutory
+(4) Subject to subsection (e) of this rule, rule on all interlocutory
 
 questions and all questions of law raised during the court-martial; and
 
-Instruct the members on questions of law and procedure which may
+(5) Instruct the members on questions of law and procedure which may
 
 arise.
 
-#  Discussion
+####  Discussion
 
 The military judge instructs the members concerning findings
 
@@ -10526,51 +10526,51 @@ which evidence has been introduced, _see_ Mil. R. Evid. 105)
 
 may be given whenever the need arises. 
 
-In the case of a victim of an offense under the UCMJ who is under 18 years of age and not a member of the armed forces, or who is incompetent, incapacitated, or deceased, designate in writing a family member, a representative of the estate of the victim, or another suitable individual to assume the victim's rights under the UCMJ.
+(6) In the case of a victim of an offense under the UCMJ who is under 18 years of age and not a member of the armed forces, or who is incompetent, incapacitated, or deceased, designate in writing a family member, a representative of the estate of the victim, or another suitable individual to assume the victim's rights under the UCMJ.
 
-For the purposes of this rule, the individual is designated for the sole purpose of assuming the legal rights of the victim as they pertain to the victim's status as a victim of any offense(s) properly before the court.
+(A) For the purposes of this rule, the individual is designated for the sole purpose of assuming the legal rights of the victim as they pertain to the victim's status as a victim of any offense(s) properly before the court.
 
-#  Discussion
+####  Discussion
 
  The rights that a designee may exercise on behalf of a victim include the right to receive notice of public hearings in the case; the right to be reasonably heard at such hearings, if permitted by law; and the right to confer with counsel representing the government at such hearings. The designee may also be the custodial guardian of the child.
 
  When determining whom to appoint under this rule, the military judge may consider the following: the age and maturity, relationship to the victim, and physical proximity of any proposed designee; the costs incurred in effecting the appointment; the willingness of the proposed designee to serve in such a role; the previous appointment of a guardian by another court of competent jurisdiction; the preference of the victim; any potential delay in any proceeding that may be caused by a specific appointment; and any other relevant information.
 
-Procedure to determine appointment of designee.
+(B) Procedure to determine appointment of designee.
 
-As soon as practicable, trial counsel shall notify the military judge, counsel for the accused and the victim(s) of any offense(s) properly before the court when there is an apparent requirement to appoint a designee under this rule.
+(i) As soon as practicable, trial counsel shall notify the military judge, counsel for the accused and the victim(s) of any offense(s) properly before the court when there is an apparent requirement to appoint a designee under this rule.
 
-#  Discussion
+#####  Discussion
 
  In the event a case involves multiple victims who are entitled to notice under this rule, each victim is only entitled to notice relating to his or her own designated representative.
 
-The military judge will determine if the appointment of a designee is required under this rule.
+(ii) The military judge will determine if the appointment of a designee is required under this rule.
 
-At the discretion of the military judge, victim(s), trial counsel, and the accused may be given the opportunity to recommend to the military judge individual(s) for appointment.
+(iii) At the discretion of the military judge, victim(s), trial counsel, and the accused may be given the opportunity to recommend to the military judge individual(s) for appointment.
 
-The military judge is not required to hold a hearing before determining whether a designation is required or making such an appointment under this rule.
+(iv) The military judge is not required to hold a hearing before determining whether a designation is required or making such an appointment under this rule.
 
-If the military judge determines a hearing pursuant to Article 39(a), UCMJ, is necessary, the following shall be notified of the hearing and afforded the right to be present at the hearing: trial counsel, accused, and the victim(s).
+(v) If the military judge determines a hearing pursuant to Article 39(a), UCMJ, is necessary, the following shall be notified of the hearing and afforded the right to be present at the hearing: trial counsel, accused, and the victim(s).
 
-The individual designated shall not be the accused. 
+(vi) The individual designated shall not be the accused. 
 
-At any time after appointment, a designee shall be excused upon request by the designee or a finding of good cause by the military judge.
+(C) At any time after appointment, a designee shall be excused upon request by the designee or a finding of good cause by the military judge.
 
-If the individual appointed to assume the victim's rights is excused, the military judge shall appoint a successor consistent with this rule.
+(D) If the individual appointed to assume the victim's rights is excused, the military judge shall appoint a successor consistent with this rule.
 
-#  Discussion
+#####  Discussion
 
  The term "victim of an offense under the UCMJ" means a person who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under the UCMJ. "Good Cause" means adequate or reasonable grounds to believe that the individual appointed to assume the victim's rights is not acting or does not intend to act in the best interest of the victim.
 
-#  Rules of court; contempt.
+### (b) Rules of court; contempt.
 
 The military judge may: 
 
-Subject to R.C.M. 108, promulgate and enforce rules of court. 
+(1) Subject to R.C.M. 108, promulgate and enforce rules of court. 
 
-Subject to R.C.M. 809, exercise contempt power. 
+(2) Subject to R.C.M. 809, exercise contempt power. 
 
-#  Obtaining evidence.
+### (c) Obtaining evidence.
 
 The court-martial may act to obtain evidence in addition to that
 
@@ -10578,7 +10578,7 @@ The court-martial may act to obtain evidence in addition to that
 
 obtained is subject to an interlocutory ruling by the military judge.
 
-#  Discussion
+###  Discussion
 
 The members may request and the military judge may require that
 
@@ -10592,7 +10592,7 @@ See also_ Mil. R. Evid. 614. In taking such action, the court-martial
 
 must not depart from an impartial role.
 
-#  Uncharged offenses.
+### (d) Uncharged offenses.
 
 If during the trial there is evidence that the accused may be guilty
 
@@ -10600,7 +10600,7 @@ of an untried offense not alleged in any specification before the court-martial,
 
 the court-martial shall proceed with the trial of the offense charged.
 
-#  Discussion
+###  Discussion
 
 A report of the matter may be made to the convening authority after
 
@@ -10616,7 +10616,7 @@ See also_ Mil. R. Evid. 105 concerning instructing the members on
 
 evidence of uncharged misconduct.
 
-#  Interlocutory questions and questions of law.
+### (e) Interlocutory questions and questions of law.
 
 For purposes of this subsection "military judge" does
 
@@ -10624,9 +10624,9 @@ not include the president of a special court-martial without a military
 
 judge. 
 
-#  Rulings by the military judge.
+#### (1) Rulings by the military judge.
 
-#  Finality of rulings.
+##### (A) Finality of rulings.
 
 Any ruling by the military judge upon a question of law, including
 
@@ -10634,7 +10634,7 @@ a motion for a finding of not guilty, or upon any interlocutory question
 
 is final. 
 
-#  Changing a ruling.
+##### (B) Changing a ruling.
 
 The military judge may change a ruling made by that or another
 
@@ -10642,7 +10642,7 @@ military judge in the case except a previously granted motion for a finding
 
 of not guilty, at any time during the trial. 
 
-#  Article 39(a) sessions.
+##### (C) Article 39(a) sessions.
 
 When required by this Manual or otherwise deemed appropriate by
 
@@ -10650,7 +10650,7 @@ the military judge, interlocutory questions or questions of law shall be
 
 presented and decided at sessions held without members under R.C.M. 803.
 
-#  Discussion
+#####  Discussion
 
 Sessions without members are appropriate for interlocutory questions,
 
@@ -10660,11 +10660,11 @@ Sessions without members are appropriate for interlocutory questions,
 
 consistent with the orderly, expeditious progress of the proceedings.
 
-#  Ruling by the president of a special court-martial without a military
+#### (2) Ruling by the president of a special court-martial without a military
 
  judge.
 
-#  Questions of law.
+##### (A) Questions of law.
 
 Any ruling by the president of a special court-martial without a
 
@@ -10672,7 +10672,7 @@ Any ruling by the president of a special court-martial without a
 
 of not guilty is final. 
 
-#  Questions of fact.
+##### (B) Questions of fact.
 
 Any ruling by the president of a special court-martial without a
 
@@ -10682,7 +10682,7 @@ issue of mental capacity of the accused, or on a motion for a finding of
 
 not guilty, is final unless objected to by a member. 
 
-#  Changing a ruling.
+##### (C) Changing a ruling.
 
 The president of a special court-martial without a military judge
 
@@ -10692,7 +10692,7 @@ a previously granted motion for a finding of not guilty, at any time during
 
  the trial. 
 
-#  Presence of members.
+##### (D) Presence of members.
 
 Except as provided in R.C.M. 505 and 912, all members will be present
 
@@ -10706,17 +10706,17 @@ may examine an offered item of real or documentary evidence before ruling
 
 on its admissibility without exposing it to other members. 
 
-#  Procedures for rulings by the president of a special court-martial
+#### (3) Procedures for rulings by the president of a special court-martial
 
  without a military judge which are subject to objection by a member.
 
-#  Determination.
+##### (A) Determination.
 
 The president of a special court-martial without a military judge
 
  shall determine whether a ruling is subject to objection. 
 
-#  Instructions.
+##### (B) Instructions.
 
 When a ruling by the president of a special court-martial without
 
@@ -10728,7 +10728,7 @@ to enable the members to understand the issue and the legal standards by
 
 which they will determine it if objection is made. 
 
-#  Voting.
+##### (C) Voting.
 
 When a member objects to a ruling by the president of a special
 
@@ -10744,7 +10744,7 @@ against the accused. A tie vote on any other question is a determination
 
 in favor of the accused. 
 
-#  Consultation.
+##### (D) Consultation.
 
 The president of a special court-martial without a military judge
 
@@ -10752,7 +10752,7 @@ may close the court-martial and consult with other members before ruling
 
 on a matter, when such ruling is subject to the objection of any member.
 
-#  Standard of proof.
+#### (4) Standard of proof.
 
 Questions of fact in an interlocutory question shall be determined
 
@@ -10764,7 +10764,7 @@ In the absence of a rule in this Manual assigning the burden of persuasion,
 
 of persuasion.
 
-#  Discussion
+####  Discussion
 
 A ruling on an interlocutory question should be preceded by any
 
@@ -10812,7 +10812,7 @@ it appears that the motion or objection is vague, inapposite, irrelevant,
 
 or spurious.
 
-#  Scope.
+#### (5) Scope.
 
 Subsection (e) of this rule applies to the disposition of questions
 
@@ -10820,7 +10820,7 @@ of law and interlocutory questions arising during trial except the question
 
 whether a challenge should be sustained.
 
-#  Discussion
+####  Discussion
 
 Questions of law and interlocutory questions include all issues
 
@@ -10908,7 +10908,7 @@ are subject to objection by any member to the extent that the issue of fact
 
 can be isolated and considered separately.
 
-#  Rulings on record.
+### (f) Rulings on record.
 
 All sessions involving rulings or instructions made or given by
 
@@ -10926,13 +10926,13 @@ military judge. For purposes of this subsection --LSQP--R.C.M. 801(f)--RSQP--
 
 court-martial without a military judge.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 808 and 1103 concerning preparation
 
 of the record of trial.
 
-#  Effect of failure to raise defenses or objections.
+### (g) Effect of failure to raise defenses or objections.
 
 Failure by a party to raise defenses or objections or to make requests
 
@@ -10944,9 +10944,9 @@ by the military judge, shall constitute waiver thereof, but the military judge
 
 for good cause shown may grant relief from the waiver. 
 
-#  Conferences
+## Rule 802. Conferences
 
-#  In general.
+### (a) In general.
 
 After referral, the military judge may, upon request of any party
 
@@ -10954,7 +10954,7 @@ or _sua sponte_, order one or more conferences with the parties
 
 to consider such matters as will promote a fair and expeditious trial. 
 
-#  Discussion
+###  Discussion
 
 Conferences between the military judge and counsel may be held when
 
@@ -11014,7 +11014,7 @@ A conference may be conducted by remote means or similar technology consistent w
 
  
 
-#  Matters on record.
+### (b) Matters on record.
 
 Conferences need not be made part of the record, but matters agreed
 
@@ -11024,23 +11024,23 @@ Failure of a party to object at trial to failure to comply with this subsection
 
  shall waive this requirement. 
 
-#  Rights of parties.
+### (c) Rights of parties.
 
 No party may be prevented under this rule from presenting evidence
 
 or from making any argument, objection, or motion at trial. 
 
-#  Accused's presence.
+### (d) Accused's presence.
 
 The presence of the accused is neither required nor prohibited at
 
 a conference.
 
-#  Discussion
+###  Discussion
 
 Normally the defense counsel may be presumed to speak for the accused.
 
-#  Admission.
+### (e) Admission.
 
 No admissions made by the accused or defense counsel at a conference
 
@@ -11048,7 +11048,7 @@ shall be used against the accused unless the admissions are reduced to writing
 
 and signed by the accused and defense counsel. 
 
-#  Limitations.
+### (f) Limitations.
 
 This rule shall not be invoked in the case of an accused who is
 
@@ -11056,7 +11056,7 @@ not represented by counsel, or in special court-martial without a military
 
 judge. 
 
-#  Court-martial sessions without members under Article 39(a)
+## Rule 803. Court-martial sessions without members under Article 39(a)
 
 A military judge who has been detailed to the court-martial may,
 
@@ -11078,7 +11078,7 @@ rule "military judge" does not include the president of a special
 
 court-martial without a military judge.
 
-#  Discussion
+##  Discussion
 
 The purpose of Article 39(a) is "to give statutory sanction
 
@@ -11130,9 +11130,9 @@ See_ R.C.M. 804 concerning waiver by the accused of the right to be
 
 present. _See also_ R.C.M. 802 concerning conferences.
 
-#  Presence of the accused at trial proceedings
+## Rule 804. Presence of the accused at trial proceedings
 
-#  Presence required.
+### (a) Presence required.
 
 The accused shall be present at the arraignment, the time of the
 
@@ -11144,11 +11144,11 @@ proceedings, and post-trial sessions, if any, except as otherwise provided
 
 by this rule. 
 
-#  Presence by remote means.
+### (b) Presence by remote means.
 
 If authorized by the regulations of the Secretary concerned, the military judge may order the use of audiovisual technology, such as videoteleconferencing technology, between the parties and the military judge for purposes of Article 39(a) sessions. Use of such audiovisual technology will satisfy the "presence" requirement of the accused only when the accused has a defense counsel physically present at his location. Such technology may include two or more remote sites as long as all parties can see and hear each other.
 
-#  Continued presence not required.
+#### (c) Continued presence not required.
 
 The further progress of the trial to and including the return of
 
@@ -11158,17 +11158,17 @@ prevented and the accused shall be considered to have waived the right to
 
 be present whenever an accused, initially present: 
 
-Is voluntarily absent after arraignment (whether or not informed
+(1) Is voluntarily absent after arraignment (whether or not informed
 
 by the military judge of the obligation to remain during the trial); or
 
-After being warned by the military judge that disruptive conduct
+(2) After being warned by the military judge that disruptive conduct
 
 will cause the accused to be removed from the courtroom, persists in conduct
 
 which is such as to justify exclusion from the courtroom.
 
-#  Discussion
+#####  Discussion
 
 _Express waiver._ The accused may expressly waive
 
@@ -11318,9 +11318,9 @@ remain upon good behavior.
 
 Ensure that the reasons for removal appear in the record.
 
-#  Voluntary absence for limited purpose of child testimony.
+#### (d) Voluntary absence for limited purpose of child testimony.
 
-#  Election by accused.
+##### (1) Election by accused.
 
 Following a determination by the military judge that remote live
 
@@ -11330,11 +11330,11 @@ the accused may elect to voluntarily absent himself from the courtroom in
 
 order to preclude the use of procedures described in R.C.M. 914A. 
 
-#  Procedure.
+##### (2) Procedure.
 
 The accused's absence will be conditional upon his being able to view the witness' testimony from a remote location. Normally, transmission of the testimony will include a system that will transmit the accused's image and voice into the courtroom from a remote location as well as transmission of the child's testimony from the courtroom to the accused's location. A one-way transmission may be used if deemed necessary by the military judge. The accused will also be provided private, contemporaneous communication with his counsel. The procedures described herein shall be employed unless the accused has made a knowing and affirmative waiver of these procedures.
 
-#  Effect on accused's rights generally.
+##### (3) Effect on accused's rights generally.
 
 An election by the accused to be absent pursuant to subsection (c)(1)
 
@@ -11342,9 +11342,9 @@ shall not otherwise affect the accused's right to be present at the remainder
 
 of the trial in accordance with this rule. 
 
-#  Appearance and security of accused.
+#### (e) Appearance and security of accused.
 
-#  Appearance.
+##### (1) Appearance.
 
 The accused shall be properly attired in the uniform or dress prescribed
 
@@ -11360,7 +11360,7 @@ render such assistance as may be reasonably necessary to ensure that the
 
 accused is properly attired.
 
-#  Discussion
+#####  Discussion
 
 This subsection recognizes the right, as well as the obligation,
 
@@ -11370,7 +11370,7 @@ An accused servicemember who refuses to present a proper military appearance
 
 before a court-martial may be compelled to do so.
 
-#  Custody.
+##### (2) Custody.
 
 Responsibility for maintaining custody or control of an accused
 
@@ -11380,21 +11380,21 @@ subsection (c)(3) of this rule, under such regulations as the Secretary concerne
 
 may prescribe. 
 
-#  Restraint.
+##### (3) Restraint.
 
 Physical restraint shall not be imposed on the accused during open
 
 sessions of the court-martial unless prescribed by the military judge. 
 
-#  Presence of military judge, members, and counsel
+## Rule 805. Presence of military judge, members, and counsel
 
-#  Military judge.
+### (a) Military judge.
 
 No court-martial proceeding, except the deliberations of the members,
 
 may take place in the absence of the military judge, if detailed. If authorized by regulations of the Secretary concerned, for purposes of Article 39(a) sessions solely, the presence of the military judge at Article 39(a) sessions may be satisfied by the use of audiovisual technology, such as videoteleconferencing technology.
 
-#  Members.
+### (b) Members.
 
 Unless trial is by military judge alone pursuant to a request by
 
@@ -11412,7 +11412,7 @@ when an enlisted accused has requested enlisted members, no proceeding requiring
 
 members actually sitting on the court-martial are enlisted persons. 
 
-#  Counsel.
+### (c) Counsel.
 
 As long as at least one qualified counsel for each party is present,
 
@@ -11422,7 +11422,7 @@ An assistant counsel who lacks the qualifications necessary to serve as counsel
 
 for a party may not act at a session in the absence of such qualified counsel. If authorized by regulations of the Secretary concerned, for purposes of Article 39(a) sessions solely, the presence of counsel at Article 39(a) sessions may be satisfied by the use of audiovisual technology, such as videoteleconferencing technology. At least one qualified defense counsel shall be physically present with the accused.
 
-#  Discussion
+###  Discussion
 
  _See_ R.C.M. 504(d) concerning qualifications of
 
@@ -11450,9 +11450,9 @@ See_ R.C.M. 506(d) concerning the right of the accused to proceed
 
 without counsel.
 
-#  Effect of replacement of member or military judge.
+### (d) Effect of replacement of member or military judge.
 
-#  Members.
+#### (1) Members.
 
 When after presentation of evidence on the merits has begun, a new
 
@@ -11466,13 +11466,13 @@ the absence of a stipulation as to such testimony and evidence, the trial
 
 proceeds as if no evidence has been presented.
 
-#  Discussion
+####  Discussion
 
 When a new member is detailed, the military judge should give such instructions as may be appropriate. _See also_ R.C.M. 912 concerning voir dire and challenges.
 
   When the court-martial has been reduced below a quorum, a mistrial may be appropriate. See _R.C.M._ 915.
 
-#  Military judge.
+#### (2) Military judge.
 
 When, after the presentation of evidence on the merits has begun
 
@@ -11486,9 +11486,9 @@ of the testimony and evidence or a stipulation thereof is read to the military
 
 judge, or the trial proceeds as if no evidence had been presented. 
 
-#  Public trial
+## Rule 806. Public trial
 
-#  In general.
+### (a) In general.
 
 Except as otherwise provided in this rule, courts-martial shall
 
@@ -11496,7 +11496,7 @@ be open to the public. For purposes of this rule, "public" includes
 
 members of both the military and civilian communities.
 
-#  Discussion
+###  Discussion
 
 Because of the requirement for public trials, courts-martial must
 
@@ -11536,9 +11536,9 @@ be spectators at a court-martial.
 
 is conducted with members does not make it a public trial.
 
-#  Control of spectators and closure.
+### (b) Control of spectators and closure.
 
-#  Control of spectators.
+#### (1) Control of spectators.
 
 In order to maintain the dignity and decorum of the proceedings
 
@@ -11554,7 +11554,7 @@ the exclusion, the basis for the military judge's belief that exclusion is
 
 necessary, and that the exclusion is as narrowly tailored as possible.
 
-#  Discussion
+####  Discussion
 
  The military judge must ensure that the dignity and decorum of the proceedings are maintained and that the other rights and interests of the parties and society are protected. Public access to a session may be limited, specific persons may be excluded from the courtroom, and, under unusual circumstances, a session may be closed.
 
@@ -11564,15 +11564,15 @@ crowding or noise may justify limiting access to the courtroom. Disruptive or di
 
  For purposes of this rule, the term "victim of an alleged offense" means a person who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under the UCMJ.
 
-#  Right of victim to attend.
+#### (2) Right of victim to attend.
 
 A victim of an alleged offense committed by the accused may not be excluded from a court-martial relating to the offense unless the military judge, after receiving clear and convincing evidence, determines that testimony by the victim would be materially altered if the victim heard other testimony at that hearing or proceeding. The right to attend requires reasonable, accurate, and timely notice of a court-martial relating to the offense.
 
-#  Right of victim to confer.
+#### (3) Right of victim to confer.
 
  A victim of an alleged offense committed by the accused has the reasonable right to confer with the trial counsel.
 
-#  Closure.
+#### (4) Closure.
 
 Courts-martial shall be open to the public unless (1) there is a
 
@@ -11586,7 +11586,7 @@ and found inadequate; and (4) the military judge makes case-specific findings
 
 on the record justifying closure.
 
-#  Discussion
+###  Discussion
 
 The military judge is responsible for protecting both the accused's
 
@@ -11658,7 +11658,7 @@ from recent arrivals in the command, or from outside the immediate area
 
 (_see_ R.C.M. 906(b)(11)); or sequestering the members. 
 
-#  Photography and broadcasting prohibited.
+### (c) Photography and broadcasting prohibited.
 
 Video and audio recording and the taking of photographs-except
 
@@ -11676,7 +11676,7 @@ transmission to permit viewing or hearing by an accused removed under R.C.M.
 
 a reasonable number of spectators.
 
-#  Protective orders.
+### (d) Protective orders.
 
 The military judge may, upon request of any party or _sua
 
@@ -11690,7 +11690,7 @@ a substantial likelihood of material prejudice to a fair trial by impartial
 
 not include the president of a special court-martial without a military judge.
 
-#  Discussion
+###  Discussion
 
   A protective order may proscribe extrajudicial statements
 
@@ -11716,23 +11716,23 @@ the reasons for issuing the order change, the military judge may reconsider
 
 the continued necessity for a protective order.
 
-#  Oaths
+## Rule 807. Oaths
 
-#  Definition.
+### (a) Definition.
 
 "Oath" includes "affirmation."
 
-#  Discussion
+###  Discussion
 
 An affirmation is the same as an oath, except in an affirmation
 
 the words "so help you God" are omitted.
 
-#  Oaths in courts-martial.
+### (b) Oaths in courts-martial.
 
-#  Who must be sworn.
+#### (1) Who must be sworn.
 
-#  Court-martial personnel.
+##### (A) Court-martial personnel.
 
 The military judge, members of a general or special court-martial,
 
@@ -11748,7 +11748,7 @@ take an oath to perform their duties faithfully. For purposes of this rule,
 
 military and civilian counsel.
 
-#  Discussion
+#####  Discussion
 
 Article 42(a) provides that regulations of the Secretary concerned
 
@@ -11768,11 +11768,11 @@ in the proceedings at which it is ordinarily determined whether the required
 
 oaths have been taken or are then administered.
 
-#  Witnesses.
+##### (B) Witnesses.
 
 Each witness before a court-martial shall be examined on oath.
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 307 concerning the requirement for an oath in preferral of charges. _See_ R.C.M. 405 and 702 concerning the requirements for an oath in Article 32 preliminary hearings and depositions.
 
@@ -11780,7 +11780,7 @@ Each witness before a court-martial shall be examined on oath.
 
  A victim of an offense of which the accused has been found guilty is not a "witness" when making an unsworn statement during the presentencing phase of a court-martial. _See_ R.C.M. 1001A.
 
-#  Procedure for administering oaths.
+#### (2) Procedure for administering oaths.
 
 Any procedure which appeals to the conscience of the person to whom
 
@@ -11790,7 +11790,7 @@ or, in the case of one other than a witness, properly to perform certain
 
 duties, is sufficient.
 
-#  Discussion
+####  Discussion
 
 When the oath is administered in a session to the military judge,
 
@@ -11806,7 +11806,7 @@ by the Secretary concerned the forms below may be used, as appropriate,
 
 to administer an oath.
 
-#  Oath for military judge.
+####  Oath for military judge.
 
 When the military judge is not previously sworn, the trial counsel
 
@@ -11820,7 +11820,7 @@ to trial by court-martial, all the duties incumbent upon you as military
 
 judge of this court-martial (,so help you God)?"
 
-#  Oath for members.
+####  Oath for members.
 
 The following oath, as appropriate, will be administered to the
 
@@ -11842,7 +11842,7 @@ a challenge or) upon the findings or sentence unless required to do so in
 
 due course of law (,so help you God)?"
 
-#  Oaths for counsel.
+####  Oaths for counsel.
 
 When counsel for either side, including any associate or assistant,
 
@@ -11858,7 +11858,7 @@ defense) (assistant defense) counsel in the case now in hearing (,so help
 
 you God)?"
 
-#  Oath for reporter.
+####  Oath for reporter.
 
 The trial counsel will administer the following oath to every reporter
 
@@ -11868,7 +11868,7 @@ of a court-martial who has not been previously sworn:
 
  perform the duties of reporter to this court-martial (,so help you God)?"
 
-#  Oath for interpreter.
+####  Oath for interpreter.
 
 The trial counsel or the summary court-martial shall administer
 
@@ -11882,7 +11882,7 @@ in hearing you will interpret truly the testimony you are called upon to
 
 interpret (,so help you God)?"
 
-#  Oath for witnesses.
+####  Oath for witnesses.
 
 The trial counsel or the summary court-martial will administer
 
@@ -11896,7 +11896,7 @@ a case:
 
 and nothing but the truth (,so help you God)?"
 
-#  Oath for escort.
+####  Oath for escort.
 
 The escort on views or inspections by the court-martial will, before
 
@@ -11922,7 +11922,7 @@ place aforesaid) () (,so help you God)?"
 
  authorized to administer oaths. 
 
-#  Record of trial
+## Rule 808. Record of trial
 
 The trial counsel of a general or special court-martial shall take
 
@@ -11930,7 +11930,7 @@ The trial counsel of a general or special court-martial shall take
 
 the requirements of R.C.M. 1103 can be prepared.
 
-#  Discussion
+##  Discussion
 
 Except in a special court-martial not authorized to adjudge a bad-conduct
 
@@ -11972,13 +11972,13 @@ point where the interruption began.
 
 and 491-1 (Summarized Record of Trial-Article 39(a) Session).
 
-#  Contempt proceedings
+## Rule 809. Contempt proceedings
 
-#  In general.
+### (a) In general.
 
 Courts-martial may exercise contempt power under Article 48.
 
-#  Discussion
+###  Discussion
 
  Article 48 makes punishable "direct" contempt, as well as "indirect" or "constructive" contempt. "Direct" contempt is that which is committed in the presence of the court-martial or its immediate proximity. "Presence" includes those places outside the courtroom itself, such as waiting areas, deliberation rooms, and other places set aside for the use of the court-martial while it is in session. "Indirect" or "constructive" contempt is non-compliance with lawful writs, processes, orders, rules, decrees, or commands of the court-martial. A "direct" or "indirect" contempt may be actually seen or heard by the court-martial, in which case it may be punished summarily. _See_ subsection (b)(1) below. A "direct" or "indirect" contempt may also be a contempt not actually observed by the court-martial, for example, when an unseen person makes loud noises, whether inside or outside the courtroom, which impede the orderly progress of the proceedings. In such a case the procedures for punishing for contempt are more extensive. _See_ subsection (b)(2) below.
 
@@ -11988,15 +11988,15 @@ Courts-martial may exercise contempt power under Article 48.
 
  A person subject to the code who commits contempt may be tried by court-martial or otherwise disciplined under Article 134 for such misconduct in addition to or instead of punishment for contempt. _See_ paragraph 108, Part IV; _see also_ Article 98. The 2011 amendment of Article 48 expanded the contempt power of military courts to enable them to enforce orders, such as discovery orders or protective orders regarding evidence, against military or civilian attorneys. Persons not subject to military jurisdiction under Article 2, having been duly subpoenaed, may be prosecuted in Federal civilian court under Article 47 for neglect or refusal to appear or refusal to qualify as a witness or to testify or to produce evidence.
 
-#  Method of disposition.
+### (b) Method of disposition.
 
-#  Summary disposition.
+#### (1) Summary disposition.
 
 When conduct constituting contempt is directly witnessed by the
 
  court-martial, the conduct may be punished summarily. 
 
-#  Disposition upon notice and hearing.
+#### (2) Disposition upon notice and hearing.
 
 When the conduct apparently constituting contempt is not directly
 
@@ -12012,7 +12012,7 @@ right to be represented by counsel and shall be so advised. The contempt
 
 must be proved beyond a reasonable doubt before it may be punished. 
 
-#  Procedure.
+### (c) Procedure.
 
 The military judge shall in all cases determine whether to punish
 
@@ -12034,7 +12034,7 @@ of the court-martial. Otherwise, the provisions of subsection (b)(2) shall
 
 apply.
 
-#  Record; review.
+### (d) Record; review.
 
 A record of the contempt proceedings shall be part of the record
 
@@ -12048,7 +12048,7 @@ may approve or disapprove all or part of the sentence. The action of the
 
 convening authority is not subject to further review or appeal. 
 
-#  Sentence.
+### (e) Sentence.
 
 A sentence of confinement pursuant to a finding of contempt shall
 
@@ -12066,7 +12066,7 @@ delay announcing the sentence after a finding of contempt to permit the person
 
 involved to continue to participate in the proceedings.
 
-#  Discussion
+###  Discussion
 
 The immediate commander of the person held in contempt, or, in the
 
@@ -12076,7 +12076,7 @@ so that the necessary action on the sentence may be taken. _See_
 
 R.C.M. 1101.
 
-#  Informing person held in contempt.
+### (f) Informing person held in contempt.
 
 The person held in contempt shall be informed by the convening
 
@@ -12084,7 +12084,7 @@ authority in writing of the holding and sentence, if any, of the court-martial
 
 and of the action of the convening authority upon the sentence.
 
-#  Discussion
+###  Discussion
 
 Copies of this communication should be furnished to such other
 
@@ -12094,11 +12094,11 @@ with the execution of the punishment. A copy shall be included with the
 
 record of both the trial and the contempt proceeding.
 
-#  Procedures for rehearings, new trials, and other trials
+## Rule 810. Procedures for rehearings, new trials, and other trials
 
-#  In general.
+### (a) In general.
 
-#  Rehearings in full and new or other trials.
+#### (1) Rehearings in full and new or other trials.
 
 In rehearings which require findings on all charges and specifications
 
@@ -12108,7 +12108,7 @@ be the same as in an original trial except as otherwise provided in this
 
 rule. 
 
-#  Rehearings on sentence only.
+#### (2) Rehearings on sentence only.
 
 In a rehearing on sentence only, the procedure shall be the same
 
@@ -12118,7 +12118,7 @@ ordinarily occurs after challenges and through and including the findings
 
  is omitted, and except as otherwise provided in this rule. 
 
-#  Contents of the record.
+##### (A) Contents of the record.
 
 The contents of the record of the original trial consisting of
 
@@ -12130,7 +12130,7 @@ party whether or not testimony so read is otherwise admissible under Mil.
 
 R. Evid. 804(b)(1) and whether or not it was given through an interpreter.
 
-#  Discussion
+#####  Discussion
 
 Matters excluded from the record of the original trial on the merits
 
@@ -12138,7 +12138,7 @@ Matters excluded from the record of the original trial on the merits
 
 of the members as a part of the original record of trial.
 
-#  Plea.
+##### (B) Plea.
 
 The accused at a rehearing only on sentence may not withdraw any
 
@@ -12148,7 +12148,7 @@ a plea is found to be improvident, the rehearing shall be suspended and the
 
 matter reported to the authority ordering the rehearing. 
 
-#  Combined rehearings.
+#### (3) Combined rehearings.
 
 When a rehearing on sentence is combined with a trial on the merits
 
@@ -12170,9 +12170,9 @@ except as otherwise provided in this rule. A single sentence shall be adjudged
 
 for all offenses. 
 
-#  Composition.
+### (b) Composition.
 
-#  Members.
+#### (1) Members.
 
 No member of the court-martial which previously heard the case may
 
@@ -12180,7 +12180,7 @@ No member of the court-martial which previously heard the case may
 
 trial of the same case. 
 
-#  Military judge.
+#### (2) Military judge.
 
 The military judge at a rehearing may be the same military judge
 
@@ -12190,7 +12190,7 @@ of a request for trial by military judge alone at a previous hearing shall
 
 have no effect on the composition of a court-martial on rehearing. 
 
-#  Accused's election.
+#### (3) Accused's election.
 
 The accused at a rehearing or new or other trial shall have the
 
@@ -12198,21 +12198,21 @@ same right to request enlisted members or trial by military judge alone
 
 as the accused would have at an original trial.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 902; 903.
 
-#  Examination of record of former proceedings.
+### (c) Examination of record of former proceedings.
 
 No member may, upon a rehearing or upon a new or other trial, examine
 
 the record of any former proceedings in the same case except: 
 
-When permitted to do so by the military judge after such matters
+(1) When permitted to do so by the military judge after such matters
 
 have been received in evidence; or 
 
-That the president of a special court-martial without a military
+(2) That the president of a special court-martial without a military
 
 judge may examine that part of the record of former proceedings which relates
 
@@ -12224,7 +12224,7 @@ of the record may be read to the members when necessary for them to consider
 
 a matter subject to objection by any member. 
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 801(e)(2). 
 
@@ -12236,9 +12236,9 @@ former proceedings, accompanying documents, and any decision or review relating
 
 to the case, as well as a statement of the reason for the rehearing.
 
-#  Sentence limitations.
+### (d) Sentence limitations.
 
-#  In general.
+#### (1) In general.
 
 Sentences at rehearings, new trials, or other trials shall be adjudged
 
@@ -12270,11 +12270,11 @@ summary or special court-martial improperly tried an offense involving a mandato
 
 punishment or one otherwise considered capital.
 
-#  Discussion
+####  Discussion
 
 At a rehearing, the trier of fact is not bound by the sentence previously adjudged or approved.  The members should not be advised of the sentence limitation under this rule.  See R.C.M. 1005(e)(1).  An appropriate sentence on a retried or reheard offense should be adjudged without regard to any credit to which the accused may be entitled.  See R.C.M. 103(2) and R.C.M. 103(3) as to when a rehearing may be a capital case.
 
-#  Pretrial agreement.
+#### (2) Pretrial agreement.
 
 If, after the earlier court-martial, the sentence was approved in
 
@@ -12288,7 +12288,7 @@ charges and specifications may include any otherwise lawful punishment not
 
 in excess of or more serious than lawfully adjudged at the earlier court-martial.
 
-#  Definition.
+### (e) Definition.
 
 "Other trial" means another trial of a case in which
 
@@ -12296,21 +12296,21 @@ the original proceedings were declared invalid because of lack of jurisdiction
 
 or failure of a charge to state an offense. 
 
-#  Stipulations
+## Rule 811. Stipulations
 
-#  In general.
+### (a) In general.
 
 The parties may make an oral or written stipulation to any fact,
 
 the contents of a document, or the expected testimony of a witness. 
 
-#  Authority to reject.
+### (b) Authority to reject.
 
 The military judge may, in the interest of justice, decline to accept
 
  a stipulation.
 
-#  Discussion
+###  Discussion
 
 Although the decision to stipulate should ordinarily be left to
 
@@ -12332,13 +12332,13 @@ amounts to a confession, except as described in the discussion under subsection
 
 to a continuance.
 
-#  Requirements.
+### (c) Requirements.
 
 Before accepting a stipulation in evidence, the military judge must
 
 be satisfied that the parties consent to its admission.
 
-#  Discussion
+###  Discussion
 
 Ordinarily, before accepting any stipulation the military judge
 
@@ -12404,7 +12404,7 @@ the military judge must conduct an inquiry into the pretrial agreement. _
 
 See_ R.C.M. 910(f). _See also_ R.C.M. 705.
 
-#  Withdrawal.
+### (d) Withdrawal.
 
 A party may withdraw from an agreement to stipulate or from a stipulation
 
@@ -12414,7 +12414,7 @@ be accepted. After a stipulation has been accepted a party may withdraw
 
 from it only if permitted to do so in the discretion of the military judge.
 
-#  Discussion
+###  Discussion
 
 If a party withdraws from an agreement to stipulate or from a stipulation,
 
@@ -12430,7 +12430,7 @@ stipulated.
 
 and an instruction to that effect should be given.
 
-#  Effect of stipulation.
+### (e) Effect of stipulation.
 
 Unless properly withdrawn or ordered stricken from the record, a
 
@@ -12450,7 +12450,7 @@ contents, nor does it add anything to the evidentiary nature of the testimony
 
 or document. The Military Rules of Evidence apply to the contents of stipulations.
 
-#  Procedure.
+### (f) Procedure.
 
 When offered, a written stipulation shall be presented to the military
 
@@ -12466,13 +12466,13 @@ to them, or both. Once accepted, an oral stipulation shall be announced
 
 to the members, if any. 
 
-#  Joint and common trials
+## Rule 812. Joint and common trials
 
 In joint trials and in common trials, each accused shall be accorded
 
  the rights and privileges as if tried separately.
 
-#  Discussion
+##  Discussion
 
  _See_ R.C.M. 307(c)(5) concerning preparing charges
 
@@ -12528,35 +12528,35 @@ evidence may be considered only with respect to the accused with respect
 
 to whom it is accepted. 
 
-#  Announcing personnel of the court-martial and accused
+## Rule 813. Announcing personnel of the court-martial and accused
 
-#  Opening sessions.
+### (a) Opening sessions.
 
 When the court-martial is called to order for the first time in
 
 a case, the military judge shall ensure that the following is announced:
 
-The order, including any amendment, by which the court-martial is
+(1) The order, including any amendment, by which the court-martial is
 
  convened; 
 
-The name, rank, and unit or address of the accused; 
+(2) The name, rank, and unit or address of the accused; 
 
-The name and rank of the military judge, if one has been detailed;
+(3) The name and rank of the military judge, if one has been detailed;
 
-The names and ranks of the members, if any, who are present; 
+(4) The names and ranks of the members, if any, who are present; 
 
-The names and ranks of members who are absent, if presence of members
+(5) The names and ranks of members who are absent, if presence of members
 
  is required; 
 
-The names and ranks (if any) of counsel who are present; 
+(6) The names and ranks (if any) of counsel who are present; 
 
-The names and ranks (if any) of counsel who are absent; and 
+(7) The names and ranks (if any) of counsel who are absent; and 
 
-The name and rank (if any) of any detailed court reporter. 
+(8) The name and rank (if any) of any detailed court reporter. 
 
-#  Later proceedings.
+### (b) Later proceedings.
 
 When the court-martial is called to order after a recess or adjournment
 
@@ -12568,7 +12568,7 @@ at the time of the adjournment or recess, or at the time the court-martial
 
  closed, are present. 
 
-#  Additions, replacement, and absences of personnel.
+### (c) Additions, replacement, and absences of personnel.
 
 Whenever there is a replacement of the military judge, any member,
 
@@ -12580,15 +12580,15 @@ the military judge shall ensure the record reflects the change and the reason
 
 for it. 
 
-#  TRIAL PROCEDURES THROUGH FINDINGS
+# CHAPTER IX. TRIAL PROCEDURES THROUGH FINDINGS
 
-#  Opening session
+## Rule 901. Opening session
 
-#  Call to order.
+### (a) Call to order.
 
 A court-martial is in session when the military judge so declares.
 
-#  Discussion
+###  Discussion
 
 The military judge should examine the charge sheet, convening order,
 
@@ -12614,13 +12614,13 @@ has not elapsed, the military judge should bring this to the attention of
 
 the defense and secure an affirmative waiver on the record.
 
-#  Announcement of parties.
+### (b) Announcement of parties.
 
 After the court-martial is called to order, the presence or absence
 
  of the parties, military judge, and members shall be announced.
 
-#  Discussion
+###  Discussion
 
 If the orders detailing the military judge and counsel have not
 
@@ -12628,7 +12628,7 @@ been reduced to writing, an oral announcement of such detailing is required. _
 
 See_ R.C.M. 503(b) and (c).
 
-#  Swearing reporter and interpreter.
+### (c) Swearing reporter and interpreter.
 
 After the personnel have been accounted for as required in subsection
 
@@ -12638,7 +12638,7 @@ and interpreter, if any is present, have been properly sworn. If not sworn,
 
 the reporter and interpreter, if any, shall be sworn.
 
-#  Discussion
+###  Discussion
 
  _See_ R.C.M. 807 concerning the oath to be administered
 
@@ -12648,9 +12648,9 @@ at any time during trial, this should be noted for the record, and the procedure
 
 in this subsection should be repeated.
 
-#  Counsel.
+### (d) Counsel.
 
-#  Trial counsel.
+#### (1) Trial counsel.
 
 The trial counsel shall announce the legal qualifications and status
 
@@ -12660,7 +12660,7 @@ the prosecution has acted in any manner which might tend to disqualify that
 
 counsel. 
 
-#  Defense counsel.
+#### (2) Defense counsel.
 
 The detailed defense counsel shall announce the legal qualifications
 
@@ -12674,13 +12674,13 @@ legal qualifications, and whether that counsel has acted in any manner which
 
 might tend to disqualify the counsel. 
 
-#  Disqualification.
+#### (3) Disqualification.
 
 If it appears that any counsel may be disqualified, the military
 
  judge shall decide the matter and take appropriate action.
 
-#  Discussion
+####  Discussion
 
 Counsel may be disqualified because of lack of necessary qualifications,
 
@@ -12736,11 +12736,11 @@ whether the accused objects to a change of defense counsel. _See_
 
 R.C.M. 505(d)(2) and 506(c).
 
-#  Inquiry.
+#### (4) Inquiry.
 
  The military judge shall, in open session: 
 
-Inform the accused of the rights to be represented by military
+(A) Inform the accused of the rights to be represented by military
 
 counsel detailed to the defense; or by individual military counsel requested
 
@@ -12750,7 +12750,7 @@ civilian counsel, either alone or in association with military counsel, if
 
 such civilian counsel is provided at no expense to the United States; 
 
-Inform the accused that, if afforded individual military counsel,
+(B) Inform the accused that, if afforded individual military counsel,
 
 the accused may request retention of detailed counsel as associate counsel,
 
@@ -12758,11 +12758,11 @@ which request may be granted or denied in the sole discretion of the authority
 
 who detailed the counsel; 
 
-Ascertain from the accused whether the accused understands these
+(C) Ascertain from the accused whether the accused understands these
 
  rights; 
 
-Promptly inquire, whenever two or more accused in a joint or common
+(D) Promptly inquire, whenever two or more accused in a joint or common
 
  trial are represented by the same detailed or individual military or civilian
 
@@ -12778,7 +12778,7 @@ conflict of interest is likely to arise, the military judge shall take appropria
 
  measures to protect each accused's right to counsel; and
 
-#  Discussion
+#####  Discussion
 
 Whenever it appears that any defense counsel may face a conflict
 
@@ -12796,19 +12796,19 @@ military judge of the matter at an Article 39(a) session so that an appropriate
 
 record can be made.
 
-Ascertain from the accused by whom the accused chooses to be represented.
+(E) Ascertain from the accused by whom the accused chooses to be represented.
 
-#  Unsworn counsel.
+#### (5) Unsworn counsel.
 
 The military judge shall administer the oath to any counsel not
 
  sworn.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 807.
 
-#  Presence of members.
+### (e) Presence of members.
 
 In cases in which a military judge has been detailed, the procedures
 
@@ -12818,9 +12818,9 @@ concerned, and 905 through 910 shall be conducted without members present
 
 in accordance with R.C.M. 803. 
 
-#  Disqualification of military judge
+## Rule 902. Disqualification of military judge
 
-#  In general.
+### (a) In general.
 
 Except as provided in subsection (e) of this rule, a military judge
 
@@ -12828,25 +12828,25 @@ Except as provided in subsection (e) of this rule, a military judge
 
 judge's impartiality might reasonably be questioned. 
 
-#  Specific grounds.
+### (b) Specific grounds.
 
 A military judge shall also disqualify himself or herself in the
 
  following circumstances: 
 
-Where the military judge has a personal bias or prejudice concerning
+(1) Where the military judge has a personal bias or prejudice concerning
 
  a party or personal knowledge of disputed evidentiary facts concerning the
 
 proceeding. 
 
-Where the military judge has acted as counsel, preliminary hearing officer,
+(2) Where the military judge has acted as counsel, preliminary hearing officer,
 
 legal officer, staff judge advocate, or convening authority as to any offense
 
 charged or in the same case generally. 
 
-Where the military judge has been or will be a witness in the same
+(3) Where the military judge has been or will be a witness in the same
 
 case, is the accuser, has forwarded charges in the case with a personal recommendation
 
@@ -12856,31 +12856,31 @@ in a previous trial of the same or a related case, has expressed an opinion
 
  concerning the guilt or innocence of the accused. 
 
-Where the military judge is not eligible to act because the military
+(4) Where the military judge is not eligible to act because the military
 
  judge is not qualified under R.C.M. 502(c) or not detailed under R.C.M.
 
 503(b). 
 
-Where the military judge, the military judge's spouse, or a person
+(5) Where the military judge, the military judge's spouse, or a person
 
  within the third degree of relationship to either of them or a spouse of
 
 such person: 
 
-Is a party to the proceeding; 
+(A) Is a party to the proceeding; 
 
-Is known by the military judge to have an interest, financial or
+(B) Is known by the military judge to have an interest, financial or
 
  otherwise, that could be substantially affected by the outcome of the proceeding;
 
 or 
 
-Is to the military judge's knowledge likely to be a material witness
+(C) Is to the military judge's knowledge likely to be a material witness
 
  in the proceeding.
 
-#  Discussion
+#####  Discussion
 
 A military judge should inform himself or herself about his or her
 
@@ -12890,21 +12890,21 @@ about the financial interests of his or her spouse and minor children living
 
 in his or her household.
 
-#  Definitions.
+### (c) Definitions.
 
 For the purposes of this rule the following words or phrases shall
 
  have the meaning indicated- 
 
-"Proceeding" includes pretrial, trial, post-trial,
+(1) "Proceeding" includes pretrial, trial, post-trial,
 
 appellate review, or other stages of litigation. 
 
-The "degree of relationship" is calculated according
+(2) The "degree of relationship" is calculated according
 
 to the civil law system.
 
-#  Discussion
+####  Discussion
 
 Relatives within the third degree of relationship are children,
 
@@ -12912,17 +12912,17 @@ Relatives within the third degree of relationship are children,
 
 brothers, sisters, uncles, aunts, nephews, and nieces.
 
-"Military judge" does not include the president of a
+(3) "Military judge" does not include the president of a
 
  special court-martial without a military judge. 
 
-#  Procedure.
+### (d) Procedure.
 
-The military judge shall, upon motion of any party or _sua
+(1) The military judge shall, upon motion of any party or _sua
 
  sponte_, decide whether the military judge is disqualified.
 
-#  Discussion
+####  Discussion
 
 There is no peremptory challenge against a military judge. A military
 
@@ -12942,13 +12942,13 @@ does not bar later consideration of the same issue, as, for example, when
 
 additional evidence is discovered.
 
-Each party shall be permitted to question the military judge and
+(2) Each party shall be permitted to question the military judge and
 
 to present evidence regarding a possible ground for disqualification before
 
 the military judge decides the matter.
 
-#  Discussion
+####  Discussion
 
 Nothing in this rule prohibits the military judge from reasonably
 
@@ -12962,13 +12962,13 @@ preventing the proceedings from becoming a forum for unfounded opinion, speculat
 
 or innuendo.
 
-Except as provided under subsection (e) of this rule, if the military
+(3) Except as provided under subsection (e) of this rule, if the military
 
  judge rules that the military judge is disqualified, the military judge
 
 shall recuse himself or herself. 
 
-#  Waiver.
+### (e) Waiver.
 
 No military judge shall accept from the parties to the proceeding
 
@@ -12980,11 +12980,11 @@ of this rule. Where the ground for disqualification arises only under subsection
 
 disclosure on the record of the basis for disqualification. 
 
-#  Accused's elections on composition of court-martial
+## Rule 903. Accused's elections on composition of court-martial
 
-#  Time of elections.
+### (a) Time of elections.
 
-#  Request for enlisted members.
+#### (1) Request for enlisted members.
 
 Before the end of the initial Article 39(a) session or, in the
 
@@ -12998,7 +12998,7 @@ permit the accused to defer requesting enlisted members until any time before
 
  assembly, which time may be determined by the military judge. 
 
-#  Request for trial by military judge alone.
+#### (2) Request for trial by military judge alone.
 
 Before the end of the initial Article 39(a) session, or, in the
 
@@ -13010,7 +13010,7 @@ by the military judge alone. The accused may defer requesting trial by military
 
 judge alone until any time before assembly.
 
-#  Discussion
+####  Discussion
 
 Only an enlisted accused may request that enlisted members be detailed
 
@@ -13020,9 +13020,9 @@ cases (_see_ R.C.M. 201(f)(1)(C)) or in special courts-martial
 
 in which no military judge has been detailed.
 
-#  Form of election.
+### (b) Form of election.
 
-#  Request for enlisted members.
+#### (1) Request for enlisted members.
 
 A request for the membership of the court-martial to include enlisted
 
@@ -13030,15 +13030,15 @@ A request for the membership of the court-martial to include enlisted
 
 on the record. 
 
-#  Request for trial by military judge alone.
+#### (2) Request for trial by military judge alone.
 
 A request for trial by military judge alone shall be in writing
 
 and signed by the accused or shall be made orally on the record. 
 
-#  Action on election.
+### (c) Action on election.
 
-#  Request for enlisted members.
+#### (1) Request for enlisted members.
 
 Upon notice of a timely request for enlisted members by an enlisted
 
@@ -13050,19 +13050,19 @@ why physical conditions or military exigencies prevented this. The trial
 
 of the general issue shall not proceed until this is done. 
 
-#  Request for military judge alone.
+#### (2) Request for military judge alone.
 
 Upon receipt of a timely request for trial by military judge alone
 
  the military judge shall: 
 
-Ascertain whether the accused has consulted with defense counsel
+(A) Ascertain whether the accused has consulted with defense counsel
 
 and has been informed of the identity of the military judge and of the right
 
 to trial by members; and
 
-#  Discussion
+#####  Discussion
 
 Ordinarily the military judge should inquire personally of the accused
 
@@ -13080,9 +13080,9 @@ normally be used for the purpose of requesting trial by military judge alone
 
 under this rule, if a written request is used.
 
-Approve or disapprove the request, in the military judge's discretion.
+(B) Approve or disapprove the request, in the military judge's discretion.
 
-#  Discussion
+#####  Discussion
 
 A timely request for trial by military judge alone should be granted
 
@@ -13094,7 +13094,7 @@ arguments from counsel before acting on the request. The basis for denial
 
 of a request must be made a matter of record.
 
-#  Other.
+#### (3) Other.
 
 In the absence of a request for enlisted members or a request for
 
@@ -13102,7 +13102,7 @@ In the absence of a request for enlisted members or a request for
 
 of officers.
 
-#  Discussion
+####  Discussion
 
 Ordinarily if no request for enlisted members or trial by military
 
@@ -13112,9 +13112,9 @@ a request will be made (_see_ subsection (a)(1) of this rule)
 
 unless these elections are not available to the accused.
 
-#  Right to withdraw request.
+### (d) Right to withdraw request.
 
-#  Enlisted members.
+#### (1) Enlisted members.
 
 A request for enlisted members may be withdrawn by the accused as
 
@@ -13122,7 +13122,7 @@ a matter of right any time before the end of the initial Article 39(a) session,
 
  or, in the absence of such a session, before assembly. 
 
-#  Military judge.
+#### (2) Military judge.
 
 A request for trial by military judge alone may be withdrawn by
 
@@ -13130,13 +13130,13 @@ the accused as a matter of right any time before it is approved, or even
 
 after approval, if there is a change of the military judge.
 
-#  Discussion
+####  Discussion
 
 Withdrawal of a request for enlisted members or trial by military
 
  judge alone should be shown in the record.
 
-#  Untimely requests.
+### (e) Untimely requests.
 
 Failure to request, or failure to withdraw a request for enlisted
 
@@ -13148,7 +13148,7 @@ may until the beginning of the introduction of evidence on the merits, as
 
 a matter of discretion, approve an untimely request or withdrawal of a request.
 
-#  Discussion
+###  Discussion
 
 In exercising discretion whether to approve an untimely request
 
@@ -13160,13 +13160,13 @@ from a substantial change of circumstances) against any expense, delay, or
 
 inconvenience which would result from granting the request.
 
-#  Scope.
+### (f) Scope.
 
 For purposes of this rule, "military judge" does not
 
  include the president of a special court-martial without a military judge.
 
-#  Arraignment
+## Rule 904. Arraignment
 
 Arraignment shall be conducted in a court-martial session and shall
 
@@ -13174,7 +13174,7 @@ Arraignment shall be conducted in a court-martial session and shall
 
 on the accused to plead. The accused may waive the reading.
 
-#  Discussion
+##  Discussion
 
 Arraignment is complete when the accused is called upon to plead;
 
@@ -13204,9 +13204,9 @@ Some motions ordinarily must be made before a plea is entered. _ See
 
 _ R.C.M. 905(b).
 
-#  Motions generally
+## Rule 905. Motions generally
 
-#  Definitions and form.
+### (a) Definitions and form.
 
 A motion is an application to the military judge for particular
 
@@ -13218,7 +13218,7 @@ set forth the ruling or relief sought. The substance of a motion, not its
 
 form or designation, shall control.
 
-#  Discussion
+###  Discussion
 
 Motions may be motions to suppress --LSQP--(_see_ R.C.M.
 
@@ -13228,7 +13228,7 @@ Motions may be motions to suppress --LSQP--(_see_ R.C.M.
 
 findings of not guilty (_see_ R.C.M. 917).
 
-#  Pretrial motions.
+### (b) Pretrial motions.
 
 Any defense, objection, or request which is capable of determination
 
@@ -13236,11 +13236,11 @@ Any defense, objection, or request which is capable of determination
 
 The following must be raised before a plea is entered: 
 
-Defenses or objections based on defects (other than jurisdictional
+(1) Defenses or objections based on defects (other than jurisdictional
 
  defects) in the preferral, forwarding, investigation, or referral of charges;
 
-#  Discussion
+####  Discussion
 
 Such nonjurisdictional defects include unsworn charges, inadequate
 
@@ -13248,7 +13248,7 @@ Such nonjurisdictional defects include unsworn charges, inadequate
 
 R.C.M. 307; 401-407; 601-604.
 
-Defenses or objections based on defects in the charges and specifications
+(2) Defenses or objections based on defects in the charges and specifications
 
 (other than any failure to show jurisdiction or to charge an offense, which
 
@@ -13256,13 +13256,13 @@ objections shall be resolved by the military judge at any time during the
 
 pendency of the proceedings);
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 307; 906(b)(3).
 
-Motions to suppress evidence;
+(3) Motions to suppress evidence;
 
-#  Discussion
+####  Discussion
 
 Mil. R. Evid. 304(d), 311(d), and 321(c) deal with the admissibility
 
@@ -13276,33 +13276,33 @@ at trial or by motions _in limine_. _ See_ R.C.M.
 
 906(b)(13); Mil. R. Evid. 103(c); 104(a) and (c).
 
-Motions for discovery under R.C.M. 701 or for production of witnesses
+(4) Motions for discovery under R.C.M. 701 or for production of witnesses
 
  or evidence;
 
-#  Discussion
+####  Discussion
 
  _See_ also R.C.M. 703; 1001(e).
 
-Motions for severance of charges or accused; or
+(5) Motions for severance of charges or accused; or
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 812; 906(b)(9) and (10).
 
-Objections based on denial of request for individual military counsel
+(6) Objections based on denial of request for individual military counsel
 
 or for retention of detailed defense counsel when individual military counsel
 
 has been granted.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 506(b); 906(b)(2).
 
-#  Burden of proof.
+### (c) Burden of proof.
 
-#  Standard.
+#### (1) Standard.
 
 Unless otherwise provided in this Manual, the burden of proof on
 
@@ -13310,21 +13310,21 @@ any factual issue the resolution of which is necessary to decide a motion
 
 shall be by a preponderance of the evidence.
 
-#  Discussion
+####  Discussion
 
 _See_ Mil. R. Evid. 104(a) concerning the applicability
 
 of the Military Rules of Evidence to certain preliminary questions.
 
-#  Assignment.
+#### (2) Assignment.
 
-Except as otherwise provided in this Manual the burden of persuasion
+(A) Except as otherwise provided in this Manual the burden of persuasion
 
  on any factual issue the resolution of which is necessary to decide a motion
 
 shall be on the moving party.
 
-#  Discussion
+#####  Discussion
 
  _See_, for example, subsection (c)(2)(B) of this
 
@@ -13332,13 +13332,13 @@ rule, R.C.M. 908 and Mil. R. Evid. 304(e), 311(e), and 321(d) for provisions
 
 specifically assigning the burden of proof.
 
-In the case of a motion to dismiss for lack of jurisdiction, denial
+(B) In the case of a motion to dismiss for lack of jurisdiction, denial
 
  of the right to speedy trial under R.C.M. 707, or the running of the statute
 
 of limitations, the burden of persuasion shall be upon the prosecution.
 
-#  Ruling on motions.
+### (d) Ruling on motions.
 
 A motion made before pleas are entered shall be determined before
 
@@ -13354,7 +13354,7 @@ Where factual issues are involved in determining a motion, the military
 
 judge shall state the essential findings on the record.
 
-#  Discussion
+###  Discussion
 
 When trial cannot proceed further as the result of dismissal or
 
@@ -13376,7 +13376,7 @@ including any which were dismissed by the military judge on a motion. _
 
 See_ R.C.M. 1114.
 
-#  Effect of failure to raise defenses or objections.
+### (e) Effect of failure to raise defenses or objections.
 
 Failure by a party to raise defenses or objections or to make motions
 
@@ -13394,13 +13394,13 @@ case and, unless otherwise provided in this Manual, failure to do so shall
 
 constitute waiver. 
 
-#  Discussion
+###  Discussion
 
 _See also_ R.C.M. 910(j) concerning matters waived
 
 by a plea of guilty.
 
-#  Reconsideration.
+### (f) Reconsideration.
 
 On request of any party or _sua sponte_, the military
 
@@ -13410,7 +13410,7 @@ ruling, other than one amounting to a finding of not guilty, made by the
 
 military judge.
 
-#  Discussion
+###  Discussion
 
 Subsection (f) permits the military judge to reconsider any ruling
 
@@ -13426,7 +13426,7 @@ legal sufficiency of evidence. _See also_ R.C.M. 1102 concerning
 
 _, 29 M.J. 60 (C.M.A. 1989).
 
-#  Effect of final determinations.
+### (g) Effect of final determinations.
 
 Any matter put in issue and finally determined by a court-martial,
 
@@ -13448,7 +13448,7 @@ any other judicial proceeding in which the accused and the United States
 
 or a Federal governmental unit were parties.
 
-#  Discussion
+###  Discussion
 
  _See_ also R.C.M. 907(b)(2)(C). Whether a matter
 
@@ -13576,7 +13576,7 @@ for dismissing the same charge and specification, but would not bar further
 
 original specification.
 
-#  Written motions.
+### (h) Written motions.
 
 Written motions may be submitted to the military judge after referral
 
@@ -13590,7 +13590,7 @@ entitled to an Article 39(a) session to present oral argument or have an
 
 evidentiary hearing concerning the disposition of written motions. 
 
-#  Service.
+### (i) Service.
 
 Written motions shall be served on all other parties. Unless otherwise
 
@@ -13598,7 +13598,7 @@ directed by the military judge, the service shall be made upon counsel for
 
 each party. 
 
-#  Application to convening authority.
+### (j) Application to convening authority.
 
 Except as otherwise provided in this Manual, any matters which may
 
@@ -13612,7 +13612,7 @@ provided in this Manual, required, and is, in any event, without prejudice
 
 to the renewal of the issue by timely motion before the military judge.
 
-#  Production of statements on motion to suppress.
+### (k) Production of statements on motion to suppress.
 
 Except as provided in this subsection, R.C.M. 914 shall apply at
 
@@ -13626,9 +13626,9 @@ military judge shall excise portions of the statement containing privileged
 
 matter. 
 
-#  Motions for appropriate relief
+## Rule 906. Motions for appropriate relief
 
-#  In general.
+### (a) In general.
 
 A motion for appropriate relief is a request for a ruling to cure
 
@@ -13636,17 +13636,17 @@ a defect which deprives a party of a right or hinders a party from preparing
 
 for trial or presenting its case. 
 
-#  Grounds for appropriate relief.
+### (b) Grounds for appropriate relief.
 
 The following may be requested by motion for appropriate relief.
 
 This list is not exclusive. 
 
-#  Continuances.
+#### (1) Continuances.
 
 A continuance may be granted only by the military judge.
 
-#  Discussion
+####  Discussion
 
 The military judge should, upon a showing of reasonable cause, grant
 
@@ -13664,7 +13664,7 @@ and illness of an accused, counsel, military judge, or member. _See
 
 also_ R.C.M. 602; 803.
 
-#  Record of denial of individual military counsel or of denial of request to retain detailed counsel when a request for individual military counsel granted.
+#### (2) Record of denial of individual military counsel or of denial of request to retain detailed counsel when a request for individual military counsel granted.
 
 If a request for military counsel was denied, which
 
@@ -13690,11 +13690,11 @@ temporary conditions or if the decision of unavailability is in the process
 
  of review in administrative channels. 
 
-Correction of defects in the Article 32 preliminary hearing or pretrial
+(3) Correction of defects in the Article 32 preliminary hearing or pretrial
 
 advice.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 405; 406. If the motion is granted,
 
@@ -13702,11 +13702,11 @@ the military judge should ordinarily grant a continuance so the defect may
 
 be corrected.
 
-#  Amendment of charges or specifications.
+#### (4) Amendment of charges or specifications.
 
 A charge or specification may not be amended over the accused's objection unless the amendment is minor within the meaning of R.C.M. 603(a).
 
-#  Discussion
+####  Discussion
 
 _See also_ R.C.M. 307. 
 
@@ -13742,19 +13742,19 @@ appropriate case (_see_ R.C.M. 907(b)(3)), the specification
 
 may be dismissed.
 
-Severance of a duplicitous specification into two or more specifications.
+(5) Severance of a duplicitous specification into two or more specifications.
 
-#  Discussion
+####  Discussion
 
 Each specification may state only one offense. R.C.M. 307(c)(4). A duplicitous specification is one which alleges two or more separate offenses. Lesser included offenses (_see_ paragraph 3, Part IV) are not separate, nor is a continuing offense involving separate acts. The sole remedy for a duplicitous specification is severance of the specification into two or more specifications, each of which alleges a separate offense contained in the duplicitous specification. However, if the duplicitousness is combined with or results in other defects, such as misleading the accused, other remedies may be appropriate.  See subsection (b)(3) of this rule. _See also_ R.C.M. 907(b)(3).
 
-#  Bill of particulars.
+#### (6) Bill of particulars.
 
 A bill of particulars may be amended at any time, subject to such
 
 conditions as justice permits.
 
-#  Discussion
+####  Discussion
 
 The purposes of a bill of particulars are to inform the accused
 
@@ -13784,9 +13784,9 @@ A bill of particulars cannot be used to repair a specification which is otherwis
 
 not legally sufficient.
 
-Discovery and production of evidence and witnesses.
+(7) Discovery and production of evidence and witnesses.
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 701 concerning discovery. _See
 
@@ -13794,15 +13794,15 @@ _ R.C.M. 703, 914 and 1001(e) concerning production of evidence and
 
 witnesses.
 
-#  Relief from pretrial confinement.
+#### (8) Relief from pretrial confinement.
 
  Upon a motion for release from pretrial confinement, a victim of an alleged offense committed by the accused has the right to reasonable, accurate, and timely notice of the motion and any hearing, the right to confer with trial counsel, and the right to be reasonably heard. Inability to reasonably afford a victim these rights shall not delay the proceedings. The right to be heard under this rule includes the right to be heard through counsel.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 305(j).
 
-Severance of multiple accused, if it appears that an accused or
+(9) Severance of multiple accused, if it appears that an accused or
 
 the Government is prejudiced by a joint or common trial. In a common trial,
 
@@ -13810,7 +13810,7 @@ a severance shall be granted whenever any accused, other than the moving
 
 accused, faces charges unrelated to those charged against the moving accused.
 
-#  Discussion
+####  Discussion
 
  A motion for severance is a request that one or more accused against whom charges have been referred to a joint or common trial be tried separately. Such a request should be granted if good cause is shown. For example, a severance may be appropriate when: the moving party wishes to use the testimony of one or more of the coaccused or the spouse of a coaccused; a defense of a coaccused is antagonistic to the moving party; or evidence as to any other accused will improperly prejudice the moving accused.
 
@@ -13818,9 +13818,9 @@ accused, faces charges unrelated to those charged against the moving accused.
 
  _See_ also R.C.M. 307(c)(5); 601(e)(3); 604; 812.
 
-Severance of offenses, but only to prevent manifest injustice.
+(10) Severance of offenses, but only to prevent manifest injustice.
 
-#  Discussion
+####  Discussion
 
 Ordinarily, all known charges should be tried at a single court-martial.
 
@@ -13832,7 +13832,7 @@ as to one offense is unavailable, it might be appropriate to sever that offense
 
 to prevent violation of the accused's right to a speedy trial.
 
-#  Change of place of trial.
+#### (11) Change of place of trial.
 
 The place of trial may be changed when necessary to prevent prejudice
 
@@ -13840,7 +13840,7 @@ to the rights of the accused or for the convenience of the Government if
 
 the rights of the accused are not prejudiced thereby.
 
-#  Discussion
+####  Discussion
 
 A change of the place of trial may be necessary when there exists
 
@@ -13860,27 +13860,27 @@ as long as the choice is not inconsistent with the ruling of the military
 
 judge.
 
-#  Unreasonable multiplication of charges.
+#### (12) Unreasonable multiplication of charges.
 
 The military judge may provide a remedy, as provided below, if he or she finds there has been an unreasonable multiplication of charges as applied to findings or sentence.
 
-#  As applied to findings.
+##### (i) As applied to findings.
 
  Charges that arise from substantially the same transaction, while not legally multiplicious, may still be unreasonably multiplied as applied to findings. When the military judge finds, in his or her discretion, that the offenses have been unreasonably multiplied, the appropriate remedy shall be dismissal of the lesser offenses or merger of the offenses into one specification.
 
-#  As applied to sentence.
+##### (ii) As applied to sentence.
 
  Where the military judge finds that the nature of the harm requires a remedy that focuses more appropriately on punishment than on findings, he or she may find that there is an unreasonable multiplication of charges as applied to sentence. If the military judge makes such a finding, the maximum punishment for those offenses determined to be unreasonably multiplied shall be the maximum authorized punishment of the offense carrying the greatest maximum punishment.
 
-#  Discussion
+###  Discussion
 
 Unreasonable multiplication of charges as applied to findings and sentence is a limitation on the military's discretion to charge separate offenses and does not have a foundation in the Constitution. The concept is based on reasonableness and the prohibition against prosecutorial overreaching. In contrast, multiplicity is grounded in the Double Jeopardy Clause of the Fifth Amendment. It prevents an accused from being twice punished for one offense if it is contrary to the intent of Congress. _See_ R.C.M. 907(b)(3). Therefore, a motion for relief from unreasonable multiplication of charges as applied to findings and sentence differs from a motion to dismiss on the grounds of multiplicity.
 
   The following non-exhaustive factors should be considered when determining whether two or more offenses are unreasonably multiplied: whether the specifications are aimed at distinctly separate criminal acts; whether they represent or exaggerate the accused's criminality; whether they unreasonably increase his or her exposure to punishment; and whether they suggest prosecutorial abuse of discretion in drafting of the specifications. Because prosecutors are permitted to plead in the alternative based on exigencies of proof, a ruling on this motion ordinarily should be deferred until after findings are entered.
 
-Preliminary ruling on admissibility of evidence.
+(13) Preliminary ruling on admissibility of evidence.
 
-#  Discussion
+####  Discussion
 
  _See_ Mil. R. Evid. 104(c) 
 
@@ -13908,17 +13908,17 @@ of preliminary rulings will be controlled by the Supreme Court's decision
 
 in_ Luce v. United States_, 469 U.S. 38 (1984).
 
-Motions relating to mental capacity or responsibility of the accused.
+(14) Motions relating to mental capacity or responsibility of the accused.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 706, 909, and 916(k) regarding procedures
 
 and standards concerning the mental capacity or responsibility of the accused.
 
-#  Motions to dismiss
+## Rule 907. Motions to dismiss
 
-#  In general.
+### (a) In general.
 
 A motion to dismiss is a request to terminate further proceedings
 
@@ -13926,7 +13926,7 @@ as to one or more charges and specifications on grounds capable of resolution
 
 without trial of the general issue of guilt.
 
-#  Discussion
+###  Discussion
 
 Dismissal of a specification terminates the proceeding with respect
 
@@ -13946,31 +13946,31 @@ and subsection (b)(2) below.
 
 916 concerning defenses.
 
-#  Grounds for dismissal.
+### (b) Grounds for dismissal.
 
 Grounds for dismissal include the following- 
 
-#  Nonwaivable grounds.
+#### (1) Nonwaivable grounds.
 
 A charge or specification shall be dismissed at any stage of the
 
  proceedings if: 
 
-The court-martial lacks jurisdiction to try the accused for the
+(A) The court-martial lacks jurisdiction to try the accused for the
 
  offense; or
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 201-203.
 
-The specification fails to state an offense.
+(B) The specification fails to state an offense.
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 307(c)
 
-#  Waivable grounds.
+#### (2) Waivable grounds.
 
 A charge or specification shall be dismissed upon motion made by
 
@@ -13978,9 +13978,9 @@ the accused before the final adjournment of the court-martial in that case
 
 if: 
 
-Dismissal is required under R.C.M. 707; 
+(A) Dismissal is required under R.C.M. 707; 
 
-The statute of limitations (Article 43) has run, provided that,
+(B) The statute of limitations (Article 43) has run, provided that,
 
 if it appears that the accused is unaware of the right to assert the statute
 
@@ -13988,7 +13988,7 @@ of limitations in bar of trial, the military judge shall inform the accused
 
 of this right;
 
-#  Discussion
+#####  Discussion
 
 Except for certain offenses for which there is
 
@@ -14094,21 +14094,21 @@ has run as to a lesser included offense, but not as to the charged offense, _
 
 see_ R.C.M. 920(e)(2) with regard to instructions on the lesser offense.
 
-The accused has previously been tried by court-martial or federal
+(C) The accused has previously been tried by court-martial or federal
 
  civilian court for the same offense, provided that: 
 
-No court-martial proceeding is a trial in the sense of this rule
+(i) No court-martial proceeding is a trial in the sense of this rule
 
  unless presentation of evidence on the general issue of guilt has begun;
 
-No court-martial proceeding which has been terminated under R.C.M.
+(ii) No court-martial proceeding which has been terminated under R.C.M.
 
  604(b) or R.C.M. 915 shall bar later prosecution for the same offense or
 
 offenses, if so provided in those rules; 
 
-No court-martial proceeding in which an accused has been found guilty
+(iii) No court-martial proceeding in which an accused has been found guilty
 
  of any charge or specification is a trial in the sense of this rule until
 
@@ -14116,55 +14116,55 @@ the finding of guilty has become final after review of the case has been
 
 fully completed; and 
 
-No court-martial proceeding which lacked jurisdiction to try the
+(iv) No court-martial proceeding which lacked jurisdiction to try the
 
  accused for the offense is a trial in the sense of this rule. 
 
-Prosecution is barred by: 
+(D) Prosecution is barred by: 
 
-A pardon issued by the President;
+(i) A pardon issued by the President;
 
-#  Discussion
+######  Discussion
 
 A pardon may grant individual or general amnesty.
 
-Immunity from prosecution granted by a person authorized to do
+(ii) Immunity from prosecution granted by a person authorized to do
 
 so;
 
-#  Discussion
+######  Discussion
 
  _See_ R.C.M. 704.
 
-Constructive condonation of desertion established by unconditional
+(iii) Constructive condonation of desertion established by unconditional
 
  restoration to duty without trial of a deserter by a general court-martial
 
 convening authority who knew of the desertion; or 
 
-Prior punishment under Articles 13 or 15 for the same offense, if
+(iv) Prior punishment under Articles 13 or 15 for the same offense, if
 
  that offense was minor.
 
-#  Discussion
+######  Discussion
 
  _See_ Articles 13 and 15(f). _See_ paragraph
 
 1e of Part V for a definition of "minor" offenses.
 
-#  Permissible grounds.
+#### (3) Permissible grounds.
 
 A specification may be dismissed upon timely motion by the accused if one of the following is applicable: 
 
-#  Defective.
+##### (A) Defective.
 
 When the specification is so defective that it substantially misled the accused, and the military judge finds that, in the interest of justice, trial should proceed on any remaining charges and specifications without undue delay; or 
 
-#  Multiplicity.
+##### (B) Multiplicity.
 
 When the specification is multiplicious with another specification, is unnecessary to enable the prosecution to meet the exigencies of proof through trial, review, and appellate action, and should be dismissed in the interest of justice. A charge is multiplicious if the proof of such charge also proves every element of another charge.
 
-#  Discussion
+#####  Discussion
 
   Multiplicity is a legal concept, arising from the Double Jeopardy Clause of the Fifth Amendment, which provides that no person shall be put in jeopardy twice for the same offense. Absent legislative intent to the contrary, an accused cannot be convicted and punished for violations of two or more statutes if those violations arise from a single act. Where Congress intended to impose multiple punishments for the same act, imposition of such sentence does not violate the Constitution.
 
@@ -14174,9 +14174,9 @@ When the specification is multiplicious with another specification, is unnecessa
 
   Ordinarily, a specification should not be dismissed for multiplicity before trial. The less serious of any multiplicious specifications shall be dismissed after findings have been reached. Due consideration must be given, however, to possible post-trial or appellate action with regard to the remaining specification.
 
-#  Appeal by the United States
+## Rule 908. Appeal by the United States
 
-#  In general.
+### (a) In general.
 
 In a trial by a court-martial over which a military judge presides
 
@@ -14202,9 +14202,9 @@ not appeal an order or ruling that is, or amounts to, a finding of not guilty
 
 with respect to the charge or specification. 
 
-#  Procedure.
+### (b) Procedure.
 
-#  Delay.
+#### (1) Delay.
 
 After an order or ruling which may be subject to an appeal by the
 
@@ -14216,7 +14216,7 @@ whether to file notice of appeal under this rule. Trial counsel is entitled
 
 to no more than 72 hours under this subsection. 
 
-#  Decision to appeal.
+#### (2) Decision to appeal.
 
 The decision whether to file notice of appeal under this rule shall
 
@@ -14226,7 +14226,7 @@ concerned so prescribes, the trial counsel shall not file notice of appeal
 
 unless authorized to do so by a person designated by the Secretary concerned.
 
-#  Notice of appeal.
+#### (3) Notice of appeal.
 
 If the United States elects to appeal, the trial counsel shall
 
@@ -14242,7 +14242,7 @@ and (if the order or ruling appealed is one which excludes evidence) that
 
 the evidence excluded is substantial proof of a fact material in the proceeding.
 
-#  Effect on the court-martial.
+#### (4) Effect on the court-martial.
 
 Upon written notice to the military judge under subsection (b)(3)
 
@@ -14254,25 +14254,25 @@ by the Court of Criminal Appeals of the appeal, except that solely as to
 
 charges and specifications not affected by the ruling or order: 
 
-Motions may be litigated, in the discretion of the military judge,
+(A) Motions may be litigated, in the discretion of the military judge,
 
 at any point in the proceedings; 
 
-When trial on the merits has not begun, 
+(B) When trial on the merits has not begun, 
 
-a severance may be granted upon request of all the parties; 
+(i) a severance may be granted upon request of all the parties; 
 
-a severance may be granted upon request of the accused and when
+(ii) a severance may be granted upon request of the accused and when
 
  appropriate under R.C.M. 906(b)(10); or 
 
-When trial on the merits has begun but has not been completed, a
+(C) When trial on the merits has begun but has not been completed, a
 
  party may, on that party's request and in the discretion of the military
 
 judge, present further evidence on the merits. 
 
-#  Record.
+#### (5) Record.
 
 Upon written notice to the military judge under subsection (b)(3)
 
@@ -14290,7 +14290,7 @@ parts of the proceeding be included in the record; R.C.M. 1104(d) shall not
 
 apply to such additions. 
 
-#  Forwarding.
+#### (6) Forwarding.
 
 Upon written notice to the military judge under subsection (b)(3)
 
@@ -14312,7 +14312,7 @@ with the Court of Criminal Appeals and notify the trial counsel of that
 
 decision. 
 
-#  Appeal filed.
+#### (7) Appeal filed.
 
 If the United States elects to file an appeal, it shall be filed
 
@@ -14320,13 +14320,13 @@ If the United States elects to file an appeal, it shall be filed
 
 of that court. 
 
-#  Appeal not filed.
+#### (8) Appeal not filed.
 
 If the United States elects not to file an appeal, trial counsel
 
  promptly shall notify the military judge and the other parties. 
 
-#  Pretrial confinement of accused pending appeal.
+#### (9) Pretrial confinement of accused pending appeal.
 
 If an accused is in pretrial confinement at the time the United
 
@@ -14340,9 +14340,9 @@ factors which would authorize the imposition of pretrial confinement under
 
 R.C.M. 305(h)(2)(B). 
 
-#  Appellate proceedings.
+### (c) Appellate proceedings.
 
-#  Appellate counsel.
+#### (1) Appellate counsel.
 
 The parties shall be represented before appellate courts in proceedings
 
@@ -14350,7 +14350,7 @@ under this rule as provided in R.C.M. 1202. Appellate Government counsel
 
 shall diligently prosecute an appeal under this rule. 
 
-#  Court of Criminal Appeals.
+#### (2) Court of Criminal Appeals.
 
 An appeal under Article 62 shall, whenever practicable, have priority
 
@@ -14360,7 +14360,7 @@ an appeal under Article 62, the Court of Criminal Appeals may take action
 
 only with respect to matters of law. 
 
-#  Action following decision of Court of Criminal Appeals.
+#### (3) Action following decision of Court of Criminal Appeals.
 
 After the Court of Criminal Appeals has decided any appeal under
 
@@ -14404,15 +14404,15 @@ in accordance with the decision of the Court of Criminal Appeals. If the
 
 and 1205 shall apply. 
 
-#  Military judge.
+### (d) Military judge.
 
 For purposes of this rule, "military judge" does not
 
  include the president of a special court-martial without a military judge.
 
-#  Capacity of the accused to stand trial by court-martial
+## Rule 909. Capacity of the accused to stand trial by court-martial
 
-#  In general.
+### (a) In general.
 
 No person may be brought to trial by court-martial if that person
 
@@ -14424,17 +14424,17 @@ her mentally incompetent to the extent that he or she is unable to understand
 
 in the defense of the case. 
 
-#  Discussion
+###  Discussion
 
  _See also_ R.C.M. 916(k).
 
-#  Presumption of capacity.
+### (b) Presumption of capacity.
 
 A person is presumed to have the capacity to stand trial unless
 
 the contrary is established. 
 
-#  Determination before referral.
+### (c) Determination before referral.
 
 If an inquiry pursuant to R.C.M. 706 conducted before referral
 
@@ -14462,7 +14462,7 @@ she deems appropriate in accordance with R.C.M. 407, including referral of
 
 the charges to trial. 
 
-#  Determination after referral.
+### (d) Determination after referral.
 
 After referral, the military judge may conduct a hearing to determine
 
@@ -14480,15 +14480,15 @@ capacity of the accused. Any such hearing shall be conducted in accordance
 
 with paragraph (e) of this rule. 
 
-#  Incompetence determination hearing.
+### (e) Incompetence determination hearing.
 
-#  Nature of issue.
+#### (1) Nature of issue.
 
 The mental capacity of the accused is an interlocutory question
 
 of fact. 
 
-#  Standard.
+#### (2) Standard.
 
 Trial may proceed unless it is established by a preponderance of
 
@@ -14504,7 +14504,7 @@ the military judge is not bound by the rules of evidence except with respect
 
 to privileges. 
 
-If the military judge finds the accused is incompetent to stand
+(3) If the military judge finds the accused is incompetent to stand
 
  trial, the judge shall report this finding to the general court-martial
 
@@ -14512,7 +14512,7 @@ convening authority, who shall commit the accused to the custody of the
 
 Attorney General
 
-#  Hospitalization of the accused.
+### (f) Hospitalization of the accused.
 
 An accused who is found incompetent to stand trial under this rule
 
@@ -14532,7 +14532,7 @@ the accused's mental condition has not so improved, action shall be taken
 
 in accordance with section 4246 of title 18, United States Code.
 
-#  Discussion
+###  Discussion
 
 Under section 4241(d) of title 18, the initial period of hospitalization
 
@@ -14554,7 +14554,7 @@ condition, the accused is subject to hospitalization as provided in section
 
 4246 of title 18.
 
-#  Excludable delay.
+### (g) Excludable delay.
 
 All periods of commitment shall be excluded as provided by R.C.M.
 
@@ -14564,11 +14564,11 @@ date the general court-martial convening authority takes custody of the
 
 accused at the end of any period of commitment. 
 
-#  Pleas
+## Rule 910. Pleas
 
-#  Alternatives.
+### (a) Alternatives.
 
-#  In general.
+#### (1) In general.
 
 An accused may plead as follows: guilty; not guilty to an offense
 
@@ -14582,7 +14582,7 @@ received as to an offense for which the death penalty may be adjudged by
 
 the court-martial.
 
-#  Discussion
+####  Discussion
 
  _See_ paragraph 3, Part IV, concerning lesser included offenses. When the plea is to a lesser included offense without the use of exceptions and substitutions, the defense counsel should provide a written revised specification to be included in the record as an appellate exhibit.
 
@@ -14590,7 +14590,7 @@ the court-martial.
 
   A plea of guilty does not prevent the introduction of evidence, either in support of the factual basis for the plea, or, after findings are entered, in aggravation. _See_ R.C.M. 1001(b)(4).
 
-#  Conditional pleas.
+#### (2) Conditional pleas.
 
 With the approval of the military judge and the consent of the
 
@@ -14608,13 +14608,13 @@ otherwise prescribed by the Secretary concerned, the trial counsel may consent
 
  on behalf of the Government. 
 
-#  Refusal to plead; irregular plea.
+### (b) Refusal to plead; irregular plea.
 
 If an accused fails or refuses to plead, or makes an irregular plea,
 
  the military judge shall enter a plea of not guilty for the accused.
 
-#  Discussion
+###  Discussion
 
 An irregular plea includes pleas such as guilty without criminality
 
@@ -14624,7 +14624,7 @@ a plea is ambiguous, the military judge should have it clarified before
 
 proceeding further.
 
-#  Advice to accused.
+### (c) Advice to accused.
 
 Before accepting a plea of guilty, the military judge shall address
 
@@ -14632,13 +14632,13 @@ Before accepting a plea of guilty, the military judge shall address
 
 accused understands, the following: 
 
-The nature of the offense to which the plea is offered, the mandatory
+(1) The nature of the offense to which the plea is offered, the mandatory
 
  minimum penalty, if any, provided by law, and the maximum possible penalty
 
 provided by law;
 
-#  Discussion
+####  Discussion
 
 The elements of each offense to which the accused has pleaded guilty
 
@@ -14646,19 +14646,19 @@ The elements of each offense to which the accused has pleaded guilty
 
 (e) of this rule.
 
-In a general or special court-martial, if the accused is not represented
+(2) In a general or special court-martial, if the accused is not represented
 
 by counsel, that the accused has the right to be represented by counsel at
 
 every stage of the proceedings;
 
-#  Discussion
+####  Discussion
 
 In a general or special court-martial, if the accused is not represented
 
 by counsel, a plea of guilty should not be accepted.
 
-That the accused has the right to plead not guilty or to persist
+(3) That the accused has the right to plead not guilty or to persist
 
 in that plea if already made, and that the accused has the right to be tried
 
@@ -14668,7 +14668,7 @@ confront and cross-examine witnesses against the accused, and the right against
 
 self-incrimination; 
 
-That if the accused pleads guilty, there will not be a trial of
+(4) That if the accused pleads guilty, there will not be a trial of
 
 any kind as to those offenses to which the accused has so pleaded, so that
 
@@ -14676,7 +14676,7 @@ by pleading guilty the accused waives the rights described in subsection
 
 (c)(3) of this Rule; and 
 
-That if the accused pleads guilty, the military judge will question
+(5) That if the accused pleads guilty, the military judge will question
 
  the accused about the offenses to which the accused has pleaded guilty,
 
@@ -14686,13 +14686,13 @@ in the presence of counsel, the accused's answers may later be used against
 
 the accused in a prosecution for perjury or false statement.
 
-#  Discussion
+####  Discussion
 
 The advice in subsection (5) is inapplicable in a court-martial
 
 in which the accused is not represented by counsel.
 
-#  Ensuring that the plea is voluntary.
+### (d) Ensuring that the plea is voluntary.
 
 The military judge shall not accept a plea of guilty without first,
 
@@ -14708,7 +14708,7 @@ between the convening authority, a representative of the convening authority,
 
 or trial counsel, and the accused or defense counsel. 
 
-#  Determining accuracy of plea.
+### (e) Determining accuracy of plea.
 
 The military judge shall not accept a plea of guilty without making
 
@@ -14718,7 +14718,7 @@ is a factual basis for the plea. The accused shall be questioned under oath
 
 about the offenses.
 
-#  Discussion
+###  Discussion
 
 A plea of guilty must be in accord with the truth. Before the plea
 
@@ -14760,21 +14760,21 @@ true.
 
  questioning by the military judge.
 
-#  Plea agreement inquiry.
+### (f) Plea agreement inquiry.
 
-#  In general.
+#### (1) In general.
 
 A plea agreement may not be accepted if it does not comply with
 
  R.C.M. 705. 
 
-#  Notice.
+#### (2) Notice.
 
 The parties shall inform the military judge if a plea agreement
 
  exists.
 
-#  Discussion
+####  Discussion
 
 The military judge should ask whether a plea agreement exists. _
 
@@ -14786,7 +14786,7 @@ to bring any agreements or understandings in connection with the plea to
 
 the attention of the military judge.
 
-#  Disclosure.
+#### (3) Disclosure.
 
 If a plea agreement exists, the military judge shall require disclosure
 
@@ -14798,15 +14798,15 @@ any sentence limitation contained in the agreement until after the sentence
 
 of the court-martial has been announced. 
 
-#  Inquiry.
+#### (4) Inquiry.
 
 The military judge shall inquire to ensure: 
 
-That the accused understands the agreement; and 
+(A) That the accused understands the agreement; and 
 
-That the parties agree to the terms of the agreement.
+(B) That the parties agree to the terms of the agreement.
 
-#  Discussion
+#####  Discussion
 
 If the plea agreement contains any unclear or ambiguous terms, the
 
@@ -14816,19 +14816,19 @@ doubt about the accused's understanding of any terms in the agreement, the
 
 military judge should explain those terms to the accused.
 
-#  Findings.
+### (g) Findings.
 
 Findings based on a plea of guilty may be entered immediately upon
 
  acceptance of the plea at an Article 39(a) session unless: 
 
-Such action is not permitted by regulations of the Secretary concerned;
+(1) Such action is not permitted by regulations of the Secretary concerned;
 
-The plea is to a lesser included offense and the prosecution intends
+(2) The plea is to a lesser included offense and the prosecution intends
 
  to proceed to trial on the offense as charged; or 
 
-Trial is by a special court-martial without a military judge, in
+(3) Trial is by a special court-martial without a military judge, in
 
  which case the president of the court-martial may enter findings based on
 
@@ -14836,7 +14836,7 @@ the pleas without a formal vote except when subsection (g)(2) of this rule
 
 applies.
 
-#  Discussion
+####  Discussion
 
 If the accused has pleaded guilty to some offenses but not to others,
 
@@ -14848,9 +14848,9 @@ the remaining offenses have been entered. _ See_ R.C.M. 913(a),
 
 Discussion and R.C.M. 920(e), Discussion, paragraph 3.
 
-#  Later action.
+### (h) Later action.
 
-#  Withdrawal by the accused.
+#### (1) Withdrawal by the accused.
 
 If after acceptance of the plea but before the sentence is announced
 
@@ -14860,7 +14860,7 @@ of not guilty or a plea of guilty to a lesser included offense, the military
 
 judge may as a matter of discretion permit the accused to do so. 
 
-#  Statements by accused inconsistent with plea.
+#### (2) Statements by accused inconsistent with plea.
 
 If after findings but before the sentence is announced the accused
 
@@ -14876,7 +14876,7 @@ improvidently or through lack of understanding of its meaning and effect
 
 a plea of not guilty shall be entered as to the affected charges and specifications.
 
-#  Discussion
+####  Discussion
 
 When the accused withdraws a previously accepted plea for guilty
 
@@ -14890,7 +14890,7 @@ alone will ordinarily be necessary when a plea is rejected or withdrawn after
 
 findings; in trial with members, a mistrial will ordinarily be necessary.
 
-#  Pretrial agreement inquiry.
+#### (3) Pretrial agreement inquiry.
 
 After sentence is announced the military judge shall inquire into
 
@@ -14906,11 +14906,11 @@ Government, the agreement to the accused's understanding or permit the accused
 
 to withdraw the plea.
 
-#  Discussion
+####  Discussion
 
  _See_ subsection (f)(3) of this rule.
 
-#  Record of proceedings.
+### (i) Record of proceedings.
 
 A verbatim record of the guilty plea proceedings shall be made in
 
@@ -14922,7 +14922,7 @@ included in the record of trial. As to summary courts-martial, _see
 
 _ R.C.M. 1305. 
 
-#  Waiver.
+### (j) Waiver.
 
 Except as provided in subsection (a)(2) of this rule, a plea of
 
@@ -14932,11 +14932,11 @@ or not previously raised, insofar as the objection relates to the factual
 
  issue of guilt of the offense(s) to which the plea was made. 
 
-#  Assembly of the court-martial
+## Rule 911. Assembly of the court-martial
 
 The military judge shall announce the assembly of the court-martial.
 
-#  Discussion
+##  Discussion
 
 When trial is by a court-martial with members, the court-martial
 
@@ -14980,11 +14980,11 @@ approved (_see_ Article 16; R.C.M. 903(a)(2)(d)); and the
 
 25(c)(1); R.C.M. 903(a)(1)(d)).
 
-#  Challenge of selection of members; examination and challenges of members
+## Rule 912. Challenge of selection of members; examination and challenges of members
 
-#  Pretrial matters.
+### (a) Pretrial matters.
 
-#  Questionnaires.
+#### (1) Questionnaires.
 
 Before trial the trial counsel may, and shall upon request of the
 
@@ -14992,31 +14992,31 @@ Before trial the trial counsel may, and shall upon request of the
 
 following information: 
 
-Date of birth; 
+(A) Date of birth; 
 
-Sex; 
+(B) Sex; 
 
-Race; 
+(C) Race; 
 
-Marital status and sex, age, and number of dependents; 
+(D) Marital status and sex, age, and number of dependents; 
 
-Home of record; 
+(E) Home of record; 
 
-Civilian and military education, including, when available, major
+(F) Civilian and military education, including, when available, major
 
  areas of study, name of school or institution, years of education, and degrees
 
 received; 
 
-Current unit to which assigned; 
+(G) Current unit to which assigned; 
 
-Past duty assignments; 
+(H) Past duty assignments; 
 
-Awards and decorations received; 
+(I) Awards and decorations received; 
 
-Date of rank; and 
+(J) Date of rank; and 
 
-Whether the member has acted as accuser, counsel, preliminary hearing officer, convening authority, or legal officer or staff judge advocate for
+(K) Whether the member has acted as accuser, counsel, preliminary hearing officer, convening authority, or legal officer or staff judge advocate for
 
 the convening authority in the case, or has forwarded the charges with a
 
@@ -15028,7 +15028,7 @@ be requested with the approval of the military judge. Each member's responses
 
 to the questions shall be written and signed by the member.
 
-#  Discussion
+#####  Discussion
 
 Using questionnaires before trial may expedite voir dire and may
 
@@ -15042,7 +15042,7 @@ to or included in the record of trial. _See_ R.C.M. 1103(b)(2)(D)(iv)
 
 and (b)(3)(B). 
 
-#  Other materials.
+#### (2) Other materials.
 
 A copy of any written materials considered by the convening authority
 
@@ -15054,9 +15054,9 @@ to persons who were not selected for detail as members need not be provided
 
 unless the military judge, for good cause, so directs. 
 
-#  Challenge of selection of members.
+### (b) Challenge of selection of members.
 
-#  Motion.
+#### (1) Motion.
 
 Before the examination of members under subsection (d) of this rule
 
@@ -15068,7 +15068,7 @@ that party may move to stay the proceedings on the ground that members were
 
 selected improperly. 
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 502(a) and 503(a) concerning selection
 
@@ -15076,7 +15076,7 @@ of members. Members are also improperly selected when, for example, a certain
 
 group or class is arbitrarily excluded from consideration as members.
 
-#  Procedure.
+#### (2) Procedure.
 
 Upon a motion under subsection (b)(1) of this rule containing an
 
@@ -15094,7 +15094,7 @@ the military judge shall stay any proceedings requiring the presence of members
 
 until members are properly selected. 
 
-#  Waiver.
+#### (3) Waiver.
 
 Failure to make a timely motion under this subsection shall waive
 
@@ -15102,13 +15102,13 @@ the improper selection unless it constitutes a violation of R.C.M. 501(a),
 
 502(a)(1), or 503(a)(2). 
 
-#  Stating grounds for challenge.
+### (c) Stating grounds for challenge.
 
 The trial counsel shall state any ground for challenge for cause
 
  against any member of which the trial counsel is aware. 
 
-#  Examination of members.
+### (d) Examination of members.
 
 The military judge may permit the parties to conduct the examination
 
@@ -15124,7 +15124,7 @@ as the military judge deems proper. A member may be questioned outside the
 
 presence of other members when the military judge so directs.
 
-#  Discussion
+###  Discussion
 
 Examination of the members is called "voir dire." If
 
@@ -15174,65 +15174,65 @@ further questioning. The members should be cautioned, however, not to disclose
 
  information in the presence of other members which might disqualify them.
 
-#  Evidence.
+### (e) Evidence.
 
 Any party may present evidence relating to whether grounds for
 
 challenge exist against a member. 
 
-#  Challenges and removal for cause.
+### (f) Challenges and removal for cause.
 
-#  Grounds.
+#### (1) Grounds.
 
 A member shall be excused for cause whenever it appears that the
 
  member: 
 
-Is not competent to serve as a member under Article 25(a), (b),
+(A) Is not competent to serve as a member under Article 25(a), (b),
 
 or (c); 
 
-Has not been properly detailed as a member of the court-martial;
+(B) Has not been properly detailed as a member of the court-martial;
 
-Is an accuser as to any offense charged; 
+(C) Is an accuser as to any offense charged; 
 
-Will be a witness in the court-martial; 
+(D) Will be a witness in the court-martial; 
 
-Has acted as counsel for any party as to any offense charged; 
+(E) Has acted as counsel for any party as to any offense charged; 
 
-Has been an a preliminary hearing officer as to any offense charged; 
+(F) Has been an a preliminary hearing officer as to any offense charged; 
 
-Has acted in the same case as convening authority or as the legal
+(G) Has acted in the same case as convening authority or as the legal
 
  officer or staff judge advocate to the convening authority; 
 
-Will act in the same case as reviewing authority or as the legal
+(H) Will act in the same case as reviewing authority or as the legal
 
  officer or staff judge advocate to the reviewing authority; 
 
-Has forwarded charges in the case with a personal recommendation
+(I) Has forwarded charges in the case with a personal recommendation
 
 as to disposition; 
 
-Upon a rehearing or new or other trial of the case, was a member
+(J) Upon a rehearing or new or other trial of the case, was a member
 
 of the court-martial which heard the case before; 
 
-Is junior to the accused in grade or rank, unless it is established
+(K) Is junior to the accused in grade or rank, unless it is established
 
  that this could not be avoided; 
 
-Is in arrest or confinement; 
+(L) Is in arrest or confinement; 
 
-Has formed or expressed a definite opinion as to the guilt or
+(M) Has formed or expressed a definite opinion as to the guilt or
 
  innocence of the accused as to any offense charged; 
 
-Should not sit as a member in the interest of having the court-martial
+(N) Should not sit as a member in the interest of having the court-martial
 
 free from substantial doubt as to legality, fairness, and impartiality.
 
-#  Discussion
+######  Discussion
 
 Examples of matters which may be grounds for challenge under subsection
 
@@ -15248,9 +15248,9 @@ or has an inelastic opinion concerning an appropriate sentence for the offenses
 
 charged.
 
-#  When made.
+#### (2) When made.
 
-#  Upon completion of examination.
+##### (A) Upon completion of examination.
 
 Upon completion of any examination under subsection (d) of this
 
@@ -15258,7 +15258,7 @@ rule and the presentation of evidence, if any, on the matter, each party
 
 shall state any challenges for cause it elects to make. 
 
-#  Other times.
+##### (B) Other times.
 
 A challenge for cause may be made at any other time during trial
 
@@ -15268,7 +15268,7 @@ of the member and presentation of evidence as may be necessary may be made
 
 in order to resolve the matter. 
 
-#  Procedure.
+#### (3) Procedure.
 
 Each party shall be permitted to make challenges outside the presence
 
@@ -15284,7 +15284,7 @@ The burden of establishing that grounds for a challenge exist is upon the
 
 party making the challenge. A member successfully challenged shall be excused.
 
-#  Waiver.
+#### (4) Waiver.
 
 The grounds for challenge in subsection (f)(1)(A) of this rule may
 
@@ -15308,15 +15308,15 @@ any member shall constitute waiver of further consideration of the challenge
 
 upon later review. 
 
-#  Discussion
+####  Discussion
 
  _See also_ Mil. R. Evid. 606(b) when a member may
 
 be a witness.
 
-#  Peremptory challenges.
+### (g) Peremptory challenges.
 
-#  Procedure.
+#### (1) Procedure.
 
 Each party may challenge one member peremptorily. Any member so
 
@@ -15328,7 +15328,7 @@ for cause has been completed. Ordinarily the trial counsel shall enter any
 
 peremptory challenge before the defense.
 
-#  Discussion
+####  Discussion
 
 Generally, no reason is necessary for a peremptory challenge. _
 
@@ -15342,7 +15342,7 @@ v. Curtis_, 33 M.J. 101 (C.M.A. 1991), _cert. denied_,
 
 380 (C.M.A. 1988).
 
-#  Waiver.
+#### (2) Waiver.
 
 Failure to exercise a peremptory challenge when properly called
 
@@ -15360,7 +15360,7 @@ under R.C.M. 505(c)(2)(B), even if presentation of evidence on the merits
 
 has begun.
 
-#  Discussion
+####  Discussion
 
 When the membership of the court-martial has been reduced below
 
@@ -15376,7 +15376,7 @@ notified so that new members may be detailed. _See_ R.C.M.
 
 when new members are detailed.
 
-#  Special courts-martial without a military judge.
+### (h) Special courts-martial without a military judge.
 
 In a special court-martial without a military judge, the procedures
 
@@ -15404,15 +15404,15 @@ the remaining two may decide the challenge. When the president is challenged,
 
 challenge. 
 
-#  Definitions.
+### (i) Definitions.
 
-#  Military judge.
+#### (1) Military judge.
 
 For purpose of this rule, "military judge" does not
 
  include the president of a special court-martial without a military judge.
 
-#  Witness.
+#### (2) Witness.
 
 For purposes of this rule, "witness" includes one who
 
@@ -15422,7 +15422,7 @@ evidence for any purpose, including written declarations made by affidavit
 
 or otherwise.
 
-#  Discussion
+####  Discussion
 
 For example, a person who by certificate has attested or otherwise
 
@@ -15430,13 +15430,13 @@ For example, a person who by certificate has attested or otherwise
 
 is a witness.
 
-#  Preliminary hearing officer.
+#### (3) Preliminary hearing officer.
 
 For purposes of this rule, "preliminary hearing officer" includes any person who has examined charges under R.C.M. 405 and any person who was counsel for a member of a court of inquiry, or otherwise personally has conducted an investigation of the general matter involving the offenses charged.
 
-#  Presentation of the case on the merits
+## Rule 913. Presentation of the case on the merits
 
-#  Preliminary instructions.
+### (a) Preliminary instructions.
 
 The military judge may give such preliminary instructions as may
 
@@ -15448,7 +15448,7 @@ pleaded guilty until after the findings on the remaining contested offenses
 
 have been entered.
 
-#  Discussion
+###  Discussion
 
 Preliminary instructions may include a description of the duties
 
@@ -15470,7 +15470,7 @@ contested offense charged in the specification. _See_ R.C.M.
 
 910(g), Discussion and R.C.M. 920(e), Discussion, paragraph 3.
 
-#  Opening statements.
+### (b) Opening statements.
 
 Each party may make one opening statement to the court-martial before
 
@@ -15482,7 +15482,7 @@ the defense. The military judge may, as a matter of discretion, permit the
 
 parties to address the court-martial at other times.
 
-#  Discussion
+###  Discussion
 
 Counsel should confine their remarks to evidence they expect to
 
@@ -15490,41 +15490,41 @@ be offered which they believe in good faith will be available and admissible
 
 and a brief statement of the issues in the case.
 
-#  Presentation of evidence.
+### (c) Presentation of evidence.
 
 Each party shall have full opportunity to present evidence. 
 
-#  Order of presentation.
+#### (1) Order of presentation.
 
  Ordinarily the following sequence shall be followed: 
 
-Presentation of evidence for the prosecution; 
+(A) Presentation of evidence for the prosecution; 
 
-Presentation of evidence for the defense; 
+(B) Presentation of evidence for the defense; 
 
-Presentation of prosecution evidence in rebuttal; 
+(C) Presentation of prosecution evidence in rebuttal; 
 
-Presentation of defense evidence in surrebuttal; 
+(D) Presentation of defense evidence in surrebuttal; 
 
-Additional rebuttal evidence in the discretion of the military judge;
+(E) Additional rebuttal evidence in the discretion of the military judge;
 
  and 
 
-Presentation of evidence requested by the military judge or members.
+(F) Presentation of evidence requested by the military judge or members.
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 801(a) and Mil. R. Evid. 611 concerning
 
 control by the military judge over the order of proceedings.
 
-#  Taking testimony.
+#### (2) Taking testimony.
 
 The testimony of witnesses shall be taken orally in open session,
 
  unless otherwise provided in this Manual.
 
-#  Discussion
+####  Discussion
 
 Each witness must testify under oath. _See_ R.C.M.
 
@@ -15574,7 +15574,7 @@ be clearly identified for the record, either by marking the exhibit or by
 
 an accurate description of the witness' actions with regard to the exhibit.
 
-#  Views and inspections.
+#### (3) Views and inspections.
 
 The military judge may, as a matter of discretion, permit the court-martial
 
@@ -15594,7 +15594,7 @@ judge. Any statement made at the view or inspection by the escort, a party,
 
 the military judge, or any member shall be made part of the record.
 
-#  Discussion
+####  Discussion
 
 A view or inspection should be permitted only in extraordinary
 
@@ -15604,7 +15604,7 @@ necessarily preclude the introduction in evidence of photographs, diagrams,
 
  maps, or sketches of the place or item viewed, if these are otherwise admissible.
 
-#  Evidence subject to exclusion.
+#### (4) Evidence subject to exclusion.
 
 When offered evidence would be subject to exclusion upon objection,
 
@@ -15614,7 +15614,7 @@ attention of the parties and may, in the interest of justice, exclude the
 
 evidence without an objection by a party.
 
-#  Discussion
+####  Discussion
 
 The military judge should not exclude evidence which is not objected
 
@@ -15624,15 +15624,15 @@ to try the case and present the evidence without unnecessary interference
 
  by the military judge. _See also_ Mil. R. Evid. 103.
 
-#  Reopening case.
+#### (5) Reopening case.
 
 The military judge may, as a matter of discretion, permit a party
 
 to reopen its case after it has rested. 
 
-#  Production of statements of witnesses
+## Rule 914. Production of statements of witnesses
 
-#  Motion for production.
+### (a) Motion for production.
 
 After a witness other than the accused has testified on direct
 
@@ -15644,15 +15644,15 @@ and use by the moving party, any statement of the witness that relates to
 
 the subject matter concerning which the witness has testified, and that is:
 
-In the case of a witness called by the trial counsel, in the possession
+(1) In the case of a witness called by the trial counsel, in the possession
 
 of the United States; or 
 
-In the case of a witness called by the defense, in the possession
+(2) In the case of a witness called by the defense, in the possession
 
 of the accused or defense counsel.
 
-#  Discussion
+####  Discussion
 
  _See also_ R.C.M. 701 (Discovery). 
 
@@ -15674,7 +15674,7 @@ information as to which a privilege is asserted, _see_ Mil.
 
 R. Evid. 505; 506.
 
-#  Production of entire statement.
+### (b) Production of entire statement.
 
 If the entire contents of the statement relate to the subject matter
 
@@ -15682,7 +15682,7 @@ If the entire contents of the statement relate to the subject matter
 
 that the statement be delivered to the moving party. 
 
-#  Production of excised statement.
+### (c) Production of excised statement.
 
 If the party who called the witness claims that the statement contains
 
@@ -15706,7 +15706,7 @@ to the reviewing authorities for the purpose of determining the correctness
 
 of the decision to excise the portion of the statement. 
 
-#  Recess for examination of the statement.
+### (d) Recess for examination of the statement.
 
 Upon delivery of the statement to the moving party, the military
 
@@ -15714,7 +15714,7 @@ Upon delivery of the statement to the moving party, the military
 
 for its use in the trial. 
 
-#  Remedy for failure to produce statement.
+### (e) Remedy for failure to produce statement.
 
 If the other party elects not to comply with an order to deliver
 
@@ -15726,15 +15726,15 @@ trial proceed, or, if it is the trial counsel who elects not to comply, shall
 
 declare a mistrial if required in the interest of justice. 
 
-#  Definition.
+### (f) Definition.
 
 As used in this rule, a "statement" of a witness means:
 
-A written statement made by the witness that is signed or otherwise
+(1) A written statement made by the witness that is signed or otherwise
 
  adopted or approved by the witness; 
 
-A substantially verbatim recital of an oral statement made by the
+(2) A substantially verbatim recital of an oral statement made by the
 
  witness that is recorded contemporaneously with the making of the oral statement
 
@@ -15742,13 +15742,13 @@ and contained in a stenographic, mechanical, electrical, or other recording
 
 or a transcription thereof; or 
 
-A statement, however taken or recorded, or a transcription thereof,
+(3) A statement, however taken or recorded, or a transcription thereof,
 
  made by the witness to a Federal grand jury. 
 
-#  Use of remote live testimony of a child
+## Rule 914A. Use of remote live testimony of a child
 
-#  General procedures.
+### (a) General procedures.
 
 A child shall be allowed to testify out of the presence of the
 
@@ -15762,9 +15762,9 @@ Mil. R. Evid. 611(d)(3) have been satisfied. The procedure used to take such
 
 shall be observed: 
 
-The witness shall testify from a remote location outside the courtroom;
+(1) The witness shall testify from a remote location outside the courtroom;
 
-Attendance at the remote location shall be limited to the child,
+(2) Attendance at the remote location shall be limited to the child,
 
  counsel for each side (not including an accused pro se), equipment operators,
 
@@ -15772,51 +15772,51 @@ and other persons, such as an attendant for the child, whose presence is
 
 deemed necessary by the military judge; 
 
-Sufficient monitors shall be placed in the courtroom to allow viewing
+(3) Sufficient monitors shall be placed in the courtroom to allow viewing
 
  and hearing of the testimony by the military judge, the accused, the members,
 
 the court reporter and the public; 
 
-The voice of the military judge shall be transmitted into the remote
+(4) The voice of the military judge shall be transmitted into the remote
 
  location to allow control of the proceedings; and 
 
-The accused shall be permitted private, contemporaneous communication
+(5) The accused shall be permitted private, contemporaneous communication
 
  with his counsel. 
 
-#  Definition.
+### (b) Definition.
 
 As used in this rule, "remote live testimony" includes, but is not limited to, testimony by videoteleconference, closed circuit television, or similar technology.
 
-#  Prohibitions.
+### (c) Prohibitions.
 
 The procedures described above shall not be used where the accused
 
  elects to absent himself from the courtroom pursuant to R.C.M. 804(c).
 
-#  Discussion
+###  Discussion
 
 For purposes of this rule, unlike R.C.M. 914B, remote means or similar technology does not include receiving testimony by telephone where the parties cannot see and hear each other.
 
-#  Use of remote testimony
+## Rule 914B. Use of remote testimony
 
-#  General procedures.
+### (a) General procedures.
 
 The military judge shall determine the procedures used to take testimony via remote means. At a minimum, all parties shall be able to hear each other, those in attendance at the remote site shall be identified, and the accused shall be permitted private, contemporaneous communication with his counsel.
 
-#  Definition.
+#### (b) Definition.
 
 As used in this rule, testimony via "remote means" includes, but is not limited to, testimony by videoteleconference, closed circuit television, telephone, or similar technology.
 
-#  Discussion
+####  Discussion
 
 This rule applies for all witness testimony other than child witness testimony specifically covered by Mil. R. Evid. 611(d) and R.C.M. 914A.  When utilizing testimony via remote means, military justice practitioners are encouraged to consult the procedure used in _In re San Juan Dupont Plaza Hotel Fire Litigation_, 129 F.R.D. 424 (D.P.R. 1989) and to read _United States v. Gigante_, 166 F.3d 75 (2d Cir. 1999), cert. denied, 528 U.S. 1114 (2000).
 
-#  Mistrial
+## Rule 915. Mistrial
 
-#  In general.
+### (a) In general.
 
 The military judge may, as a matter of discretion, declare a mistrial
 
@@ -15830,7 +15830,7 @@ or all charges, and as to the entire proceedings or as to only the proceedings
 
 after findings.
 
-#  Discussion
+###  Discussion
 
 The power to grant a mistrial should be used with great caution,
 
@@ -15850,7 +15850,7 @@ when the referral is jurisdictionally defective. _See also_ R.C.M.
 
  905(g) concerning the effect of rulings in one proceeding on later proceedings.
 
-#  Procedure.
+### (b) Procedure.
 
 On motion for a mistrial or when it otherwise appears that grounds
 
@@ -15860,21 +15860,21 @@ of the parties on the matter and then decide the matter as an interlocutory
 
 question.
 
-#  Discussion
+###  Discussion
 
 Except in a special court-martial without a military judge, the
 
  hearing on a mistrial should be conducted out of the presence of the members.
 
-#  Effect of declaration of mistrial.
+### (c) Effect of declaration of mistrial.
 
-#  Withdrawal of charges.
+#### (1) Withdrawal of charges.
 
 A declaration of a mistrial shall have the effect of withdrawing
 
 the affected charges and specifications from the court-martial.
 
-#  Discussion
+####  Discussion
 
 Upon declaration of a mistrial, the affected charges are returned
 
@@ -15882,7 +15882,7 @@ to the convening authority who may refer them anew or otherwise dispose of
 
 them. _See_ R.C.M. 401-407.
 
-#  Further proceedings.
+#### (2) Further proceedings.
 
 A declaration of a mistrial shall not prevent trial by another
 
@@ -15892,15 +15892,15 @@ mistrial was declared after jeopardy attached and before findings, and the
 
 declaration was: 
 
-An abuse of discretion and without the consent of the defense; or
+(A) An abuse of discretion and without the consent of the defense; or
 
-The direct result of intentional prosecutorial misconduct designed
+(B) The direct result of intentional prosecutorial misconduct designed
 
 to necessitate a mistrial. 
 
-#  Defenses
+## Rule 916. Defenses
 
-#  In general.
+### (a) In general.
 
 As used in this rule, "defenses" includes any special
 
@@ -15910,7 +15910,7 @@ As used in this rule, "defenses" includes any special
 
 responsibility for those acts.
 
-#  Discussion
+###  Discussion
 
 Special defenses are also called "affirmative defenses." 
 
@@ -15926,21 +15926,21 @@ as they operate to deny that the accused committed one or more of the acts
 
 701(b)(1) concerning notice of alibi.
 
-#  Burden of proof.
+### (b) Burden of proof.
 
-#  General rule.
+#### (1) General rule.
 
 Except as listed below in paragraphs (2) and (3), the prosecution shall have the burden of proving beyond a reasonable doubt that the defense did not exist. 
 
-#  Lack of mental responsibility.
+##### (2) Lack of mental responsibility.
 
 The accused has the burden of proving the defense of lack of mental responsibility by clear and convincing evidence.
 
-#  Mistake of fact as to age.
+###### (3) Mistake of fact as to age.
 
 In the defense of mistake of fact as to age as described in Article 120b(d)(2) in a prosecution of a child sexual offense, the accused has the burden of proving mistake of fact as to age by a preponderance of the evidence.
 
-#  Discussion
+##  Discussion
 
 A defense may be raised by evidence presented by the defense, the
 
@@ -15958,13 +15958,13 @@ The defenses need not necessarily be consistent.
 
 See_ R.C.M. 920(e)(3) concerning instructions on defenses.
 
-#  Justification.
+### (c) Justification.
 
 A death, injury, or other act caused or done in the proper performance
 
 of a legal duty is justified and not unlawful.
 
-#  Discussion
+###  Discussion
 
 The duty may be imposed by statute, regulation, or order. For example,
 
@@ -15976,7 +15976,7 @@ to apprehend is imposed by lawful authority. Also, killing an enemy combatant
 
 in battle is justified.
 
-#  Obedience to orders.
+### (d) Obedience to orders.
 
 It is a defense to any offense that the accused was acting pursuant
 
@@ -15984,7 +15984,7 @@ It is a defense to any offense that the accused was acting pursuant
 
  ordinary sense and understanding would have known the orders to be unlawful.
 
-#  Discussion
+###  Discussion
 
 Ordinarily the lawfulness of an order is finally decided by the
 
@@ -16004,23 +16004,23 @@ accused knew it to be unlawful or a person of ordinary sense and understanding
 
 would have known it to be unlawful.
 
-#  Self-defense.
+### (e) Self-defense.
 
-#  Homicide or assault cases involving deadly force.
+#### (1) Homicide or assault cases involving deadly force.
 
 It is a defense to a homicide, assault involving deadly force, or
 
  battery involving deadly force that the accused: 
 
-Apprehended, on reasonable grounds, that death or grievous bodily
+(A) Apprehended, on reasonable grounds, that death or grievous bodily
 
  harm was about to be inflicted wrongfully on the accused; and 
 
-Believed that the force the accused used was necessary for protection
+(B) Believed that the force the accused used was necessary for protection
 
  against death or grievous bodily harm.
 
-#  Discussion
+#####  Discussion
 
 The words "involving deadly force" described the factual
 
@@ -16070,23 +16070,23 @@ See also_ Mil. R. Evid. 404(a)(2) as to evidence concerning the character
 
  of the victim.
 
-#  Certain aggravated assault cases.
+#### (2) Certain aggravated assault cases.
 
 It is a defense to assault with a dangerous weapon or means likely
 
 to produce death or grievous bodily harm that the accused: 
 
-Apprehended, on reasonable grounds, that bodily harm was about to
+(A) Apprehended, on reasonable grounds, that bodily harm was about to
 
 be inflicted wrongfully on the accused; and 
 
-In order to deter the assailant, offered but did not actually apply
+(B) In order to deter the assailant, offered but did not actually apply
 
  or attempt to apply such means or force as would be likely to cause death
 
 or grievous bodily harm.
 
-#  Discussion
+#####  Discussion
 
 The principles in the discussion of subsection (e)(1) of this rule
 
@@ -16106,7 +16106,7 @@ to excuse the accused's acts. The death or injury must have been an unintended
 
 and unexpected result of the accused's exercise of the right of self-defense.
 
-#  Other assaults.
+#### (3) Other assaults.
 
 It is a defense to any assault punishable under Article 90, 91,
 
@@ -16114,17 +16114,17 @@ or 128 and not listed in subsections (e)(1) or (2) of this rule that the
 
 accused: 
 
-Apprehended, upon reasonable grounds, that bodily harm was about
+(A) Apprehended, upon reasonable grounds, that bodily harm was about
 
 to be inflicted wrongfully on the accused; and 
 
-Believed that the force that accused used was necessary for protection
+(B) Believed that the force that accused used was necessary for protection
 
 against bodily harm, provided that the force used by the accused was less
 
 than force reasonably likely to produce death or grievous bodily harm.
 
-#  Discussion
+#####  Discussion
 
 The principles in the discussion under subsection (e)(1) apply here. 
 
@@ -16142,7 +16142,7 @@ acts. The death or serious injury must have been an unintended and unexpected
 
 result of the accused's proper exercise of the right of self-defense.
 
-#  Loss of right to self-defense.
+#### (4) Loss of right to self-defense.
 
 The right to self-defense is lost and the defenses described in
 
@@ -16156,7 +16156,7 @@ after the aggression, combat, or provocation and before the offense alleged
 
 occurred.
 
-#  Discussion
+####  Discussion
 
 A person does not become an aggressor or provocateur merely because
 
@@ -16182,7 +16182,7 @@ was lawfully present. The availability of avenues of retreat is one factor
 
 the force used was necessary for self-protection.
 
-#  Defense of another.
+#### (5) Defense of another.
 
 The principles of self-defense under subsection (e)(1) through (4)
 
@@ -16196,7 +16196,7 @@ homicide, assault with intent to kill, or any assault under Article 90,
 
 to use under the circumstances.
 
-#  Discussion
+####  Discussion
 
 The accused acts at the accused's peril when defending another.
 
@@ -16208,7 +16208,7 @@ if, unbeknownst to the accused, the apparent victim was in fact the aggressor
 
 and not entitled to use self-defense.
 
-#  Accident.
+### (f) Accident.
 
 A death, injury, or other event which occurs as the unintentional
 
@@ -16216,13 +16216,13 @@ and unexpected result of doing a lawful act in a lawful manner is an accident
 
 and excusable.
 
-#  Discussion
+###  Discussion
 
 The defense of accident is not available when the act which caused
 
  the death, injury, or event was a negligent act.
 
-#  Entrapment.
+### (g) Entrapment.
 
 It is a defense that the criminal design or suggestion to commit
 
@@ -16230,7 +16230,7 @@ the offense originated in the Government and the accused had no predisposition
 
 to commit the offense.
 
-#  Discussion
+###  Discussion
 
 The "Government" includes agents of the Government and
 
@@ -16252,7 +16252,7 @@ to that charged is admissible to show predisposition. _See_ Mil.
 
 R. Evid. 404(b).
 
-#  Coercion or duress.
+### (h) Coercion or duress.
 
 It is a defense to any offense except killing an innocent person
 
@@ -16270,7 +16270,7 @@ to avoid committing the act without subjecting the accused or another innocent
 
 person to the harm threatened, this defense shall not apply.
 
-#  Discussion
+###  Discussion
 
 The immediacy of the harm necessary may vary with the circumstances.
 
@@ -16282,7 +16282,7 @@ otherwise protect the intended victim or avoid committing the offense before
 
 then.
 
-#  Inability.
+### (i) Inability.
 
 It is a defense to refusal or failure to perform a duty that the
 
@@ -16290,7 +16290,7 @@ It is a defense to refusal or failure to perform a duty that the
 
 able to perform the duty.
 
-#  Discussion
+###  Discussion
 
 The test of inability is objective in nature. The accused's opinion
 
@@ -16308,9 +16308,9 @@ knowledge of an order to get a haircut, spends money on other nonessential
 
 items, the accused's inability to pay for the haircut would not be a defense.
 
-#  Ignorance or mistake of fact.
+### (j) Ignorance or mistake of fact.
 
-#  Generally.
+#### (1) Generally.
 
 Except as otherwise provided in this subsection, it is a defense
 
@@ -16336,11 +16336,11 @@ must have been reasonable under all the circumstances. However, if the accused's
 
  is not a defense. 
 
-#  Child Sexual Offenses.
+#### (2) Child Sexual Offenses.
 
 It is a defense to a prosecution for Article 120b(b), sexual assault of a child, and Article 120b(c), sexual abuse of a child, that, at the time of the offense, the accused reasonably believed that the child had attained the age of 16 years, if the child had in fact attained at least the age of 12 years. The accused must prove this defense by a preponderance of the evidence.
 
-#  Discussion
+####  Discussion
 
 Examples of ignorance or mistake which need only exist in fact include: ignorance of the fact that the person assaulted was an officer; belief that property allegedly stolen belonged to the accused; belief that a controlled substance was really sugar.
 
@@ -16350,9 +16350,9 @@ Examples of ignorance or mistake which need only exist in fact include: ignoranc
 
   _See_ subsection (l)(1) of this rule concerning ignorance or mistake of law.
 
-#  Lack of mental responsibility.
+### (k) Lack of mental responsibility.
 
-#  Lack of mental responsibility.
+#### (1) Lack of mental responsibility.
 
 It is an affirmative defense to any offense that, at the time of
 
@@ -16364,7 +16364,7 @@ of a severe mental disease or defect, was unable to appreciate the nature
 
  does not otherwise constitute a defense.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 706 concerning sanity inquiries; R.C.M.
 
@@ -16374,13 +16374,13 @@ concerning any post-trial hearing for an accused found not guilty only by
 
 reason of lack of mental responsibility.
 
-#  Partial mental responsibility.
+#### (2) Partial mental responsibility.
 
 A mental condition not amounting to a lack of mental responsibility
 
  under subsection (k)(1) of this rule is not an affirmative defense.
 
-#  Discussion
+####  Discussion
 
 Evidence of a mental condition not amounting to a lack of mental
 
@@ -16394,9 +16394,9 @@ if the defense intends to introduce expert testimony as to the accused's mental
 
 condition. _See_ R.C.M. 701(b)(2).
 
-#  Procedure.
+#### (3) Procedure.
 
-#  Presumption.
+##### (A) Presumption.
 
 The accused is presumed to have been mentally responsible at the
 
@@ -16406,7 +16406,7 @@ establishes, by clear and convincing evidence, that he or she was not mentally
 
 responsible at the time of the alleged offense.
 
-#  Discussion
+#####  Discussion
 
 The accused is presumed to be mentally responsible, and this presumption
 
@@ -16416,7 +16416,7 @@ that the accused has proven lack of mental responsibility by clear and convincin
 
 evidence. _See_ subsection (b) of this rule.
 
-#  Inquiry.
+##### (B) Inquiry.
 
 If a question is raised concerning the mental responsibility of
 
@@ -16430,7 +16430,7 @@ one of fact, in which case the president rules subject to objection by any
 
 member.
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 801(e)(3) for the procedures for voting
 
@@ -16442,21 +16442,21 @@ judge.
 
 to it.
 
-#  Determination.
+##### (C) Determination.
 
 The issue of mental responsibility shall not be considered as an
 
  interlocutory question. 
 
-#  Not defenses generally.
+### (l) Not defenses generally.
 
-#  Ignorance or mistake of law.
+#### (1) Ignorance or mistake of law.
 
 Ignorance or mistake of law, including general orders or regulations,
 
  ordinarily is not a defense.
 
-#  Discussion
+####  Discussion
 
 For example, ignorance that it is a crime to possess marijuana is
 
@@ -16498,7 +16498,7 @@ may have a defense even though the accused was not legally eligible for the
 
 course of conduct is legal is not, of itself, a defense.
 
-#  Voluntary intoxication.
+#### (2) Voluntary intoxication.
 
 Voluntary intoxication, whether caused by alcohol or drugs, is not
 
@@ -16512,7 +16512,7 @@ to kill, if actual knowledge, specific intent, willfulness, or premeditated
 
 design to kill is an element of the offense.
 
-#  Discussion
+####  Discussion
 
 Intoxication may reduce premeditated murder to unpremeditated murder,
 
@@ -16526,9 +16526,9 @@ intoxication is not a defense, evidence of voluntary intoxication may be
 
 admitted in extenuation.
 
-#  Motion for a finding of not guilty
+## Rule 917. Motion for a finding of not guilty
 
-#  In general.
+### (a) In general.
 
 The military judge, on motion by the accused or _sua sponte
 
@@ -16544,13 +16544,13 @@ at the close of the prosecution's case is denied, the defense may offer
 
 evidence on that offense without having reserved the right to do so. 
 
-#  Form of motion.
+### (b) Form of motion.
 
 The motion shall specifically indicate wherein the evidence is
 
 insufficient. 
 
-#  Procedure.
+### (c) Procedure.
 
 Before ruling on a motion for a finding of not guilty, whether made
 
@@ -16558,7 +16558,7 @@ Before ruling on a motion for a finding of not guilty, whether made
 
 each party an opportunity to be heard on the matter.
 
-#  Discussion
+###  Discussion
 
 The military judge ordinarily should permit the trial counsel to
 
@@ -16570,7 +16570,7 @@ The military judge ordinarily should permit the trial counsel to
 
 in a special court-martial without a military judge. _See_ R.C.M. 1102(b)(2) for the military judge's authority, upon motion or sua sponte, to enter finding of not guilty after findings but prior to authentication of the record.
 
-#  Standard.
+### (d) Standard.
 
 A motion for a finding of not guilty shall be granted only in the
 
@@ -16584,7 +16584,7 @@ most favorable to the prosecution, without an evaluation of the credibility
 
 of witnesses. 
 
-#  Motion as to greater offense.
+### (e) Motion as to greater offense.
 
 A motion for a finding of not guilty may be granted as to part of
 
@@ -16604,7 +16604,7 @@ so that any findings later announced will not be inconsistent with the granting
 
 of the motion. 
 
-#  Effect of ruling.
+### (f) Effect of ruling.
 
 A ruling granting a motion for a finding of not guilty is final
 
@@ -16618,7 +16618,7 @@ for a finding of not guilty may be reconsidered at any time prior to authenticat
 
 of the record of trial. 
 
-#  Effect of denial on review.
+### (g) Effect of denial on review.
 
 If all the evidence admitted before findings, regardless by whom
 
@@ -16630,9 +16630,9 @@ guilty should have been granted upon the state of the evidence when it was
 
  made. 
 
-#  Findings
+## Rule 918. Findings
 
-#  General findings.
+### (a) General findings.
 
 The general findings of a court-martial state whether the accused
 
@@ -16640,7 +16640,7 @@ is guilty of each offense charged. If two or more accused are tried together,
 
 separate findings as to each shall be made. 
 
-#  As to a specification.
+#### (1) As to a specification.
 
 General findings as to a specification may be: guilty; not guilty
 
@@ -16656,7 +16656,7 @@ may not be used to substantially change the nature of the offense or to
 
 increase the seriousness of the offense or the maximum punishment for it.
 
-#  Discussion
+####  Discussion
 
  _Exceptions and Substitutions._ One or more words or figures may be excepted from a specification and, when necessary, others substituted, if the remaining language of the specification, with or without substitutions, states an offense by the accused which is punishable by the court-martial. Changing the date or place of the offense may, but does not necessarily, change the nature or identity of an offense.
 
@@ -16666,7 +16666,7 @@ increase the seriousness of the offense or the maximum punishment for it.
 
   _Offenses arising from the same act or transaction._ The accused may be found guilty of two or more offenses arising from the same act or transaction, whether or not the offenses are separately punishable. _But see_ R.C.M. 906(b)(12); 907(b)(3)(B); 1003(c)(1)(C). 
 
-#  As to a charge.
+#### (2) As to a charge.
 
  General findings as to a charge may be: guilty; not guilty, but
 
@@ -16674,7 +16674,7 @@ increase the seriousness of the offense or the maximum punishment for it.
 
 by reason of lack of mental responsibility; or not guilty.
 
-#  Discussion
+####  Discussion
 
 Where there are two or more specifications under one charge, conviction
 
@@ -16712,7 +16712,7 @@ purpose of increasing the authorized punishment or for the purpose of adjudging
 
 less than the prescribed mandatory punishment.
 
-#  Special findings.
+### (b) Special findings.
 
 In a trial by court-martial composed of military judge alone, the
 
@@ -16736,7 +16736,7 @@ or after the court-martial, but in any event shall be made before authentication
 
 and included in the record of trial.
 
-#  Discussion
+###  Discussion
 
 Special findings ordinarily include findings as to the elements
 
@@ -16754,7 +16754,7 @@ to be made by the military judge.
 
 findings.
 
-#  Basis of findings.
+### (c) Basis of findings.
 
 Findings may be based on direct or circumstantial evidence. Only
 
@@ -16766,7 +16766,7 @@ the factfinder is satisfied that guilt has been proved beyond a reasonable
 
  doubt.
 
-#  Discussion
+###  Discussion
 
 Direct evidence is evidence which tends directly to prove or disprove
 
@@ -16820,9 +16820,9 @@ by the witness. Even if apparently credible and corroborated, the testimony
 
 of an accomplice should be considered with great caution. 
 
-#  Argument by counsel on findings
+## Rule 919. Argument by counsel on findings
 
-#  In general.
+### (a) In general.
 
 After the closing of evidence, trial counsel shall be permitted
 
@@ -16830,7 +16830,7 @@ to open the argument. The defense counsel shall be permitted to reply. Trial
 
 counsel shall then be permitted to reply in rebuttal. 
 
-#  Contents.
+### (b) Contents.
 
 Arguments may properly include reasonable comment on the evidence
 
@@ -16838,7 +16838,7 @@ in the case, including inferences to be drawn therefrom, in support of a
 
 party's theory of the case.
 
-#  Discussion
+###  Discussion
 
 The military judge may exercise reasonable control over argument.
 
@@ -16906,7 +16906,7 @@ to introduce new matter in closing argument, the defense should be allowed
 
  presenting a final argument.
 
-#  Waiver of objection to improper argument.
+### (c) Waiver of objection to improper argument.
 
 Failure to object to improper argument before the military judge
 
@@ -16914,7 +16914,7 @@ Failure to object to improper argument before the military judge
 
 objection.
 
-#  Discussion
+###  Discussion
 
 If an objection that an argument is improper is sustained, the
 
@@ -16928,15 +16928,15 @@ judge should be alert to improper argument and take appropriate action when
 
 necessary.
 
-#  Instructions on findings
+## Rule 920. Instructions on findings
 
-#  In general.
+### (a) In general.
 
 The military judge shall give the members appropriate instructions
 
 on findings.
 
-#  Discussion
+###  Discussion
 
 Instructions consist of a statement of the issues in the case and
 
@@ -16948,7 +16948,7 @@ fit the circumstances of the case, and should fairly and adequately cover
 
 the issues presented. 
 
-#  When given.
+### (b) When given.
 
 Instructions on findings shall be given before or after arguments
 
@@ -16960,7 +16960,7 @@ party, or _sua sponte_, give additional instructions at a
 
 later time.
 
-#  Discussion
+###  Discussion
 
 After members have reached a finding on a specification, instructions
 
@@ -16972,7 +16972,7 @@ if the finding has not been announced. When instructions are to be given
 
 is a matter within the sole discretion of the military trial judge.
 
-#  Requests for instructions.
+### (c) Requests for instructions.
 
 At the close of the evidence or at such other time as the military
 
@@ -16988,7 +16988,7 @@ it is given. The military judge shall inform the parties of the proposed
 
 action on such requests before their closing arguments.
 
-#  Discussion
+###  Discussion
 
 Requests for and objections to instructions should be resolved at
 
@@ -17014,7 +17014,7 @@ the members.
 
 be marked as appellate exhibits, whether or not they are given.
 
-#  How given.
+### (d) How given.
 
 Instructions on findings shall be given orally on the record in
 
@@ -17024,65 +17024,65 @@ or, unless a party objects, portions of them, may also be given to the members
 
 for their use during deliberations.
 
-#  Discussion
+###  Discussion
 
 A copy of any written instructions delivered to the members should
 
 be marked as an appellate exhibit.
 
-#  Required instructions.
+### (e) Required instructions.
 
 Instructions on findings shall include: 
 
-A description of the elements of each offense charged, unless findings
+(1) A description of the elements of each offense charged, unless findings
 
 on such offenses are unnecessary because they have been entered pursuant
 
 to a plea of guilty; 
 
-A description of the elements of each lesser included offense in
+(2) A description of the elements of each lesser included offense in
 
  issue, unless trial of a lesser included offense is barred by the statute
 
 of limitations (Article 43) and the accused refuses to waive the bar; 
 
-A description of any special defense under R.C.M. 916 in issue;
+(3) A description of any special defense under R.C.M. 916 in issue;
 
-A direction that only matters properly before the court-martial
+(4) A direction that only matters properly before the court-martial
 
 may be considered; 
 
-A charge that- 
+(5) A charge that- 
 
-The accused must be presumed to be innocent until the accused's
+(A) The accused must be presumed to be innocent until the accused's
 
 guilt is established by legal and competent evidence beyond reasonable doubt;
 
-In the case being considered, if there is a reasonable doubt as
+(B) In the case being considered, if there is a reasonable doubt as
 
 to the guilt of the accused, the doubt must be resolved in favor of the
 
 accused and the accused must be acquitted; 
 
-If, when a lesser included offense is in issue, there is a reasonable
+(C) If, when a lesser included offense is in issue, there is a reasonable
 
  doubt as to the degree of guilt of the accused, the finding must be in a
 
 lower degree as to which there is not reasonable doubt; and 
 
-The burden of proof to establish the guilt of the accused is upon the Government. --LSQP--When the issue of lack of mental responsibility is raised, add: The burden of proving the defense of lack of mental responsibility by clear and convincing evidence is upon the accused. When the issue of mistake of fact under R.C.M. 916(j)(2) is raised, add: The accused has the burden of proving the defense of mistake of fact as to age by a preponderance of the evidence.--RSQP--
+(D) The burden of proof to establish the guilt of the accused is upon the Government. --LSQP--When the issue of lack of mental responsibility is raised, add: The burden of proving the defense of lack of mental responsibility by clear and convincing evidence is upon the accused. When the issue of mistake of fact under R.C.M. 916(j)(2) is raised, add: The accused has the burden of proving the defense of mistake of fact as to age by a preponderance of the evidence.--RSQP--
 
-Directions on the procedures under R.C.M. 921 for deliberations
+(6) Directions on the procedures under R.C.M. 921 for deliberations
 
 and voting; and 
 
-Such other explanations, descriptions, or directions as may be
+(7) Such other explanations, descriptions, or directions as may be
 
 necessary and which are properly requested by a party or which the military
 
 judge determines, _sua sponte_, should be given.
 
-#  Discussion
+####  Discussion
 
 A matter is "in issue" when some evidence, without regard
 
@@ -17150,7 +17150,7 @@ support the matter; and make clear that the members must exercise their independ
 
 judgment as to the facts.
 
-#  Waiver.
+### (f) Waiver.
 
 Failure to object to an instruction or to omission of an instruction
 
@@ -17164,9 +17164,9 @@ The parties shall be given the opportunity to be heard on any objection outside
 
 the presence of the members. 
 
-#  Deliberations and voting on findings
+## Rule 921. Deliberations and voting on findings
 
-#  In general.
+### (a) In general.
 
 After the military judge instructs the members on findings, the
 
@@ -17178,7 +17178,7 @@ not be used in any manner in an attempt to control the independence of members
 
 in the exercise of their judgment. 
 
-#  Deliberations.
+### (b) Deliberations.
 
 Deliberations properly include full and free discussion of the merits
 
@@ -17194,29 +17194,29 @@ evidence introduced. The military judge may, in the exercise of discretion,
 
 grant such request. 
 
-#  Voting.
+### (c) Voting.
 
-#  Secret ballot.
+#### (1) Secret ballot.
 
  Voting on the findings for each charge and specification shall
 
 be by secret written ballot. All members present shall vote. 
 
-#  Numbers of votes required to convict.
+#### (2) Numbers of votes required to convict.
 
-#  Death penalty mandatory.
+##### (A) Death penalty mandatory.
 
 A finding of guilty of an offense for which the death penalty is
 
  mandatory results only if all members present vote for a finding of guilty.
 
-#  Discussion
+#####  Discussion
 
 Article 106 is the only offense under the code for which the death
 
  penalty is mandatory.
 
-#  Other offenses.
+##### (B) Other offenses.
 
 As to any offense for which the death penalty is not mandatory,
 
@@ -17224,7 +17224,7 @@ a finding of guilty results only if at least two-thirds of the members present
 
 vote for a finding of guilty.
 
-#  Discussion
+#####  Discussion
 
 In computing the number of votes required to convict, any fraction
 
@@ -17236,7 +17236,7 @@ are five members, the concurrence of at least four would be required to convict.
 
 votes required to convict.
 
-#  Acquittal.
+#### (3) Acquittal.
 
 If fewer than two-thirds of the members present vote for a finding
 
@@ -17248,7 +17248,7 @@ guilty has resulted as to the charge or specification on which the vote was
 
 taken. 
 
-#  Not guilty only by reason of lack of mental responsibility.
+#### (4) Not guilty only by reason of lack of mental responsibility.
 
 When the defense of lack of mental responsibility is in issue under
 
@@ -17274,7 +17274,7 @@ only by reason of lack of mental responsibility, then the defense of lack
 
 of mental responsibility has been rejected and the finding of guilty stands.
 
-#  Discussion
+####  Discussion
 
 If lack of mental responsibility is in issue with regard to more
 
@@ -17282,7 +17282,7 @@ than one specification, the members should determine the issue of lack of
 
 mental responsibility on each specification separately.
 
-#  Included offenses.
+#### (5) Included offenses.
 
 Members shall not vote on a lesser included offense unless a finding
 
@@ -17298,9 +17298,9 @@ included offense on which they have been instructed until a finding of guilty
 
 results or findings of not guilty have been reached as to each such offense.
 
-#  Procedure for voting.
+#### (6) Procedure for voting.
 
-#  Order.
+##### (A) Order.
 
 Each specification shall be voted on separately before the corresponding
 
@@ -17310,7 +17310,7 @@ several charges shall be determined by the president unless a majority of
 
 the members object. 
 
-#  Counting votes.
+##### (B) Counting votes.
 
 The junior member shall collect the ballots and count the votes.
 
@@ -17318,13 +17318,13 @@ The president shall check the count and inform the other members of the
 
 result.
 
-#  Discussion
+#####  Discussion
 
 Once findings have been reached, they may be reconsidered only in
 
  accordance with R.C.M. 924.
 
-#  Action after findings are reached.
+### (d) Action after findings are reached.
 
 After the members have reached findings on each charge and specification
 
@@ -17340,7 +17340,7 @@ to read to announce the findings and may assist the members in putting the
 
 or discussion concerning it shall constitute announcement of the findings.
 
-#  Discussion
+###  Discussion
 
 Ordinarily a findings worksheet should be provided to the members
 
@@ -17362,29 +17362,29 @@ president should not disclose any specific number of votes for or against
 
 any finding.
 
-#  Announcement of findings
+## Rule 922. Announcement of findings
 
-#  In general.
+### (a) In general.
 
 Findings shall be announced in the presence of all parties promptly
 
  after they have been determined. 
 
-#  Discussion
+###  Discussion
 
  _See_ Appendix 10. A finding of an offense about
 
 which no instructions were given is not proper.
 
-#  Findings by members.
+### (b) Findings by members.
 
 The president shall announce the findings by the members. 
 
-If a finding is based on a plea of guilty, the president shall so
+(1) If a finding is based on a plea of guilty, the president shall so
 
  state. 
 
-In a capital case, if a finding of guilty is unanimous with respect
+(2) In a capital case, if a finding of guilty is unanimous with respect
 
  to a capital offense, the president shall so state. This provision shall
 
@@ -17394,7 +17394,7 @@ previously announced in open court unless the prior finding was announced
 
 as unanimous.
 
-#  Discussion
+####  Discussion
 
 If the findings announced are ambiguous, the military judge should
 
@@ -17410,13 +17410,13 @@ unanimity with respect to reconsideration of findings as to an offense in
 
 which the prior findings were not unanimous.
 
-#  Findings by military judge.
+### (c) Findings by military judge.
 
 The military judge shall announce the findings when trial is by
 
  military judge alone or when findings may be entered upon R.C.M. 910(g).
 
-#  Erroneous announcement.
+### (d) Erroneous announcement.
 
 If an error was made in the announcement of the findings of the
 
@@ -17426,19 +17426,19 @@ with this rule. The error must be discovered and the new announcement made
 
 before the final adjournment of the court-martial in the case.
 
-#  Discussion
+###  Discussion
 
  _See_ R.C.M. 1102 concerning the action to be taken
 
 if the error in the announcement is discovered after final adjournment.
 
-#  Polling prohibited.
+### (e) Polling prohibited.
 
 Except as provided in Mil. R. Evid. 606, members may not be questioned
 
 about their deliberations and voting. 
 
-#  Impeachment of findings
+## Rule 923. Impeachment of findings
 
 Findings which are proper on their face may be impeached only when
 
@@ -17448,7 +17448,7 @@ of a member, outside influence was improperly brought to bear upon any member,
 
 or unlawful command influence was brought to bear upon any member.
 
-#  Discussion
+##  Discussion
 
 Deliberations of the members ordinarily are not subject to disclosure. _
 
@@ -17464,15 +17464,15 @@ The military judge determines, as an interlocutory matter, whether such
 
 an inquiry will be conducted and whether a finding has been impeached.
 
-#  Reconsideration of findings
+## Rule 924. Reconsideration of findings
 
-#  Time for reconsideration.
+### (a) Time for reconsideration.
 
 Members may reconsider any finding reached by them before such
 
 finding is announced in open session. 
 
-#  Procedure.
+### (b) Procedure.
 
 Any member may propose that a finding be reconsidered. If such a
 
@@ -17500,13 +17500,13 @@ a vote to reconsider a finding succeeds, the procedures in R.C.M. 921 shall
 
 apply.
 
-#  Discussion
+###  Discussion
 
 After the initial secret ballot vote on a finding in closed session,
 
  no other vote may be taken on that finding unless a vote to reconsider succeeds.
 
-#  Military judge sitting alone.
+### (c) Military judge sitting alone.
 
 In trial by military judge alone, the military judge may reconsider
 
@@ -17520,13 +17520,13 @@ before announcement of sentence or authentication of the record of trial
 
 in the case of a complete acquittal. 
 
-#  SENTENCING
+# CHAPTER X. SENTENCING
 
-#  Presentencing procedure
+## Rule 1001. Presentencing procedure
 
-#  In general.
+### (a) In general.
 
-#  Procedure.
+#### (1) Procedure.
 
 After findings of guilty have been announced, the prosecution and
 
@@ -17536,39 +17536,39 @@ in determining an appropriate sentence. Such matter shall ordinarily be
 
 presented in the following sequence-
 
-Presentation by trial counsel of:
+(A) Presentation by trial counsel of:
 
-service data relating to the accused taken from the charge sheet;
+(i) service data relating to the accused taken from the charge sheet;
 
-personal data relating to the accused and of the character of the
+(ii) personal data relating to the accused and of the character of the
 
  accused's prior service as reflected in the personnel records of the accused;
 
-evidence of prior convictions, military or civilian;
+(iii) evidence of prior convictions, military or civilian;
 
-evidence of aggravation; and
+(iv) evidence of aggravation; and
 
-evidence of rehabilitative potential.
+(v) evidence of rehabilitative potential.
 
-Victim's right to be reasonably heard. _See_ R.C.M. 1001A.
+(B) Victim's right to be reasonably heard. _See_ R.C.M. 1001A.
 
-Presentation by the defense of evidence in extenuation or mitigation or both.
+(C) Presentation by the defense of evidence in extenuation or mitigation or both.
 
-Rebuttal.
+(D) Rebuttal.
 
-Argument by trial counsel on sentence. 
+(E) Argument by trial counsel on sentence. 
 
-Argument by defense counsel on sentence.
+(F) Argument by defense counsel on sentence.
 
-Rebuttal arguments in the discretion of the military judge.
+(G) Rebuttal arguments in the discretion of the military judge.
 
-#  Adjudging sentence.
+#### (2) Adjudging sentence.
 
 A sentence shall be adjudged in all cases without unreasonable
 
 delay.
 
-#  Advice and inquiry.
+#### (3) Advice and inquiry.
 
 The military judge shall personally inform the accused of the right
 
@@ -17578,9 +17578,9 @@ make a sworn or unsworn statement or to remain silent, and shall ask whether
 
 the accused chooses to exercise those rights.
 
-#  Matter to be presented by the prosecution.
+### (b) Matter to be presented by the prosecution.
 
-#  Service data from the charge sheet.
+#### (1) Service data from the charge sheet.
 
 Trial counsel shall inform the court-martial of the data on the
 
@@ -17598,7 +17598,7 @@ specified objectionable matter, the military judge shall determine the issue.
 
  Objections not asserted are waived.
 
-#  Personal data and character of prior service of the accused.
+#### (2) Personal data and character of prior service of the accused.
 
 Under regulations of the Secretary concerned, trial counsel may
 
@@ -17628,9 +17628,9 @@ admissible under the Military Rules of Evidence, the matter shall be determined
 
 by the military judge. Objections not asserted are waived.
 
-#  Evidence of prior convictions of the accused.
+#### (3) Evidence of prior convictions of the accused.
 
-#  In general.
+##### (A) In general.
 
 The trial counsel may introduce evidence of military or civilian
 
@@ -17658,7 +17658,7 @@ because of errors of law or because of subsequently discovered evidence exonerat
 
 the accused.
 
-#  Discussion
+#####  Discussion
 
 A vacation of a suspended sentence (_see_ R.C.M.
 
@@ -17688,7 +17688,7 @@ form of alternative sentencing. Additionally, the term "conviction"
 
 need not be taken to mean a final judgment of conviction and sentence.
 
-#  Pendency of appeal.
+##### (B) Pendency of appeal.
 
 The pendency of an appeal therefrom does not render evidence of
 
@@ -17700,13 +17700,13 @@ of this rule until review has been completed pursuant to Article 64 or Article
 
 66, if applicable. Evidence of the pendency of an appeal is admissible.
 
-#  Method of proof.
+##### (C) Method of proof.
 
 Previous convictions may be proved by any evidence admissible under
 
  the Military Rules of Evidence. 
 
-#  Discussion
+#####  Discussion
 
 Normally, previous convictions may be proved by use of the personnel
 
@@ -17716,7 +17716,7 @@ Normally, previous convictions may be proved by use of the personnel
 
 of Military Records of Previous Convictions).
 
-#  Evidence in aggravation.
+#### (4) Evidence in aggravation.
 
 The trial counsel may present evidence as to any aggravating circumstances
 
@@ -17744,13 +17744,13 @@ any person. Except in capital cases a written or oral deposition taken in
 
 accordance with R.C.M. 702 is admissible in aggravation.
 
-#  Discussion
+####  Discussion
 
 _See also_ R.C.M. 1004 concerning aggravating circumstances
 
 in capital cases.
 
-#  Evidence of rehabilitative potential.
+#### (5) Evidence of rehabilitative potential.
 
 Rehabilitative potential refers to the accused's potential to be
 
@@ -17758,7 +17758,7 @@ Rehabilitative potential refers to the accused's potential to be
 
  corrective measures to a useful and constructive place in society.
 
-#  In general.
+##### (A) In general.
 
 The trial counsel may present, by testimony or oral deposition in
 
@@ -17768,7 +17768,7 @@ The trial counsel may present, by testimony or oral deposition in
 
 rehabilitation. 
 
-#  Foundation for opinion.
+##### (B) Foundation for opinion.
 
 The witness or deponent providing opinion evidence regarding the
 
@@ -17784,7 +17784,7 @@ include, but are not limited to, information and knowledge about the accused's
 
  and nature and severity of the offense or offenses.
 
-#  Discussion
+#####  Discussion
 
 _See generally_ Mil. R. Evid. 701, Opinion testimony
 
@@ -17796,7 +17796,7 @@ an expert. The types of information and knowledge reflected in this subparagraph
 
 are illustrative only.
 
-#  Bases for opinion.
+##### (C) Bases for opinion.
 
 An opinion regarding the accused's rehabilitative potential must
 
@@ -17810,7 +17810,7 @@ accused's offense or offenses may not serve as the principal basis for an
 
 opinion of the accused's rehabilitative potential. 
 
-#  Scope of opinion.
+##### (D) Scope of opinion.
 
 An opinion offered under this rule is limited to whether the accused
 
@@ -17822,7 +17822,7 @@ of a punitive discharge or whether the accused should be returned to the
 
 accused's unit.
 
-#  Discussion
+#####  Discussion
 
 On direct examination, a witness or deponent may respond affirmatively
 
@@ -17840,13 +17840,13 @@ not further elaborate on the accused's rehabilitative potential, such as
 
 describing the particular reasons for forming the opinion.
 
-#  Cross-examination.
+##### (E) Cross-examination.
 
 On cross-examination, inquiry is permitted into relevant and specific
 
  instances of conduct. 
 
-#  Redirect.
+##### (F) Redirect.
 
 Notwithstanding any other provision in this rule, the scope of
 
@@ -17854,7 +17854,7 @@ opinion testimony permitted on redirect may be expanded, depending upon the
 
 nature and scope of the cross-examination.
 
-#  Discussion
+#####  Discussion
 
 For example, on redirect a witness or deponent may testify regarding
 
@@ -17870,9 +17870,9 @@ the scope of the accused's rehabilitative potential if an opinion about such
 
 and is otherwise admissible.
 
-#  Matter to be presented by the defense.
+### (c) Matter to be presented by the defense.
 
-#  In general.
+#### (1) In general.
 
 The defense may present matters in rebuttal of any material presented
 
@@ -17880,7 +17880,7 @@ by the prosecution and may present matters in extenuation and mitigation
 
 regardless whether the defense offered evidence before findings. 
 
-#  Matter in extenuation.
+##### (A) Matter in extenuation.
 
 Matter in extenuation of an offense serves to explain the circumstances
 
@@ -17888,7 +17888,7 @@ surrounding the commission of an offense, including those reasons for committing
 
 the offense which do not constitute a legal justification or excuse. 
 
-#  Matter in mitigation.
+##### (B) Matter in mitigation.
 
 Matter in mitigation of an offense is introduced to lessen the
 
@@ -17908,9 +17908,9 @@ subordination, temperance, courage, or any other trait that is desirable
 
 in a servicemember. 
 
-#  Statement by the accused.
+#### (2) Statement by the accused.
 
-#  In general.
+##### (A) In general.
 
 The accused may testify, make an unsworn statement, or both in
 
@@ -17924,7 +17924,7 @@ or for all three purposes whether or not the accused testified prior to findings
 
 does not permit the filing of an affidavit of the accused. 
 
-#  Testimony of the accused.
+##### (B) Testimony of the accused.
 
 The accused may give sworn oral testimony under this paragraph and
 
@@ -17932,7 +17932,7 @@ The accused may give sworn oral testimony under this paragraph and
 
 or examination on it by the court-martial, or both. 
 
-#  Unsworn statement.
+##### (C) Unsworn statement.
 
 The accused may make an unsworn statement and may not be cross-examined
 
@@ -17944,7 +17944,7 @@ statement may be oral, written, or both, and may be made by the accused,
 
 by counsel, or both.
 
-#  Discussion
+#####  Discussion
 
 An unsworn statement ordinarily should not include what is properly
 
@@ -17952,7 +17952,7 @@ An unsworn statement ordinarily should not include what is properly
 
 an oral statement normally should not be grounds for stopping the statement.
 
-#  Rules of evidence relaxed.
+#### (3) Rules of evidence relaxed.
 
 The military judge may, with respect to matters in extenuation or
 
@@ -17962,7 +17962,7 @@ The military judge may, with respect to matters in extenuation or
 
 writings of similar authenticity and reliability. 
 
-#  Rebuttal and surrebuttal.
+### (d) Rebuttal and surrebuttal.
 
 The prosecution may rebut matters presented by the defense. The
 
@@ -17976,9 +17976,9 @@ of this rule, they may be relaxed during rebuttal and surrebuttal to the
 
 same degree. 
 
-#  Production of witnesses.
+### (e) Production of witnesses.
 
-#  In general.
+#### (1) In general.
 
 During the presentence proceedings, there shall be much greater
 
@@ -17992,19 +17992,19 @@ the discretion of the military judge, subject to the limitations in subsection
 
 (e)(2) of this rule.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 703 concerning the procedures for production
 
 of witnesses.
 
-#  Limitations.
+#### (2) Limitations.
 
 A witness may be produced to testify during presentence proceedings
 
  through a subpoena or travel orders at Government expense only if-
 
-The testimony expected to be offered by the witness is necessary
+(A) The testimony expected to be offered by the witness is necessary
 
 for consideration of a matter of substantial significance to a determination
 
@@ -18012,11 +18012,11 @@ of an appropriate sentence, including evidence necessary to resolve an alleged
 
 inaccuracy or dispute as to a material fact; 
 
-The weight or credibility of the testimony is of substantial significance
+(B) The weight or credibility of the testimony is of substantial significance
 
 to the determination of an appropriate sentence; 
 
-The other party refuses to enter into a stipulation of fact containing
+(C) The other party refuses to enter into a stipulation of fact containing
 
 the matters to which the witness is expected to testify, except in an extraordinary
 
@@ -18024,13 +18024,13 @@ case when such a stipulation of fact would be an insufficient substitute
 
 for the testimony; 
 
-Other forms of evidence, such as oral depositions, written interrogatories,
+(D) Other forms of evidence, such as oral depositions, written interrogatories,
 
 former testimony, or testimony by remote means would not be sufficient to meet the needs of the court-martial
 
 in the determination of an appropriate sentence; and 
 
-The significance of the personal appearance of the witness to the
+(E) The significance of the personal appearance of the witness to the
 
  determination of an appropriate sentence, when balanced against the practical
 
@@ -18046,31 +18046,31 @@ the witness, and the likelihood of significant interference with military
 
 operational deployment, mission accomplishment, or essential training.
 
-#  Discussion
+#####  Discussion
 
 The procedures for receiving testimony via remote means and the definition thereof are contained in R.C.M. 914B.
 
-#  Additional matters to be considered.
+### (f) Additional matters to be considered.
 
 In addition to matters introduced under this rule, the court-martial
 
  may consider-
 
-That a plea of guilty is a mitigating factor; and
+(1) That a plea of guilty is a mitigating factor; and
 
-Any evidence properly introduced on the merits before findings,
+(2) Any evidence properly introduced on the merits before findings,
 
  including:
 
-Evidence of other offenses or acts of misconduct even if introduced
+(A) Evidence of other offenses or acts of misconduct even if introduced
 
  for a limited purpose; and 
 
-Evidence relating to any mental impairment or deficiency of the
+(B) Evidence relating to any mental impairment or deficiency of the
 
  accused.
 
-#  Discussion
+#####  Discussion
 
 The fact that the accused is of low intelligence or that, because
 
@@ -18082,7 +18082,7 @@ the severity of a sentence, the court-martial may consider evidence tending
 
 to show that an accused has little regard for the rights of others.
 
-#  Argument.
+### (g) Argument.
 
 After introduction of matters relating to sentence under this rule,
 
@@ -18108,69 +18108,69 @@ judge begins to instruct the members on sentencing shall constitute waiver
 
 of the objection. 
 
-#  Discussion
+###  Discussion
 
  A victim, victims' counsel, or designee has no right to present argument under this rule.
 
-#  Crime victims and presentencing
+## Rule 1001A. Crime victims and presentencing
 
-#  In general.
+### (a) In general.
 
 A crime victim of an offense of which the accused has been found guilty has the right to be reasonably heard at a sentencing hearing relating to that offense. A victim under this rule is not considered a witness for purposes of Article 42(b). Trial counsel shall ensure the victim is aware of the opportunity to exercise that right. If the victim exercises the right to be reasonably heard, the victim shall be called by the court. This right is independent of whether the victim testified during findings or is called to testify under R.C.M. 1001.
 
-#  Definitions.
+### (b) Definitions.
 
-#  Crime victim.
+#### (1) Crime victim.
 
  For purposes of this rule, a "crime victim" is an individual who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense of which the accused was found guilty.
 
-#  Victim Impact.
+#### (2) Victim Impact.
 
  For the purposes of this rule, "victim impact" includes any financial, social, psychological, or medical impact on the victim directly relating to or arising from the offense of which the accused has been found guilty.
 
-#  Mitigation.
+#### (3) Mitigation.
 
  For the purposes of this rule, "mitigation" includes a matter to lessen the punishment to be adjudged by the court-martial or to furnish grounds for a recommendation of clemency.
 
-#  Right to be reasonably heard.
+#### (4) Right to be reasonably heard.
 
-#  Capital cases.
+##### (A) Capital cases.
 
  In capital cases, for purposes of this rule, the "right to be reasonably heard" means the right to make a sworn statement.
 
-#  Non-capital cases.
+##### (B) Non-capital cases.
 
  In non-capital cases, for purposes of this rule, the "right to be reasonably heard" means the right to make a sworn or unsworn statement.
 
-#  Content of statement.
+### (c) Content of statement.
 
  The content of statements made under subsections (d) and (e) of this rule may include victim impact or matters in mitigation.
 
-#  Sworn statement.
+### (d) Sworn statement.
 
  The victim may give a sworn statement under this rule and shall be subject to cross-examination concerning it by the trial counsel or defense counsel or examination on it by the court-martial, or all or any of the three. When a victim is under 18 years of age, incompetent, incapacitated, or deceased, the sworn statement may be made by the victim's designee appointed under R.C.M. 801(a)(6). Additionally, a victim under 18 years of age may elect to make a sworn statement.
 
-#  Unsworn statement.
+### (e) Unsworn statement.
 
  The victim may make an unsworn statement and may not be cross-examined by the trial counsel or defense counsel upon it or examined upon it by the court-martial. The prosecution or defense may, however, rebut any statements of facts therein. The unsworn statement may be oral, written, or both. When a victim is under 18 years of age, incompetent, incapacitated, or deceased, the unsworn statement may be made by the victim's designee appointed under R.C.M. 801(a)(6). Additionally, a victim under 18 years of age may elect to make an unsworn statement.
 
-#  Procedure for presenting unsworn statement.
+#### (1) Procedure for presenting unsworn statement.
 
  After the announcement of findings, a victim who would like to present an unsworn statement shall provide a copy to the trial counsel, defense counsel, and military judge. The military judge may waive this requirement for good cause shown.
 
-#  Discussion
+####  Discussion
 
  When the military judge waives the notice requirement under this rule, the military judge may conduct a session under Article 39(a) to ascertain the content of the victim's anticipated unsworn statement.
 
-Upon good cause shown, the military judge may permit the victim's counsel to deliver all or part of the victim's unsworn statement.
+(2) Upon good cause shown, the military judge may permit the victim's counsel to deliver all or part of the victim's unsworn statement.
 
-#  Discussion
+####  Discussion
 
  If there are numerous victims, the military judge may reasonably limit the form of the statements provided.
 
  A victim's unsworn statement should not exceed what is permitted under R.C.M. 1001A(c) and may not include a recommendation of a specific sentence. Upon objection by either party or _sua sponte_, a military judge may stop or interrupt a victim's unsworn statement that includes matters outside the scope of R.C.M. 1001A(c). A victim, victim's counsel, or designee has no separate right to present argument under R.C.M. 1001(g).
 
-#  Sentence determination
+## Rule 1002. Sentence determination
 
 Subject to limitations in this Manual, the sentence to be adjudged
 
@@ -18182,7 +18182,7 @@ any punishment authorized in this Manual, including the maximum punishment
 
 or any lesser punishment, or may adjudge a sentence of no punishment.
 
-#  Discussion
+##  Discussion
 
  _See_ R.C.M. 1003 concerning authorized punishments
 
@@ -18190,9 +18190,9 @@ and limitations on punishments. _See also_ R.C.M. 1004 in
 
 capital cases.
 
-#  Punishments
+## Rule 1003. Punishments
 
-#  In general.
+### (a) In general.
 
 Subject to the limitations in this Manual, the punishments authorized
 
@@ -18200,7 +18200,7 @@ Subject to the limitations in this Manual, the punishments authorized
 
 offense by a court-martial.
 
-#  Discussion
+###  Discussion
 
 "Any person" includes officers, enlisted persons, person
 
@@ -18210,23 +18210,23 @@ and, insofar as the punishments are applicable, any other person subject
 
 to the code. _See_ R.C.M. 202.
 
-#  Authorized punishments.
+### (b) Authorized punishments.
 
 Subject to the limitations in this Manual, a court-martial may
 
 adjudge only the following punishments: 
 
-#  Reprimand.
+#### (1) Reprimand.
 
 A court-martial shall not specify the terms or wording of a reprimand.
 
 A reprimand, if approved, shall be issued, in writing, by the convening authority;
 
-#  Discussion
+####  Discussion
 
 A reprimand adjudged by a court-martial is a punitive censure.
 
-#  Forfeiture of pay and allowances.
+#### (2) Forfeiture of pay and allowances.
 
 Unless a total forfeiture is adjudged, a sentence to forfeiture
 
@@ -18254,7 +18254,7 @@ expressly or by operation of law, the maximum forfeiture shall be based on
 
 the grade to which the accused is reduced.
 
-#  Discussion
+####  Discussion
 
 A forfeiture deprives the accused of the amount of pay (and allowances)
 
@@ -18324,11 +18324,11 @@ are effective.
 
    Article 58b has no effect on summary courts-martial.
 
-#  Fine.
+#### (3) Fine.
 
 Any court-martial may adjudge a fine in lieu of or in addition to forfeitures.  In the case of a member of the armed forces, summary and special courts-martial may not adjudge any fine or combination of fine and forfeitures in excess of the total amount of forfeitures that may be adjudged in that case.  In the case of a person serving with or accompanying an armed force in the field, a summary court-martial may not adjudge a fine in excess of two-thirds of one month of the highest rate of enlisted pay, and a special court-martial may not adjudge a fine in excess of two-thirds of one year of the highest rate of officer pay.  To enforce collection, a fine may be accompanied by a provision in the sentence that, in the event the fine is not paid, the person fined shall, in addition to any period of confinement adjudged, be further confined until a fixed period considered an equivalent punishment to the fine has expired.  The total period of confinement so adjudged shall not exceed the jurisdictional limitations of the court-martial;
 
-#  Discussion
+####  Discussion
 
 A fine is in the nature of a judgment and, when ordered executed, makes the accused immediately liable to the United States for the entire amount of money specified in the sentence.  A fine normally should not be adjudged against a member of the armed forces unless the accused was unjustly enriched as a result of the offense of which convicted.  In the case of a civilian subject to military law, a fine, rather than a forfeiture, is the proper monetary penalty to be adjudged, regardless of whether unjust enrichment is present.
 
@@ -18342,19 +18342,19 @@ at a special court-martial includes a fine, see R.C.M. 1107(d)(5) for limitation
 
 on convening authority action on the sentence.
 
-#  Reduction in pay grade.
+#### (4) Reduction in pay grade.
 
 Except as provided in R.C.M. 1301(d), a court-martial may sentence
 
 an enlisted member to be reduced to the lowest or any intermediate pay grade;
 
-#  Discussion
+####  Discussion
 
 Reduction under Article 58a is not a part of the sentence but is
 
 an administrative result thereof. 
 
-#  Restriction to specified limits.
+#### (5) Restriction to specified limits.
 
 Restriction may be adjudged for no more than 2 months for each month
 
@@ -18366,7 +18366,7 @@ exceed the maximum authorized period of confinement, calculating the equivalency
 
 at the rate specified in this subsection;
 
-#  Discussion
+####  Discussion
 
 Restriction does not exempt the person on whom it is imposed from
 
@@ -18378,7 +18378,7 @@ adjudged in the same case provided they do not exceed the maximum limits
 
  sentence adjudged should specify the limits of the restriction.
 
-#  Hard labor without confinement.
+#### (6) Hard labor without confinement.
 
 Hard labor without confinement may be adjudged for no more than
 
@@ -18396,7 +18396,7 @@ authorized period of confinement, calculating the equivalency at the rate
 
 specified in this subsection. 
 
-#  Discussion
+####  Discussion
 
 Hard labor without confinement is performed in addition to other
 
@@ -18414,7 +18414,7 @@ to which entitled.
 
 limitations on hard labor without confinement in summary courts-martial.
 
-#  Confinement.
+#### (7) Confinement.
 
 The place of confinement shall not be designated by the court-martial.
 
@@ -18424,7 +18424,7 @@ for parole. A court-martial shall not adjudge a sentence to solitary confinement
 
 or to confinement without hard labor;
 
-#  Discussion
+####  Discussion
 
 The authority executing a sentence to confinement may require hard
 
@@ -18436,13 +18436,13 @@ the words "at hard labor" should be omitted in a sentence to
 
 confinement.
 
-#  Punitive separation.
+#### (8) Punitive separation.
 
 A court-martial may not adjudge an administrative separation from
 
 the service. There are three types of punitive separation. 
 
-#  Dismissal.
+##### (A) Dismissal.
 
 Dismissal applies only to commissioned officers, commissioned warrant
 
@@ -18456,7 +18456,7 @@ of this Manual, a dismissal may be adjudged for any offense of which a commissio
 
  guilty; 
 
-#  Dishonorable discharge.
+##### (B) Dishonorable discharge.
 
 A dishonorable discharge applies only to enlisted persons and warrant
 
@@ -18476,7 +18476,7 @@ offenses usually recognized in civilian jurisdictions as felonies, or of
 
 offenses of a military nature requiring severe punishment; and
 
-#  Discussion
+#####  Discussion
 
  _See also_ subsection (d)(1) of this rule regarding
 
@@ -18486,7 +18486,7 @@ when a dishonorable discharge is authorized as an additional punishment.
 
 See_ Article 56a.
 
-#  Bad conduct discharge.
+##### (C) Bad conduct discharge.
 
 A bad-conduct discharge applies only to enlisted persons and may
 
@@ -18504,29 +18504,29 @@ has been convicted repeatedly of minor offenses and whose punitive separation
 
  appears to be necessary;
 
-#  Discussion
+#####  Discussion
 
  _See also_ subsections (d)(2) and (3) of this rule
 
 regarding when a bad-conduct discharge is authorized as an additional punishment.
 
-#  Death.
+#### (9) Death.
 
 Death may be adjudged only in accordance with R.C.M. 1004; and
 
-#  Punishments under the law of war.
+#### (10) Punishments under the law of war.
 
 In cases tried under the law of war, a general court-martial may
 
  adjudge any punishment not prohibited by the law of war. 
 
-#  Limits on punishments.
+### (c) Limits on punishments.
 
-#  Based on offenses.
+#### (1) Based on offenses.
 
-#  Offenses listed in Part IV.
+##### (A) Offenses listed in Part IV.
 
-#  Maximum punishment.
+###### (i) Maximum punishment.
 
 The maximum limits for the authorized punishments of confinement,
 
@@ -18538,7 +18538,7 @@ listed in Part IV of this Manual. These limitations are for each separate
 
 a bad-conduct discharge is also authorized. 
 
-#  Other punishments.
+###### (ii) Other punishments.
 
 Except as otherwise specifically provided in this Manual, the types
 
@@ -18548,9 +18548,9 @@ of this rule may be adjudged in addition to or instead of confinement, forfeitur
 
 a punitive discharge (if authorized), and death (if authorized). 
 
-#  Offenses not listed Part IV.
+##### (B) Offenses not listed Part IV.
 
-#  Included or related offenses.
+###### (i) Included or related offenses.
 
 For an offense not listed in Part IV of this Manual which is included
 
@@ -18564,7 +18564,7 @@ closely related to two or more listed offenses, the maximum punishment shall
 
 be the same as the least severe of the listed offenses. 
 
-#  Not included or related offenses.
+###### (ii) Not included or related offenses.
 
 An offense not listed in Part IV and not included in or closely
 
@@ -18586,19 +18586,19 @@ discharge and forfeiture of all pay and allowances; if less than 6 months,
 
  forfeiture of two-thirds pay per month for the authorized period of confinement.
 
-#  Multiple Offenses.
+##### (C) Multiple Offenses.
 
 When the accused is found guilty of two or more offenses, the maximum authorized punishment may be imposed for each separate offense, unless the military judge finds that the offenses are either multiplicious or unreasonably multiplied.
 
-#  Multiplicity.
+###### (i) Multiplicity.
 
  A charge is multiplicious and must be dismissed if the proof of such charge also proves every element of another charged offense unless Congress intended to impose multiple punishments for the same act.
 
-#  Unreasonable Multiplication.
+###### (ii) Unreasonable Multiplication.
 
  If the military judge finds that there is an unreasonable multiplication of charges as applied to sentence, the maximum punishment for those offenses shall be the maximum authorized punishment for the offense carrying the greatest maximum punishment. The military judge may either merge the offenses for sentencing, or dismiss one or more of the charges.
 
-#  Discussion
+######  Discussion
 
 _See also_ R.C.M. 906(b)(12); 907(b)(3)(B).
 
@@ -18608,11 +18608,11 @@ _United States v. Campbell_, 71 M.J. 19 (C.A.A.F. 2012). (citing _United States 
 
   Multiplicity is addressed in R.C.M. 907(b)(3)(B). Unreasonable multiplication of charges is addressed in R.C.M. 906(b)(12).
 
-#  Based on rank of accused.
+#### (2) Based on rank of accused.
 
-#  Commissioned or warrant officers, cadets, and midshipmen.
+##### (A) Commissioned or warrant officers, cadets, and midshipmen.
 
-A commissioned or warrant officer or a cadet, or midshipman may
+(i) A commissioned or warrant officer or a cadet, or midshipman may
 
 not be reduced in grade by any court-martial. However, in time of war or
 
@@ -18622,15 +18622,15 @@ Secretary as may be designated by the Secretary concerned, may commute a
 
 sentence of dismissal to reduction to any enlisted grade. 
 
-Only a general court-martial may sentence a commissioned or warrant
+(ii) Only a general court-martial may sentence a commissioned or warrant
 
  officer or a cadet, or midshipman to confinement. 
 
-A commissioned or warrant officer or a cadet or midshipman may not
+(iii) A commissioned or warrant officer or a cadet or midshipman may not
 
 be sentenced to hard labor without confinement. 
 
-Only a general court-martial, upon conviction of any offense in
+(iv) Only a general court-martial, upon conviction of any offense in
 
  violation of the Code, may sentence a commissioned or warrant officer or
 
@@ -18642,15 +18642,15 @@ a cadet or midshipman to be separated from the service with a punitive separatio
 
 other warrant officers, the separation shall by dishonorable discharge.
 
-#  Enlisted persons.
+##### (B) Enlisted persons.
 
  _See_ subsection (b)(9) of this rule and R.C.M.
 
 1301(d). 
 
-#  Based on reserve status in certain circumstances.
+#### (3) Based on reserve status in certain circumstances.
 
-#  Restriction on liberty.
+##### (A) Restriction on liberty.
 
 A member of a reserve component whose order to active duty is approved
 
@@ -18662,15 +18662,15 @@ component ordered to active duty pursuant to Article 2(d)(1) or tried by
 
 summary court-martial while on inactive duty training may not- 
 
-by sentenced to confinement; or 
+(i) by sentenced to confinement; or 
 
-be required to serve a court-martial punishment consisting of any
+(ii) be required to serve a court-martial punishment consisting of any
 
  other restriction on liberty except during subsequent periods of inactive-duty
 
 training or active duty. 
 
-#  Forfeiture.
+##### (B) Forfeiture.
 
 A sentence to forfeiture of pay of a member not retained on active
 
@@ -18678,7 +18678,7 @@ A sentence to forfeiture of pay of a member not retained on active
 
 active duty and inactive-duty training pay during subsequent periods of duty.
 
-#  Discussion
+#####  Discussion
 
 For application of this subsection, _see_ R.C.M.
 
@@ -18696,17 +18696,17 @@ on liberty was adjudged. Unserved punishments may be carried over to subsequent
 
 periods of inactive-duty training or active duty.
 
-#  Based on status as a person serving with or accompanying an armed force in the field.
+#### (4) Based on status as a person serving with or accompanying an armed force in the field.
 
 In the case of a person serving with or accompanying an armed force in the field, no court-martial may adjudge forfeiture of pay and allowances, reduction in pay grade, hard labor without confinement, or a punitive separation.
 
-#  Based on other rules.
+##### (5) Based on other rules.
 
 The maximum limits on punishments in this rule may be further limited
 
  by other Rules of Courts-martial. 
 
-#  Discussion
+#####  Discussion
 
 The maximum punishment may be limited by: the jurisdictional limits
 
@@ -18722,9 +18722,9 @@ See also_ R.C.M. 1107(d)(4) concerning limits on the maximum punishment
 
 which may be approved depending on the nature of the record.
 
-#  Circumstances permitting increased punishments.
+### (d) Circumstances permitting increased punishments.
 
-#  Three or more convictions.
+#### (1) Three or more convictions.
 
 If an accused is found guilty of an offense or offenses for none
 
@@ -18744,7 +18744,7 @@ the commission of any offense, periods of unauthorized absence shall be excluded
 
 For purposes of this subsection, the court-martial convictions must be final.
 
-#  Two or more convictions.
+#### (2) Two or more convictions.
 
 If an accused is found guilty of an offense or offenses for none
 
@@ -18764,7 +18764,7 @@ the commission of any offense, periods of unauthorized absence shall be excluded
 
  For purposes of this subsection the court-martial convictions must be final.
 
-#  Two or more offenses.
+#### (3) Two or more offenses.
 
 If an accused is found guilty of two or more offenses for none of
 
@@ -18776,7 +18776,7 @@ or more shall, in addition, authorize a bad-conduct discharge and forfeiture
 
 of all pay and allowances. 
 
-#  Discussion
+####  Discussion
 
 All of these increased punishments are subject to all other limitations
 
@@ -18786,13 +18786,13 @@ may not be used to increase the maximum punishment under this rule. However
 
 they may be admitted and considered under R.C.M. 1001.
 
-#  Capital cases
+## Rule 1004. Capital cases
 
-#  In general.
+### (a) In general.
 
 Death may be adjudged only when: 
 
-Death is expressly authorized under Part IV of this Manual for an
+(1) Death is expressly authorized under Part IV of this Manual for an
 
  offense of which the accused has been found guilty or is authorized under
 
@@ -18800,33 +18800,33 @@ the law of war for an offense of which the accused has been found guilty
 
 under the law of war; and 
 
-The accused was convicted of such an offense by the concurrence
+(2) The accused was convicted of such an offense by the concurrence
 
 of all the members of the court-martial present at the time the vote was
 
 taken; and 
 
-The requirements of subsections (b) and (c) of this rule have been
+(3) The requirements of subsections (b) and (c) of this rule have been
 
  met. 
 
-#  Procedure.
+### (b) Procedure.
 
 In addition to the provisions in R.C.M. 1001, the following procedures
 
 shall apply in capital cases- 
 
-#  Notice.
+#### (1) Notice.
 
-#  Referral.
+##### (A) Referral.
 
 The convening authority shall indicate that the case is to be tried as a capital case by including a special instruction in the referral block of the charge sheet. Failure to include this special instruction at the time of the referral shall not bar the convening authority from later adding the required special instruction, provided:
 
-that the convening authority has otherwise complied with the notice requirement of subsection (B); and 
+(i) that the convening authority has otherwise complied with the notice requirement of subsection (B); and 
 
-that if the accused demonstrates specific prejudice from such failure to include the special instruction, a continuance or a recess is an adequate remedy.
+(ii) that if the accused demonstrates specific prejudice from such failure to include the special instruction, a continuance or a recess is an adequate remedy.
 
-#  Arraignment.
+####### (B) Arraignment.
 
 Before arraignment, trial counsel shall give the defense written
 
@@ -18842,7 +18842,7 @@ the accused demonstrates specific prejudice from such failure and that a
 
 continuance or a recess is not an adequate remedy. 
 
-#  Evidence of aggravating factors.
+#### (2) Evidence of aggravating factors.
 
 Trial counsel may present evidence in accordance with R.C.M. 1001(b)(4)
 
@@ -18850,35 +18850,35 @@ tending to establish one or more of the aggravating factors in subsection
 
 (c) of this rule.
 
-#  Discussion
+####  Discussion
 
  _See also_ subsection (b)(5) of this rule.
 
-#  Evidence in extenuation and mitigation.
+#### (3) Evidence in extenuation and mitigation.
 
 The accused shall be given broad latitude to present evidence in
 
  extenuation and mitigation.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 1001(c).
 
-#  Necessary findings.
+#### (4) Necessary findings.
 
 Death may not be adjudged unless- 
 
-The members find that at least one of the aggravating factors under
+(A) The members find that at least one of the aggravating factors under
 
  subsection (c) existed; 
 
-Notice of such factor was provided in accordance with paragraph
+(B) Notice of such factor was provided in accordance with paragraph
 
 (1) of this subsection and all members concur in the finding with respect
 
 to such factor; and 
 
-All members concur that any extenuating or mitigating circumstances
+(C) All members concur that any extenuating or mitigating circumstances
 
  are substantially outweighed by any aggravating circumstances admissible
 
@@ -18886,13 +18886,13 @@ under R.C.M. 1001(b)(4), including the factors under subsection (c) of this
 
 rule. 
 
-#  Basis for findings.
+#### (5) Basis for findings.
 
 The findings in subsection (b)(4) of this rule may be based on
 
 evidence introduced before or after findings under R.C.M. 921, or both.
 
-#  Instructions.
+#### (6) Instructions.
 
 In addition to the instructions required under R.C.M. 1005, the
 
@@ -18906,7 +18906,7 @@ The military judge shall instruct the members that they must consider all
 
 evidence in extenuation and mitigation before they may adjudge death. 
 
-#  Voting.
+#### (7) Voting.
 
 In closed session, before voting on a sentence, the members shall
 
@@ -18922,7 +18922,7 @@ factors on which they have been instructed, the members shall vote on a
 
 sentence in accordance with R.C.M. 1006. 
 
-#  Announcement.
+#### (8) Announcement.
 
 If death is adjudged, the president shall, in addition to complying
 
@@ -18930,31 +18930,31 @@ If death is adjudged, the president shall, in addition to complying
 
 of this rule were found by the members. 
 
-#  Aggravating factors.
+### (c) Aggravating factors.
 
 Death may be adjudged only if the members find, beyond a reasonable
 
  doubt, one or more of the following aggravating factors: 
 
-That the offense was committed before or in the presence of the
+(1) That the offense was committed before or in the presence of the
 
  enemy, except that this factor shall not apply in the case of a violation
 
 of Article 118 or 120;
 
-#  Discussion
+####  Discussion
 
  _See_ paragraph 23, Part IV, for a definition of
 
 "before or in the presence of the enemy."
 
-That in committing the offense the accused- 
+(2) That in committing the offense the accused- 
 
-Knowingly created a grave risk of substantial damage to the national
+(A) Knowingly created a grave risk of substantial damage to the national
 
  security of the United States; or 
 
-Knowingly created a grave risk of substantial damage to a mission,
+(B) Knowingly created a grave risk of substantial damage to a mission,
 
  system, or function of the United States, provided that this subparagraph
 
@@ -18962,7 +18962,7 @@ shall apply only if substantial damage to the national security of the United
 
 States would have resulted had the intended damage been effected; 
 
-That the offense caused substantial damage to the national security
+(3) That the offense caused substantial damage to the national security
 
  of the United States, whether or not the accused intended such damage, except
 
@@ -18970,7 +18970,7 @@ that this factor shall not apply in case of a violation of Article 118 or
 
 120; 
 
-That the offense was committed in such a way or under circumstances
+(4) That the offense was committed in such a way or under circumstances
 
  that the life of one or more persons other than the victim was unlawfully
 
@@ -18978,11 +18978,11 @@ and substantially endangered, except that this factor shall not apply to
 
 a violation of Articles 104, 106a, or 120; 
 
-That the accused committed the offense with the intent to avoid
+(5) That the accused committed the offense with the intent to avoid
 
  hazardous duty; 
 
-That, only in the case of a violation of Article 118 or 120, the
+(6) That, only in the case of a violation of Article 118 or 120, the
 
  offense was committed in time of war and in territory in which the United
 
@@ -18990,29 +18990,29 @@ States or an ally of the United States was then an occupying power or in
 
 which the armed forces of the United States were then engaged in active hostilities;
 
-That, only in the case of a violation of Article 118(1): 
+(7) That, only in the case of a violation of Article 118(1): 
 
-The accused was serving a sentence of confinement for 30 years or
+(A) The accused was serving a sentence of confinement for 30 years or
 
  more or for life at the time of the murder; 
 
-The murder was committed: while the accused was engaged in the commission or attempted commission of any robbery, rape, rape of a child, sexual assault, sexual assault of a child, aggravated sexual contact, sexual abuse of a child, aggravated arson, forcible sodomy, burglary, kidnapping, mutiny, sedition, or piracy of an aircraft or vessel; or while the accused was engaged in the commission or attempted commission of any offense involving the wrongful distribution, manufacture, or introduction or possession, with intent to distribute, of a controlled substance; or, while the accused was engaged in flight or attempted flight after the commission or attempted commission of any such offense. 
+(B) The murder was committed: while the accused was engaged in the commission or attempted commission of any robbery, rape, rape of a child, sexual assault, sexual assault of a child, aggravated sexual contact, sexual abuse of a child, aggravated arson, forcible sodomy, burglary, kidnapping, mutiny, sedition, or piracy of an aircraft or vessel; or while the accused was engaged in the commission or attempted commission of any offense involving the wrongful distribution, manufacture, or introduction or possession, with intent to distribute, of a controlled substance; or, while the accused was engaged in flight or attempted flight after the commission or attempted commission of any such offense. 
 
-The murder was committed for the purpose of receiving money or a
+(C) The murder was committed for the purpose of receiving money or a
 
  thing of value; 
 
-The accused procured another by means of compulsion, coercion, or
+(D) The accused procured another by means of compulsion, coercion, or
 
 a promise of an advantage, a service, or a thing of value to commit the
 
 murder; 
 
-The murder was committed with the intent to avoid or to prevent
+(E) The murder was committed with the intent to avoid or to prevent
 
  lawful apprehension or effect an escape from custody or confinement; 
 
-The victim was the President of the United States, the President-elect,
+(F) The victim was the President of the United States, the President-elect,
 
 the Vice President, or, if there was no Vice President, the officer in the
 
@@ -19036,7 +19036,7 @@ of the offense and was in the United States or in a place described in Mil.
 
 R. Evid.315(c)(2), 315(c)(3); 
 
-The accused then knew that the victim was any of the following
+(G) The accused then knew that the victim was any of the following
 
 persons in the execution of office: a commissioned, warrant, noncommissioned,
 
@@ -19046,9 +19046,9 @@ any law enforcement or security activity or agency, military or civilian,
 
 including correctional custody personnel; or any firefighter; 
 
-The murder was committed with intent to obstruct justice; 
+(H) The murder was committed with intent to obstruct justice; 
 
-The murder was preceded by the intentional infliction of substantial
+(I) The murder was preceded by the intentional infliction of substantial
 
  physical harm or prolonged, substantial mental or physical pain and suffering
 
@@ -19066,15 +19066,15 @@ or physical pain or suffering" is accorded its common meaning and includes
 
 torture. 
 
-The accused has been found guilty in the same case of another violation
+(J) The accused has been found guilty in the same case of another violation
 
 of Article 118; 
 
-The victim of the murder was under 15 years of age. 
+(K) The victim of the murder was under 15 years of age. 
 
-That only in the case of a violation of Article 118(4), the accused was the actual perpetrator of the killing or was a principal whose participation in the burglary, forcible sodomy, rape, rape of a child, sexual assault, sexual assault of a child, aggravated sexual contact, sexual abuse of a child, robbery, or aggravated arson was major and who manifested a reckless indifference for human life.
+(8) That only in the case of a violation of Article 118(4), the accused was the actual perpetrator of the killing or was a principal whose participation in the burglary, forcible sodomy, rape, rape of a child, sexual assault, sexual assault of a child, aggravated sexual contact, sexual abuse of a child, robbery, or aggravated arson was major and who manifested a reckless indifference for human life.
 
-#  Discussion
+####  Discussion
 
 Conduct amounts to "reckless indifference" when it
 
@@ -19098,25 +19098,25 @@ _, 31 M.J. 38 (C.M.A. 1990); _ United States v. McMonagle
 
 _ 38 M.J. 53 (C.M.A. 1993).
 
-That, in addition to the offense for which the accused is eligible for the death penalty, the accused has also been convicted of a sexual offense in which: 
+(9) That, in addition to the offense for which the accused is eligible for the death penalty, the accused has also been convicted of a sexual offense in which: 
 
-Under Article 120b, the victim was under the age of 12; or 
+(A) Under Article 120b, the victim was under the age of 12; or 
 
-Under Articles 120 or 120b, the accused maimed or attempted to kill the victim; 
+(B) Under Articles 120 or 120b, the accused maimed or attempted to kill the victim; 
 
-That, only in the case of a violation of the law of war, death is
+(10) That, only in the case of a violation of the law of war, death is
 
  authorized under the law of war for the offense; 
 
-That, only in the case of a violation of Article 104 or 106a: 
+(11) That, only in the case of a violation of Article 104 or 106a: 
 
-The accused has been convicted of another offense involving espionage
+(A) The accused has been convicted of another offense involving espionage
 
  or treason for which either a sentence of death or imprisonment for life
 
 was authorized by statute; or 
 
-That in committing the offense, the accused knowingly created a
+(B) That in committing the offense, the accused knowingly created a
 
 grave risk of death to a person other than the individual who was the victim. 
 
@@ -19132,7 +19132,7 @@ a favorable foreign relations position; or a defense posture capable of successf
 
 resisting hostile or destructive action from within or without.
 
-#  Discussion
+#####  Discussion
 
 Examples of substantial damage of the national security of the United
 
@@ -19148,7 +19148,7 @@ mission or operation of the armed services of the United States or its allies
 
 or to materially aid an enemy of the United States.
 
-#  Spying.
+### (d) Spying.
 
 If the accused has been found guilty of spying under Article 106,
 
@@ -19160,7 +19160,7 @@ conducted, but the military judge shall announce that by operation of law
 
 a sentence of death has been adjudged. 
 
-#  Other penalties.
+### (e) Other penalties.
 
 Except for a violation of Article 106, when death is an authorized
 
@@ -19178,7 +19178,7 @@ Confinement is a necessary incident of a sentence of death, but not a part
 
 of it.
 
-#  Discussion
+###  Discussion
 
 A sentence of death may not be ordered executed until approved by
 
@@ -19188,21 +19188,21 @@ has been finally ordered executed will be carried out in the manner prescribed
 
 by the Secretary concerned. _See_ R.C.M. 1113(e)(1).
 
-#  Instructions on sentence
+## Rule 1005. Instructions on sentence
 
-#  In general.
+### (a) In general.
 
 The military judge shall give the members appropriate instructions
 
 on sentence.
 
-#  Discussion
+###  Discussion
 
 Instructions should be tailored to the facts and circumstances of
 
 the individual case.
 
-#  When given.
+### (b) When given.
 
 Instructions on sentence shall be given after arguments by counsel
 
@@ -19212,7 +19212,7 @@ judge may, upon request of the members, any party, or _sua sponte
 
 _, give additional instructions at a later time. 
 
-#  Requests for instructions.
+### (c) Requests for instructions.
 
 After presentation of matters relating to sentence or at such other
 
@@ -19228,7 +19228,7 @@ judge may require the requested instruction to be written. Each party shall
 
 action on such requests before their closing arguments on sentence.
 
-#  Discussion
+###  Discussion
 
 Requests for and objections to instructions should be resolved at
 
@@ -19250,7 +19250,7 @@ the members.
 
 be marked as appellate exhibits, whether or not they are given.
 
-#  How given.
+### (d) How given.
 
 Instructions on sentence shall be given orally on the record in
 
@@ -19260,59 +19260,59 @@ or unless a party objects, portions of them, may also be given to the members
 
 for their use during deliberations.
 
-#  Discussion
+###  Discussion
 
 A copy of any written instructions delivered to the members should
 
 be marked as an appellate exhibit.
 
-#  Required instructions.
+### (e) Required instructions.
 
 Instructions on sentence shall include: 
 
-A statement of the maximum authorized punishment that may be adjudged
+(1) A statement of the maximum authorized punishment that may be adjudged
 
  and of the mandatory minimum punishment, if any;
 
-#  Discussion
+####  Discussion
 
 The maximum punishment that may be adjudged is the lowest of the total permitted by the applicable paragraph(s) in Part IV for each separate offense of which the accused was convicted (_see also_ R.C.M. 1003 concerning additional limits on punishments and additional punishments which may be adjudged) or the jurisdictional limit of the court-martial (_see_ R.C.M. 201(f) and R.C.M. 1301(d)).  _See also_ Discussion to R.C.M. 810(d).  The military judge may upon request or when otherwise appropriate instruct on lesser punishments.  _See_ R.C.M. 1003.  If an additional punishment is authorized under R.C.M. 1003(d), the members must be informed of the basis for the increased punishment.
 
   A carefully drafted sentence worksheet ordinarily should be used and should include reference to all authorized punishments in the case.
 
-A statement of the effect any sentence announced including a punitive
+(2) A statement of the effect any sentence announced including a punitive
 
  discharge and confinement, or confinement in excess of six months, will
 
 have on the accused's entitlement to pay and allowances; 
 
-A statement of the procedures for deliberation and voting on the
+(3) A statement of the procedures for deliberation and voting on the
 
  sentence set out in R.C.M. 1006;
 
-#  Discussion
+####  Discussion
 
  _See also_ R.C.M. 1004 concerning additional instructions
 
  required in capital cases. 
 
-A statement informing the members that they are solely responsible
+(4) A statement informing the members that they are solely responsible
 
  for selecting an appropriate sentence and may not rely on the possibility
 
 of any mitigating action by the convening or higher authority; and
 
-#  Discussion
+####  Discussion
 
  _See also_ R.C.M. 1002.
 
-A statement that the members should consider all matters in extenuation,
+(5) A statement that the members should consider all matters in extenuation,
 
 mitigation, and aggravation, whether introduced before or after findings,
 
 and matters introduced under R.C.M. 1001(b)(1), (2), (3) and (5). 
 
-#  Discussion
+####  Discussion
 
 For example, tailored instructions on sentencing should bring attention
 
@@ -19322,7 +19322,7 @@ efficiency, fidelity, courage, bravery, or other traits of good character,
 
 and any pretrial restraint imposed on the accused.
 
-#  Waiver.
+### (f) Waiver.
 
 Failure to object to an instruction or to omission of an instruction
 
@@ -19336,9 +19336,9 @@ The parties shall be given the opportunity to be heard on any objection outside
 
 the presence of the members. 
 
-#  Deliberations and voting on sentence
+## Rule 1006. Deliberations and voting on sentence
 
-#  In general.
+### (a) In general.
 
 The members shall deliberate and vote after the military judge
 
@@ -19348,7 +19348,7 @@ deliberations and voting. Superiority in rank shall not be used in any manner
 
 to control the independence of members in the exercise of their judgment.
 
-#  Deliberations.
+### (b) Deliberations.
 
 Deliberations may properly include full and free discussion of the
 
@@ -19364,7 +19364,7 @@ be read to them or additional evidence introduced. The military judge may,
 
 in the exercise of discretion, grant such requests. 
 
-#  Proposal of sentences.
+### (c) Proposal of sentences.
 
 Any member may propose a sentence. Each proposal shall be in writing
 
@@ -19372,7 +19372,7 @@ Any member may propose a sentence. Each proposal shall be in writing
 
 collect the proposed sentences and submit them to the president.
 
-#  Discussion
+###  Discussion
 
 A proposal should state completely each kind and, where appropriate,
 
@@ -19382,9 +19382,9 @@ proposal of confinement for life would state whether it is with or without
 
 eligibility for parole. _See_ R.C.M.1003(b).
 
-#  Voting.
+### (d) Voting.
 
-#  Duty of members.
+#### (1) Duty of members.
 
 Each member has the duty to vote for a proper sentence for the
 
@@ -19392,13 +19392,13 @@ offenses of which the court-martial found the accused guilty, regardless
 
 of the member's vote or opinion as to the guilt of the accused. 
 
-#  Secret ballot.
+#### (2) Secret ballot.
 
  Proposed sentences shall be voted on by secret written ballot.
 
-#  Procedure.
+#### (3) Procedure.
 
-#  Order.
+##### (A) Order.
 
 All members shall vote on each proposed sentence in its entirety
 
@@ -19412,7 +19412,7 @@ proposing sentences and voting on them may be repeated as necessary until
 
 a sentence is adopted. 
 
-#  Counting votes.
+##### (B) Counting votes.
 
  The junior member shall collect the ballots and count the votes.
 
@@ -19420,25 +19420,25 @@ The president shall check the count and inform the other members of the
 
 result.
 
-#  Discussion
+#####  Discussion
 
 A sentence adopted by the required number of members may be reconsidered
 
 only in accordance with R.C.M. 1009.
 
-#  Number of votes required.
+#### (4) Number of votes required.
 
-#  Death.
+##### (A) Death.
 
 A sentence which includes death may be adjudged only if all members
 
  present vote for that sentence.
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 1004.
 
-#  Confinement for life, with or without eligibility for parole, or more
+##### (B) Confinement for life, with or without eligibility for parole, or more
 
  than 10 years.
 
@@ -19448,7 +19448,7 @@ eligibility for parole, or more than 10 years may be adjudged only if at
 
 least three-fourths of the members present vote for that sentence. 
 
-#  Other.
+##### (C) Other.
 
 A sentence other than those described in subsection (d)(4)(A) or
 
@@ -19456,7 +19456,7 @@ A sentence other than those described in subsection (d)(4)(A) or
 
 present vote for that sentence.
 
-#  Discussion
+#####  Discussion
 
 In computing the number of votes required to adopt a sentence, any
 
@@ -19468,13 +19468,13 @@ if there are seven members, at least six would have to concur to impose a
 
  concur to impose a sentence requiring a two-thirds vote.
 
-#  Mandatory sentence.
+#### (5) Mandatory sentence.
 
 When a mandatory minimum is prescribed under Article 118 the members
 
  shall vote on a sentence in accordance with this rule. 
 
-#  Effect of failure to agree.
+#### (6) Effect of failure to agree.
 
 If the required number of members do not agree on a sentence after
 
@@ -19486,7 +19486,7 @@ a rehearing on sentence only or order that a sentence of no punishment be
 
 imposed. 
 
-#  Action after a sentence is reached.
+### (e) Action after a sentence is reached.
 
 After the members have agreed upon a sentence, the court-martial
 
@@ -19502,7 +19502,7 @@ form. Neither that writing nor any oral or written clarification or discussion
 
 concerning it shall constitute announcement of the sentence.
 
-#  Discussion
+###  Discussion
 
 Ordinarily a sentence worksheet should be provided to the members
 
@@ -19528,9 +19528,9 @@ any sentence.
 
 illegal, _ see_ R.C.M. 1009.
 
-#  Announcement of sentence
+## Rule 1007. Announcement of sentence
 
-#  In general.
+### (a) In general.
 
 The sentence shall be announced by the president or, in a court-martial
 
@@ -19538,7 +19538,7 @@ composed of a military judge alone, by the military judge, in the presence
 
 of all parties promptly after it has been determined.
 
-#  Discussion
+###  Discussion
 
  _See_ Appendix 11. 
 
@@ -19548,7 +19548,7 @@ of a sentence adjudged by members about which no instructions were given
 
 and which is not listed on a sentence worksheet is not proper.
 
-#  Erroneous announcement.
+### (b) Erroneous announcement.
 
 If the announced sentence is not the one actually determined by
 
@@ -19564,7 +19564,7 @@ the military judge may call the court-martial into session to correct the
 
 announcement.
 
-#  Discussion
+###  Discussion
 
 For procedures governing reconsideration of the sentence, _
 
@@ -19574,13 +19574,13 @@ the action to be taken if the error in the announcement is discovered after
 
 the record is authenticated and forwarded to the convening authority.
 
-#  Polling prohibited.
+### (c) Polling prohibited.
 
 Except as provided in Mil. R. Evid. 606, members may not otherwise
 
 be questioned about their deliberations and voting. 
 
-#  Impeachment of sentence
+## Rule 1008. Impeachment of sentence
 
 A sentence which is proper on its face may be impeached only when
 
@@ -19590,23 +19590,23 @@ of a member, outside influence was improperly brought to bear upon any member,
 
 or unlawful command influence was brought to bear upon any member.
 
-#  Discussion
+##  Discussion
 
  _See_ R.C.M. 923 Discussion concerning impeachment
 
 of findings.
 
-#  Reconsideration of sentence
+## Rule 1009. Reconsideration of sentence
 
-#  Reconsideration.
+### (a) Reconsideration.
 
 Subject to this rule, a sentence may be reconsidered at any time
 
  before such sentence is announced in open session of the court.
 
-#  Exceptions.
+### (b) Exceptions.
 
-If the sentence announced in open session was less than the mandatory
+(1) If the sentence announced in open session was less than the mandatory
 
  minimum prescribed for an offense of which the accused has been found guilty,
 
@@ -19614,7 +19614,7 @@ the court that announced the sentence may reconsider such sentence upon
 
 reconsideration in accordance with subsection (e) of this rule. 
 
-If the sentence announced in open session exceeds the maximum permissible
+(2) If the sentence announced in open session exceeds the maximum permissible
 
 punishment for the offense or the jurisdictional limitation of the court-martial,
 
@@ -19622,13 +19622,13 @@ the sentence may be reconsidered after announcement in accordance with subsectio
 
 (e) of this rule. 
 
-#  Clarification of sentence.
+### (c) Clarification of sentence.
 
 A sentence may be clarified at any time prior to action of the
 
 convening authority on the case. 
 
-#  Sentence adjudged by the military judge.
+#### (1) Sentence adjudged by the military judge.
 
 When a sentence adjudged by the military judge is ambiguous, the
 
@@ -19636,7 +19636,7 @@ When a sentence adjudged by the military judge is ambiguous, the
 
 after the ambiguity is discovered. 
 
-#  Sentence adjudged by members.
+#### (2) Sentence adjudged by members.
 
 When a sentence adjudged by members is ambiguous, the military judge
 
@@ -19650,7 +19650,7 @@ by the members who adjudged the sentence as soon as practical after the ambiguit
 
  is discovered. 
 
-#  Action by the convening authority.
+### (d) Action by the convening authority.
 
 When a sentence adjudged by the court-martial is ambiguous, the
 
@@ -19664,13 +19664,13 @@ or may approve a sentence no more severe than the legal, unambiguous portions
 
 of the adjudged sentence. 
 
-#  Reconsideration procedure.
+### (e) Reconsideration procedure.
 
 Any member of the court-martial may propose that a sentence reached
 
  by the members be reconsidered. 
 
-#  Instructions.
+#### (1) Instructions.
 
 When a sentence has been reached by members and reconsideration
 
@@ -19678,15 +19678,15 @@ has been initiated, the military judge shall instruct the members on the
 
 procedure for reconsideration. 
 
-#  Voting.
+#### (2) Voting.
 
 The members shall vote by secret written ballot in closed session
 
  whether to reconsider a sentence already reached by them. 
 
-#  Number of votes required.
+#### (3) Number of votes required.
 
-#  With a view to increasing.
+##### (A) With a view to increasing.
 
 Subject to subsection (b) of this rule, members may reconsider a
 
@@ -19694,27 +19694,27 @@ Subject to subsection (b) of this rule, members may reconsider a
 
 reconsideration.
 
-#  With a view to decreasing.
+##### (B) With a view to decreasing.
 
 Members may reconsider a sentence with a view to decreasing it only
 
  if: 
 
-In the case of a sentence which includes death, at least one member
+(i) In the case of a sentence which includes death, at least one member
 
  votes to reconsider; 
 
-In the case of a sentence which includes confinement for life, with
+(ii) In the case of a sentence which includes confinement for life, with
 
  or without eligibility for parole, or more than 10 years, more than one-fourth
 
 of the members vote to reconsider; or; 
 
-In the case of any other sentence, more than one-third of the members
+(iii) In the case of any other sentence, more than one-third of the members
 
  vote to reconsider.
 
-#  Discussion
+######  Discussion
 
 After a sentence has been adopted by secret ballot vote in closed
 
@@ -19734,13 +19734,13 @@ a vote of at least five would be necessary to reconsider to increase it,
 
 while three would be necessary to reconsider to decrease it.
 
-#  Successful vote.
+#### (4) Successful vote.
 
 If a vote to reconsider a sentence succeeds, the procedures in R.C.M.
 
  1006 shall apply. 
 
-#  Notice concerning post-trial and appellate rights
+## Rule 1010. Notice concerning post-trial and appellate rights
 
 In each general and special court-martial, prior to adjournment,
 
@@ -19748,21 +19748,21 @@ the military judge shall ensure that the defense counsel has informed the
 
 accused orally and in writing of: 
 
-The right to submit matters to the convening authority to consider
+(a) The right to submit matters to the convening authority to consider
 
  before taking action; 
 
-The right to appellate review, as applicable, and the effect of
+(b) The right to appellate review, as applicable, and the effect of
 
  waiver or withdrawal of such right; 
 
-The right to apply for relief from the Judge Advocate General if
+(c) The right to apply for relief from the Judge Advocate General if
 
 the case is neither reviewed by a Court of Criminal Appeals nor reviewed
 
 by the Judge Advocate General under R.C.M. 1201(b)(1); and 
 
-The right to the advice and assistance of counsel in the exercise
+(d) The right to the advice and assistance of counsel in the exercise
 
 of the foregoing rights or any decision to waive them. 
 
@@ -19774,7 +19774,7 @@ signed by the accused and the defense counsel and inserted in the record
 
 of trial as an appellate exhibit.
 
-#  Discussion
+###  Discussion
 
 The post-trial duties of the defense counsel concerning the appellate
 
@@ -19786,7 +19786,7 @@ rights to the accused and prepare the written document of such advisement
 
 prior to or during trial.
 
-#  Adjournment
+## Rule 1011. Adjournment
 
 The military judge may adjourn the court-martial at the end of the
 
@@ -19794,7 +19794,7 @@ The military judge may adjourn the court-martial at the end of the
 
 court-martial. Such an adjournment may be for a definite or indefinite period.
 
-#  Discussion
+##  Discussion
 
 A court-martial and its personnel have certain powers and responsibilities
 
@@ -19802,13 +19802,13 @@ following the trial. _See_, for example, R.C.M. 502(d)(5) Discussion
 
 (F); 502(d)(6) Discussion (E); 808; 1007; 1009; Chapter XI.
 
-#  POST-TRIAL PROCEDURE
+# CHAPTER XI. POST-TRIAL PROCEDURE
 
-#  Report of result of trial; post-trial restraint; deferment of confinement,
+## Rule 1101. Report of result of trial; post-trial restraint; deferment of confinement,
 
  forfeitures and reduction in grade; waiver of Article 58b forfeitures
 
-#  Report of the result of trial.
+### (a) Report of the result of trial.
 
 After final adjournment of the court-martial in a case, the trial
 
@@ -19818,15 +19818,15 @@ authority or the convening authority's designee, and, if appropriate, the
 
 officer in charge of the confinement facility of the findings and sentence.
 
-#  Post-trial confinement.
+### (b) Post-trial confinement.
 
-#  In general.
+#### (1) In general.
 
 An accused may be placed in post-trial confinement if the sentence
 
  adjudged by the court-martial includes death or confinement. 
 
-#  Who may order confinement.
+#### (2) Who may order confinement.
 
 Unless limited by superior authority, a commander of the accused
 
@@ -19838,7 +19838,7 @@ is authorized under subsection (b)(1) of this rule. A commander authorized
 
 authority to the trial counsel.
 
-#  Discussion
+####  Discussion
 
 The commander may release the accused, order confinement, or order
 
@@ -19850,7 +19850,7 @@ unless it is deferred under subsection (c) of this rule. _See_ Article
 
 57.
 
-#  Confinement on other grounds.
+#### (3) Confinement on other grounds.
 
 Nothing in this rule shall prohibit confinement of a person after
 
@@ -19858,25 +19858,25 @@ a court-martial on proper grounds other than the offenses for which the
 
 accused was tried at the court-martial.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 304, 305, and paragraph 5b(2), Part
 
 V, for other grounds for confinement. 
 
-#  Deferment of confinement, forfeitures or reduction in grade.
+### (c) Deferment of confinement, forfeitures or reduction in grade.
 
-#  In general.
+#### (1) In general.
 
 Deferment of a sentence to confinement, forfeitures, or reduction
 
 in grade is a postponement of the running of the sentence.
 
-#  Discussion
+####  Discussion
 
 Deferment is not suspension of the sentence or a form of clemency.
 
-#  Who may defer.
+#### (2) Who may defer.
 
 The convening authority or, if the accused is no longer in the
 
@@ -19890,7 +19890,7 @@ the court-martial, defer the accused's service of a sentence to confinement,
 
 forfeitures, or reduction in grade that has not been ordered executed.
 
-#  Action on deferment request.
+#### (3) Action on deferment request.
 
 The authority acting on the deferment request may, in that authority's
 
@@ -19926,7 +19926,7 @@ The action of the authority acting on the deferment request shall be in
 
 writing and a copy shall be provided to the accused.
 
-#  Discussion
+####  Discussion
 
 The deferment request and the action on the request must be attached
 
@@ -19936,7 +19936,7 @@ request for deferment is denied, the basis for the denial should be in writing
 
 and attached to the record of trial.
 
-#  Orders.
+#### (4) Orders.
 
 The action granting deferment shall be reported in the convening
 
@@ -19950,7 +19950,7 @@ under R.C.M. 1107 shall be reported in orders under R.C.M. 1114 and included
 
 in the record of trial. 
 
-#  Restraint when deferment is granted.
+#### (5) Restraint when deferment is granted.
 
 When deferment of confinement is granted, no form of restraint or
 
@@ -19964,29 +19964,29 @@ limits or conditions may be placed on the accused's liberty during the period
 
 under R.C.M. 304. 
 
-#  End of deferment.
+#### (6) End of deferment.
 
 Deferment of a sentence to confinement, forfeitures, or reduction
 
 in grade ends when: 
 
-The convening authority takes action under R.C.M. 1107, unless the
+(A) The convening authority takes action under R.C.M. 1107, unless the
 
  convening authority specifies in the action that service of confinement
 
 after the action is deferred; 
 
-The confinement, forfeitures, or reduction in grade are suspended;
+(B) The confinement, forfeitures, or reduction in grade are suspended;
 
-The deferment expires by its own terms; or 
+(C) The deferment expires by its own terms; or 
 
-The deferment is otherwise rescinded in accordance with subsection
+(D) The deferment is otherwise rescinded in accordance with subsection
 
  (c)(7) of this rule. Deferment of confinement may not continue after the
 
 conviction is final under R.C.M. 1209.
 
-#  Discussion
+#####  Discussion
 
 When the sentence is ordered executed, forfeitures or reduction
 
@@ -20012,9 +20012,9 @@ under R.C.M. 1209.
 
 to confinement pending review under Article 67(a)(2). 
 
-#  Rescission of deferment.
+#### (7) Rescission of deferment.
 
-#  Who may rescind.
+##### (A) Who may rescind.
 
 The authority who granted the deferment or, if the accused is no
 
@@ -20024,7 +20024,7 @@ court-martial jurisdiction over the command to which the accused is assigned,
 
 may rescind the deferment. 
 
-#  Action.
+##### (B) Action.
 
 Deferment of confinement, forfeitures, or reduction in grade may
 
@@ -20044,7 +20044,7 @@ in the accused's behalf and to request that the rescission be reconsidered.
 
  forfeitures, or reduction in grade pending this action. 
 
-#  Execution.
+##### (C) Execution.
 
 When deferment of confinement is rescinded after the convening
 
@@ -20062,7 +20062,7 @@ this period for good cause shown. The accused shall be credited with any
 
 confinement actually served during this period. 
 
-#  Orders.
+##### (D) Orders.
 
 Rescission of a deferment before or concurrently with the initial
 
@@ -20078,15 +20078,15 @@ with R.C.M. 1114 and shall state whether the approved period of confinement
 
  is to be executed or whether all or part of it is to be suspended.
 
-#  Discussion
+#####  Discussion
 
  _See_ Appendix 16 for forms.
 
-#  Waiving forfeitures resulting from a sentence to confinement to provide
+### (d) Waiving forfeitures resulting from a sentence to confinement to provide
 
  for dependent support.
 
-With respect to forfeiture of pay and allowances resulting only
+(1) With respect to forfeiture of pay and allowances resulting only
 
 by operation of law and not adjudged by the court, the convening authority
 
@@ -20098,7 +20098,7 @@ convening authority may waive and direct payment of any such forfeitures
 
 when they become effective by operation of Article 57(a). 
 
-Factors that may be considered by the convening authority in determining
+(2) Factors that may be considered by the convening authority in determining
 
 the amount of forfeitures, if any, to be waived include, but are not limited
 
@@ -20112,11 +20112,11 @@ employment, and the availability of transitional compensation for abused
 
 dependents permitted under 10 U.S.C. 1059. 
 
-For the purposes of this Rule, a "dependent" means any
+(3) For the purposes of this Rule, a "dependent" means any
 
  person qualifying as a "dependent" under 37 U.S.C. 401.
 
-#  Discussion
+####  Discussion
 
 Forfeitures resulting by operation of law, rather than those adjudged
 
@@ -20138,9 +20138,9 @@ of the court, the monthly dollar amount of the waiver and payment should
 
 be stated.
 
-#  Post-trial sessions
+## Rule 1102. Post-trial sessions
 
-#  In general.
+### (a) In general.
 
 Post-trial sessions may be proceedings in revision or Article 39(a)
 
@@ -20148,9 +20148,9 @@ Post-trial sessions may be proceedings in revision or Article 39(a)
 
 authority in accordance with this rule. 
 
-#  Purpose.
+### (b) Purpose.
 
-#  Proceedings in revision.
+#### (1) Proceedings in revision.
 
 Proceedings in revision may be directed to correct an apparent error,
 
@@ -20160,7 +20160,7 @@ can be rectified by reopening the proceedings without material prejudice
 
 to the accused.
 
-#  Discussion
+####  Discussion
 
 Because the action at a proceeding in revision is corrective, a
 
@@ -20182,11 +20182,11 @@ See also_ R.C.M. 1104(d) concerning correction of the record by certificate
 
  of correction.
 
-#  Article 39(a) sessions.
+#### (2) Article 39(a) sessions.
 
 An Article 39(a) session under this rule may be called, upon motion of either party or _sua sponte_ by the military judge, for the purpose of inquiring into, and, when appropriate, resolving any matter that arises after trial and that substantially affects the legal sufficiency of any findings of guilty or the sentence.  The military judge may also call an Article 39(a) session, upon motion of either party or sua sponte, to reconsider any trial ruling that substantially affects the legal sufficiency of any findings of guilty or the sentence. The military judge may, _sua sponte_, at any time prior to authentication of the record of trial, enter a finding of not guilty of one or more offenses charged, or may enter a finding of not guilty of a part of a specification as long as a lesser offense charged is alleged in the remaining portion of the specification.  Prior to entering such a finding or findings, the military judge shall give each party an opportunity to be heard on the matter in a post-trial Article 39(a) session.
 
-#  Discussion
+####  Discussion
 
 For example, an Article 39(a) session may be called to permit a
 
@@ -20196,15 +20196,15 @@ misconduct by a counsel, a member, or a witness. _See_ R.C.M. 917(d) for
 
 the standard to be used to determine the legal sufficiency of evidence.
 
-#  Matters not subject to post-trial sessions.
+### (c) Matters not subject to post-trial sessions.
 
 Post-trial session may not be directed: 
 
-For reconsideration of a finding of not guilty of any specification,
+(1) For reconsideration of a finding of not guilty of any specification,
 
  or a ruling which amounts to a finding of not guilty; 
 
-For reconsideration of a finding of not guilty of any charge, unless
+(2) For reconsideration of a finding of not guilty of any charge, unless
 
  the record shows a finding of guilty under a specification laid under that
 
@@ -20212,11 +20212,11 @@ charge, which sufficiently alleges a violation of some article of the code;
 
 or 
 
-For increasing the severity of the sentence unless the sentence
+(3) For increasing the severity of the sentence unless the sentence
 
  prescribed for the offense is mandatory. 
 
-#  When directed.
+### (d) When directed.
 
 The military judge may direct a post-trial session any time before
 
@@ -20228,19 +20228,19 @@ the case or at such later time as the convening authority is authorized to
 
 do so by a reviewing authority. 
 
-#  Procedure.
+### (e) Procedure.
 
-#  Personnel.
+#### (1) Personnel.
 
 The requirements of R.C.M. 505 and 805 shall apply at post-trial
 
  sessions except that- 
 
-For a proceeding in revision, if trial was before members and the
+(A) For a proceeding in revision, if trial was before members and the
 
  matter subject to the proceeding in revision requires the presence of members:
 
-The absence of any members does not invalidate the proceedings if,
+(i) The absence of any members does not invalidate the proceedings if,
 
 in the case of a general court-martial, at least five members are present,
 
@@ -20248,17 +20248,17 @@ or, in the case of a special court-martial, at least three members are present;
 
 and 
 
-A different military judge may be detailed, subject to R.C.M. 502(c)
+(ii) A different military judge may be detailed, subject to R.C.M. 502(c)
 
  and 902, if the military judge who presided at the earlier proceedings is
 
 not reasonably available. 
 
-For an Article 39(a) session, a different military judge may be
+(B) For an Article 39(a) session, a different military judge may be
 
  detailed, subject to R.C.M. 502(c) and 902, for good cause. 
 
-#  Action.
+#### (2) Action.
 
 The military judge shall take such action as may be appropriate,
 
@@ -20268,7 +20268,7 @@ may deliberate in closed session, if necessary, to determine what corrective
 
 action, if any, to take. Prior to the military judge _sua sponte_ entering a finding of not guilty of one or more offenses charged or entering a finding of not guilty of a part of a specification as long as a lesser offense charged is alleged in the remaining portion of the specification, the military judge shall give each party an opportunity to be heard on the matter.
 
-#  Record.
+#### (3) Record.
 
 All post-trial sessions, except any deliberations by the members,
 
@@ -20278,11 +20278,11 @@ be prepared, authenticated, and served in accordance with R.C.M. 1103 and
 
 1104 and shall be included in the record of the prior proceedings. 
 
-#  Post-trial hearing for person found not guilty only by reason of lack
+## Rule 1102A. Post-trial hearing for person found not guilty only by reason of lack
 
 of mental responsibility
 
-#  In general.
+### (a) In general.
 
 The military judge shall conduct a hearing not later than forty
 
@@ -20290,7 +20290,7 @@ days following the finding that an accused is not guilty only by reason
 
 of a lack of mental responsibility. 
 
-#  Psychiatric or psychological examination and report.
+### (b) Psychiatric or psychological examination and report.
 
 Prior to the hearing, the military judge or convening authority
 
@@ -20300,19 +20300,19 @@ the resulting psychiatric or psychological report transmitted to the military
 
  judge for use in the post-trial hearing. 
 
-#  Post-trial hearing.
+### (c) Post-trial hearing.
 
-The accused shall be represented by defense counsel and shall have
+(1) The accused shall be represented by defense counsel and shall have
 
  the opportunity to testify, present evidence, call witnesses on his or her
 
 behalf, and to confront and cross-examine witnesses who appear at the hearing.
 
-The military judge is not bound by the rules of evidence except
+(2) The military judge is not bound by the rules of evidence except
 
 with respect to privileges. 
 
-An accused found not guilty only by reason of a lack of mental
+(3) An accused found not guilty only by reason of a lack of mental
 
 responsibility of an offense involving bodily injury to another, or serious
 
@@ -20328,7 +20328,7 @@ mental disease or defect. With respect to any other offense, the accused
 
 has the burden of such proof by a preponderance of the evidence. 
 
-If, after the hearing, the military judge finds the accused has
+(4) If, after the hearing, the military judge finds the accused has
 
  satisfied the standard specified in subsection (3) of this section, the
 
@@ -20344,43 +20344,43 @@ inform the general court-martial convening authority of this result and that
 
 authority may commit the accused to the custody of the Attorney General.
 
-#  Preparation of record of trial
+## Rule 1103. Preparation of record of trial
 
-#  In general.
+### (a) In general.
 
 Each general, special, and summary court-martial shall keep a separate
 
 record of the proceedings in each case brought before it. 
 
-#  General courts-martial.
+### (b) General courts-martial.
 
-#  Responsibility for preparation.
+#### (1) Responsibility for preparation.
 
  The trial counsel shall: 
 
-Under the direction of the military judge, cause the record of trial
+(A) Under the direction of the military judge, cause the record of trial
 
  to be prepared; and 
 
-Under regulations prescribed by the Secretary concerned, cause to
+(B) Under regulations prescribed by the Secretary concerned, cause to
 
 be retained stenographic or other notes or mechanical or electronic recordings
 
 from which the record of trial was prepared. 
 
-#  Contents.
+#### (2) Contents.
 
-#  In general.
+##### (A) In general.
 
  The record of trial in each general court-martial shall be separate,
 
  complete, and independent of any other document. 
 
-#  Verbatim transcript required.
+##### (B) Verbatim transcript required.
 
 Except as otherwise provided in subsection (j) of this rule, the record of trial shall include a verbatim transcript of all sessions except sessions closed for deliberations and voting when: 
 
-Any part of the sentence adjudged exceeds six months confinement,
+(i) Any part of the sentence adjudged exceeds six months confinement,
 
  forfeiture of pay greater than two-thirds pay per month, or any forfeiture
 
@@ -20388,9 +20388,9 @@ of pay for more than six months or other punishments that may be adjudged
 
 by a special court-martial; or
 
-A bad-conduct discharge has been adjudged.
+(ii) A bad-conduct discharge has been adjudged.
 
-#  Discussion
+######  Discussion
 
 A verbatim transcript includes: all proceedings including sidebar
 
@@ -20410,7 +20410,7 @@ must be included in the record. If testimony is given through an interpreter,
 
 a verbatim transcript must so reflect. 
 
-#  Verbatim transcript not required.
+##### (C) Verbatim transcript not required.
 
 If a verbatim transcript is not required under subsection (b)(2)(B)
 
@@ -20418,23 +20418,23 @@ If a verbatim transcript is not required under subsection (b)(2)(B)
 
 of a verbatim transcript.
 
-#  Discussion
+#####  Discussion
 
 _See also_ R.C.M. 910(i) concerning guilty plea
 
 inquiries.
 
-#  Other matters.
+##### (D) Other matters.
 
 In addition to the matter required under subsection (b)(2)(B) or
 
  (b)(2)(C) of this rule, a complete record shall include: 
 
-The original charge sheet or a duplicate; 
+(i) The original charge sheet or a duplicate; 
 
-A copy of the convening order and any amending order(s); 
+(ii) A copy of the convening order and any amending order(s); 
 
-The request, if any, for trial by military judge alone, or that
+(iii) The request, if any, for trial by military judge alone, or that
 
 the membership of the court-martial include enlisted persons, and, when applicable,
 
@@ -20442,85 +20442,85 @@ any statement by the convening authority required under R.C.M. 201(f)(2)(B)(ii)
 
 or 503(a)(2); 
 
-The original dated, signed action by the convening authority; and
+(iv) The original dated, signed action by the convening authority; and
 
-Exhibits, or, with the permission of the military judge, copies,
+(v) Exhibits, or, with the permission of the military judge, copies,
 
  photographs, or descriptions of any exhibits which were received in evidence
 
  and any appellate exhibits. 
 
-#  Matters attached to the record.
+#### (3) Matters attached to the record.
 
 The following matters shall be attached to the record: 
 
-If not used as exhibits- 
+(A) If not used as exhibits- 
 
-The report of preliminary hearing under Article 32, if any; 
+(i) The report of preliminary hearing under Article 32, if any; 
 
-The staff judge advocate's pretrial advice under Article 34, if
+(ii) The staff judge advocate's pretrial advice under Article 34, if
 
 any; 
 
-If the trial was a rehearing or new or other trial of the case,
+(iii) If the trial was a rehearing or new or other trial of the case,
 
 the record of the former hearing(s); and 
 
-Written special findings, if any, by the military judge. 
+(iv) Written special findings, if any, by the military judge. 
 
-Exhibits or, with the permission of the military judge, copies,
+(B) Exhibits or, with the permission of the military judge, copies,
 
  photographs, or descriptions of any exhibits which were marked for and referred
 
 to on the record but not received in evidence; 
 
-Any matter filed by the accused under R.C.M. 1105, or any written
+(C) Any matter filed by the accused under R.C.M. 1105, or any written
 
  waiver of the right to submit such matter; 
 
-Any deferment request and the action on it; 
+(D) Any deferment request and the action on it; 
 
-Explanation for any substitute authentication under R.C.M. 1104(a)(2)(B);
+(E) Explanation for any substitute authentication under R.C.M. 1104(a)(2)(B);
 
-Explanation for any failure to serve the record of trial on the
+(F) Explanation for any failure to serve the record of trial on the
 
  accused under R.C.M. 1104(b); 
 
-The post-trial recommendation of the staff judge advocate or legal
+(G) The post-trial recommendation of the staff judge advocate or legal
 
  officer and proof of service on defense counsel in accordance with R.C.M.
 
  1106(f)(1); 
 
-Any response by defense counsel to the post-trial review; 
+(H) Any response by defense counsel to the post-trial review; 
 
-Recommendations and other papers relative to clemency; 
+(I) Recommendations and other papers relative to clemency; 
 
-Any statement why it is impracticable for the convening authority
+(J) Any statement why it is impracticable for the convening authority
 
 to act; 
 
-Conditions of suspension, if any, and proof of service on probationer
+(K) Conditions of suspension, if any, and proof of service on probationer
 
  under R.C.M. 1108; 
 
-Any waiver or withdrawal of appellate review under R.C.M. 1110;
+(L) Any waiver or withdrawal of appellate review under R.C.M. 1110;
 
 and 
 
-Records of any proceedings in connection with vacation of suspension
+(M) Records of any proceedings in connection with vacation of suspension
 
  under R.C.M. 1109. 
 
-Documents pertaining to the receipt of the record of trial by the victim pursuant to subsection (g)(3) of this rule.
+(N) Documents pertaining to the receipt of the record of trial by the victim pursuant to subsection (g)(3) of this rule.
 
-#  Discussion
+#####  Discussion
 
 Per R.C.M. 1114(f), consult service regulations for distribution of promulgating orders.
 
-#  Special courts-martial.
+### (c) Special courts-martial.
 
-#  Involving a bad-conduct discharge, confinement for more than six months,
+#### (1) Involving a bad-conduct discharge, confinement for more than six months,
 
 or forfeiture of pay for more than six months.
 
@@ -20532,7 +20532,7 @@ bad-conduct discharge, confinement for more than six months, or forfeiture
 
 of pay for more than six months, has been adjudged. 
 
-#   All other special courts-martial.
+#### (2)  All other special courts-martial.
 
 If the special court-martial resulted in findings of guilty but
 
@@ -20542,17 +20542,17 @@ of pay for more than six months, was not adjudged, the requirements of subsectio
 
 (b)(1), (b)(2)(D), and (b)(3)(A)-(F) and (I)-(M) of this rule shall apply.
 
-#  Summary courts-martial.
+### (d) Summary courts-martial.
 
 The summary court-martial record of trial shall be prepared as
 
 prescribed in R.C.M. 1305. 
 
-#  Acquittal; courts-martial resulting in findings of not guilty only by reason of lack of mental responsibility; termination prior to findings; termination after findings.
+### (e) Acquittal; courts-martial resulting in findings of not guilty only by reason of lack of mental responsibility; termination prior to findings; termination after findings.
 
 Notwithstanding subsections (b), (c), and (d) of this rule, if proceedings resulted in an acquittal of all charges and specifications or in a finding of not guilty only by reason of lack of mental responsibility of all charges and specifications, or if the proceedings were terminated by withdrawal, mistrial, or dismissal before findings, or if the proceedings were terminated after findings by approval of an administrative discharge in lieu of court-martial, the record may consist of the original charge sheet, a copy of the convening order and amending orders (if any), and sufficient information to establish jurisdiction over the accused and the offenses (if not shown on the charge sheet).  The convening authority or higher authority may prescribe additional requirements. 
 
-#  Discussion
+###  Discussion
 
 The notes or recordings of court-martial proceedings described in
 
@@ -20564,7 +20564,7 @@ another accused in a related case. _See_ R.C.M. 905(g) and
 
 914.
 
-#  Loss of notes or recordings of the proceedings.
+### (f) Loss of notes or recordings of the proceedings.
 
 If, because of loss of recordings or notes, or other reasons, a
 
@@ -20574,7 +20574,7 @@ or (c)(1) of this rule, a record which meets the requirements of subsection
 
 (b)(2)(C) of this rule shall be prepared, and the convening authority may:
 
-Approve only so much of the sentence that could be adjudged by a
+(1) Approve only so much of the sentence that could be adjudged by a
 
  special court-martial, except that a bad-conduct discharge, confinement
 
@@ -20582,7 +20582,7 @@ for more than six months, or forfeiture of two-thirds pay per month for
 
 more than six months, may not be approved; or
 
-Direct a rehearing as to any offense of which the accused was found
+(2) Direct a rehearing as to any offense of which the accused was found
 
 guilty if the finding is supported by the summary of the evidence contained
 
@@ -20592,57 +20592,57 @@ imposed at such a rehearing more severe than or in excess of that adjudged
 
 by the earlier court-martial. 
 
-#  Copies of the record of trial.
+### (g) Copies of the record of trial.
 
-#   General and special courts-martial.
+#### (1)  General and special courts-martial.
 
-#  In general.
+##### (A) In general.
 
 In general and special courts-martial that require a verbatim transcript under subsections (b) or (c) of this rule and are subject to a review by a Court of Criminal Appeals under Article 66, the trial counsel shall cause to be prepared an original record of trial.
 
-#  Discussion
+#####  Discussion
 
 An original record of trial includes any record of the proceedings recorded in a form that satisfies the definition of a "writing" in R.C.M. 103.  Any requirement to prepare a printed record of trial pursuant to this rule, either in lieu of or in addition to a record of trial recorded or compiled in some other format, including electronic or digital formats, is subject to service regulation.
 
-#  Additional copies.
+##### (B) Additional copies.
 
 The convening or higher authority may direct that additional copies
 
  of the record of trial of any general or special court-martial be prepared.
 
-#  Summary courts-martial.
+#### (2) Summary courts-martial.
 
 Copies of the summary court-martial record of trial shall be prepared
 
  as prescribed in R.C.M. 1305(b). 
 
-#  Cases involving sexual offenses.
+#### (3) Cases involving sexual offenses.
 
-#  "Victim" defined.
+##### (A) "Victim" defined.
 
 	For the purposes of this rule, a victim is a person who suffered a direct physical, emotional, or pecuniary harm as a result of matters set forth in a charge or specification; and is named in a specification under Article 120, Article 120b, Article 120c, Article 125, or any attempt to commit such offense in violation of Article 80.
 
-#  Scope; qualifying victim.
+##### (B) Scope; qualifying victim.
 
  In a general or special court-martial, a copy of the record of trial shall be given free of charge to a victim as defined in subparagraph (A) for a specification identified in subparagraph (A) that resulted in any finding under R.C.M. 918 (a)(1). If a victim is a minor, a copy of the record of trial shall instead be provided to the parent or legal guardian of the victim.
 
-#  Discussion
+#####  Discussion
 
 This rule is not intended to limit the Services' discretion to provide records of trial to other individuals.
 
-#  Notice.
+##### (C) Notice.
 
  In accordance with regulations of the Secretary concerned, and no later than authentication of the record, trial counsel shall cause each qualifying victim to be notified of the opportunity to receive a copy of the record of trial. Qualifying victims may decline receipt of such documents in writing and any written declination shall be attached to the original record of trial.
 
-#  Documents to be provided.
+##### (D) Documents to be provided.
 
  For purposes of this subsection, the record of trial shall consist of documents described in subsection (b)(2) of this rule, except for proceedings described in subsection (e) of this rule, in which case the record of trial shall consist of items described in subsection (e). Matters attached to the record as described in subsection (b)(3) of this rule are not required to be provided.
 
-#  Discussion
+#####  Discussion
 
 Subsections (b)(3)(N) and (g)(3) of this rule were added to implement Article 54(e), UCMJ, in compliance with the National Defense Authorization Act for Fiscal Year 2012 (P.L. 112-81, --SECT-- 586). Service of a copy of the record of trial on a victim is prescribed in R.C.M. 1104 (b)(1)(E).
 
-#  Security classification.
+### (h) Security classification.
 
 If the record of trial contains matter which must be classified
 
@@ -20652,17 +20652,17 @@ security classification to be assigned to the record of trial and on each
 
 page thereof on which classified material appears.
 
-#  Discussion
+###  Discussion
 
  _See_ R.C.M. 1104(b)(1)(D) concerning the disposition
 
 of records of trial requiring security protection.
 
-#  Examination and correction before authentication.
+### (i) Examination and correction before authentication.
 
-#  General and special courts-martial.
+#### (1) General and special courts-martial.
 
-#  Examination and correction by trial counsel.
+##### (A) Examination and correction by trial counsel.
 
 In general and special courts-martial, the trial counsel shall
 
@@ -20672,7 +20672,7 @@ to be made which are necessary to report the proceedings accurately. The
 
 trial counsel shall not change the record after authentication.
 
-#  Discussion
+#####  Discussion
 
 The trial counsel may personally correct and initial the necessary
 
@@ -20688,13 +20688,13 @@ record of the proceedings such that the record will meet the applicable requirem
 
  of this rule.
 
-#  Examination by defense counsel.
+##### (B) Examination by defense counsel.
 
 Except when unreasonable delay will result, the trial counsel shall
 
  permit the defense counsel to examine the record before authentication.
 
-#  Discussion
+#####  Discussion
 
 If the defense counsel discovers errors or omissions in the record,
 
@@ -20720,15 +20720,15 @@ has examined the record should be made on the authentication page. _
 
 See_ Appendix 13 or 14 for sample forms.
 
-#  Summary courts-martial.
+#### (2) Summary courts-martial.
 
 The summary court-martial shall examine and correct the summary
 
  court-martial record of trial as prescribed in R.C.M. 1305(a). 
 
-#  Videotape and similar records.
+### (j) Videotape and similar records.
 
-#  Recording proceedings.
+#### (1) Recording proceedings.
 
 If authorized by regulations of the Secretary concerned, general
 
@@ -20742,11 +20742,11 @@ of recording by a qualified court reporter, when one is required, subject
 
 to this rule. 
 
-#  Preparation of written record.
+#### (2) Preparation of written record.
 
 When the court-martial, or any part of it, is recorded by videotape, audiotape, or similar material under subsection (j)(1) of this rule, a transcript or summary in writing (as defined in R.C.M. 103), as required in subsection (b)(2)(A), (b)(2)(B), (b)(2)(C), or (c) of this rule, as appropriate, shall be prepared in accordance with this rule and R.C.M. 1104 before the record is forwarded under R.C.M. 1104(e), unless military exigencies prevent transcription. 
 
-#  Military exigency.
+#### (3) Military exigency.
 
 If military exigency prevents preparation of a written transcript
 
@@ -20774,9 +20774,9 @@ to listen to or to view and listen to the recording whenever defense counsel
 
 subsection. 
 
-#  Further review.
+#### (4) Further review.
 
-#  Cases reviewed by the Court of Criminal Appeals.
+##### (A) Cases reviewed by the Court of Criminal Appeals.
 
 Before review, if any, by a Court of Criminal Appeals of a case
 
@@ -20790,7 +20790,7 @@ The authenticated recording shall be retained for examination by appellate
 
 authorities. 
 
-#  Cases not reviewed by the Court of Criminal Appeals.
+##### (B) Cases not reviewed by the Court of Criminal Appeals.
 
 In cases in which the record includes an authenticated recording
 
@@ -20798,7 +20798,7 @@ In cases in which the record includes an authenticated recording
 
 prepared under such circumstances as the Secretary concerned may prescribe.
 
-#  Accused's copy.
+#### (5) Accused's copy.
 
 When a record includes an authenticated recording under subsection
 
@@ -20806,7 +20806,7 @@ When a record includes an authenticated recording under subsection
 
 1104(b): 
 
-Provide the accused with a duplicate copy of the videotape, audiotape,
+(A) Provide the accused with a duplicate copy of the videotape, audiotape,
 
 or similar matter and copies of any written contents of and attachments to
 
@@ -20816,83 +20816,83 @@ equipment as is necessary to listen to or view and listen to the recording;
 
 or 
 
-With the written consent of the accused, defer service of the record
+(B) With the written consent of the accused, defer service of the record
 
  until a written record is prepared under subsection (4) of this rule. 
 
-#  Sealed exhibits and proceedings.
+## Rule 1103A. Sealed exhibits and proceedings.
 
-#  In general.
+### (a) In general.
 
 If the report of preliminary hearing or record of trial contains exhibits, proceedings, or other matter ordered sealed by the preliminary hearing officer or military judge, counsel for the government or trial counsel shall cause such materials to be sealed so as to prevent unauthorized viewing or disclosure. Counsel for the government or trial counsel shall ensure that such materials are properly marked, including an annotation that the material was sealed by order of the preliminary hearing officer or military judge, and inserted at the appropriate place in the original record of trial. Copies of the report of preliminary hearing or record of trial shall contain appropriate annotations that matters were sealed by order of the preliminary hearing officer or military judge and have been inserted in the report of preliminary hearing or original record of trial. 
 
-#  Examination of sealed exhibits and proceedings.
+#### (b) Examination of sealed exhibits and proceedings.
 
 Except as provided in the following subsections to this rule, sealed exhibits may not be examined.
 
-#  Prior to referral.
+##### (1) Prior to referral.
 
 The following individuals may examine sealed materials only if necessary for proper fulfillment of their responsibilities under the UCMJ, the MCM, governing directives, instructions, regulations, applicable rules for practice and procedure, or rules of professional responsibility: the judge advocate advising the convening authority who directed the Article 32 preliminary hearing; the convening authority who directed the Article 32 preliminary hearing; the staff judge advocate to the general court-martial convening authority; and the general court-martial convening authority.
 
-#  Prior to authentication.
+###### (2) Prior to authentication.
 
  Prior to authentication of the record by the military judge, sealed materials may not be examined in the absence of an order from the military judge based on good cause shown.
 
-#  Authentication through action.
+####### (3) Authentication through action.
 
 After authentication and prior to disposition of the record of trial pursuant to Rule for Courts-Martial 1111, sealed materials may not be examined in the absence of an order from the military judge upon a showing of good cause at a post-trial Article 39a session directed by the Convening Authority.
 
-#  Discussion
+#######  Discussion
 
  A convening authority who has granted clemency based upon review of sealed materials in the record of trial is not permitted to disclose the contents of the sealed materials when providing a written explanation of the reason for such action, as directed under R.C.M. 1107.
 
-#  Reviewing and appellate authorities.
+######## (4) Reviewing and appellate authorities.
 
-Reviewing and appellate authorities may examine sealed matters when those authorities determine that such action is reasonably necessary to a proper fulfillment of their responsibilities under the Uniform Code of Military Justice, the Manual for Courts-Martial, governing directives, instructions, regulations, applicable rules for practice and procedure, or rules of professional responsibility. 
+(A) Reviewing and appellate authorities may examine sealed matters when those authorities determine that such action is reasonably necessary to a proper fulfillment of their responsibilities under the Uniform Code of Military Justice, the Manual for Courts-Martial, governing directives, instructions, regulations, applicable rules for practice and procedure, or rules of professional responsibility. 
 
-Reviewing and appellate authorities shall not, however, disclose sealed matter or information in the absence of:
+(B) Reviewing and appellate authorities shall not, however, disclose sealed matter or information in the absence of:
 
-Prior authorization of the Judge Advocate General in the case of review under Rule for Courts-Martial 1201(b); or
+(i) Prior authorization of the Judge Advocate General in the case of review under Rule for Courts-Martial 1201(b); or
 
-Prior authorization of the appellate court before which a case is pending review under Rules for Courts-Martial 1203 and 1204.
+(ii) Prior authorization of the appellate court before which a case is pending review under Rules for Courts-Martial 1203 and 1204.
 
-In those cases in which review is sought or pending before the United States Supreme Court, authorization to disclose sealed materials or information shall be obtained under that Court's rules of practice and procedure.
+(C) In those cases in which review is sought or pending before the United States Supreme Court, authorization to disclose sealed materials or information shall be obtained under that Court's rules of practice and procedure.
 
-The authorizing officials in paragraph (B)(ii) above may place conditions on authorized disclosures in order to minimize the disclosure.
+(D) The authorizing officials in paragraph (B)(ii) above may place conditions on authorized disclosures in order to minimize the disclosure.
 
-For purposes of this rule, reviewing and appellate authorities are limited to:
+(E) For purposes of this rule, reviewing and appellate authorities are limited to:
 
-Judge advocates reviewing records pursuant to Rule for Courts-Martial 1112;
+(i) Judge advocates reviewing records pursuant to Rule for Courts-Martial 1112;
 
-Officers and attorneys in the office of the Judge Advocate General reviewing records pursuant to Rule for Courts-Martial 1201(b);
+(ii) Officers and attorneys in the office of the Judge Advocate General reviewing records pursuant to Rule for Courts-Martial 1201(b);
 
-Appellate government counsel;
+(iii) Appellate government counsel;
 
-Appellate defense counsel;
+(iv) Appellate defense counsel;
 
-Appellate judges of the Courts of Criminal Appeals and their professional staffs;
+(v) Appellate judges of the Courts of Criminal Appeals and their professional staffs;
 
-The judges of the United States Court of Appeals for the Armed Forces and their professional staffs;
+(vi) The judges of the United States Court of Appeals for the Armed Forces and their professional staffs;
 
-The Justices of the United States Supreme Court and their professional staffs; and 
+(vii) The Justices of the United States Supreme Court and their professional staffs; and 
 
-Any other court of competent jurisdiction.
+(viii) Any other court of competent jurisdiction.
 
-#  Examination of sealed matters.
+######## (5) Examination of sealed matters.
 
 For the purpose of this rule, "examination" includes reading, viewing, photocopying, photographing, disclosing, or manipulating the sealed matters in any way.
 
-#  Records of trial: Authentication; service; loss; correction; forwarding
+## Rule 1104. Records of trial: Authentication; service; loss; correction; forwarding
 
-#  Authentication.
+### (a) Authentication.
 
-#  In general.
+#### (1) In general.
 
 A record is authenticated by the signature of a person specified in this rule who thereby declares that the record accurately reports the proceedings.  An electronic record of trial may be authenticated with the electronic signature of the military judge or other authorized person.  Service of an authenticated electronic copy of the record of trial with a means to review the record of trial satisfies the requirement of service under R.C.M. 1105(c) and 1305(d).  No person may be required to authenticate a record of trial if that person is not satisfied that it accurately reports the proceedings.
 
-#  General and special courts-martial.
+#### (2) General and special courts-martial.
 
-#  Authentication by the military judge.
+##### (A) Authentication by the military judge.
 
 In special courts-martial in which a bad-conduct discharge, confinement
 
@@ -20918,7 +20918,7 @@ more than six months, was not adjudged shall be authenticated in accordance
 
  with regulations of the Secretary concerned.
 
-#  Substitute authentication.
+##### (B) Substitute authentication.
 
 If the military judge cannot authenticate the record of trial because
 
@@ -20940,7 +20940,7 @@ A person authorized to authenticate a record under this subsection may authentic
 
 the record only as to those proceedings at which that person was present.
 
-#  Discussion
+#####  Discussion
 
  _See_ Appendix 13 or 14 for sample forms. 
 
@@ -20962,17 +20962,17 @@ should attach to the record of trial an explanation for the substitute authentic
 
  _See_ R.C.M. 1103(b)(3) (E).
 
-#  Summary courts-martial.
+#### (3) Summary courts-martial.
 
 The summary court-martial shall authenticate the summary court-martial
 
 record of trial as prescribed in R.C.M. 1305(a). 
 
-#  Service.
+### (b) Service.
 
-#  General and special courts-martial.
+#### (1) General and special courts-martial.
 
-#  Service of record of trial on accused.
+##### (A) Service of record of trial on accused.
 
 In each general and special court-martial, except as provided in
 
@@ -20982,7 +20982,7 @@ a copy of the record of trial to be served on the accused as soon as the
 
 record of trial is authenticated. 
 
-#  Proof of service of record of trial on accused.
+##### (B) Proof of service of record of trial on accused.
 
 The trial counsel shall cause the accused's receipt for the copy
 
@@ -21002,7 +21002,7 @@ has been transmitted to the accused, including the means of transmission
 
 to the convening authority as soon as it is obtained. 
 
-#  Substitute service.
+##### (C) Substitute service.
 
 If it is impracticable to serve the record of trial on the accused
 
@@ -21028,13 +21028,13 @@ for the failure to serve the record. The explanation and the accused's copy
 
  be provided with a copy of the record as soon as practicable.
 
-#  Discussion
+#####  Discussion
 
  _See_ Appendix 13 or 14 for sample forms.
 
-#  Classified information.
+##### (D) Classified information.
 
-#  Forwarding to convening authority.
+###### (i) Forwarding to convening authority.
 
 If the copy of the record of trial prepared for the accused contains
 
@@ -21044,19 +21044,19 @@ the convening authority, shall forward the accused's copy to the convening
 
 authority, before it is served on the accused. 
 
-#  Responsibility of the convening authority.
+###### (ii) Responsibility of the convening authority.
 
 The convening authority shall: 
 
-cause any classified information to be deleted or withdrawn from
+(a) cause any classified information to be deleted or withdrawn from
 
 the accused's copy of the record of trial; 
 
-cause a certificate indicating that classified information has been
+(b) cause a certificate indicating that classified information has been
 
  deleted or withdrawn to be attached to the record of trial; and 
 
-cause the expurgated copy of the record of trial and the attached
+(c) cause the expurgated copy of the record of trial and the attached
 
  certificate regarding classified information to be served on the accused
 
@@ -21066,47 +21066,47 @@ accused's receipt shall show that the accused has received an expurgated
 
 copy of the record of trial. 
 
-#  Contents of certificate.
+###### (iii) Contents of certificate.
 
 The certificate regarding deleted or withdrawn classified information
 
  shall indicate: 
 
-that the original record of trial may be inspected in the Office
+(a) that the original record of trial may be inspected in the Office
 
 of the Judge Advocate General concerned under such regulations as the Secretary
 
 concerned may prescribe; 
 
-the pages of the record of trial from which matter has been deleted;
+(b) the pages of the record of trial from which matter has been deleted;
 
-the pages of the record of trial which have been entirely deleted;
+(c) the pages of the record of trial which have been entirely deleted;
 
  and 
 
-the exhibits which have been withdrawn.
+(d) the exhibits which have been withdrawn.
 
-#  Discussion
+######  Discussion
 
  _See_ R.C.M. 1103(h) concerning classified information.
 
-#  Victims of Sexual Assault.
+##### (E) Victims of Sexual Assault.
 
 Qualifying victims, as defined in R.C.M. 1103 (g)(3)(A), shall be served a copy of the record of trial in the same manner as the accused under subsection (b) of this rule. In accordance with regulations of the Secretary concerned:
 
-#  Discussion
+#####  Discussion
 
 Subsection (b)(1)(E) of this rule was added to implement Article 54(e), UCMJ, in compliance with the National Defense Authorization Act for Fiscal Year 2012 (P.L. 112-81, --SECT-- 586). The content of the victim's record of trial is prescribed in R.C.M. 1103(g)(3)(D).
 
   Promulgating orders are to be distributed in accordance with R.C.M. 1114(f).
 
-A copy of the record of trial shall be provided to each qualifying victim as soon as it is authenticated or, if the victim requests, at a time thereafter. The victim's receipt of the record of trial, including any delay in receiving it, shall be documented and attached to the original record of trial.
+(i) A copy of the record of trial shall be provided to each qualifying victim as soon as it is authenticated or, if the victim requests, at a time thereafter. The victim's receipt of the record of trial, including any delay in receiving it, shall be documented and attached to the original record of trial.
 
-A copy of the convening authority's action as described in R.C.M. 1103(b)(2)(D)(iv) shall be provided to each qualifying victim as soon as each document is prepared. If the victim makes a request in writing, service of the record of trial may be delayed until the action is available.
+(ii) A copy of the convening authority's action as described in R.C.M. 1103(b)(2)(D)(iv) shall be provided to each qualifying victim as soon as each document is prepared. If the victim makes a request in writing, service of the record of trial may be delayed until the action is available.
 
-Classified information pursuant to subsection (b)(1)(D) of this rule, sealed matters pursuant to R.C.M. 1103A, or other portions of the record the release of which would unlawfully violate the privacy interests of any party, to include those afforded by 5 U.S.C.--SECT--552a, the Privacy Act of 1974, shall not be provided. Matters attached to the record as described in R.C.M. 1103 (b)(3) are not required to be provided.
+(iii) Classified information pursuant to subsection (b)(1)(D) of this rule, sealed matters pursuant to R.C.M. 1103A, or other portions of the record the release of which would unlawfully violate the privacy interests of any party, to include those afforded by 5 U.S.C.--SECT--552a, the Privacy Act of 1974, shall not be provided. Matters attached to the record as described in R.C.M. 1103 (b)(3) are not required to be provided.
 
-#  Summary courts-martial.
+#### (2) Summary courts-martial.
 
 The summary court-martial record of trial shall be disposed of as
 
@@ -21116,7 +21116,7 @@ if classified information is included in the record of trial of a summary
 
 court-martial. 
 
-#  Loss of record.
+### (c) Loss of record.
 
 If the authenticated record of trial is lost or destroyed, the trial
 
@@ -21126,9 +21126,9 @@ for authentication. The new record of trial shall become the record of trial
 
 in the case if the requirements of R.C.M. 1103 and this rule are met. 
 
-#  Correction of record after authentication; certificate of correction.
+### (d) Correction of record after authentication; certificate of correction.
 
-#  In general.
+#### (1) In general.
 
 A record of trial found to be incomplete or defective after authentication
 
@@ -21138,7 +21138,7 @@ the convening authority by superior competent authority for correction under
 
 this rule.
 
-#  Discussion
+####  Discussion
 
 The record of trial is corrected with a certificate of correction. 
 
@@ -21156,7 +21156,7 @@ members were sworn but the record did not so reflect, the record could be
 
 corrected.
 
-#  Procedure.
+#### (2) Procedure.
 
 An authenticated record of trial believed to be incomplete or defective
 
@@ -21172,7 +21172,7 @@ of correction. All parties shall be given reasonable access to any original
 
 reporter's notes or tapes of the proceedings.
 
-#  Discussion
+####  Discussion
 
 The type of opportunity to respond depends on the nature and scope
 
@@ -21190,7 +21190,7 @@ the parties, and the reporter. In other instances, an evidentiary hearing
 
  on a certificate of correction. 
 
-#  Authentication of certificate of correction; service on the accused.
+#### (3) Authentication of certificate of correction; service on the accused.
 
 The certificate of correction shall be authenticated as provided
 
@@ -21202,7 +21202,7 @@ receipt for the certificate of correction shall be attached to each copy
 
 of the record of trial required to be prepared under R.C.M. 1103(g). 
 
-#  Forwarding.
+### (e) Forwarding.
 
 After every court-martial, including a rehearing and new and other
 
@@ -21218,45 +21218,45 @@ to the staff judge advocate or legal officer for recommendation under R.C.M.
 
 1106 before the convening authority takes action.
 
-#  Matters submitted by the accused
+## Rule 1105. Matters submitted by the accused
 
 **--LSQP--Note: R.C.M. 1105(b)(1) and (b)(2) apply to offenses committed on or after 24 June 2014.--RSQP--**
 
-#  In general.
+### (a) In general.
 
 After a sentence is adjudged in any court-martial, the accused may
 
  submit matters to the convening authority in accordance with this rule.
 
-#  Matters which may be submitted.
+### (b) Matters which may be submitted.
 
-The accused may submit to the convening authority any matters that may reasonably tend to affect the convening authority's decision whether to disapprove any findings of guilty or to approve the sentence, except as may be limited by R.C.M. 1107(b)(3)(C). The convening authority is only required to consider written submissions.
+(1) The accused may submit to the convening authority any matters that may reasonably tend to affect the convening authority's decision whether to disapprove any findings of guilty or to approve the sentence, except as may be limited by R.C.M. 1107(b)(3)(C). The convening authority is only required to consider written submissions.
 
-Submissions are not subject to the Military Rules of Evidence and
+(2) Submissions are not subject to the Military Rules of Evidence and
 
 may include: 
 
-Allegations of errors affecting the legality of the findings or
+(A) Allegations of errors affecting the legality of the findings or
 
  sentence; 
 
-Portions or summaries of the record and copies of documentary evidence
+(B) Portions or summaries of the record and copies of documentary evidence
 
 offered or introduced at trial; 
 
-Matters in mitigation which were not available for consideration at the court-martial, except as may be limited by R.C.M. 1107(b)(3)(B); and
+(C) Matters in mitigation which were not available for consideration at the court-martial, except as may be limited by R.C.M. 1107(b)(3)(B); and
 
-#  Discussion
+#####  Discussion
 
 For example, post-trial conduct of the accused, such as providing
 
  restitution to the victim or exemplary behavior, might be appropriate.
 
-Clemency recommendations by any member, the military judge, or any
+(D) Clemency recommendations by any member, the military judge, or any
 
  other person. The defense may ask any person for such a recommendation.
 
-#  Discussion
+#####  Discussion
 
 A clemency recommendation should state reasons for the recommendation
 
@@ -21284,9 +21284,9 @@ consider any submission by the accused, including, but not limited to, videotape
 
  photographs, and oral presentations. 
 
-#  Time periods.
+### (c) Time periods.
 
-#  General and special courts-martial.
+#### (1) General and special courts-martial.
 
 After a general or special court-martial, the accused may submit
 
@@ -21308,7 +21308,7 @@ such matters, the convening authority or that authority's staff judge advocate
 
 an extension. 
 
-#  Summary courts-martial.
+#### (2) Summary courts-martial.
 
 After a summary court-martial, the accused may submit matters under
 
@@ -21320,7 +21320,7 @@ the convening authority may, for good cause, extend the period in which comments
 
 may be submitted for up to 20 additional days. 
 
-#  Post-trial sessions.
+#### (3) Post-trial sessions.
 
 A post-trial session under R.C.M. 1102 shall have no effect on the
 
@@ -21330,7 +21330,7 @@ in the announcement of a new sentence, in which case the period shall run
 
 from that announcement. 
 
-#  Good cause.
+#### (4) Good cause.
 
 For purposes of this rule, good cause for an extension ordinarily
 
@@ -21338,15 +21338,15 @@ For purposes of this rule, good cause for an extension ordinarily
 
 been presented at the court-martial. 
 
-#  Waiver.
+### (d) Waiver.
 
-#  Failure to submit matters.
+#### (1) Failure to submit matters.
 
 Failure to submit matters within the time prescribed by this rule
 
  shall be deemed a waiver of the right to submit such matters. 
 
-#  Submission of matters.
+#### (2) Submission of matters.
 
 Submission of any matters under this rule shall be deemed a waiver
 
@@ -21354,13 +21354,13 @@ of the right to submit additional matters unless the right to submit additional
 
 matters within the prescribed time limits is expressly reserved in writing.
 
-#  Written waiver.
+#### (3) Written waiver.
 
 The accused may expressly waive, in writing, the right to submit
 
  matters under this rule. Once filed, such waiver may not be revoked. 
 
-#  Absence of accused.
+#### (4) Absence of accused.
 
 If, as a result of the unauthorized absence of the accused, the
 
@@ -21374,73 +21374,73 @@ the time limit which begins upon service on the accused of the record of
 
 trial.
 
-#  Discussion
+####  Discussion
 
 The accused is not required to raise objections to the trial proceedings
 
 in order to preserve them for later review.
 
-#  Matters submitted by a crime victim
+## Rule 1105A. Matters submitted by a crime victim
 
-#  In general.
+### (a) In general.
 
  A crime victim of an offense tried by any court-martial shall have the right to submit a written statement to the convening authority after the sentence is adjudged.
 
-#  "Crime victim" defined.
+### (b) "Crime victim" defined.
 
  For purposes of this rule, a crime victim is a person who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense of which the accused was found guilty, and on which the convening authority is taking action under R.C.M. 1107. When a victim is under 18 years of age, incompetent, incapacitated, or deceased, the term includes one of the following (in order of precedence): a spouse, legal guardian, parent, child, sibling, or similarly situated family member. For a victim that is an institutional entity, the term includes an authorized representative of the entity.
 
-#  Format of statement.
+### (c) Format of statement.
 
  The statement shall be in writing, and signed by the crime victim. Statements may include photographs, but shall not include video, audio, or other media.
 
-#  Discussion
+###  Discussion
 
 Statements should be submitted to the convening authority's staff judge advocate or legal officer, or, in the case of a summary court-martial, to the summary court-martial officer.
 
-#  Timing of statement.
+### (d) Timing of statement.
 
-#  General and special courts-martial.
+#### (1) General and special courts-martial.
 
  The crime victim shall submit the statement to the convening authority's staff judge advocate or legal officer no later than 10 days after the later of:
 
-if the victim is entitled to a copy of the record of proceedings in accordance with Article 54(e), UCMJ, the date on which the victim receives an authenticated copy of the record of trial or waives the right to receive such a copy; or
+(A) if the victim is entitled to a copy of the record of proceedings in accordance with Article 54(e), UCMJ, the date on which the victim receives an authenticated copy of the record of trial or waives the right to receive such a copy; or
 
-the date on which the recommendation of the staff judge advocate or legal officer is served on the victim.
+(B) the date on which the recommendation of the staff judge advocate or legal officer is served on the victim.
 
-#  Summary courts-martial.
+#### (2) Summary courts-martial.
 
  The crime victim shall submit the statement to the summary court-martial officer no later than 7 days after the sentence is announced.
 
-#  Extensions.
+#### (3) Extensions.
 
  If a victim shows that additional time is required for submission of matters, the convening authority or other person taking action, for good cause, may extend the submission period for not more than an additional 20 days.
 
-#  Notice.
+### (e) Notice.
 
  Subject to such regulations as the Secretary concerned may prescribe, trial counsel or the summary court-martial officer shall make reasonable efforts to inform crime victims of their rights under this rule, and shall advise such crime victims on the manner in which their statements may be submitted.
 
-#  Waiver.
+### (f) Waiver.
 
-#  Failure to submit a statement.
+#### (1) Failure to submit a statement.
 
  Failure to submit a statement within the time prescribed by this rule shall be deemed a waiver of the right to submit such a statement.
 
-#  Submission of a statement.
+#### (2) Submission of a statement.
 
  Submission of a statement under this rule shall be deemed a waiver of the right to submit an additional statement.
 
-#  Written waiver.
+#### (3) Written waiver.
 
  A crime victim may expressly waive, in writing, the right to submit a statement under this rule. Once filed, such waiver may not be revoked.
 
-#  Recommendation of the staff judge advocate or legal officer
+## Rule 1106. Recommendation of the staff judge advocate or legal officer
 
-#  In general.
+### (a) In general.
 
 Before the convening authority takes action under R.C.M. 1107 on a record of trial by general court-martial, on a record of trial by special court-martial that includes a sentence to a bad-conduct discharge or confinement for one year, or on a record of trial by special court-martial in which a victim is entitled to submit a statement pursuant to R.C.M. ll05A, that convening authority's staff judge advocate or legal officer shall, except as provided in subsection (c) of this rule, forward to the convening authority a recommendation under this rule.
 
-#  Disqualification.
+### (b) Disqualification.
 
 No person who has acted as member, military judge, trial counsel,
 
@@ -21452,7 +21452,7 @@ advocate or legal officer to any reviewing or convening authority in the
 
 same case.
 
-#  Discussion
+###  Discussion
 
 The staff judge advocate or legal officer may also be ineligible
 
@@ -21470,9 +21470,9 @@ the defense counsel in a companion case; testified as to a contested matter
 
 in issue.
 
-#  When the convening authority has no staff judge advocate.
+### (c) When the convening authority has no staff judge advocate.
 
-#  When the convening authority does not have a staff judge advocate or
+#### (1) When the convening authority does not have a staff judge advocate or
 
  legal officer or that person is disqualified.
 
@@ -21484,15 +21484,15 @@ under subsection (b) of this rule or otherwise, the convening authority
 
 shall: 
 
-Request the assignment of another staff judge advocate or legal
+(A) Request the assignment of another staff judge advocate or legal
 
  officer to prepare a recommendation under this rule; or 
 
-Forward the record for action to any officer exercising general
+(B) Forward the record for action to any officer exercising general
 
  court-martial jurisdiction as provided in R.C.M. 1107(a). 
 
-#  When the convening authority has a legal officer but wants the recommendation
+#### (2) When the convening authority has a legal officer but wants the recommendation
 
 of a staff judge advocate.
 
@@ -21502,39 +21502,39 @@ If the convening authority has a legal officer but no staff judge
 
 designation of a staff judge advocate to prepare the recommendation. 
 
-#  Form and content of recommendation.
+### (d) Form and content of recommendation.
 
-The purpose of the recommendation of the staff judge advocate or legal officer is to assist the convening authority to decide what action to take on the sentence in the exercise of command prerogative.  The staff judge advocate or legal officer shall use the record of trial in the preparation of the recommendation, and may also use the personnel records of the accused or other matters in advising the convening authority whether clemency is warranted.
+(1) The purpose of the recommendation of the staff judge advocate or legal officer is to assist the convening authority to decide what action to take on the sentence in the exercise of command prerogative.  The staff judge advocate or legal officer shall use the record of trial in the preparation of the recommendation, and may also use the personnel records of the accused or other matters in advising the convening authority whether clemency is warranted.
 
-#  Form.
+#### (2) Form.
 
 The recommendation of the staff judge advocate or legal officer shall be a concise written communication.   
 
-#  Required contents.
+#### (3) Required contents.
 
 Except as provided in subsection (e), the staff judge advocate or legal advisor shall provide the convening authority with a copy of the report of results of the trial, setting forth the findings, sentence, and confinement credit to be applied; a copy or summary of the pretrial agreement, if any; a copy of any statement submitted by a crime victim pursuant to R.C.M. 1l05A; any recommendation for clemency by the sentencing authority made in conjunction with the announced sentence; and the staff judge advocate's concise recommendation.
 
-#  Discussion
+####  Discussion
 
  The recommendation required by this rule need not include information regarding other recommendations for clemency. It may include a summary of clemency actions authorized under R.C.M. 1107. _See_ R.C.M. 1105(b)(2)(D) (pertaining to clemency recommendations that may be submitted by the accused to the convening authority).
 
-#  Legal errors.
+##### (4) Legal errors.
 
 The staff judge advocate or legal officer is not required to examine the record for legal errors.  However, when the recommendation is prepared by a staff judge advocate, the staff judge advocate shall state whether, in the staff judge advocate's opinion, corrective action on the findings or sentence should be taken when an allegation of legal error is raised in matters submitted under R.C.M. 1105 or when otherwise deemed appropriate by the staff judge advocate.  The response may consist of a statement of agreement or disagreement with the matter raised by the accused.  An analysis or rationale for the staff judge advocate's statement, if any, concerning legal error is not required.
 
-#  Optional matters.
+##### (5) Optional matters.
 
 The recommendation of the staff judge advocate or legal officer may include, in addition to matters included under subsection (d)(3) and (4) of this rule, any additional matters deemed appropriate by the staff judge advocate or legal officer.  Such matter may include matters outside the record.
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 1107(b)(3)(B)(iii) if matters adverse to the accused from outside the record are included.
 
-#  Effect of error.
+##### (6) Effect of error.
 
 In case of error in the recommendation not otherwise waived under subsection (f)(6) of this rule, appropriate corrective action shall be taken by appellate authorities without returning the case for further action by a convening authority.
 
-#  No findings of guilty; findings of not guilty only by reason of lack
+### (e) No findings of guilty; findings of not guilty only by reason of lack
 
 of mental responsibility.
 
@@ -21548,15 +21548,15 @@ without findings and no further action is contemplated, a recommendation
 
 under this rule is not required. 
 
-#  Service of recommendation on defense counsel, accused,
+### (f) Service of recommendation on defense counsel, accused,
 
 and victim; defense response.
 
-#  Service of recommendation on defense counsel, accused, and victim.
+#### (1) Service of recommendation on defense counsel, accused, and victim.
 
  Before forwarding the recommendation and the record of trial to the convening authority for action under R.C.M. 1107, the staff judge advocate or legal officer shall cause a copy of the recommendation to be served on the counsel for the accused. A separate copy will be served on the accused. If it is impracticable to serve the recommendation on the accused for reasons including the transfer of the accused to a different place, the unauthorized absence of the accused, or military exigency, or if the accused so requests on the record at the court-martial or in writing, the accused's copy shall be forwarded to the accused's defense counsel. A statement shall be attached to the record explaining why the accused was not served personally. If the accused was found guilty of any offense that resulted in direct physical, emotional, or pecuniary harm to a victim or victims, a separate copy of the recommendation will be served on that victim or those victims. When a victim is under 18 years of age, incompetent, incapacitated, deceased, or otherwise unavailable, service shall be made on one of the following (in order of precedence): the victim's attorney, spouse, legal guardian, parent, child, sibling, or similarly situated family member. For a victim that is an institutional entity, service shall be made on an authorized representative of the entity.
 
-#  Discussion
+####  Discussion
 
 The method of service and the form of the proof of service are not
 
@@ -21566,7 +21566,7 @@ The method of service and the form of the proof of service are not
 
 of trial, would be appropriate when the accused is served personally.
 
-#  Counsel for the accused.
+#### (2) Counsel for the accused.
 
 The accused may, at trial or in writing to the staff judge advocate
 
@@ -21594,7 +21594,7 @@ counsel shall enter into an attorney-client relationship with the accused
 
 before examining the recommendation and preparing any response.
 
-#  Discussion
+####  Discussion
 
 When the accused is represented by more than one counsel, the military
 
@@ -21602,7 +21602,7 @@ judge should inquire of the accused and counsel before the end of the court-mart
 
 as to who will act for the accused under this rule.
 
-#  Record of trial.
+#### (3) Record of trial.
 
 The staff judge advocate or legal officer shall, upon request of
 
@@ -21612,15 +21612,15 @@ with a copy of the record of trial for use while preparing the response
 
 to the recommendation. 
 
-#  Response.
+#### (4) Response.
 
 Counsel for the accused may submit, in writing, corrections or rebuttal to any matter in the recommendation and its enclosures believed to be erroneous, inadequate, or misleading, and may comment on any other matter.
 
-#  Discussion
+####  Discussion
 
  _See also_ R.C.M. 1105.
 
-#  Time period.
+#### (5) Time period.
 
 Counsel for the accused shall be given 10 days from service of the
 
@@ -21632,7 +21632,7 @@ authority may, for good cause, extend the period in which comments may be
 
 submitted for up to 20 additional days. 
 
-#  Waiver.
+#### (6) Waiver.
 
 Failure of counsel for the accused to comment on any matter in the
 
@@ -21642,13 +21642,13 @@ shall waive later claim of error with regard to such matter in the absence
 
 of plain error.
 
-#  Discussion
+####  Discussion
 
 The accused is not required to raise objections to the trial proceedings
 
 in order to preserve them for later review.
 
-#  New matter in addendum to recommendation.
+#### (7) New matter in addendum to recommendation.
 
 The staff judge advocate or legal officer may supplement the recommendation
 
@@ -21668,15 +21668,15 @@ counsel for the accused is permitted in accordance with the procedures outlined
 
 in subparagraph (f)(1) of this rule.
 
-#  Discussion
+####  Discussion
 
 "New matter" includes discussion of the effect of new decisions on issues in the case, matter from outside the record of trial, and issues not previously discussed. "New matter" does not ordinarily include any discussion by the staff judge advocate or legal officer of the correctness of the initial defense comments on the recommendation. The method of service and the form of the proof of service are not prescribed and may be by any appropriate means. _See_ R.C.M. 1103(b)(3)(G). For example, a certificate of service, attached to the record of trial, would be appropriate when the accused is served personally. If a victim statement, submitted under R.C.M. 1105A, is served on the accused prior to service of the recommendation, then that statement shall not be considered a "new matter" when it is again served on the accused as an enclosure to the recommendation.
 
-#  Action by convening authority
+## Rule 1107. Action by convening authority
 
 **--LSQP--Note: R.C.M. 1107(b)-(f) apply to offenses committed on or after 24 June 2014; however, if at least one offense in a case occurred prior to 24 June 2014, then the prior version of RCM 1107 applies to all offenses in the case, except that mandatory minimum sentences under Article 56(b) and applicable rules under RCM 1107(d)(1)(D)-(E) still apply.--RSQP--**
 
-#  Who may take action.
+### (a) Who may take action.
 
 The convening authority shall take action on the sentence and, in
 
@@ -21690,7 +21690,7 @@ may prescribe, forward the case to an officer exercising general court-martial
 
  jurisdiction who may take action under this rule.
 
-#  Discussion
+###  Discussion
 
 The convening authority may not delegate the function of taking
 
@@ -21724,13 +21724,13 @@ initial review and action, the record should include a statement of the reasons
 
 why the convening authority did not act.
 
-#  General considerations.
+### (b) General considerations.
 
-#  Discretion of convening authority.
+#### (1) Discretion of convening authority.
 
 Any action to be taken on the findings and sentence is within the sole discretion of the convening authority. The convening authority is not required to review the case for legal errors or factual sufficiency.
 
-#  Discussion
+####  Discussion
 
 The action is taken in the interests of justice, discipline, mission
 
@@ -21740,7 +21740,7 @@ by the convening authority, the convening authority may take corrective
 
 action under this rule.
 
-#  When action may be taken.
+#### (2) When action may be taken.
 
 The convening authority may take action only after the applicable
 
@@ -21750,35 +21750,35 @@ the right to present matters under R.C.M. 1105(d), whichever is earlier,
 
 subject to regulations of the Secretary concerned. 
 
-#  Matters considered.
+#### (3) Matters considered.
 
-#  Required matters.
+##### (A) Required matters.
 
 Before taking action, the convening authority shall consider: 
 
-The result of trial;
+(i) The result of trial;
 
-#  Discussion
+######  Discussion
 
  _See_ R.C.M. 1101(a).
 
-The recommendation of the staff judge advocate or legal officer
+(ii) The recommendation of the staff judge advocate or legal officer
 
 under R.C.M. 1106, if applicable; and 
 
-Any matters submitted by the accused under R.C.M. 1105 or, if applicable, R.C.M. 1106(f);
+(iii) Any matters submitted by the accused under R.C.M. 1105 or, if applicable, R.C.M. 1106(f);
 
-Any statement submitted by a crime victim pursuant to R.C.M. 1105A and subsection (C) below.
+(iv) Any statement submitted by a crime victim pursuant to R.C.M. 1105A and subsection (C) below.
 
-#  Additional matters.
+##### (B) Additional matters.
 
 Before taking action the convening authority may consider: 
 
-The record of trial, subject to the provisions of R.C.M. 1103A and subsection (C) below;
+(i) The record of trial, subject to the provisions of R.C.M. 1103A and subsection (C) below;
 
-The personnel records of the accused; and 
+(ii) The personnel records of the accused; and 
 
-Such other matters as the convening authority deems appropriate.
+(iii) Such other matters as the convening authority deems appropriate.
 
  However, if the convening authority considers matters adverse to the accused
 
@@ -21786,11 +21786,11 @@ from outside the record, with knowledge of which the accused is not chargeable,
 
 the accused shall be notified and given an opportunity to rebut. 
 
-#  Prohibited matters.
+##### (C) Prohibited matters.
 
 The convening authority shall not consider any matters that relate to the character of a victim unless such matters were presented as evidence at trial and not excluded at trial.
 
-#  When proceedings resulted in finding of not guilty or not guilty only
+#### (4) When proceedings resulted in finding of not guilty or not guilty only
 
 by reason of lack of mental responsibility, or there was a ruling amounting
 
@@ -21808,13 +21808,13 @@ the convening authority, however, shall commit the accused to a suitable
 
 facility pending a hearing and disposition in accordance with R.C.M. 1102A.
 
-#  Discussion
+####  Discussion
 
 Commitment of the accused to the custody of the Attorney General
 
 for hospitalization is discretionary.
 
-#  Action when accused lacks mental capacity.
+#### (5) Action when accused lacks mental capacity.
 
 The convening authority may not approve a sentence while the accused
 
@@ -21846,61 +21846,61 @@ mental capacity. Nothing in this subsection shall prohibit the convening
 
 authority from disapproving the findings of guilty and sentence. 
 
-#  Action on findings.
+### (c) Action on findings.
 
 Action on the findings is not required. However, the convening authority may take action subject to the following limitations:
 
-For offenses charged under subsection (a) or (b) of Article 120; offenses charged under Article 120b; and offenses charged under Article 125.
+(1) For offenses charged under subsection (a) or (b) of Article 120; offenses charged under Article 120b; and offenses charged under Article 125.
 
-The convening authority is prohibited from:
+(A) The convening authority is prohibited from:
 
-Setting aside any finding of guilt or dismissing a specification; or
+(i) Setting aside any finding of guilt or dismissing a specification; or
 
-Changing a finding of guilty to a charge or specification to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification.
+(ii) Changing a finding of guilty to a charge or specification to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification.
 
-The convening authority may direct a rehearing in accordance with subsection (e) of this rule.
+(B) The convening authority may direct a rehearing in accordance with subsection (e) of this rule.
 
-For offenses other than those listed in subsection (c)(1) for which the maximum sentence of confinement that may be adjudged does not exceed two years without regard to the jurisdictional limits of the court; and the sentence adjudged does not include dismissal, a dishonorable discharge, bad-conduct discharge, or confinement for more than six months: 
+(2) For offenses other than those listed in subsection (c)(1) for which the maximum sentence of confinement that may be adjudged does not exceed two years without regard to the jurisdictional limits of the court; and the sentence adjudged does not include dismissal, a dishonorable discharge, bad-conduct discharge, or confinement for more than six months: 
 
-The convening authority may change a finding of guilty to a charge or specification to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification; or
+(A) The convening authority may change a finding of guilty to a charge or specification to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification; or
 
-Set aside any finding of guilty and:
+(B) Set aside any finding of guilty and:
 
-Dismiss the specification and, if appropriate, the charge; or
+(i) Dismiss the specification and, if appropriate, the charge; or
 
-Direct a rehearing in accordance with subsection (e) of this rule.
+(ii) Direct a rehearing in accordance with subsection (e) of this rule.
 
-If the convening authority acts to dismiss or change any charge or specification for an offense, the convening authority shall provide, at the same time, a written explanation of the reasons for such action. The written explanation shall be made a part of the record of trial and action thereon.
+(3) If the convening authority acts to dismiss or change any charge or specification for an offense, the convening authority shall provide, at the same time, a written explanation of the reasons for such action. The written explanation shall be made a part of the record of trial and action thereon.
 
-#  Action on the sentence.
+### (d) Action on the sentence.
 
-#  In general.
+#### (1) In general.
 
-The convening authority may not disapprove, commute, or suspend, in whole or in part, any portion of an adjudged sentence of confinement for more than six months.
+(A) The convening authority may not disapprove, commute, or suspend, in whole or in part, any portion of an adjudged sentence of confinement for more than six months.
 
-The convening authority may not disapprove, commute, or suspend that portion of an adjudged sentence that includes a dismissal, dishonorable discharge, or bad-conduct discharge.
+(B) The convening authority may not disapprove, commute, or suspend that portion of an adjudged sentence that includes a dismissal, dishonorable discharge, or bad-conduct discharge.
 
-The convening authority may disapprove, commute, or suspend, in whole or in part, any portion of an adjudged sentence not explicitly prohibited by this rule, to include reduction in pay grade, forfeitures of pay and allowances, fines, reprimands, restrictions, and hard labor without confinement.
+(C) The convening authority may disapprove, commute, or suspend, in whole or in part, any portion of an adjudged sentence not explicitly prohibited by this rule, to include reduction in pay grade, forfeitures of pay and allowances, fines, reprimands, restrictions, and hard labor without confinement.
 
-The convening authority shall not disapprove, commute, or suspend any mandatory minimum sentence of dismissal or dishonorable discharge except in accordance with subsection (E) below. 
+(D) The convening authority shall not disapprove, commute, or suspend any mandatory minimum sentence of dismissal or dishonorable discharge except in accordance with subsection (E) below. 
 
-#  Exceptions. 
+##### (E) Exceptions. 
 
-#  Trial counsel recommendation.
+###### (i) Trial counsel recommendation.
 
  Upon the recommendation of the trial counsel, in recognition of the substantial assistance by the accused in the investigation or prosecution of another person who has committed an offense, the convening authority or another person authorized to act under this section shall have the authority to disapprove, commute, or suspend the adjudged sentence, in whole or in part, even with respect to an offense for which a mandatory minimum sentence exists.
 
-#  Discussion
+######  Discussion
 
  The phrase "investigation or prosecution of another person who has committed an offense" includes offenses under the UCMJ or other Federal, State, local, or foreign criminal statutes.
 
-#  Pretrial agreement.
+###### (ii) Pretrial agreement.
 
  If a pretrial agreement has been entered into by the convening authority and the accused as authorized by R.C.M. 705, the convening authority shall have the authority to approve, disapprove, commute, or suspend a sentence, in whole or in part, pursuant to the terms of the pretrial agreement. The convening authority may commute a mandatory sentence of a dishonorable discharge to a bad-conduct discharge pursuant to the terms of the pretrial agreement. 
 
-If the convening authority acts to disapprove, commute, or suspend, in whole or in part, the sentence of the court-martial for an offense, the convening authority shall provide, at the same time, a written explanation of the reasons for such action. The written explanation shall be made a part of the record of trial and action thereon.
+(F) If the convening authority acts to disapprove, commute, or suspend, in whole or in part, the sentence of the court-martial for an offense, the convening authority shall provide, at the same time, a written explanation of the reasons for such action. The written explanation shall be made a part of the record of trial and action thereon.
 
-#  Discussion
+#####  Discussion
 
  A sentence adjudged by a court-martial may be approved if it was within the jurisdiction of the court-martial to adjudge (_see_ R.C.M.201(f)) and did not exceed the maximum limits prescribed in Part IV and Chapter X of this Part for the offense(s) of which the accused legally has been found guilty.
 
@@ -21910,19 +21910,19 @@ R.C.M. 1003(b)(5)-(6), as appropriate.
 
  Unless prohibited by this rule, the convening authority may disapprove, mitigate or change to a less severe punishment any individual component of a sentence. For example, if an accused is found guilty of assault consummated by a battery and sentenced to a bad-conduct discharge, three months of confinement, and reduction to E-1, without a pre-trial agreement and without being able to apply the substantial assistance exception, the convening authority may disapprove or reduce any part of the sentence except the bad-conduct discharge.
 
-#  Determining what sentence should be approved. 
+#### (2) Determining what sentence should be approved. 
 
 The convening authority shall, subject to the limitations in subsection (d)(1) above, approve that sentence which is warranted by the circumstances of the offense and appropriate for the accused.
 
-#  Discussion
+####  Discussion
 
  In determining what sentence should be approved, the convening authority should consider all relevant and permissible factors including the possibility of rehabilitation, the deterrent effect of the sentence, and all matters relating to clemency, such as pretrial confinement. _See also_ R.C.M. 1001- 1004.
 
  When an accused is not serving confinement, the accused should not be deprived of more than two-thirds pay for any month as a result of one or more sentences by court-martial and other stoppages or involuntary deductions, unless requested by the accused. Since court-martial forfeitures constitute a loss of entitlement of the pay concerned, they take precedence over all debts.
 
-#  Deferring service of a sentence to confinement.
+#### (3) Deferring service of a sentence to confinement.
 
-In a case in which a court-martial sentences an accused referred
+(A) In a case in which a court-martial sentences an accused referred
 
 to in subsection (B), below, to confinement, the convening authority may
 
@@ -21932,7 +21932,7 @@ consent of the accused, until after the accused has been permanently released
 
 to the armed forces by a state or foreign country. 
 
-Subsection (A) applies to an accused who, while in custody of a
+(B) Subsection (A) applies to an accused who, while in custody of a
 
 state or foreign country, is temporarily returned by that state or foreign
 
@@ -21942,19 +21942,19 @@ is returned to that state or foreign country under the authority of a mutual
 
  agreement or treaty, as the case may be. 
 
-As used in subsection (d)(3), the term "state" means
+(C) As used in subsection (d)(3), the term "state" means
 
 a state of the United States, the District of Columbia, a territory, and
 
 a possession of the United States.
 
-#  Discussion
+#####  Discussion
 
 The convening authority's decision to postpone service of a court-martial
 
 sentence to confinement normally should be reflected in the action.
 
-#  Limitations on sentence based on record of trial.
+#### (4) Limitations on sentence based on record of trial.
 
 If the record of trial does not meet the requirements of R.C.M.
 
@@ -21968,11 +21968,11 @@ forfeiture of pay exceeding two-thirds pay per month, or any forfeiture of
 
 pay for more than six months.
 
-#  Discussion
+####  Discussion
 
  _See also_ R.C.M. 1103(f).
 
-#  Limitations on sentence of a special court-martial where a fine has
+#### (5) Limitations on sentence of a special court-martial where a fine has
 
 been adjudged.
 
@@ -21986,11 +21986,11 @@ of the fine and forfeitures, whether adjudged or by operation of Article
 
 that may be adjudged at that court-martial. 
 
-#  Ordering rehearing or other trial.
+### (e) Ordering rehearing or other trial.
 
-#  Rehearing.
+#### (1) Rehearing.
 
-#  In general.
+##### (A) In general.
 
 Subject to subsections (e)(1)(B) through (e)(1)(E) of this rule,
 
@@ -22000,7 +22000,7 @@ a rehearing. A rehearing may be ordered as to some or all offenses of which
 
  findings of guilty were entered and the sentence, or as to sentence only.
 
-#  Discussion
+#####  Discussion
 
 A rehearing may be appropriate when an error substantially affecting
 
@@ -22014,15 +22014,15 @@ of the findings or the sentence of the original court-martial may not be
 
 under restraint pending a rehearing, _ see_ R.C.M. 304; 305.
 
-#  When the convening authority may order a rehearing.
+##### (B) When the convening authority may order a rehearing.
 
 The convening authority may order a rehearing: 
 
-When taking action on the court-martial under this rule; 
+(i) When taking action on the court-martial under this rule; 
 
-In cases subject to review by the Court of Criminal Appeals, before the case is forwarded under R.C.M. 1111(a)(1) or (b)(1), but only as to any sentence which was approved or findings of guilty as we not disapproved in any earlier action.  In cases of rehearing under paragraph (c)(2), a supplemental action disapproving the sentence and some or all of the findings , as appropriate, shall be taken; or
+(ii) In cases subject to review by the Court of Criminal Appeals, before the case is forwarded under R.C.M. 1111(a)(1) or (b)(1), but only as to any sentence which was approved or findings of guilty as we not disapproved in any earlier action.  In cases of rehearing under paragraph (c)(2), a supplemental action disapproving the sentence and some or all of the findings , as appropriate, shall be taken; or
 
-#  When authorized to do so by superior competent authority.
+###### (iii) When authorized to do so by superior competent authority.
 
 If the convening authority finds a rehearing as to any offenses
 
@@ -22030,7 +22030,7 @@ If the convening authority finds a rehearing as to any offenses
 
 and, when appropriate, charges.
 
-#  Discussion
+######  Discussion
 
 A sentence rehearing, rather than a reassessment, may be more appropriate
 
@@ -22042,7 +22042,7 @@ of superior competent authority. Where that directive is unclear, appropriate
 
 clarification should be sought from the authority issuing the original directive.
 
-#  Sentence reassessment.
+###### (iv) Sentence reassessment.
 
 If a superior authority has approved some of the findings of guilty
 
@@ -22060,15 +22060,15 @@ had the prejudicial error not been committed and the reassessed sentence is
 
 appropriate in relation to the affirmed findings of guilty.
 
-#  Limitations.
+##### (C) Limitations.
 
-#  Sentence approved.
+###### (i) Sentence approved.
 
 A rehearing shall not be ordered if, in the same action, a sentence
 
  is approved. 
 
-#  Rehearing on sentence only.
+###### (ii) Rehearing on sentence only.
 
 A rehearing on sentence only shall not be referred to a different
 
@@ -22080,13 +22080,13 @@ convening authority determines a rehearing on sentence is impracticable,
 
 conducting a rehearing. 
 
-#  Additional charges.
+##### (D) Additional charges.
 
 Additional charges may be referred for trial together with charges
 
 as to which a rehearing has been directed. 
 
-#  Lesser included offenses.
+##### (E) Lesser included offenses.
 
 If at a previous trial the accused was convicted of a lesser included
 
@@ -22102,7 +22102,7 @@ of which the accused was convicted at the original trial may nevertheless
 
 be approved. 
 
-#  "Other" trial.
+#### (2) "Other" trial.
 
 The convening or higher authority may order an "other"
 
@@ -22114,9 +22114,9 @@ an "other" trial shall state in the action the basis for declaring
 
 the proceedings invalid. 
 
-#  Contents of action and related matters.
+### (f) Contents of action and related matters.
 
-#  In general.
+#### (1) In general.
 
 The convening authority shall state in writing and insert in the
 
@@ -22128,15 +22128,15 @@ any findings of guilty are disapproved, and orders as to further disposition.
 
 authority's authority to sign shall appear below the signature.
 
-#  Discussion
+####  Discussion
 
  _See_ Appendix 16 for forms.
 
-#  Modification of initial action.
+#### (2) Modification of initial action.
 
 Subject to the limitations in subsections (c) and (d) above, the convening authority may recall and modify any action taken by that convening authority at any time before it has been published or before the accused has been officially notified. The convening authority may also recall and modify any action at any time prior to forwarding the record for review, as long as the modification does not result in action less favorable to the accused than the earlier action. In addition, in any special court-martial, the convening authority may recall and correct an illegal, erroneous, incomplete, or ambiguous action at any time before completion of review under R.C.M. 1112, as long as the correction does not result in action less favorable to the accused than the earlier action. When so directed by a higher reviewing authority or the Judge Advocate General, the convening authority shall modify any incomplete, ambiguous, void, or inaccurate action noted in review of the record of trial under Articles 64, 66, 67, or examination of the record of trial under Article 69. The convening authority shall personally sign any supplementary or corrective action. A written explanation is required for any modification of initial action which: 1) sets aside any finding of guilt or dismisses or changes any charge or specification for an offense; or 2) disapproves, commutes, or suspends, in whole or in part, the sentence. The written explanation shall be made a part of the record of trial and action thereon.
 
-#  Discussion
+####  Discussion
 
 For purposes of this rule, a record is considered to have been
 
@@ -22148,7 +22148,7 @@ in person or has entrusted it for delivery to a third party over whom the
 
  United States Postal Service).
 
-#  Findings of guilty.
+#### (3) Findings of guilty.
 
 If any findings of guilty are disapproved, the action shall so state.
 
@@ -22160,7 +22160,7 @@ other trial is directed, the reasons for the disapproval shall be set forth
 
  in the action.
 
-#  Discussion
+####  Discussion
 
 If a rehearing or other trial is not directed, the reasons for
 
@@ -22180,9 +22180,9 @@ to approve findings of guilty. _See_ subsection (c) of this
 
 rule.
 
-#  Action on sentence.
+#### (4) Action on sentence.
 
-#  In general.
+##### (A) In general.
 
 The action shall state whether the sentence adjudged by the court-martial
 
@@ -22192,7 +22192,7 @@ which parts are approved. A rehearing may not be directed if any sentence
 
 is approved.
 
-#  Discussion
+#####  Discussion
 
  _See_ Appendix 16 for forms. 
 
@@ -22204,7 +22204,7 @@ See_ R.C.M. 1108 concerning suspension of sentences.
 
 See_ R.C.M. 1113 concerning execution of sentences.
 
-#  Execution; suspension.
+##### (B) Execution; suspension.
 
 The action shall indicate, when appropriate, whether an approved
 
@@ -22212,7 +22212,7 @@ The action shall indicate, when appropriate, whether an approved
 
 the sentence is to be suspended. No reasons need be stated. 
 
-#  Place of confinement.
+##### (C) Place of confinement.
 
 If the convening authority orders a sentence of confinement into
 
@@ -22226,13 +22226,13 @@ of the convening authority, the authority ordering the execution shall designate
 
 the place of confinement unless otherwise prescribed by the Secretary concerned.
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 1113(e)(2)(C) concerning the place
 
 of confinement.
 
-#  Custody or confinement pending appellate review; capital cases.
+##### (D) Custody or confinement pending appellate review; capital cases.
 
 When a record of trial involves an approved sentence to death, the
 
@@ -22244,7 +22244,7 @@ in the action for the temporary custody or confinement of the accused pending
 
 final disposition of the case on appellate review. 
 
-#  Deferment of service of sentence to confinement.
+##### (E) Deferment of service of sentence to confinement.
 
 Whenever the service of the sentence to confinement is deferred
 
@@ -22256,25 +22256,25 @@ the deferment became effective. The reason for the deferment need not be
 
  stated in the action. 
 
-#  Credit for illegal pretrial confinement.
+##### (F) Credit for illegal pretrial confinement.
 
 When the military judge has directed that the accused receive credit
 
  under R.C.M. 305(k), the convening authority shall so direct in the action.
 
-#  Reprimand.
+##### (G) Reprimand.
 
 The convening authority shall include in the action any reprimand
 
  which the convening authority has ordered executed.
 
-#  Discussion
+#####  Discussion
 
 _See_ R.C.M. 1003(b)(1) concerning reprimands.
 
-#  Action on rehearing or new or other trial.
+#### (5) Action on rehearing or new or other trial.
 
-#  Rehearing or other trial.
+##### (A) Rehearing or other trial.
 
 In acting on a rehearing or other trial the convening authority
 
@@ -22332,7 +22332,7 @@ the former hearing shall be restored. The convening authority shall take
 
 hearing. 
 
-#  New trial.
+##### (B) New trial.
 
 The action of the convening authority on a new trial shall, insofar
 
@@ -22340,17 +22340,17 @@ The action of the convening authority on a new trial shall, insofar
 
 trials in subsection (f)(5)(A) of this rule.
 
-#  Discussion
+#####  Discussion
 
 _See_ R.C.M. 810 for procedures at other trials.
 
   In approving a sentence not in excess of or more severe than one previously approved (_see_ R.C.M. 810(d)), a convening authority is prohibited from approving a punitive discharge more severe than one formerly approved, e.g., a convening authority is prohibited from approving a dishonorable discharge if a bad conduct discharge had formerly been approved.  Otherwise, in approving a sentence not in excess of or more severe than one previously imposed, a convening authority is not limited to approving the same or lesser type of "other punishments" formerly approved.
 
-#  Incomplete, ambiguous, or erroneous action. 
+### (g) Incomplete, ambiguous, or erroneous action. 
 
 When the action of the convening authority or of a higher authority is incomplete or ambiguous or contains error, the authority who took the incomplete, ambiguous, or erroneous action may be instructed by an authority acting under Articles 64, 66, 67, 67a, or 69 to withdraw the original action and substitute a corrected action.
 
-#  Service on accused.
+### (h) Service on accused.
 
 A copy of the convening authority's action shall be served on the
 
@@ -22360,15 +22360,15 @@ A copy of the convening authority's action shall be served on the
 
 copy.
 
-#  Discussion
+###  Discussion
 
 If the promulgating order is prepared promptly, service of it will
 
  satisfy subsection (h).
 
-#  Suspension of execution of sentence; remission
+## Rule 1108. Suspension of execution of sentence; remission
 
-#  In general.
+### (a) In general.
 
 Suspension of a sentence grants the accused a probationary period
 
@@ -22380,13 +22380,13 @@ of the sentence shall be remitted. Remission cancels the unexecuted part
 
  of a sentence to which it applies.
 
-#  Who may suspend and remit.
+### (b) Who may suspend and remit.
 
 **--LSQP--Note: R.C.M. 1108(b) applies to offenses committed on or after 24 June 2014.--RSQP--**
 
 The convening authority may, after approving the sentence, suspend the execution of all or any part of the sentence of a court-martial, except for a sentence of death or as prohibited under R.C.M. 1107(d). The general court-martial convening authority over the accused at the time of the court-martial may, when taking action under R.C.M. 1112(f), suspend or remit any part of the sentence. The Secretary concerned and, when designated by the Secretary concerned, any Under Secretary, Assistant Secretary, Judge Advocate General, or commanding officer may suspend or remit any part or amount of the unexecuted part of any sentence other than a sentence approved by the President or a sentence of confinement for life without eligibility for parole that has been ordered executed. The Secretary concerned may, however, suspend or remit the unexecuted part of a sentence of confinement for life without eligibility for parole only after the service of a period of confinement of not less than 20 years. The commander of the accused who has the authority to convene a court-martial of the kind that adjudged the sentence may suspend or remit any part of the unexecuted part of any sentence by summary court-martial or of any sentence by special court-martial that does not include a bad-conduct discharge regardless of whether the person acting has previously approved the sentence. The "unexecuted part of any sentence" is that part that has been approved and ordered executed but that has not actually been carried out.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 1113 (execution of sentences); R.C.M.
 
@@ -22398,19 +22398,19 @@ of the Secretary).
 
 may not suspend sentences.
 
-#  Conditions of suspension.
+### (c) Conditions of suspension.
 
 The authority who suspends the execution of the sentence of a court-martial
 
 shall: 
 
-Specify in writing the conditions of the suspension; 
+(1) Specify in writing the conditions of the suspension; 
 
-Cause a copy of the conditions of the suspension to be served on
+(2) Cause a copy of the conditions of the suspension to be served on
 
 the probationer; and 
 
-Cause a receipt to be secured from the probationer for service of
+(3) Cause a receipt to be secured from the probationer for service of
 
 the conditions of the suspension. 
 
@@ -22420,7 +22420,7 @@ action suspending a sentence includes as a condition that the probationer
 
  not violate any punitive article of the code. 
 
-#  Limitations on suspension.
+### (d) Limitations on suspension.
 
 Suspension shall be for a stated period or until the occurrence
 
@@ -22442,7 +22442,7 @@ has been suspended; reduce the period of suspension; or, subject to R.C.M.
 
 1109, vacate the suspension in whole or in part. 
 
-#  Termination of suspension by remission.
+### (e) Termination of suspension by remission.
 
 Expiration of the period provided in the action suspending a sentence
 
@@ -22454,15 +22454,15 @@ subject to the code shall result in remission of the suspended portion of
 
 the sentence.
 
-#  Discussion
+###  Discussion
 
  _See_ R.C.M. 1109(b)(4) concerning interruption
 
 of the period of suspension.
 
-#  Vacation of suspension of sentence
+## Rule 1109. Vacation of suspension of sentence
 
-#  In general.
+### (a) In general.
 
 Suspension of execution of the sentence of a court-martial may be
 
@@ -22470,27 +22470,27 @@ Suspension of execution of the sentence of a court-martial may be
 
 this rule. 
 
-#  Timeliness.
+### (b) Timeliness.
 
-#  Violation of conditions.
+#### (1) Violation of conditions.
 
 Vacation shall be based on a violation of the conditions of suspension
 
 which occurs within the period of suspension. 
 
-#  Vacation proceedings.
+#### (2) Vacation proceedings.
 
 Vacation proceedings under this rule shall be completed within a
 
  reasonable time. 
 
-#  Order vacating the suspension.
+#### (3) Order vacating the suspension.
 
 The order vacating the suspension shall be issued before the expiration
 
 of the period of suspension. 
 
-#  Discussion
+####  Discussion
 
 The order vacating a suspended sentence must be issued before the
 
@@ -22502,7 +22502,7 @@ of appellate review or action by the President or the Secretary concerned.
 
  _See_ R.C.M. 1113 concerning execution of sentences.
 
-#  Interruptions to the period of suspension.
+#### (4) Interruptions to the period of suspension.
 
 Unauthorized absence of the probationer or the commencement of
 
@@ -22510,9 +22510,9 @@ proceedings under this rule to vacate suspension interrupts the running of
 
 the period of suspension. 
 
-#  Confinement of probationer pending vacation proceedings.
+### (c) Confinement of probationer pending vacation proceedings.
 
-#  In general.
+#### (1) In general.
 
 A probationer under a suspended sentence to confinement may be
 
@@ -22520,13 +22520,13 @@ confined pending action under subsection (d)(2) of this rule, in accordance
 
 with the procedures in this subsection. 
 
-#  Who may order confinement.
+#### (2) Who may order confinement.
 
 Any person who may order pretrial restraint under R.C.M. 304(b)
 
 may order confinement of a probationer under a suspended sentence to confinement.
 
-#  Basis for confinement.
+#### (3) Basis for confinement.
 
 A probationer under a suspended sentence to confinement may be
 
@@ -22534,7 +22534,7 @@ ordered into confinement upon probable cause to believe the probationer violated
 
 any conditions of the suspension.
 
-#  Discussion
+####  Discussion
 
 A determination that confinement is necessary to ensure the presence
 
@@ -22550,7 +22550,7 @@ for which trial by court-martial is considered, an appropriate form of pretrial
 
 See_ R.C.M. 304 and 305.
 
-#  Review of confinement.
+#### (4) Review of confinement.
 
 Unless proceedings under subsection (d)(1), (e), (f), or (g) of
 
@@ -22562,25 +22562,25 @@ hearing shall be conducted by a neutral and detached officer appointed in
 
 accordance with regulations of the Secretary concerned. 
 
-#  Rights of accused.
+##### (A) Rights of accused.
 
  Before the preliminary hearing, the accused shall be notified in
 
  writing of: 
 
-The time, place, and purpose of the hearing, including the alleged
+(i) The time, place, and purpose of the hearing, including the alleged
 
  violation(s) of the conditions of suspension; 
 
-The right to be present at the hearing; 
+(ii) The right to be present at the hearing; 
 
-The right to be represented at the hearing by civilian counsel
+(iii) The right to be represented at the hearing by civilian counsel
 
 provided by the probationer or, upon request, by military counsel detailed
 
 for this purpose; and 
 
-The opportunity to be heard, to present witnesses who are reasonably
+(iv) The opportunity to be heard, to present witnesses who are reasonably
 
  available and other evidence, and the right to confront and cross-examine
 
@@ -22596,7 +22596,7 @@ unduly delaying the proceedings or, if a military witness, cannot be excused
 
 from other important duties. 
 
-#  Rules of evidence.
+##### (B) Rules of evidence.
 
 Except for Mil. R. Evid. Section V (Privileges) and Mil. R. Evid.
 
@@ -22604,7 +22604,7 @@ Except for Mil. R. Evid. Section V (Privileges) and Mil. R. Evid.
 
 at the preliminary hearing under this rule. 
 
-#  Decision.
+##### (C) Decision.
 
 The hearing officer shall determine whether there is probable cause
 
@@ -22628,11 +22628,11 @@ to the probationer's commander and forward a copy to the probationer and
 
  the officer in charge of the confinement facility. 
 
-#  Vacation of suspended general court-martial sentence.
+### (d) Vacation of suspended general court-martial sentence.
 
-#  Action by officer having special court-martial jurisdiction over probationer.
+#### (1) Action by officer having special court-martial jurisdiction over probationer.
 
-#  In general.
+##### (A) In general.
 
 Before vacation of the suspension of any general court-martial
 
@@ -22652,27 +22652,27 @@ hold a hearing under subsection (d)(1) of this rule. In such cases, subsection
 
 (d)(1)(D) of this rule shall not apply. 
 
-#  Notice to probationer.
+##### (B) Notice to probationer.
 
 Before the hearing, the officer conducting the hearing shall cause
 
  the probationer to be notified in writing of: 
 
-The time, place, and purpose of the hearing; 
+(i) The time, place, and purpose of the hearing; 
 
-The right to be present at the hearing; 
+(ii) The right to be present at the hearing; 
 
-The alleged violation(s) of the conditions of suspension and the
+(iii) The alleged violation(s) of the conditions of suspension and the
 
  evidence expected to be relied on; 
 
-The right to be represented at the hearing by civilian counsel
+(iv) The right to be represented at the hearing by civilian counsel
 
 provided by the probationer or, upon request, by military counsel detailed
 
 for this purpose; and 
 
-The opportunity to be heard, to present witnesses and other evidence,
+(v) The opportunity to be heard, to present witnesses and other evidence,
 
  and the right to confront and cross-examine adverse witnesses unless the
 
@@ -22680,19 +22680,19 @@ hearing officer determines that there is good cause for not allowing confrontati
 
 and cross-examination.
 
-#  Discussion
+######  Discussion
 
 The notice should be provided sufficiently in advance of the hearing
 
  to permit adequate preparation. 
 
-#  Hearing.
+##### (C) Hearing.
 
 The procedure for the vacation hearing shall follow that prescribed
 
  in R.C.M. 405(g), (h)(1), and (i). 
 
-#  Record and recommendation.
+##### (D) Record and recommendation.
 
 The officer who conducts the vacation proceeding shall make a summarized
 
@@ -22702,7 +22702,7 @@ recommendation concerning vacation to the officer exercising general court-marti
 
 jurisdiction over the probationer. 
 
-#  Release from confinement.
+##### (E) Release from confinement.
 
 If the special court-martial convening authority finds there is
 
@@ -22718,7 +22718,7 @@ any event, forward the record and recommendation under subsection (d)(1)(D)
 
 of this rule.
 
-#  Discussion
+#####  Discussion
 
  _See_ Appendix 18 for a sample of a Report of Proceedings
 
@@ -22726,11 +22726,11 @@ to Vacate Suspension of a General Court-Martial Sentence under Article 72,
 
 UCMJ, and R.C.M. 1109 (DD Form 455).
 
-#  Action by officer exercising general court-martial jurisdiction over
+#### (2) Action by officer exercising general court-martial jurisdiction over
 
  probationer.
 
-#  In general.
+##### (A) In general.
 
 The officer exercising general court-martial jurisdiction over the
 
@@ -22748,17 +22748,17 @@ that officer shall prepare a written statement of the evidence relied on
 
 and the reasons for vacating the suspended sentence. 
 
-#  Execution.
+##### (B) Execution.
 
 Any unexecuted part of a suspended sentence ordered vacated under
 
  this rule shall, subject to R.C.M. 1113(c), be ordered executed. 
 
-#   Vacation of a suspended special court-martial sentence wherein a
+### (e)  Vacation of a suspended special court-martial sentence wherein a
 
 bad-conduct discharge or confinement for one year was not adjudged.
 
-#  In general.
+#### (1) In general.
 
 Before vacating the suspension of a special court-martial punishment
 
@@ -22770,7 +22770,7 @@ the special court-martial convening authority for the command in which the
 
  alleged violation(s) of the conditions of suspension. 
 
-#  Notice to probationer.
+#### (2) Notice to probationer.
 
 The person conducting the hearing shall notify the probationer,
 
@@ -22778,13 +22778,13 @@ in writing, before the hearing of the rights specified in subsection (d)(1)(B)
 
 of this rule. 
 
-#  Hearing.
+#### (3) Hearing.
 
 The procedure for the vacation hearing shall follow that prescribed
 
  in R.C.M. 405(g), (h)(1), and (i). 
 
-#  Authority to vacate suspension.
+#### (4) Authority to vacate suspension.
 
 The special court-martial convening authority for the command in
 
@@ -22792,7 +22792,7 @@ The special court-martial convening authority for the command in
 
 vacate any punishment that the officer has the authority to order executed.
 
-#  Record and recommendation.
+#### (5) Record and recommendation.
 
 If the hearing is not held by the commander with authority to vacate
 
@@ -22804,7 +22804,7 @@ recommendation concerning vacation to the commander with authority to vacate
 
 the suspension. 
 
-#  Decision.
+#### (6) Decision.
 
 The special court-martial convening authority shall review the record
 
@@ -22820,29 +22820,29 @@ shall prepare a written statement of the evidence relied on and the reasons
 
 for vacating the suspended sentence. 
 
-#  Execution.
+#### (7) Execution.
 
 Any unexecuted part of a suspended sentence ordered vacated under
 
  this subsection shall be ordered executed. 
 
-#   Vacation of a suspended special court-martial sentence that includes
+### (f)  Vacation of a suspended special court-martial sentence that includes
 
 a bad-conduct discharge or confinement for one year.
 
-The procedure for the vacation of a suspended approved bad-conduct
+(1) The procedure for the vacation of a suspended approved bad-conduct
 
  discharge or of any suspended portion of an approved sentence to confinement
 
 for one year, shall follow that set forth in subsection (d) of this rule.
 
-The procedure for the vacation of a suspension of any lesser special
+(2) The procedure for the vacation of a suspension of any lesser special
 
  court-martial punishment shall follow that set forth in subsection (e) of
 
 this rule.
 
-#  Discussion
+####  Discussion
 
 An officer exercising special court-martial jurisdiction may vacate
 
@@ -22860,9 +22860,9 @@ Sentence including a bad-conduct discharge or confinement for one year under
 
 Article 72, UCMJ, and R.C.M. 1109 (DD Form 455).
 
-#  Vacation of a suspended summary court-martial sentence.
+### (g) Vacation of a suspended summary court-martial sentence.
 
-Before vacation of the suspension of a summary court-martial sentence,
+(1) Before vacation of the suspension of a summary court-martial sentence,
 
 the summary court-martial convening authority for the command in which the
 
@@ -22870,7 +22870,7 @@ probationer is serving or assigned shall cause a hearing to be held on the
 
 alleged violation(s) of the conditions of suspension. 
 
-#  Notice to probationer.
+#### (2) Notice to probationer.
 
 The person conducting the hearing shall notify the probationer before
 
@@ -22878,13 +22878,13 @@ The person conducting the hearing shall notify the probationer before
 
 and (v) of this rule. 
 
-#  Hearing.
+#### (3) Hearing.
 
 The procedure for the vacation hearing shall follow that prescribed
 
  in R.C.M. 405(g), (h)(1), and (i). 
 
-#  Authority to vacate suspension.
+#### (4) Authority to vacate suspension.
 
 The summary court-martial convening authority for the command in
 
@@ -22892,7 +22892,7 @@ The summary court-martial convening authority for the command in
 
 vacate any punishment that the officer had the authority to order executed.
 
-#  Record and recommendation.
+#### (5) Record and recommendation.
 
 If the hearing is not held by the commander with authority to vacate
 
@@ -22904,7 +22904,7 @@ written recommendation concerning vacation to the commander with authority
 
 to vacate the suspension. 
 
-#  Decision.
+#### (6) Decision.
 
 A commander with authority to vacate the suspension shall review
 
@@ -22920,15 +22920,15 @@ sentence, that officer shall prepare a written statement of the evidence
 
 relied on and the reasons for vacating the suspended sentence. 
 
-#  Execution.
+#### (7) Execution.
 
 Any unexecuted part of a suspended sentence ordered vacated under
 
  this subsection shall be ordered executed. 
 
-#  Waiver or withdrawal of appellate review
+## Rule 1110. Waiver or withdrawal of appellate review
 
-#  In general.
+### (a) In general.
 
 After any general court-martial, except one in which the approved
 
@@ -22938,7 +22938,7 @@ approved sentence includes a bad-conduct discharge or confinement for one
 
 year, the accused may waive or withdraw appellate review.
 
-#  Discussion
+###  Discussion
 
 Appellate review is not available for special courts-martial in
 
@@ -22954,9 +22954,9 @@ the Judge Advocate General for review. _See_ R.C.M. 1201(b)(3).
 
 Appellate review is mandatory when the approved sentence includes death.
 
-#  Right to counsel.
+### (b) Right to counsel.
 
-#  In general.
+#### (1) In general.
 
 The accused shall have the right to consult with counsel qualified
 
@@ -22964,9 +22964,9 @@ The accused shall have the right to consult with counsel qualified
 
 review. 
 
-#  Waiver.
+#### (2) Waiver.
 
-#  Counsel who represented the accused at the court-martial.
+##### (A) Counsel who represented the accused at the court-martial.
 
 The accused shall have the right to consult with any civilian,
 
@@ -22976,7 +22976,7 @@ court-martial concerning whether to waive appellate review unless such counsel
 
 has been excused under R.C.M. 505(d)(2)(B). 
 
-#  Associate counsel.
+##### (B) Associate counsel.
 
 If counsel who represented the accused at the court-martial has
 
@@ -22990,7 +22990,7 @@ because of physical separation or other reasons, associate defense counsel
 
 and shall advise the accused concerning whether to waive appellate review.
 
-#  Substitute counsel.
+##### (C) Substitute counsel.
 
 If counsel who represented the accused at the court-martial has
 
@@ -22998,9 +22998,9 @@ been excused under R.C.M. 505(d)(2)(B), substitute defense counsel shall
 
 be detailed to advise the accused concerning waiver of appellate rights.
 
-#  Withdrawal.
+#### (3) Withdrawal.
 
-#  Appellate defense counsel.
+##### (A) Appellate defense counsel.
 
 If the accused is represented by appellate defense counsel, the
 
@@ -23008,7 +23008,7 @@ If the accused is represented by appellate defense counsel, the
 
 to withdraw the appeal. 
 
-#  Associate defense counsel.
+##### (B) Associate defense counsel.
 
 If the accused is represented by appellate defense counsel, and
 
@@ -23022,7 +23022,7 @@ communicate with appellate defense counsel and shall advise the accused whether
 
 to withdraw the appeal. 
 
-#  No counsel.
+##### (C) No counsel.
 
 If appellate defense counsel has not been assigned to the accused,
 
@@ -23032,7 +23032,7 @@ the accused concerning whether to withdraw the appeal. If practicable, counsel
 
 who represented the accused at the court-martial shall be detailed. 
 
-#  Civilian counsel.
+#### (4) Civilian counsel.
 
 Whether or not the accused was represented by civilian counsel at
 
@@ -23042,13 +23042,13 @@ expense to the United States, concerning whether to waive or withdraw appellate
 
 review. 
 
-#  Record of trial.
+#### (5) Record of trial.
 
 Any defense counsel with whom the accused consults under this rule
 
  shall be given reasonable opportunity to examine the record of trial.
 
-#  Discussion
+####  Discussion
 
 Ordinarily counsel may use the accused's copy of the record. If
 
@@ -23056,49 +23056,49 @@ this is not possible, as when the accused and counsel are physically separated,
 
 another copy should be made available to counsel.
 
-#  Consult.
+#### (6) Consult.
 
 The right to consult with counsel, as used in this rule, does not
 
  require communication in the presence of one another. 
 
-#  Compulsion, coercion, inducement prohibited.
+### (c) Compulsion, coercion, inducement prohibited.
 
 No person may compel, coerce, or induce an accused by force, promises
 
  of clemency, or otherwise to waive or withdraw appellate review. 
 
-#  Form of waiver or withdrawal.
+### (d) Form of waiver or withdrawal.
 
 A waiver or withdrawal of appellate review shall: 
 
-Be written; 
+(1) Be written; 
 
-State that the accused and defense counsel have discussed the accused's
+(2) State that the accused and defense counsel have discussed the accused's
 
 right to appellate review and the effect of waiver or withdrawal of appellate
 
 review and that the accused understands these matters; 
 
-State that the waiver or withdrawal is submitted voluntarily; and
+(3) State that the waiver or withdrawal is submitted voluntarily; and
 
-Be signed by the accused and by defense counsel.
+(4) Be signed by the accused and by defense counsel.
 
-#  Discussion
+####  Discussion
 
  _See_ Appendix 19 (DD Form 2330) or Appendix 20
 
 (DD Form 2331) for samples of forms. 
 
-#  To whom submitted.
+### (e) To whom submitted.
 
-#  Waiver.
+#### (1) Waiver.
 
 A waiver of appellate review shall be filed with the convening
 
 authority. The waiver shall be attached to the record of trial. 
 
-#  Withdrawal.
+#### (2) Withdrawal.
 
 A withdrawal of appellate review may be filed with the authority
 
@@ -23108,9 +23108,9 @@ promptly forward it to the Judge Advocate General, or directly with the
 
 Judge Advocate General. 
 
-#  Time limit.
+### (f) Time limit.
 
-#  Waiver.
+#### (1) Waiver.
 
 The accused may sign a waiver of appellate review at any time after
 
@@ -23122,15 +23122,15 @@ R.C.M. 1107(h). Upon written application of the accused, the convening authority
 
 may extend this period for good cause, for not more than 30 days. 
 
-#  Withdrawal.
+#### (2) Withdrawal.
 
 The accused may file withdrawal from appellate review at any time
 
  before such review is completed. 
 
-#  Effect of waiver or withdrawal; substantial compliance required.
+### (g) Effect of waiver or withdrawal; substantial compliance required.
 
-#  In general.
+#### (1) In general.
 
 A waiver or withdrawal of appellate review under this rule shall
 
@@ -23140,7 +23140,7 @@ the Court of Criminal Appeals. Once submitted, a waiver or withdrawal in
 
 compliance with this rule may not be revoked. 
 
-#  Waiver.
+#### (2) Waiver.
 
 If the accused files a timely waiver of appellate review in accordance
 
@@ -23148,7 +23148,7 @@ with this rule, the record shall be forwarded for review by a judge advocate
 
 under R.C.M. 1112. 
 
-#  Withdrawal.
+#### (3) Withdrawal.
 
 Action on a withdrawal of appellate review shall be carried out
 
@@ -23162,17 +23162,17 @@ General shall forward the record to an appropriate authority for compliance
 
 with R.C.M. 1112. 
 
-#  Substantial compliance required.
+#### (4) Substantial compliance required.
 
 A purported waiver or withdrawal of an appeal which does not substantially
 
 comply with this rule shall have no effect. 
 
-#  Disposition of the record of trial after action
+## Rule 1111. Disposition of the record of trial after action
 
-#  General courts-martial.
+### (a) General courts-martial.
 
-#  Cases forwarded to the Judge Advocate General.
+#### (1) Cases forwarded to the Judge Advocate General.
 
 A record of trial by general court-martial and the convening authority's
 
@@ -23194,7 +23194,7 @@ copies of the record of trial shall accompany the original record if the
 
 for one year or more and the accused has not waived appellate review. Forwarding of an authenticated electronic copy of the record of trial satisfies the requirements under this rule. 
 
-#  Cases forwarded to a judge advocate.
+#### (2) Cases forwarded to a judge advocate.
 
 A record of trial by general court-martial and the convening authority's
 
@@ -23208,9 +23208,9 @@ appellate review under R.C.M. 1110. Unless otherwise prescribed by the Secretary
 
  forwarded with the original record of trial. 
 
-#  Special courts-martial.
+### (b) Special courts-martial.
 
-#  Cases including an approved bad-conduct discharge or confinement for
+#### (1) Cases including an approved bad-conduct discharge or confinement for
 
 one year.
 
@@ -23220,7 +23220,7 @@ bad-conduct discharge or confinement for one year, the record shall be disposed
 
 of as provided in subsection (a) of this rule. 
 
-#  Other cases.
+#### (2) Other cases.
 
 The record of trial by a special court-martial in which the approved
 
@@ -23234,37 +23234,37 @@ forwarded with the record of trial, unless otherwise prescribed by regulations
 
 of the Secretary concerned. 
 
-#  Summary courts-martial.
+### (c) Summary courts-martial.
 
 The convening authority shall dispose of a record of trial by summary
 
  court-martial as provided by R.C.M. 1306.
 
-#  Discussion
+###  Discussion
 
  _See_ DD Form 494 (Court-Martial Data Sheet).
 
-#  Review by a judge advocate
+## Rule 1112. Review by a judge advocate
 
-#  In general.
+### (a) In general.
 
 Except as provided in subsection (b) of this rule, under regulations
 
  of the Secretary concerned, a judge advocate shall review: 
 
-Each general court-martial in which the accused has waived or withdrawn
+(1) Each general court-martial in which the accused has waived or withdrawn
 
 appellate review under R.C.M. 1110. 
 
-Each special court-martial in which the accused has waived or withdrawn
+(2) Each special court-martial in which the accused has waived or withdrawn
 
 appellate review under R.C.M. 1110 or in which the approved sentence does
 
 not include a bad-conduct discharge or confinement for one year; and
 
-Each summary court-martial. 
+(3) Each summary court-martial. 
 
-#  Exception.
+### (b) Exception.
 
 If the accused was found not guilty or not guilty only by reason
 
@@ -23272,7 +23272,7 @@ of lack of mental responsibility of all offenses or if the convening authority
 
 disapproved all findings of guilty, no review under this rule is required.
 
-#  Disqualification.
+### (c) Disqualification.
 
 No person may review a case under this rule if that person has acted
 
@@ -23282,31 +23282,31 @@ military judge, or counsel, or has otherwise acted on behalf of the prosecution
 
 or defense. 
 
-#  Form and content of review.
+### (d) Form and content of review.
 
 The judge advocate's review shall be in writing and shall contain
 
 the following: 
 
-Conclusions as to whether- 
+(1) Conclusions as to whether- 
 
-The court-martial had jurisdiction over the accused and each offense
+(A) The court-martial had jurisdiction over the accused and each offense
 
  as to which there is a finding of guilty which has not been disapproved;
 
-Each specification as to which there is a finding of guilty which
+(B) Each specification as to which there is a finding of guilty which
 
 has not been disapproved stated an offense; and 
 
-The sentence was legal; 
+(C) The sentence was legal; 
 
-A response to each allegation of error made in writing by the accused.
+(2) A response to each allegation of error made in writing by the accused.
 
 Such allegations may be filed under R.C.M. 1105, 1106(f), or directly with
 
 the judge advocate who reviews the case; and 
 
-If the case is sent for action to the officer exercising general
+(3) If the case is sent for action to the officer exercising general
 
  court-martial jurisdiction under subsection (e) of this rule, a recommendation
 
@@ -23322,7 +23322,7 @@ all copies of the record of trial. A copy of the review shall be forwarded
 
 to the accused. 
 
-#  Forwarding to officer exercising general court-martial jurisdiction.
+### (e) Forwarding to officer exercising general court-martial jurisdiction.
 
 In cases reviewed under subsection (a) of this rule, the record
 
@@ -23332,41 +23332,41 @@ convening authority over the accused at the time the court-martial was held
 
 (or to that officer's successor) when: 
 
-The judge advocate who reviewed the case recommends corrective
+(1) The judge advocate who reviewed the case recommends corrective
 
 action; 
 
-The sentence approved by the convening authority includes dismissal,
+(2) The sentence approved by the convening authority includes dismissal,
 
  a dishonorable or bad-conduct discharge, or confinement for more than 6
 
 months; or 
 
-Such action is otherwise required by regulations of the Secretary
+(3) Such action is otherwise required by regulations of the Secretary
 
  concerned. 
 
-#  Action by officer exercising general court-martial jurisdiction.
+### (f) Action by officer exercising general court-martial jurisdiction.
 
-#  Action.
+#### (1) Action.
 
  The officer exercising general court-martial jurisdiction who
 
 receives a record under subsection (e) of this rule may- 
 
-Disapprove or approve the findings or sentence in whole or in part;
+(A) Disapprove or approve the findings or sentence in whole or in part;
 
-Remit, commute, or suspend the sentence in whole or in part; 
+(B) Remit, commute, or suspend the sentence in whole or in part; 
 
-Except where the evidence was insufficient at the trial to support
+(C) Except where the evidence was insufficient at the trial to support
 
  the findings, order a rehearing on the findings, on the sentence, or on
 
 both; or 
 
-Dismiss the charges.
+(D) Dismiss the charges.
 
-#  Discussion
+#####  Discussion
 
  _See_ R.C.M. 1113 concerning when the officer exercising
 
@@ -23380,7 +23380,7 @@ Appendix 16 (Forms for actions) and Appendix 17 (Forms for court-martial
 
 orders).
 
-#  Rehearing.
+#### (2) Rehearing.
 
 If the officer exercising general court-martial jurisdiction orders
 
@@ -23388,7 +23388,7 @@ a rehearing, but the convening authority finds a rehearing impracticable,
 
 the convening authority shall dismiss the charges. 
 
-#  Notification.
+#### (3) Notification.
 
 After the officer exercising general court-martial jurisdiction
 
@@ -23396,9 +23396,9 @@ has taken action, the accused shall be notified of the action and the accused
 
 shall be provided with a copy of the judge advocate's review. 
 
-#  Forwarding following review under this rule.
+### (g) Forwarding following review under this rule.
 
-#  Records forwarded to the Judge Advocate General.
+#### (1) Records forwarded to the Judge Advocate General.
 
 If the judge advocate who reviews the case under this rule states
 
@@ -23412,19 +23412,19 @@ record of trial and the action thereon shall be forwarded to the Judge Advocate
 
 General concerned for review under R.C.M. 1201(b)(2). 
 
-#  Sentence including dismissal.
+#### (2) Sentence including dismissal.
 
 If the approved sentence includes dismissal, the record shall be
 
  forwarded to the Secretary concerned. 
 
-#  Discussion
+####  Discussion
 
 A dismissal may not be ordered executed until approved by the Secretary
 
 or the Secretary's designee. _See_ R.C.M. 1206.
 
-#  Other records.
+#### (3) Other records.
 
 Records reviewed under this rule which are not forwarded under
 
@@ -23432,21 +23432,21 @@ subsection (g)(1) of this rule shall be disposed of as prescribed by the
 
 Secretary concerned.
 
-#  Discussion
+####  Discussion
 
 A dismissal may not be ordered executed until approved by the Secretary
 
 or the Secretary's designee under R.C.M. 1206.
 
-#  Execution of sentences
+## Rule 1113. Execution of sentences
 
-#  In general.
+### (a) In general.
 
 No sentence of a court-martial may be executed unless it has been
 
  approved by the convening authority.
 
-#  Discussion
+###  Discussion
 
 An order executing the sentence directs that the sentence be carried
 
@@ -23454,7 +23454,7 @@ An order executing the sentence directs that the sentence be carried
 
 no part of a sentence may be carried out until it is ordered executed.
 
-#  Punishments which the convening authority may order executed in the
+### (b) Punishments which the convening authority may order executed in the
 
  initial action.
 
@@ -23464,23 +23464,23 @@ Except as provided in subsection (c) of this rule, the convening
 
  when the convening authority takes initial action under R.C.M. 1107. 
 
-#  Punishments which the convening authority may not order executed in
+### (c) Punishments which the convening authority may not order executed in
 
 the initial action.
 
-#  Dishonorable or a bad-conduct discharge.
+#### (1) Dishonorable or a bad-conduct discharge.
 
 Except as may otherwise be prescribed by the Secretary concerned,
 
 a dishonorable or a bad-conduct discharge may be ordered executed only by:
 
-The officer who reviews the case under R.C.M. 1112(f), as part of
+(A) The officer who reviews the case under R.C.M. 1112(f), as part of
 
 the action approving the sentence, except when that action must be forwarded
 
 under R.C.M. 1112(g)(1); or 
 
-The officer then exercising general court-martial jurisdiction over
+(B) The officer then exercising general court-martial jurisdiction over
 
  the accused. 
 
@@ -23508,7 +23508,7 @@ of the sentence by the convening authority, and a recommendation whether
 
 the discharge should be executed. 
 
-#  Dismissal of a commissioned officer, cadet, or midshipman.
+#### (2) Dismissal of a commissioned officer, cadet, or midshipman.
 
 Dismissal of a commissioned officer, cadet, or midshipman may be
 
@@ -23516,41 +23516,41 @@ Dismissal of a commissioned officer, cadet, or midshipman may be
 
  Secretary or Assistant Secretary as the Secretary concerned may designate.
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 1206(a) concerning approval by the
 
 Secretary.
 
-#  Sentences extending to death.
+#### (3) Sentences extending to death.
 
 A punishment of death may be ordered executed only by the President.
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 1207 concerning approval by the President.
 
-#  Self-executing punishments.
+### (d) Self-executing punishments.
 
 Under regulations prescribed by the Secretary concerned, a dishonorable or bad conduct discharge that has been approved by an appropriate convening authority may be self-executing after final judgment at such time as:
 
-The accused has received a sentence of no confinement or has completed all confinement;
+(1) The accused has received a sentence of no confinement or has completed all confinement;
 
-The accused has been placed on excess or appellate leave; and,
+(2) The accused has been placed on excess or appellate leave; and,
 
-The appropriate official has certified that the accused's case is final.  Upon completion of the certification, the official shall forward the certification to the accused's personnel office for preparation of a final discharge order and certificate.
+(3) The appropriate official has certified that the accused's case is final.  Upon completion of the certification, the official shall forward the certification to the accused's personnel office for preparation of a final discharge order and certificate.
 
-#  Other considerations concerning the execution of certain sentences.
+### (e) Other considerations concerning the execution of certain sentences.
 
-#  Death.
+#### (1) Death.
 
-#  Manner carried out.
+##### (A) Manner carried out.
 
 A sentence to death which has been finally ordered executed shall
 
 be carried out in the manner prescribed by the Secretary concerned. 
 
-#  Action when accused lacks mental capacity.
+##### (B) Action when accused lacks mental capacity.
 
 An accused lacking the mental capacity to understand the punishment
 
@@ -23586,15 +23586,15 @@ is found to lack capacity, the convening authority shall stay the execution
 
 until the accused regains appropriate capacity.
 
-#  Discussion
+#####  Discussion
 
 A verbatim transcript of the hearing should accompany the findings
 
 of fact.
 
-#  Confinement.
+#### (2) Confinement.
 
-#  Effective date of confinement.
+##### (A) Effective date of confinement.
 
 Any period of confinement included in the sentence of a court-martial
 
@@ -23604,25 +23604,25 @@ but the following shall be excluded in computing the service of the term
 
 of confinement: 
 
-Periods during which the sentence to confinement is suspended or
+(i) Periods during which the sentence to confinement is suspended or
 
  deferred; 
 
-Periods during which the accused is in custody of civilian authorities
+(ii) Periods during which the accused is in custody of civilian authorities
 
 under Article 14 from the time of the delivery to the return to military
 
 custody, if the accused was convicted in the civilian court; 
 
-Periods during which the accused is in custody of civilian or foreign authorities after the convening authority, pursuant to Article 57a.(b)(1), has postponed the service of a sentence to confinement.
+(iii) Periods during which the accused is in custody of civilian or foreign authorities after the convening authority, pursuant to Article 57a.(b)(1), has postponed the service of a sentence to confinement.
 
-#  Discussion
+######  Discussion
 
 The convening authority's decision to postpone service of a court-martial
 
 sentence to confinement normally should be reflected in the action.
 
-Periods during which the accused has escaped or is absent without
+(iv) Periods during which the accused has escaped or is absent without
 
  authority, or is absent under a parole which proper authority has later
 
@@ -23634,7 +23634,7 @@ upon the prisoner's petition for a writ of habeas corpus under a court order
 
 which is later reversed; and 
 
-Periods during which another sentence by court-martial to confinement
+(v) Periods during which another sentence by court-martial to confinement
 
  is being served. When a prisoner serving a court-martial sentence to confinement
 
@@ -23646,7 +23646,7 @@ Any unremitted remaining portion of the earlier sentence will be served after
 
 the later sentence is fully executed. 
 
-#  Nature of the confinement.
+##### (B) Nature of the confinement.
 
 The omission of "hard labor" from any sentence of a
 
@@ -23656,7 +23656,7 @@ who orders the sentence executed from requiring hard labor as part of the
 
 punishment. 
 
-#  Place of confinement.
+##### (C) Place of confinement.
 
 The authority who orders a sentence to confinement into execution
 
@@ -23694,13 +23694,13 @@ the place of confinement in the initial action on the sentence or in the
 
 order rescinding the deferment. No member of the armed forces, or person serving with or accompanying an armed force in the field, may be placed in confinement in immediate association with enemy prisoners or with other foreign nationals not subject to the code.  The Secretary concerned may prescribe regulations governing the place and conditions of confinement.
 
-#  Discussion
+#####  Discussion
 
 _See_ R.C.M. 1101(c) concerning deferment of a sentence
 
 to confinement.
 
-#  Confinement in lieu of fine.
+#### (3) Confinement in lieu of fine.
 
 Confinement may not be executed for failure to pay a fine if the
 
@@ -23714,13 +23714,13 @@ to be heard, that there is no other punishment adequate to meet the Government's
 
 interest in appropriate punishment. 
 
-#  Restriction; hard labor without confinement.
+#### (4) Restriction; hard labor without confinement.
 
 When restriction and hard labor without confinement are included
 
 in the same sentence, they shall, unless one is suspended, be executed concurrently.
 
-#  More than one sentence.
+#### (5) More than one sentence.
 
 If at the time forfeitures may be ordered executed, the accused
 
@@ -23730,11 +23730,11 @@ authority taking action may order that the later forfeitures will be executed
 
 when the earlier sentence to forfeitures is completed. 
 
-#  Promulgating orders
+## Rule 1114. Promulgating orders
 
-#  In general.
+### (a) In general.
 
-#  Scope of rule.
+#### (1) Scope of rule.
 
 Unless otherwise prescribed by the Secretary concerned, orders
 
@@ -23744,35 +23744,35 @@ authorities on the record shall be prepared, issued, and distributed as
 
 prescribed in this rule. 
 
-#  Purpose.
+#### (2) Purpose.
 
 A promulgating order publishes the result of the court-martial and
 
  the convening authority's action and any later action taken on the case.
 
-#  Summary courts-martial.
+#### (3) Summary courts-martial.
 
 An order promulgating the result of a trial by summary court-martial
 
  need not be issued.
 
-#  Discussion
+####  Discussion
 
 _See_ R.C.M. 1306(b)(2) concerning summary courts-martial.
 
-#  Self-executing final orders. 
+#### (4) Self-executing final orders. 
 
 An order promulgating a self-executing dishonorable or bad conduct discharge need not be issued.  The original action by a convening authority approving a discharge and certification by the appropriate official that the case is final may be forwarded to the accused's personnel office for preparation of a discharge order and certificate.
 
-#  By whom issued.
+### (b) By whom issued.
 
-#  Initial orders.
+#### (1) Initial orders.
 
 The order promulgating the result of trial and the initial action
 
 of the convening authority shall be issued by the convening authority.
 
-#  Orders issued after the initial action.
+#### (2) Orders issued after the initial action.
 
 Any action taken on the case subsequent to the initial action shall
 
@@ -23782,7 +23782,7 @@ order may be the same document if signed personally by the appropriate convening
 
 or higher authority. 
 
-#  When the President or the Secretary concerned has taken final action.
+##### (A) When the President or the Secretary concerned has taken final action.
 
 General court-martial orders publishing the final result in cases
 
@@ -23790,15 +23790,15 @@ in which the President or the Secretary concerned has taken final action
 
 shall be promulgated as prescribed by regulations of the Secretary concerned.
 
-#  Other cases.
+##### (B) Other cases.
 
 In cases other than those in subsection (b)(2)(A) of this rule,
 
 the final action may be promulgated by an appropriate convening authority.
 
-#  Contents.
+### (c) Contents.
 
-#  In general.
+#### (1) In general.
 
 The order promulgating the initial action shall set forth: the type
 
@@ -23814,7 +23814,7 @@ or a summary thereof. Supplementary orders shall recite, verbatim, the action
 
 or order of the appropriate authority, or a summary thereof. 
 
-#  Dates.
+#### (2) Dates.
 
 A promulgating order shall bear the date of the initial action,
 
@@ -23834,13 +23834,13 @@ was adjudged, the date on which the acquittal was announced, or the date
 
 on which the proceedings were otherwise terminated.
 
-#  Discussion
+####  Discussion
 
  _See_ Appendix 17 for sample forms for promulgating
 
  orders.
 
-#  Order promulgated regardless of the result of trial or nature of the
+#### (3) Order promulgated regardless of the result of trial or nature of the
 
  action.
 
@@ -23850,7 +23850,7 @@ An order promulgating the result of trial by general or special
 
 the action of the convening or higher authorities. 
 
-#  Orders containing classified information.
+### (d) Orders containing classified information.
 
 When an order contains information which must be classified, only
 
@@ -23864,7 +23864,7 @@ shall be substituted for the classified information in the other copies of
 
 the order. 
 
-#  Authentication.
+### (e) Authentication.
 
 The promulgating order shall be authenticated by the signature of
 
@@ -23874,35 +23874,35 @@ acting under the direction of such authority. A promulgating order prepared
 
 in compliance with this rule shall be presumed authentic. 
 
-#  Distribution.
+### (f) Distribution.
 
 Promulgating orders shall be distributed as provided in regulations
 
  of the Secretary concerned. 
 
-#  APPEALS AND REVIEW
+# CHAPTER XII. APPEALS AND REVIEW
 
-#  Action by the Judge Advocate General
+## Rule 1201. Action by the Judge Advocate General
 
-#  Cases required to be referred to a Court of Criminal Appeals.
+### (a) Cases required to be referred to a Court of Criminal Appeals.
 
 The Judge Advocate General shall refer to a Court of Criminal Appeals
 
  the record in each trial by court-martial: 
 
-In which the sentence, as approved, extends to death; or 
+(1) In which the sentence, as approved, extends to death; or 
 
-In which- 
+(2) In which- 
 
-The sentence, as approved, extends to dismissal of a commissioned
+(A) The sentence, as approved, extends to dismissal of a commissioned
 
  officer, cadet, or midshipman, dishonorable or bad-conduct discharge, or
 
 confinement for 1 year or longer; and 
 
-The accused has not waived or withdrawn appellate review.
+(B) The accused has not waived or withdrawn appellate review.
 
-#  Discussion
+#####  Discussion
 
 _ See_ R.C.M. 1110 concerning waiver or withdrawal
 
@@ -23922,9 +23922,9 @@ and the powers and responsibilities of the Judge Advocate General after such
 
 review. _See_ R.C.M. 1202 concerning appellate counsel.
 
-#  Cases reviewed by the Judge Advocate General.
+### (b) Cases reviewed by the Judge Advocate General.
 
-#  Mandatory examination of certain general courts-martial.
+#### (1) Mandatory examination of certain general courts-martial.
 
 Except when the accused has waived the right to appellate review
 
@@ -23950,7 +23950,7 @@ Appeals, the accused shall be informed and shall have the rights under R.C.M.
 
 1202(b)(2).
 
-#  Discussion
+####  Discussion
 
 A case forwarded to a Court of Criminal Appeals under this subsection
 
@@ -23960,7 +23960,7 @@ by the accused under Article 67(a)(3) or when certified by the Judge Advocate
 
 General under Article 67(a)(2).
 
-#  Mandatory review of cases forwarded under R.C.M. 1112(g)(1).
+#### (2) Mandatory review of cases forwarded under R.C.M. 1112(g)(1).
 
 The Judge Advocate General shall review each case forwarded under
 
@@ -23974,9 +23974,9 @@ lack of jurisdiction over the accused or the offense, error prejudicial to
 
 the substantial rights of the accused, or the appropriateness of the sentence.
 
-#  Review by the Judge Advocate General after final review.
+#### (3) Review by the Judge Advocate General after final review.
 
-#  In general.
+##### (A) In general.
 
 Notwithstanding R.C.M. 1209, the Judge Advocate General may,_
 
@@ -23996,7 +23996,7 @@ of jurisdiction over the accused or the offense, error prejudicial to the
 
  substantial rights of the accused, or the appropriateness of the sentence.
 
-#  Discussion
+#####  Discussion
 
 _See_ R.C.M. 1210 concerning petition for new trial.
 
@@ -24018,7 +24018,7 @@ guilty or not guilty only by reason of lack of mental responsibility of a
 
  lesser included offense.
 
-#  Procedure.
+##### (B) Procedure.
 
 Each Judge Advocate General shall provide procedures for considering
 
@@ -24032,13 +24032,13 @@ the accused, may require that the applicant show authority to act on behalf
 
 of the accused.
 
-#  Discussion
+#####  Discussion
 
 _See_ R.C.M. 1114 concerning orders promulgating
 
  action under this rule.
 
-#  Time limits on applications.
+##### (C) Time limits on applications.
 
 Any application for review by the Judge Advocate General under
 
@@ -24052,7 +24052,7 @@ or the date the findings are announced for cases which do not proceed to
 
  within that time. 
 
-#  Rehearing.
+#### (4) Rehearing.
 
 If the Judge Advocate General sets aside the findings or sentence,
 
@@ -24070,7 +24070,7 @@ but the convening authority finds a rehearing impractical, the convening
 
 authority shall dismiss the charges.
 
-#  Remission and suspension.
+### (c) Remission and suspension.
 
 The Judge Advocate General may, when so authorized by the Secretary
 
@@ -24078,9 +24078,9 @@ The Judge Advocate General may, when so authorized by the Secretary
 
 of any sentence, other than a sentence approved by the President.
 
-#  Appellate counsel
+## Rule 1202. Appellate counsel
 
-#  In general.
+### (a) In general.
 
 The Judge Advocate General concerned shall detail one or more commissioned
 
@@ -24088,9 +24088,9 @@ officers as appellate Government counsel and one or more commissioned officers
 
 as appellate defense counsel who are qualified under Article 27(b)(1). 
 
-#  Duties.
+### (b) Duties.
 
-#  Appellate Government counsel.
+#### (1) Appellate Government counsel.
 
 Appellate Government counsel shall represent the United States before
 
@@ -24102,7 +24102,7 @@ Appellate Government counsel may represent the United States before the United
 
 States Supreme Court when requested to do so by the Attorney General. 
 
-#  Appellate defense counsel.
+#### (2) Appellate defense counsel.
 
 Appellate defense counsel shall represent the accused before the
 
@@ -24112,11 +24112,11 @@ the Supreme Court when the accused is a party in the case before such court
 
 and: 
 
-The accused requests to be represented by appellate defense counsel;
+(A) The accused requests to be represented by appellate defense counsel;
 
-The United States is represented by counsel; or 
+(B) The United States is represented by counsel; or 
 
-The Judge Advocate General has sent the case to the United States
+(C) The Judge Advocate General has sent the case to the United States
 
  Court of Appeals for the Armed Forces. Appellate defense counsel is authorized
 
@@ -24130,7 +24130,7 @@ the Government for extraordinary relief from a ruling in favor of the accused
 
 at trial.
 
-#  Discussion
+#####  Discussion
 
 For a discussion of the duties of the trial defense counsel concerning
 
@@ -24190,15 +24190,15 @@ See also_ R.C.M. 1204(b)(1) concerning detailing counsel with respect
 
 to the right to petition the Court of Appeals for the Armed Forces for review.
 
-#  Review by a Court of Criminal Appeals
+## Rule 1203. Review by a Court of Criminal Appeals
 
-#  In general.
+### (a) In general.
 
 Each Judge Advocate General shall establish a Court of Criminal
 
  Appeals composed of appellate military judges.
 
-#  Discussion
+###  Discussion
 
  _See_ Article 66 concerning the composition of the
 
@@ -24212,13 +24212,13 @@ of court for the Courts of Criminal Appeals are prescribed by the Judge Advocate
 
 General.
 
-#  Cases reviewed by a Court of Criminal Appeals.
+### (b) Cases reviewed by a Court of Criminal Appeals.
 
 A Court of Criminal Appeals shall review cases referred to it by
 
 the Judge Advocate General under R.C.M. 1201(a) or (b)(1).
 
-#  Discussion
+###  Discussion
 
  _See_ R.C.M. 1110 concerning withdrawal of a case
 
@@ -24296,9 +24296,9 @@ to the usages and principles of law. Any party may petition a Court of Criminal
 
 Appeals for extraordinary relief.
 
-#  Action on cases reviewed by a Court of Criminal Appeals.
+### (c) Action on cases reviewed by a Court of Criminal Appeals.
 
-#  Forwarding by the Judge Advocate General to the Court of Appeals for
+#### (1) Forwarding by the Judge Advocate General to the Court of Appeals for
 
 the Armed Forces.
 
@@ -24318,7 +24318,7 @@ may defer further service of a sentence to confinement that has been ordered
 
 executed in such a case. 
 
-#  Action when sentence is set aside.
+#### (2) Action when sentence is set aside.
 
 In a case reviewed by it under this rule in which the Court of
 
@@ -24338,7 +24338,7 @@ authority finds a rehearing impracticable that convening authority may dismiss
 
 the charges.
 
-#  Discussion
+####  Discussion
 
 If charges are dismissed, _see_ R.C.M. 1208 concerning
 
@@ -24346,9 +24346,9 @@ If charges are dismissed, _see_ R.C.M. 1208 concerning
 
 1114 concerning promulgating orders.
 
-#  Action when sentence is affirmed in whole or part.
+#### (3) Action when sentence is affirmed in whole or part.
 
-#  Sentence requiring approval by the President.
+##### (A) Sentence requiring approval by the President.
 
 If the Court of Criminal Appeals affirms any sentence which includes
 
@@ -24360,7 +24360,7 @@ for the Armed Forces when any period for reconsideration provided by the
 
 rules of the Courts of Criminal Appeals has expired. 
 
-#  Other cases.
+##### (B) Other cases.
 
 If the Court of Criminal Appeals affirms any sentence other than
 
@@ -24370,7 +24370,7 @@ of the decision of the Court of Criminal Appeals to be served on the accused
 
 in accordance with subsection (d) of this rule. 
 
-#  Remission or suspension.
+#### (4) Remission or suspension.
 
 If the Judge Advocate General believes that a sentence as affirmed
 
@@ -24388,11 +24388,11 @@ or may take such action as may be authorized by the Secretary concerned under
 
 Article 74(a). 
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 1201(c); 1206.
 
-#  Action when accused lacks mental capacity.
+#### (5) Action when accused lacks mental capacity.
 
 An appellate authority may not affirm the proceedings while the
 
@@ -24436,15 +24436,15 @@ subsection shall prohibit the appellate authority from making a determination
 
 in favor of the accused which will result in the setting aside of a conviction.
 
-#  Notification to accused.
+### (d) Notification to accused.
 
-#  Notification of decision.
+#### (1) Notification of decision.
 
 The accused shall be notified of the decision of the Court of Criminal
 
 Appeals in accordance with regulations of the Secretary concerned.
 
-#  Discussion
+####  Discussion
 
 The accused may be notified personally, or a copy of the decision
 
@@ -24464,7 +24464,7 @@ for the Armed Forces, the accused should be so notified. _See_
 
 subsection (c)(1) of this rule.
 
-#  Notification of right to petition the Court of Appeals for the Armed
+#### (2) Notification of right to petition the Court of Appeals for the Armed
 
  Forces for review.
 
@@ -24478,13 +24478,13 @@ the accused of this right. The endorsement shall inform the accused that
 
 such a petition: 
 
-May be filed only within 60 days from the time the accused was in
+(A) May be filed only within 60 days from the time the accused was in
 
  fact notified of the decision of the Court of Criminal Appeals or the mailed
 
 copy of the decision was postmarked, whichever is earlier; and 
 
-May be forwarded through the officer immediately exercising general
+(B) May be forwarded through the officer immediately exercising general
 
  court-martial jurisdiction over the accused and through the appropriate
 
@@ -24492,7 +24492,7 @@ Judge Advocate General or filed directly with the Court of Appeals for the
 
 Armed Forces.
 
-#  Discussion
+#####  Discussion
 
  _See_ Article 67(c). 
 
@@ -24528,7 +24528,7 @@ to be taken if the accused does not file or the Court of Appeals for the
 
 Armed Forces denies a petition for review.
 
-#  Receipt by the accused-disposition.
+#### (3) Receipt by the accused-disposition.
 
 When the accused has the right to petition the Court of Appeals
 
@@ -24548,7 +24548,7 @@ forward one copy of the receipt, certificate, or postal receipt to the clerk
 
 of the Court of Appeals for the Armed Forces when required by the court.
 
-#  Cases not reviewed by the Court of Appeals for the Armed Forces.
+### (e) Cases not reviewed by the Court of Appeals for the Armed Forces.
 
 If the decision of the Court of Criminal Appeals is not subject
 
@@ -24562,7 +24562,7 @@ the Armed Forces and the accused has not filed or the Court of Appeals for
 
 shall- 
 
-If the sentence affirmed by the Court of Criminal Appeals includes
+(1) If the sentence affirmed by the Court of Criminal Appeals includes
 
 a dismissal, transmit the record, the decision of the Court of Criminal
 
@@ -24570,7 +24570,7 @@ Appeals, and the Judge Advocate General's recommendation to the Secretary
 
 concerned for action under R.C.M. 1206; or 
 
-If the sentence affirmed by the Court of Criminal Appeals does not
+(2) If the sentence affirmed by the Court of Criminal Appeals does not
 
  include a dismissal, notify the convening authority, the officer exercising
 
@@ -24582,37 +24582,37 @@ general court-martial jurisdiction over the accused, or the Secretary concerned,
 
 other action, as authorized.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 1113, 1206, and Article 74(a) concerning
 
 the authority of the Secretary and others to take action.
 
-#  Scope.
+### (f) Scope.
 
 Except as otherwise expressly provided in this rule, this rule does
 
  not apply to appeals by the Government under R.C.M. 908. 
 
-#  Review by the Court of Appeals for the Armed Forces
+## Rule 1204. Review by the Court of Appeals for the Armed Forces
 
-#  Cases reviewed by the Court of Appeals for the Armed Forces.
+### (a) Cases reviewed by the Court of Appeals for the Armed Forces.
 
 Under such rules as it may prescribe, the Court of Appeals for the
 
  Armed Forces shall review the record in all cases: 
 
-In which the sentence, as affirmed by a Court of Criminal Appeals,
+(1) In which the sentence, as affirmed by a Court of Criminal Appeals,
 
  extends to death; 
 
-Reviewed by a Court of Criminal Appeals which the Judge Advocate
+(2) Reviewed by a Court of Criminal Appeals which the Judge Advocate
 
  General orders sent to the Court of Appeals for the Armed Forces for review;
 
 and 
 
-Reviewed by a Court of Criminal Appeals, except those referred to
+(3) Reviewed by a Court of Criminal Appeals, except those referred to
 
 it by the Judge Advocate General under R.C.M. 1201(b)(1), in which, upon
 
@@ -24620,7 +24620,7 @@ petition by the accused and on good cause shown, the Court of Appeals for
 
 the Armed Forces has granted a review.
 
-#  Discussion
+####  Discussion
 
  _See_ Article 67(a) concerning the composition of
 
@@ -24652,11 +24652,11 @@ with and adjudicated before the appropriate Court of Criminal Appeals prior
 
 to submission to the Court of Appeals for the Armed Forces.
 
-#  Petition by the accused for review by the Court of Appeals for the
+### (b) Petition by the accused for review by the Court of Appeals for the
 
 Armed Forces.
 
-#  Counsel.
+#### (1) Counsel.
 
 When the accused is notified of the right to forward a petition
 
@@ -24668,7 +24668,7 @@ detailed to advise and assist the accused in connection with preparing a
 
 petition for further appellate review.
 
-#  Discussion
+####  Discussion
 
 If reasonably available, the counsel who conducted the defense at
 
@@ -24678,7 +24678,7 @@ should communicate with the appellate defense counsel representing the accused. 
 
 See_ R.C.M. 1202.
 
-#  Forwarding petition.
+#### (2) Forwarding petition.
 
 The accused shall file any petition for review by the Court of
 
@@ -24686,7 +24686,7 @@ Appeals for the Armed Forces under subsection (a)(3) of this rule directly
 
 with the Court of Appeals for the Armed Forces.
 
-#  Discussion
+####  Discussion
 
  _See_ Article 67(c) and R.C.M. 1203(d)(2) concerning
 
@@ -24700,9 +24700,9 @@ concerning when the time for filing a petition begins to run and when a petition
 
 is now timely.
 
-#  Action on decision by the Court of Appeals for the Armed Forces.
+### (c) Action on decision by the Court of Appeals for the Armed Forces.
 
-#  In general.
+#### (1) In general.
 
 After it has acted on a case, the Court of Appeals for the Armed
 
@@ -24724,25 +24724,25 @@ is transmitted finds a rehearing impracticable, the convening authority
 
 may dismiss the charges.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 1114 concerning final orders in the
 
 case. _ See also_ R.C.M. 1206 and Article 74(a).
 
-#  Sentence requiring approval of the President.
+#### (2) Sentence requiring approval of the President.
 
-If the Court of Appeals for the Armed Forces has affirmed a sentence that must be approved by the President before it may be executed, the Judge Advocate General shall transmit the record of trial, the decision of the Court of Criminal Appeals, the decision of the Court of Appeals for the Armed Forces, and the recommendation of the Judge Advocate General to the Secretary concerned.
+(A) If the Court of Appeals for the Armed Forces has affirmed a sentence that must be approved by the President before it may be executed, the Judge Advocate General shall transmit the record of trial, the decision of the Court of Criminal Appeals, the decision of the Court of Appeals for the Armed Forces, and the recommendation of the Judge Advocate General to the Secretary concerned.
 
-If the Secretary concerned is the Secretary of a military department, the Secretary concerned shall forward the material received under paragraph (A) to the Secretary of Defense, together with the recommendation of the Secretary concerned.  The Secretary of Defense shall forward the material, with the recommendation of the Secretary concerned and the recommendation of the Secretary of Defense, to the President for the action of the President.
+(B) If the Secretary concerned is the Secretary of a military department, the Secretary concerned shall forward the material received under paragraph (A) to the Secretary of Defense, together with the recommendation of the Secretary concerned.  The Secretary of Defense shall forward the material, with the recommendation of the Secretary concerned and the recommendation of the Secretary of Defense, to the President for the action of the President.
 
-If the Secretary concerned is the Secretary of Homeland Security, the Secretary concerned shall forward the material received under paragraph (A) to the President, together with the recommendation of the Secretary concerned, for the action of the President.
+(C) If the Secretary concerned is the Secretary of Homeland Security, the Secretary concerned shall forward the material received under paragraph (A) to the President, together with the recommendation of the Secretary concerned, for the action of the President.
 
-#  Discussion
+#######  Discussion
 
  _See_ Article 71(a) and R.C.M. 1207.
 
-#  Sentence requiring approval of the Secretary concerned.
+#### (3) Sentence requiring approval of the Secretary concerned.
 
 If the Court of Appeals for the Armed Forces has affirmed a sentence
 
@@ -24750,11 +24750,11 @@ If the Court of Appeals for the Armed Forces has affirmed a sentence
 
 the Judge Advocate General shall follow the procedure in R.C.M. 1203(e)(1).
 
-#  Discussion
+####  Discussion
 
  _See_ Article 71(b) and R.C.M. 1206.
 
-#  Decision subject to review by the Supreme Court.
+#### (4) Decision subject to review by the Supreme Court.
 
 If the decision of the Court of Appeals for the Armed Forces is
 
@@ -24774,9 +24774,9 @@ Judge Advocate General shall take action under subsection (c)(1), (2), or
 
 General shall take action under R.C.M. 1205(b). 
 
-#  Review by the Supreme Court
+## Rule 1205. Review by the Supreme Court
 
-#  Cases subject to review by the Supreme Court.
+### (a) Cases subject to review by the Supreme Court.
 
 Under 28 U.S.C. --SECT-- 1259 and Article 67(h), decisions of the
 
@@ -24784,19 +24784,19 @@ Court of Appeals for the Armed Forces may be reviewed by the Supreme Court
 
 by writ of certiorari in the following cases: 
 
-Cases reviewed by the Court of Appeals for the Armed Forces under
+(1) Cases reviewed by the Court of Appeals for the Armed Forces under
 
  Article 67(b)(1); 
 
-Cases certified to the Court of Appeals for the Armed Forces by
+(2) Cases certified to the Court of Appeals for the Armed Forces by
 
 the Judge Advocate General under Article 67(b)(2); 
 
-Cases in which the Court of Appeals for the Armed Forces granted
+(3) Cases in which the Court of Appeals for the Armed Forces granted
 
 a petition for review under Article 67(b)(3); and 
 
-Cases other than those described in subsections (a)(1), (2), and
+(4) Cases other than those described in subsections (a)(1), (2), and
 
 (3) of this rule in which the Court of Appeals for the Armed Forces granted
 
@@ -24808,7 +24808,7 @@ any action of the Court of Appeals for the Armed Forces in refusing to grant
 
 a petition for review. 
 
-#  Action by the Supreme Court.
+### (b) Action by the Supreme Court.
 
 After the Supreme Court has taken action, other than denial of a
 
@@ -24824,9 +24824,9 @@ or instruct the convening authority to take action in accordance with the
 
 decision. 
 
-#  Powers and responsibilities of the Secretary
+## Rule 1206. Powers and responsibilities of the Secretary
 
-#  Sentences requiring approval by the Secretary.
+### (a) Sentences requiring approval by the Secretary.
 
 No part of a sentence extending to dismissal of a commissioned
 
@@ -24836,13 +24836,13 @@ concerned or such Under Secretary or Assistant Secretary as may be designated
 
 by the Secretary.
 
-#  Discussion
+###  Discussion
 
  _See_ Article 71(b).
 
-#  Remission and suspension.
+### (b) Remission and suspension.
 
-#  In general.
+#### (1) In general.
 
 The Secretary concerned and, when designated by the Secretary concerned,
 
@@ -24854,7 +24854,7 @@ including all uncollected forfeitures, other than a sentence approved by
 
 the President. 
 
-#  Substitution of discharge.
+#### (2) Substitution of discharge.
 
 The Secretary concerned may, for good cause, substitute an administrative
 
@@ -24862,7 +24862,7 @@ discharge for a discharge or dismissal executed in accordance with the sentence
 
 of a court-martial. 
 
-#  Sentence commuted by the President.
+#### (3) Sentence commuted by the President.
 
 When the President has commuted a death sentence to a lesser punishment,
 
@@ -24872,13 +24872,13 @@ of the unexecuted portion of the sentence of a person convicted by a military
 
 tribunal under the Secretary's jurisdiction. 
 
-#  Sentences requiring approval by the President
+## Rule 1207. Sentences requiring approval by the President
 
 No part of a court-martial sentence extending to death may be executed
 
 until approved by the President. 
 
-#  Discussion
+##  Discussion
 
  _See_ Article 71(a). _See also_ R.C.M.
 
@@ -24886,9 +24886,9 @@ until approved by the President.
 
 of Appeals for the Armed Forces in capital cases.
 
-#  Restoration
+## Rule 1208. Restoration
 
-#  New trial.
+### (a) New trial.
 
 All rights, privileges, and property affected by an executed portion
 
@@ -24908,7 +24908,7 @@ shall be announced in the court-martial order promulgating the final results
 
  of the proceedings.
 
-#  Discussion
+###  Discussion
 
 _See_ Article 75(b) and (c) concerning the action
 
@@ -24916,7 +24916,7 @@ to be taken on an executed dismissal or discharge which is not imposed at
 
 a new trial.
 
-#  Other cases.
+### (b) Other cases.
 
 In cases other than those in subsection (a) of this rule, all rights,
 
@@ -24932,45 +24932,45 @@ other trial, or rehearing. Ordinarily, any restoration shall be announced
 
 in the court-martial order promulgating the final results of the proceedings.
 
-#  Discussion
+###  Discussion
 
 _See_ R.C.M. 1114 concerning promulgating orders.
 
-#  Finality of courts-martial
+## Rule 1209. Finality of courts-martial
 
-#  When a conviction is final.
+### (a) When a conviction is final.
 
 A court-martial conviction is final when: 
 
-Review is completed by a Court of Criminal Appeals and- 
+(1) Review is completed by a Court of Criminal Appeals and- 
 
-The accused does not file a timely petition for review by the Court
+(A) The accused does not file a timely petition for review by the Court
 
  of Appeals for the Armed Forces and the case is not otherwise under review
 
 by that court; 
 
-A petition for review is denied or otherwise rejected by the Court
+(B) A petition for review is denied or otherwise rejected by the Court
 
 of Appeals for the Armed Forces; or 
 
-Review is completed in accordance with the judgment of the Court
+(C) Review is completed in accordance with the judgment of the Court
 
 of Appeals for the Armed Forces and- 
 
-A petition for a writ of certiorari is not filed within the time
+(i) A petition for a writ of certiorari is not filed within the time
 
  limits prescribed by the Supreme Court, 
 
-A petition for writ of certiorari is denied or otherwise rejected
+(ii) A petition for writ of certiorari is denied or otherwise rejected
 
 by the Supreme Court, or 
 
-Review is otherwise completed in accordance with the judgment of
+(iii) Review is otherwise completed in accordance with the judgment of
 
 the Supreme Court; or
 
-#  Discussion
+######  Discussion
 
 _See_ R.C.M. 1201, 1203, 1204, and 1205 concerning
 
@@ -24980,9 +24980,9 @@ for the Armed Forces, and the Supreme Court. _See also_ R.C.M.
 
 1110.
 
-In cases not reviewed by a Court of Criminal Appeals- 
+(2) In cases not reviewed by a Court of Criminal Appeals- 
 
-The findings and sentence have been found legally sufficient by
+(A) The findings and sentence have been found legally sufficient by
 
 a judge advocate and, when action by such officer is required, have been
 
@@ -24992,13 +24992,13 @@ the accused at the time the court-martial was convened (or that officer's
 
  successor); or 
 
-The findings and sentence have been affirmed by the Judge Advocate
+(B) The findings and sentence have been affirmed by the Judge Advocate
 
  General when review by the Judge Advocate General is required under R.C.M.
 
  1112(g)(1) or 1201(b)(1). 
 
-#  Effect of finality.
+### (b) Effect of finality.
 
 The appellate review of records of trial provided by the code, the
 
@@ -25022,9 +25022,9 @@ under Article 69(b), to action by the Secretary concerned as provided in
 
 Article 74, and the authority of the President. 
 
-#  New trial
+## Rule 1210. New trial
 
-#  In general.
+### (a) In general.
 
 At any time within 2 years after approval by the convening authority
 
@@ -25040,7 +25040,7 @@ the accused. A petition for a new trial of the facts may not be submitted
 
 guilty of the relevant offense pursuant to a guilty plea. 
 
-#  Who may petition.
+### (b) Who may petition.
 
 A petition for a new trial may be submitted by the accused personally,
 
@@ -25048,7 +25048,7 @@ or by accused's counsel, regardless whether the accused has been separated
 
 from the service. 
 
-#  Form of petition.
+### (c) Form of petition.
 
 A petition for a new trial shall be written and shall be signed
 
@@ -25062,43 +25062,43 @@ accused. The petition shall contain the following information, or an explanation
 
 why such matters are not included: 
 
-The name, service number, and current address of the accused; 
+(1) The name, service number, and current address of the accused; 
 
-The date and location of the trial; 
+(2) The date and location of the trial; 
 
-The type of court-martial and the title or position of the convening
+(3) The type of court-martial and the title or position of the convening
 
  authority; 
 
-The request for the new trial; 
+(4) The request for the new trial; 
 
-The sentence or a description thereof as approved or affirmed, with
+(5) The sentence or a description thereof as approved or affirmed, with
 
  any later reduction thereof by clemency or otherwise; 
 
-A brief description of any finding or sentence believed to be unjust;
+(6) A brief description of any finding or sentence believed to be unjust;
 
-A full statement of the newly discovered evidence or fraud on the
+(7) A full statement of the newly discovered evidence or fraud on the
 
  court-martial which is relied upon for the remedy sought; 
 
-Affidavits pertinent to the matters in subsection (c)(6) of this
+(8) Affidavits pertinent to the matters in subsection (c)(6) of this
 
  rule; and 
 
-The affidavit of each person whom the accused expects to present
+(9) The affidavit of each person whom the accused expects to present
 
 as a witness in the event of a new trial. Each such affidavit should set
 
 forth briefly the relevant facts within the personal knowledge of the witness.
 
-#  Effect of petition.
+### (d) Effect of petition.
 
 The submission of a petition for a new trial does not stay the
 
 execution of a sentence. 
 
-#  Who may act on petition.
+### (e) Who may act on petition.
 
 If the accused's case is pending before a Court of Criminal Appeals
 
@@ -25118,33 +25118,33 @@ Guard at the time the petition is submitted, shall be acted on in the Department
 
 in which the Coast Guard is serving at the time the petition is so submitted.
 
-#  Grounds for new trial.
+### (f) Grounds for new trial.
 
-#  In general.
+#### (1) In general.
 
 A new trial may be granted only on grounds of newly discovered
 
 evidence or fraud on the court-martial. 
 
-#  Newly discovered evidence.
+#### (2) Newly discovered evidence.
 
 A new trial shall not be granted on the grounds of newly discovered
 
  evidence unless the petition shows that: 
 
-The evidence was discovered after the trial; 
+(A) The evidence was discovered after the trial; 
 
-The evidence is not such that it would have been discovered by the
+(B) The evidence is not such that it would have been discovered by the
 
  petitioner at the time of trial in the exercise of due diligence; and 
 
-The newly discovered evidence, if considered by a court-martial
+(C) The newly discovered evidence, if considered by a court-martial
 
 in the light of all other pertinent evidence, would probably produce a substantially
 
 more favorable result for the accused. 
 
-#  Fraud on court-martial.
+#### (3) Fraud on court-martial.
 
 No fraud on the court-martial warrants a new trial unless it had
 
@@ -25152,7 +25152,7 @@ a substantial contributing effect on a finding of guilty or the sentence
 
  adjudged.
 
-#  Discussion
+####  Discussion
 
 Examples of fraud on a court-martial which may warrant granting
 
@@ -25176,9 +25176,9 @@ for challenge or disqualification was not known to the defense at the time
 
 of trial (_see_ R.C.M. 912).
 
-#  Action on the petition.
+### (g) Action on the petition.
 
-#  In general.
+#### (1) In general.
 
 The authority considering the petition may cause such additional
 
@@ -25188,7 +25188,7 @@ that authority believes appropriate. Upon written request, and in its discretion
 
 the authority considering the petition may permit oral argument on the matter.
 
-#  Courts of Criminal Appeals; Court of Appeals for the Armed Forces.
+#### (2) Courts of Criminal Appeals; Court of Appeals for the Armed Forces.
 
 The Courts of Criminal Appeals and the Court of Appeals for the
 
@@ -25196,7 +25196,7 @@ Armed Forces shall act on a petition for a new trial in accordance with their
 
  respective rules. 
 
-#  The Judge Advocates General.
+#### (3) The Judge Advocates General.
 
 When a petition is considered by the Judge Advocate General, any
 
@@ -25218,19 +25218,19 @@ but have not been reviewed by a Court of Criminal Appeals, act under Article
 
 69.
 
-#  Discussion
+####  Discussion
 
  _See also_ R.C.M. 1201(b)(3).
 
-#  Action when new trial is granted.
+### (h) Action when new trial is granted.
 
-#  Forwarding to convening authority.
+#### (1) Forwarding to convening authority.
 
 When a petition for a new trial is granted, the Judge Advocate
 
 General shall select and forward the case to a convening authority for disposition.
 
-#  Charges at new trial.
+#### (2) Charges at new trial.
 
 At a new trial, the accused may not be tried for any offense of
 
@@ -25238,7 +25238,7 @@ which the accused was found not guilty or upon which the accused was not
 
 tried at the earlier court-martial.
 
-#  Discussion
+####  Discussion
 
  _See also_ R.C.M. 810 concerning additional special
 
@@ -25246,19 +25246,19 @@ rules which apply at a new trial. In other respects a new trial is conducted
 
 like any other court-martial.
 
-#  Action by convening authority.
+#### (3) Action by convening authority.
 
 The convening authority's action on the record of a new trial is
 
 the same as in other courts-martial. 
 
-#  Disposition of record.
+#### (4) Disposition of record.
 
 The disposition of the record of a new trial is the same as for
 
 other courts-martial. 
 
-#  Court-martial orders.
+#### (5) Court-martial orders.
 
 Court-martial orders promulgating the final action taken as a result
 
@@ -25266,7 +25266,7 @@ Court-martial orders promulgating the final action taken as a result
 
 shall be promulgated in accordance with R.C.M. 1114.
 
-#  Discussion
+####  Discussion
 
  _See_ Article 75 and R.C.M. 1208 concerning restoration
 
@@ -25274,7 +25274,7 @@ of rights when the executed portion of a sentence is not sustained in a
 
 new trial or action following it.
 
-#  Action by persons charged with execution of the sentence.
+#### (6) Action by persons charged with execution of the sentence.
 
 Persons charged with the administrative duty of executing a sentence
 
@@ -25286,11 +25286,11 @@ included in the new sentence in computing the term or amount of punishment
 
 actually to be executed pursuant to the sentence. 
 
-#  SUMMARY COURTS-MARTIAL
+# CHAPTER XIII. SUMMARY COURTS-MARTIAL
 
-#  Summary courts-martial generally
+## Rule 1301. Summary courts-martial generally
 
-#  Composition.
+### (a) Composition.
 
 A summary court-martial is composed of one commissioned officer
 
@@ -25310,7 +25310,7 @@ present with a command or detachment, the convening authority may not be
 
 the summary court-martial of that command or detachment. 
 
-#  Function.
+### (b) Function.
 
 The function of the summary court-martial is to promptly adjudicate
 
@@ -25330,17 +25330,17 @@ drawn from evidence or the sentence which should be imposed, as the summary
 
  court-martial has the independent duty to make these determinations.
 
-#  Discussion
+###  Discussion
 
 For a definition of "minor offenses," _see_
 
 paragraph 1e, Part V.
 
-#  Jurisdiction.
+### (c) Jurisdiction.
 
 **--LSQP--Note: R.C.M. 1301(c) applies to offenses committed on or after 24 June 2014.--RSQP--**
 
-Subject to Chapter II, summary courts-martial have the power to
+(1) Subject to Chapter II, summary courts-martial have the power to
 
 try persons subject to the code, except commissioned officers, warrant officers,
 
@@ -25348,21 +25348,21 @@ cadets, aviation cadets, and midshipmen, for any noncapital offense made
 
 punishable by the code.
 
-Notwithstanding subsection (c)(1) above, summary courts-martial do not have jurisdiction over offenses under Articles 120(a), 120(b), 120b(a), 120b(b), forcible sodomy under Article 125, and attempts thereof under Article 80, UCMJ. Such offenses shall not be referred to a summary court-martial.
+(2) Notwithstanding subsection (c)(1) above, summary courts-martial do not have jurisdiction over offenses under Articles 120(a), 120(b), 120b(a), 120b(b), forcible sodomy under Article 125, and attempts thereof under Article 80, UCMJ. Such offenses shall not be referred to a summary court-martial.
 
-#  Discussion
+####  Discussion
 
  Pursuant to the National Defense Authorization Act for Fiscal Year 2014, only a general court-martial has jurisdiction to try penetrative sex offenses under subsections (a) and (b) of Article 120, subsections (a) and (b) of Article 120b, Article 125, and attempts to commit such penetrative sex offenses under Article 80, UCMJ.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 103(3) for a definition of capital
 
  offenses.
 
-#  Punishments.
+### (d) Punishments.
 
-#  Limitations-amount.
+#### (1) Limitations-amount.
 
 Subject to R.C.M. 1003, summary courts-martial may adjudge any
 
@@ -25376,7 +25376,7 @@ for more than 2 months, or forfeiture of more than two-thirds of 1 month's
 
 pay.
 
-#  Discussion
+####  Discussion
 
 The maximum penalty which can be adjudged in a summary court-martial
 
@@ -25406,7 +25406,7 @@ of punishment. The summary court-martial should ascertain the effect of
 
 Article 58a in that armed force.
 
-#  Limitations-pay grade.
+#### (2) Limitations-pay grade.
 
 In the case of enlisted members above the fourth enlisted pay grade,
 
@@ -25414,7 +25414,7 @@ In the case of enlisted members above the fourth enlisted pay grade,
 
 or reduction except to the next pay grade.
 
-#  Discussion
+####  Discussion
 
 The provisions of this subsection apply to an accused in the fifth
 
@@ -25422,7 +25422,7 @@ The provisions of this subsection apply to an accused in the fifth
 
 summary court-martial.
 
-#  Counsel.
+### (e) Counsel.
 
 The accused at a summary court-martial does not have the right to
 
@@ -25434,7 +25434,7 @@ the accused at the summary court-martial if such appearance will not unreasonabl
 
 delay the proceedings and if military exigencies do not preclude it.
 
-#  Discussion
+###  Discussion
 
 Neither the Constitution nor any statute establishes any right to
 
@@ -25448,13 +25448,13 @@ However, appearance of counsel is not prohibited. The detailing authority
 
 attorney to represent the accused at a summary court-martial.
 
-#  Power to obtain witnesses and evidence.
+### (f) Power to obtain witnesses and evidence.
 
 A summary court-martial may obtain evidence pursuant to R.C.M.
 
 703.
 
-#  Discussion
+###  Discussion
 
 The summary court-martial must obtain witnesses for the prosecution
 
@@ -25464,35 +25464,35 @@ rules on any request by the accused for witnesses or evidence in accordance
 
 with the procedure in R.C.M. 703(c) and (f).
 
-#  Secretarial limitations.
+### (g) Secretarial limitations.
 
 The Secretary concerned may prescribe procedural or other rules
 
 for summary courts-martial not inconsistent with this Manual or the code.
 
-#  Convening a summary court-martial
+## Rule 1302. Convening a summary court-martial
 
-#  Who may convene summary courts-martial.
+### (a) Who may convene summary courts-martial.
 
 Unless limited by competent authority summary courts-martial may
 
 be convened by: 
 
-Any person who may convene a general or special court-martial;
+(1) Any person who may convene a general or special court-martial;
 
-The commander of a detached company or other detachment of the Army;
+(2) The commander of a detached company or other detachment of the Army;
 
-The commander of a detached squadron or other detachment of the
+(3) The commander of a detached squadron or other detachment of the
 
 Air Force; 
 
-The commander or officer in charge of any other command when empowered
+(4) The commander or officer in charge of any other command when empowered
 
 by the Secretary concerned; or 
 
-A superior competent authority to any of the above. 
+(5) A superior competent authority to any of the above. 
 
-#  When convening authority is accuser.
+### (b) When convening authority is accuser.
 
 If the convening authority or the summary court-martial is the
 
@@ -25504,7 +25504,7 @@ summary court-martial. If the convening authority or the summary court-martial
 
 is the accuser, the jurisdiction of the summary court-martial is not affected.
 
-#  Procedure.
+### (c) Procedure.
 
 After the requirements of Chapters III and IV of this Part have
 
@@ -25516,7 +25516,7 @@ authority on the charge sheet. Charges shall be referred to summary courts-marti
 
 in accordance with R.C.M. 601.
 
-#  Discussion
+###  Discussion
 
 When the convening authority is the summary court-martial because
 
@@ -25526,7 +25526,7 @@ command or detachment, _ see_ R.C.M. 1301(a), that fact should
 
  be noted on the charge sheet.
 
-#  Right to object to trial by summary court-martial
+## Rule 1303. Right to object to trial by summary court-martial
 
 No person who objects thereto before arraignment may be tried by
 
@@ -25534,17 +25534,17 @@ No person who objects thereto before arraignment may be tried by
 
 Article 15 and demanded trial by court-martial for the same offenses.
 
-#  Discussion
+##  Discussion
 
 If the accused objects to trial by summary court-martial, the convening
 
 authority may dispose of the case in accordance with R.C.M. 401.
 
-#  Trial procedure
+## Rule 1304. Trial procedure
 
-#  Pretrial duties.
+### (a) Pretrial duties.
 
-#  Examination of file.
+#### (1) Examination of file.
 
 The summary court-martial shall carefully examine the charge sheet,
 
@@ -25552,7 +25552,7 @@ The summary court-martial shall carefully examine the charge sheet,
 
 before trial.
 
-#  Discussion
+####  Discussion
 
 "Personnel records" are those personnel records of the
 
@@ -25562,7 +25562,7 @@ papers" in a summary court-martial include convening orders, investigative
 
 reports, correspondence relating to the case, and witness statements.
 
-#  Report of irregularity.
+#### (2) Report of irregularity.
 
 The summary court-martial shall report to the convening authority
 
@@ -25570,7 +25570,7 @@ any substantial irregularity in the charge sheet, allied papers, or personnel
 
 records.
 
-#  Discussion
+####  Discussion
 
 The summary court-martial should examine the charge sheet, allied
 
@@ -25598,7 +25598,7 @@ matter not fairly included in the specification as preferred. _See
 
 _ subsection (3) below concerning minor errors.
 
-#  Correction and amendment.
+#### (3) Correction and amendment.
 
 The summary court-martial may, subject to R.C.M. 603, correct errors
 
@@ -25606,17 +25606,17 @@ The summary court-martial may, subject to R.C.M. 603, correct errors
 
  or amendments shall be initialed. 
 
-#  Summary court-martial procedure.
+### (b) Summary court-martial procedure.
 
  
 
-#  Discussion
+###  Discussion
 
 A sample guide is at Appendix 9. The summary court-martial should
 
  review and become familiar with the guide used before proceeding.
 
-#  Preliminary proceeding.
+#### (1) Preliminary proceeding.
 
 After complying with R.C.M. 1304(a), the summary court-martial shall
 
@@ -25624,27 +25624,27 @@ After complying with R.C.M. 1304(a), the summary court-martial shall
 
 of the charge sheet and informed of the following: 
 
-The general nature of the charges; 
+(A) The general nature of the charges; 
 
-The fact that the charges have been referred to a summary court-martial
+(B) The fact that the charges have been referred to a summary court-martial
 
 for trial and the date of referral; 
 
-The identity of the convening authority; 
+(C) The identity of the convening authority; 
 
-The name(s) of the accuser(s); 
+(D) The name(s) of the accuser(s); 
 
-The names of the witnesses who could be called to testify and any
+(E) The names of the witnesses who could be called to testify and any
 
  documents or physical evidence which the summary court-martial expects to
 
 introduce into evidence; 
 
-The accused's right to inspect the allied papers and immediately
+(F) The accused's right to inspect the allied papers and immediately
 
  available personnel records; 
 
-That during the trial the summary court-martial will not consider
+(G) That during the trial the summary court-martial will not consider
 
 any matters, including statements previously made by the accused to the
 
@@ -25652,37 +25652,37 @@ officer detailed as summary court-martial unless admitted in accordance
 
 with the Military Rules of Evidence; 
 
-The accused's right to plead not guilty or guilty; 
+(H) The accused's right to plead not guilty or guilty; 
 
-The accused's right to cross-examine witnesses and have the summary
+(I) The accused's right to cross-examine witnesses and have the summary
 
  court-martial cross-examine witnesses on behalf of the accused; 
 
-The accused's right to call witnesses and produce evidence with
+(J) The accused's right to call witnesses and produce evidence with
 
 the assistance of the summary court-martial as necessary; 
 
-The accused's right to testify on the merits, or to remain silent
+(K) The accused's right to testify on the merits, or to remain silent
 
  with the assurance that no adverse inference will be drawn by the summary
 
 court-martial from such silence; 
 
-If any findings of guilty are announced, the accused's rights to
+(L) If any findings of guilty are announced, the accused's rights to
 
  remain silent, to make an unsworn statement, oral or written or both, and
 
 to testify, and to introduce evidence in extenuation or mitigation; 
 
-The maximum sentence which the summary court-martial may adjudge
+(M) The maximum sentence which the summary court-martial may adjudge
 
 if the accused is found guilty of the offense or offenses alleged; and
 
-The accused's right to object to trial by summary court-martial.
+(N) The accused's right to object to trial by summary court-martial.
 
-#  Trial proceeding.
+#### (2) Trial proceeding.
 
-#  Objection to trial.
+##### (A) Objection to trial.
 
 The summary court-martial shall give the accused a reasonable period
 
@@ -25698,7 +25698,7 @@ authority. If the accused fails to object to trial by summary court-martial,
 
 trial shall proceed. 
 
-#  Arraignment.
+##### (B) Arraignment.
 
 After complying with R.C.M. 1304(b)(1) and (2)(A), the summary
 
@@ -25710,7 +25710,7 @@ charges. The summary court-martial shall then ask the accused to plead to
 
 each specification and charge. 
 
-#  Motions.
+##### (C) Motions.
 
 Before receiving pleas the summary court-martial shall allow the
 
@@ -25720,21 +25720,21 @@ shall take action on behalf of the accused, if requested by the accused,
 
 or if it appears necessary in the interests of justice. 
 
-#  Pleas.
+##### (D) Pleas.
 
-#  Not guilty pleas.
+###### (i) Not guilty pleas.
 
 When a not guilty plea is entered, the summary court-martial shall
 
  proceed to trial. 
 
-#  Guilty pleas.
+###### (ii) Guilty pleas.
 
 If the accused pleads guilty to any offense, the summary court-martial
 
 shall comply with R.C.M. 910. 
 
-#  Rejected guilty pleas.
+###### (iii) Rejected guilty pleas.
 
 If the summary court-martial is in doubt that the accused's pleas
 
@@ -25746,13 +25746,13 @@ the trial any matter inconsistent with pleas of guilty arises, which inconsisten
 
 as to the affected charges and specifications. 
 
-#  No plea.
+###### (iv) No plea.
 
 If the accused refuses to plead, the summary court-martial shall
 
  enter not guilty pleas. 
 
-#  Changed pleas.
+###### (v) Changed pleas.
 
 The accused may change any plea at any time before findings are
 
@@ -25760,17 +25760,17 @@ The accused may change any plea at any time before findings are
 
 findings are announced only for good cause. 
 
-#  Presentation of evidence.
+##### (E) Presentation of evidence.
 
-The Military Rules of Evidence (Part III) apply to summary courts-martial.
+(i) The Military Rules of Evidence (Part III) apply to summary courts-martial.
 
-The summary court-martial shall arrange for the attendance of necessary
+(ii) The summary court-martial shall arrange for the attendance of necessary
 
 witnesses for the prosecution and defense, including those requested by the
 
 accused.
 
-#  Discussion
+######  Discussion
 
  _See_ R.C.M. 703. Ordinarily witnesses should be
 
@@ -25778,7 +25778,7 @@ excluded from the courtroom until called to testify. _See_ Mil.
 
 R. Evid. 615.
 
-Witnesses for the prosecution shall be called first and examined
+(iii) Witnesses for the prosecution shall be called first and examined
 
  under oath. The accused shall be permitted to cross-examine these witnesses.
 
@@ -25790,23 +25790,23 @@ The witnesses for the accused shall then be called and similarly examined
 
 under oath. 
 
-The summary court-martial shall obtain evidence which tends to
+(iv) The summary court-martial shall obtain evidence which tends to
 
 disprove the accused's guilt or establishes extenuating circumstances.
 
-#  Discussion
+######  Discussion
 
  _See_ R.C.M. 703 and 1001.
 
-#  Findings and sentence.
+##### (F) Findings and sentence.
 
-The summary court-martial shall apply the principles in R.C.M. 918
+(i) The summary court-martial shall apply the principles in R.C.M. 918
 
 in determining the findings. The summary court-martial shall announce the
 
 findings to the accused in open session. 
 
-The summary court-martial shall follow the procedures in R.C.M.
+(ii) The summary court-martial shall follow the procedures in R.C.M.
 
 1001 and apply the principles in the remainder of Chapter X in determining
 
@@ -25814,31 +25814,31 @@ a sentence. The summary court-martial shall announce the sentence to the
 
  accused in open session. 
 
-If the sentence includes confinement, the summary court-martial
+(iii) If the sentence includes confinement, the summary court-martial
 
 shall advise the accused of the right to apply to the convening authority
 
 for deferment of the service of the confinement. 
 
-If the accused is found guilty, the summary court-martial shall
+(iv) If the accused is found guilty, the summary court-martial shall
 
  advise the accused of the rights under R.C.M. 1306(a) and (d) after the
 
 sentence is announced. 
 
-The summary court-martial shall, as soon as practicable, inform
+(v) The summary court-martial shall, as soon as practicable, inform
 
 the convening authority of the findings, sentence, recommendations, if any,
 
 for suspension of the sentence, and any deferment request. 
 
-If the sentence includes confinement, the summary court-martial
+(vi) If the sentence includes confinement, the summary court-martial
 
 shall cause the delivery of the accused to the accused's commanding officer
 
 or the commanding officer's designee.
 
-#  Discussion
+######  Discussion
 
 If the accused's immediate commanding officer is not the convening
 
@@ -25848,9 +25848,9 @@ officer is informed of the findings, sentence, and any recommendations pertainin
 
 thereto. _See_ R.C.M. 1101 concerning post-trial confinement.
 
-#  Record of trial
+## Rule 1305. Record of trial
 
-#  In general.
+### (a) In general.
 
 The record of trial of a summary court-martial shall be prepared
 
@@ -25858,7 +25858,7 @@ as prescribed in subsection (b) of this rule. The convening or higher authority
 
 may prescribe additional requirements for the record of trial. 
 
-#  Discussion
+###  Discussion
 
  _See_ Appendix 15 for a sample of a Record of Trial
 
@@ -25868,41 +25868,41 @@ by Summary Court-Martial (DD Form 2329).
 
 under R.C.M. 1306(a) should be appended to the record of trial.
 
-#  Contents.
+### (b) Contents.
 
 The summary court-martial shall prepare a written record of trial, which shall include: 
 
-The pleas, findings, and sentence, and if the accused was represented
+(1) The pleas, findings, and sentence, and if the accused was represented
 
  by counsel at the summary court-martial, a notation to that effect; 
 
-The fact that the accused was advised of the matters set forth in
+(2) The fact that the accused was advised of the matters set forth in
 
  R.C.M. 1304(b)(1); 
 
-If the summary court-martial is the convening authority, a notation
+(3) If the summary court-martial is the convening authority, a notation
 
  to that effect. 
 
-#  Authentication.
+### (c) Authentication.
 
 The summary court-martial shall authenticate the record by signing the record of trial.  An electronic record of trial may be authenticated with the electronic signature of the summary court-martial.
 
-#  Discussion
+###  Discussion
 
 "Authentication" means attesting that the record accurately
 
 reports the proceedings. _See_ R.C.M. 1104(a).
 
-#  Forwarding copies of the record.
+### (d) Forwarding copies of the record.
 
-#  Accused's copy.
+#### (1) Accused's copy.
 
-#  Service.
+##### (A) Service.
 
 The summary court-martial shall cause a copy of the record of trial to be served on the accused as soon as it is authenticated.  Service of an authenticated electronic copy of the record of trial with a means to review the record of trial satisfies the requirement of service under this rule. 
 
-#  Receipt.
+##### (B) Receipt.
 
 The summary court-martial shall cause the accused's receipt for
 
@@ -25920,13 +25920,13 @@ If the accused was represented by counsel, such counsel may be served with
 
 the record of trial. 
 
-#  Classified information.
+##### (C) Classified information.
 
 If classified information is included in the record of trial of
 
 a summary court-martial, R.C.M. 1104(b)(1)(D) shall apply. 
 
-#  Forwarding to the convening authority.
+#### (2) Forwarding to the convening authority.
 
 The original and one copy of the record of trial shall be forwarded
 
@@ -25934,27 +25934,27 @@ The original and one copy of the record of trial shall be forwarded
 
 rule. 
 
-#  Further disposition.
+#### (3) Further disposition.
 
 After compliance with R.C.M. 1306(b) and (c), the record of trial
 
  shall be disposed of under regulations prescribed by the Secretary concerned.
 
-#  Post-trial procedure
+## Rule 1306. Post-trial procedure
 
-#  Matters submitted.
+### (a) Matters submitted.
 
-#  By a crime victim.
+#### (1) By a crime victim.
 
 After a sentence is adjudged, a crime victim may submit a written statement to the convening authority in accordance with R.C.M. 1105A. A statement submitted by a crime victim shall be immediately served on the accused.
 
-#  By the accused.
+##### (2) By the accused.
 
 After a sentence is adjudged, the accused may submit written matters to the convening authority in accordance with R.C.M. 1105.
 
-#  Convening authority's action.
+### (b) Convening authority's action.
 
-#  Who shall act.
+#### (1) Who shall act.
 
 Except as provided herein, the convening authority shall take action
 
@@ -25964,7 +25964,7 @@ before the period prescribed in R.C.M. 1105(c)(2) has expired, unless the
 
 right to submit matters has been waived under R.C.M. 1105(d).
 
-#  Action.
+#### (2) Action.
 
 The action of the convening authority shall be shown on all copies
 
@@ -25976,11 +25976,11 @@ court-martial need not be issued. A copy of the action shall be forwarded
 
 to the accused. 
 
-#  Signature.
+#### (3) Signature.
 
 The action on the record of trial shall be signed by the convening authority.  The action on an electronic record of trial may be signed with the electronic signature of the convening authority. 
 
-#  Subsequent action.
+#### (4) Subsequent action.
 
 Any action taken on a summary court-martial after the initial action
 
@@ -25988,11 +25988,11 @@ Any action taken on a summary court-martial after the initial action
 
 taking the action, and promulgated in appropriate orders.
 
-#  Discussion
+####  Discussion
 
  _See_ R.C.M. 1114 concerning promulgating orders.
 
-#  Review by a judge advocate.
+### (c) Review by a judge advocate.
 
 Unless otherwise prescribed by regulations of the Secretary concerned,
 
@@ -26000,7 +26000,7 @@ the original record of the summary court-martial shall be reviewed by a judge
 
 advocate in accordance with R.C.M. 1112. 
 
-#  Review by the Judge Advocate General.
+### (d) Review by the Judge Advocate General.
 
 The accused may request review of a final conviction by summary
 

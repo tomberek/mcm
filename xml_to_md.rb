@@ -33,11 +33,13 @@ end
 
 module SAXNodes
   def part_open(name, attrs)
+    return if name.start_with? 'rule.'
     part_label = attrs['label'].downcase.to_sym
     @parts[part_label] = @output = []
   end
 
   def part_close(name, attrs)
+    return if name.start_with? 'rule.'
     @output = []
   end
 
@@ -55,7 +57,11 @@ module SAXNodes
 
   def para_open(name, attrs)
     @header_level += 1
-    @header_label = attrs.fetch('label', '')
+    if rule_num = attrs['rulenum']
+      @header_label = "Rule #{rule_num}."
+    else
+      @header_label = attrs.fetch('label', '')
+    end
   end
 
   def para_close(name, attrs)
@@ -78,8 +84,8 @@ module SAXNodes
     @header_label = ''
   end
 
-  def chapter(name, attrs)
-    @output << "Chapter #{attrs['label']}"
+  def chapter_open(name, attrs)
+    @header_label = "CHAPTER #{attrs['label']}"
   end
 
   def italic(string)
@@ -118,8 +124,8 @@ class MCMDoc
   end
 
   def on_element(namespace, name, attrs = {})
-    unqualified_name = name.match(/\w*\.(\D+)/)[0]
-    method_name = "#{unsuffixed_name}_open".downcase.to_sym
+    unqualified_name = name.match(/(rule\.)?(\D+)/)[2] # removes `rule.` prefix or a # suffix
+    method_name = "#{unqualified_name}_open".downcase.to_sym
     if SAXNodes.method_defined?(method_name)
       send(method_name, name, attrs)
     end
@@ -128,8 +134,8 @@ class MCMDoc
   end
 
   def after_element(namespace, name, attrs = {})
-    unsuffixed_name = name.match(/(\D+)/)[0]
-    method_name = "#{unsuffixed_name}_close".downcase.to_sym
+    unqualified_name = name.match(/(rule\.)?(\D+)/)[2]
+    method_name = "#{unqualified_name}_close".downcase.to_sym
     if SAXNodes.method_defined?(method_name)
       send(method_name, name, attrs)
     end
