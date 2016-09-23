@@ -876,7 +876,7 @@ Evidence from the interception of wire or oral communications is admissible when
 
 ### Discussion
 
-Pursuant to 18 U.S.C. --SECT--2516(1), the Attorney General, Deputy Attorney General, Associate Attorney General, or any Assistant Attorney General, any acting Assistant Attorney General, or any Deputy Assistant Attorney General or acting Deputy Assistant Attorney General in the Criminal Division or National Security Division specially designated by the Attorney General, may authorize an application to a Federal judge of competent jurisdiction for, and such judge may grant in conformity with 18 U.S.C. --SECT--2518, an order authorizing or approving the interception of wire or oral communications by the Federal Bureau of Investigation, or a Federal agency having responsibility for the investigation of the offense as to which the application is made, for purposes of obtaining evidence concerning the offenses enumerated in 18 U.S.C. --SECT--2516(1), to the extent such offenses are punishable under the Uniform Code of Military Justice.
+Pursuant to 18 U.S.C. &sect;2516(1), the Attorney General, Deputy Attorney General, Associate Attorney General, or any Assistant Attorney General, any acting Assistant Attorney General, or any Deputy Assistant Attorney General or acting Deputy Assistant Attorney General in the Criminal Division or National Security Division specially designated by the Attorney General, may authorize an application to a Federal judge of competent jurisdiction for, and such judge may grant in conformity with 18 U.S.C. &sect;2518, an order authorizing or approving the interception of wire or oral communications by the Federal Bureau of Investigation, or a Federal agency having responsibility for the investigation of the offense as to which the application is made, for purposes of obtaining evidence concerning the offenses enumerated in 18 U.S.C. &sect;2516(1), to the extent such offenses are punishable under the Uniform Code of Military Justice.
 
 ### (c) Regulations.
 
@@ -1186,7 +1186,7 @@ This rule does not limit the admission or consideration of evidence under any ot
 
 ### (d) Definition.
 
-As used in this rule, "sexual offense" means an offense punishable under the Uniform Code of Military Justice, or a crime under federal or state law (as "state" is defined in 18 U.S.C. --SECT-- 513), involving:
+As used in this rule, "sexual offense" means an offense punishable under the Uniform Code of Military Justice, or a crime under federal or state law (as "state" is defined in 18 U.S.C. &sect; 513), involving:
 
 (1) any conduct prohibited by Article 120;
 
@@ -1220,7 +1220,7 @@ As used in this rule:
 
 (1) "Child" means a person below the age of 16; and
 
-(2) "Child molestation" means an offense punishable under the Uniform Code of Military Justice, or a crime under federal law or under state law (as "state" is defined in 18 U.S.C. --SECT-- 513), that involves:
+(2) "Child molestation" means an offense punishable under the Uniform Code of Military Justice, or a crime under federal law or under state law (as "state" is defined in 18 U.S.C. &sect; 513), that involves:
 
 (A) any conduct prohibited by Article 120  and committed with a child;
 
@@ -1384,7 +1384,7 @@ There is no privilege under subdivisions (a) or (b):
 
 (B) When the marital relationship was entered into with no intention of the parties to live together as spouses, but only for the purpose of using the purported marital relationship as a sham, and with respect to the privilege in subdivision (a), the relationship remains a sham at the time the testimony or statement of one of the parties is to be introduced against the other; or with respect to the privilege in subdivision (b), the relationship was a sham at the time of the communication; or
 
-(C) In proceedings in which a spouse is charged, in accordance with Article 133 or 134, with importing the other spouse as an alien for prostitution or other immoral purpose in violation of 18 U.S.C. --SECT--1328; with transporting the other spouse in interstate commerce for immoral purposes or other offense in violation of 18 U.S.C. --SECT----SECT-- 2421-2424; or with violation of such other similar statutes under which such privilege may not be claimed in the trial of criminal cases in the United States district courts.
+(C) In proceedings in which a spouse is charged, in accordance with Article 133 or 134, with importing the other spouse as an alien for prostitution or other immoral purpose in violation of 18 U.S.C. &sect;1328; with transporting the other spouse in interstate commerce for immoral purposes or other offense in violation of 18 U.S.C. &sect;&sect; 2421-2424; or with violation of such other similar statutes under which such privilege may not be claimed in the trial of criminal cases in the United States district courts.
 
 (D) Where both parties have been substantial participants in illegal activity, those communications between the spouses during the marriage regarding the illegal activity in which they have jointly participated are not marital communications for purposes of the privilege in subdivision (b) and are not entitled to protection under the privilege in subdivision (b). 
 
@@ -1410,7 +1410,7 @@ Classified information must be protected and is privileged from disclosure if di
 
 As used in this rule: 
 
-(1) "Classified information" means any information or material that has been determined by the United States Government pursuant to an executive order, statute, or regulations, to require protection against unauthorized disclosure for reasons of national security, and any restricted data, as defined in 42 U.S.C. --SECT--2014(y).
+(1) "Classified information" means any information or material that has been determined by the United States Government pursuant to an executive order, statute, or regulations, to require protection against unauthorized disclosure for reasons of national security, and any restricted data, as defined in 42 U.S.C. &sect;2014(y).
 
 (2) "National security" means the national defense and foreign relations of the United States.
 
@@ -2810,7 +2810,7 @@ A statement about:
 
 #### (5) Other Exceptions.
 
---LSQP--Transferred to Mil.R.Evid. 807--RSQP--
+[Transferred to Mil.R.Evid. 807]
 
 #### (6) Statement Offered against a Party that Wrongfully Caused the Declarant's Unavailability.
 

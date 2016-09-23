@@ -6,11 +6,11 @@
 
 ## Discussion
 
---LSQP--Note: To state an offense under Article 134, practitioners should expressly allege at least one of the three terminal elements, i.e., that the alleged conduct was: prejudicial to good order and discipline; service discrediting; or a crime or offense not capital. _See United States v. Fosler_, 70 M.J. 225 (C.A.A.F. 2011); _United States v. Ballan_, 71 M.J. 28 (C.A.A.F. 2012). _See also_ paragraph 60c(6)(a) in this part and R.C.M. 307(c)(3).--RSQP--
+[Note: To state an offense under Article 134, practitioners should expressly allege at least one of the three terminal elements, i.e., that the alleged conduct was: prejudicial to good order and discipline; service discrediting; or a crime or offense not capital. _See United States v. Fosler_, 70 M.J. 225 (C.A.A.F. 2011); _United States v. Ballan_, 71 M.J. 28 (C.A.A.F. 2012). _See also_ paragraph 60c(6)(a) in this part and R.C.M. 307(c)(3).]
 
-  --LSQP--Note: In 2010, the Court of Appeals for the Armed Forces examined Article 79 and clarified the legal test for lesser included offenses. _United States v. Jones_, 68 M.J. 465 (C.A.A.F. 2010). An offense under Article 79 is "necessarily included" in the offense charged only if the elements of the lesser offense are a subset of the elements of the greater offense alleged. _See_ discussion following paragraph 3b(1)(c) in this part and the related analysis in Appendix 23 of this Manual.--RSQP--
+  [Note: In 2010, the Court of Appeals for the Armed Forces examined Article 79 and clarified the legal test for lesser included offenses. _United States v. Jones_, 68 M.J. 465 (C.A.A.F. 2010). An offense under Article 79 is "necessarily included" in the offense charged only if the elements of the lesser offense are a subset of the elements of the greater offense alleged. _See_ discussion following paragraph 3b(1)(c) in this part and the related analysis in Appendix 23 of this Manual.]
 
-  Part IV of the Manual addresses the punitive articles, 10 U.S.C. --SECT----SECT-- 877-934. Part IV is organized by paragraph beginning with Article 77; therefore, each paragraph number is associated with an article. For example, paragraph 45 addresses Article 120, Rape and sexual assault generally. Article 77, Principals, and Article 79, Lesser included offenses, are located in the punitive article subchapter of Title 10 but are not chargeable offenses as such.
+  Part IV of the Manual addresses the punitive articles, 10 U.S.C. &sect;&sect; 877-934. Part IV is organized by paragraph beginning with Article 77; therefore, each paragraph number is associated with an article. For example, paragraph 45 addresses Article 120, Rape and sexual assault generally. Article 77, Principals, and Article 79, Lesser included offenses, are located in the punitive article subchapter of Title 10 but are not chargeable offenses as such.
 
   Other than Articles 77 and 79, the punitive articles of the code are discussed using the following sequence:
 
@@ -790,9 +790,9 @@ should be charged under Article 134. Examples include conspiracies to impede
 
 or injure any Federal officer in the discharge of duties under 18 U.S.C.
 
---SECT-- 372, conspiracies against civil rights under 18 U.S.C. --SECT-- 241,
+&sect; 372, conspiracies against civil rights under 18 U.S.C. &sect; 241,
 
-and certain drug conspiracies under 21 U.S.C. --SECT-- 846. _See_ paragraph
+and certain drug conspiracies under 21 U.S.C. &sect; 846. _See_ paragraph
 
  60c(4)(c)(ii). 
 
@@ -884,9 +884,9 @@ to commit any of the four offenses named in Article 82; and
 
 be committed.
 
---LSQP--Note: If the offense solicited or advised was attempted or
+[Note: If the offense solicited or advised was attempted or
 
- committed, add the following element--RSQP--
+ committed, add the following element]
 
 (3) That the offense solicited or advised was (committed) (attempted)
 
@@ -992,17 +992,17 @@ solicitation or advice), (solicit) (advise)  (and  ) to (desert in violation of 
 
 of Article 94)
 
---LSQP--*and, as a result of such (solicitation) (advice), the offense
+[*and, as a result of such (solicitation) (advice), the offense
 
  (solicited) (advised) was, on or about  , 20
 
   , (at/on board-location), (attempted) (committed)
 
-by  (and  )--RSQP--.
+by  (and  )].
 
---LSQP--*Note: This language should be added to the end of the specification if the
+[*Note: This language should be added to the end of the specification if the
 
-offense solicited or advised is actually committed.--RSQP--
+offense solicited or advised is actually committed.]
 
 #### (2) For soliciting an act of misbehavior before the enemy (Article 99)
 
@@ -1020,13 +1020,13 @@ or sedition (Article 94).
 
  enemy in violation of Article 99) (sedition in violation of Article 94)
 
- --LSQP--*and, as a result of such (solicitation) (advice), the offense
+ [*and, as a result of such (solicitation) (advice), the offense
 
- (solicited) (advised) was, on or about  20  , (at/on board-location), committed by   (and  )--RSQP--.
+ (solicited) (advised) was, on or about  20  , (at/on board-location), committed by   (and  )].
 
---LSQP--*Note: This language should be added to the end of the specification if the
+[*Note: This language should be added to the end of the specification if the
 
-offense solicited or advised is actually committed.--RSQP--
+offense solicited or advised is actually committed.]
 
 ## 7. Article 83-Fraudulent enlistment, appointment, or separation
 
@@ -1306,13 +1306,13 @@ committed in time of war, by death or such other punishment as a court-martial m
 
 **
 
---LSQP--Note: Paragraph 9a(a)(3) above has been held not to
+[Note: Paragraph 9a(a)(3) above has been held not to
 
 state a separate offense by the United States Court of
 
 Military Appeals in _United States v. Huff_, 22 C.M.R.
 
-37 (1956)--RSQP--
+37 (1956)]
 
 ### b. Elements.
 
@@ -1332,9 +1332,9 @@ or place of duty permanently; and
 
 (d) That the accused remained absent until the date alleged.
 
---LSQP--Note: If the absence was terminated by apprehension, add
+[Note: If the absence was terminated by apprehension, add
 
-the following element--RSQP--
+the following element]
 
 (e) That the accused's absence was terminated by apprehension. 
 
@@ -1374,9 +1374,9 @@ resignation, the accused quit his or her post or proper duties;
 
 (d) That the accused remained absent until the date alleged.
 
---LSQP--Note: If the absence was terminated by apprehension, add the
+[Note: If the absence was terminated by apprehension, add the
 
- following element--RSQP--
+ following element]
 
 (e) That the accused's absence was terminated by apprehension.
 
@@ -1756,9 +1756,9 @@ give him or her leave; and
 
 (c) That the absence was for a certain period of time.
 
---LSQP--Note: if the absence was terminated by apprehension, add
+[Note: if the absence was terminated by apprehension, add
 
-the following element--RSQP--
+the following element]
 
 (d) That the absence was terminated by apprehension.
 
@@ -1772,9 +1772,9 @@ the following element--RSQP--
 
 (c) That absence of the accused was without authority; and
 
---LSQP--Note: If the absence was with intent to abandon the accused's
+[Note: If the absence was with intent to abandon the accused's
 
- guard, watch, or duty section, add the following element--RSQP--
+ guard, watch, or duty section, add the following element]
 
  
 
@@ -2346,9 +2346,9 @@ of a person other than the accused; and
 
  virtue of the circumstances under which they were used.
 
---LSQP--Note: If the words were against a Governor or legislature,
+[Note: If the words were against a Governor or legislature,
 
-add the following element--RSQP--
+add the following element]
 
 (5) That the accused was then present in the State, Territory, Commonwealth,
 
@@ -2404,21 +2404,21 @@ for 1 year.
 
 data), did,  (at/on  board-location),  on or
 
-about  20 , --LSQP--use (orally and publicly)
+about  20 , [use (orally and publicly)
 
-() the following contemptuous words--RSQP-- --LSQP--in a contemptuous
+() the following contemptuous words] [in a contemptuous
 
 manner, use (orally and publicly) () the following
 
-words--RSQP-- against the --LSQP--(President) (Vice President) (Congress)
+words] against the [(President) (Vice President) (Congress)
 
-(Secretary of )--RSQP-- --LSQP--(Governor) (legislature)
+(Secretary of )] [(Governor) (legislature)
 
 of the (State of ) (Territory of )
 
 (), a (State) (Territory) ()
 
-in which he/she, the said   , was then (on duty), (present)--RSQP--,
+in which he/she, the said   , was then (on duty), (present)],
 
 to wit: "  ," or words to that effect.
 
@@ -2974,9 +2974,9 @@ in the execution of office; and
 
 a warrant, noncommissioned, or petty officer.
 
---LSQP--Note: If the victim was the superior noncommissioned or petty
+[Note: If the victim was the superior noncommissioned or petty
 
- officer of the accused, add the following elements--RSQP--
+ officer of the accused, add the following elements]
 
 (e) That the victim was the superior noncommissioned, or petty officer
 
@@ -3026,9 +3026,9 @@ treated with contempt or was disrespectful to said warrant, noncommissioned,
 
  or petty officer.
 
---LSQP--Note: If the victim was the superior noncommissioned, or petty
+[Note: If the victim was the superior noncommissioned, or petty
 
- officer of the accused, add the following elements--RSQP--
+ officer of the accused, add the following elements]
 
  
 
@@ -3206,9 +3206,9 @@ the same.
 
   In that  (personal jurisdiction
 
- data) (at/on board-location), on or about  20 , --LSQP--did treat with contempt--RSQP-- --LSQP--was
+ data) (at/on board-location), on or about  20 , [did treat with contempt] [was
 
-disrespectful in (language) (deportment) toward--RSQP--  , a
+disrespectful in (language) (deportment) toward]  , a
 
  officer, then known by the said  to be a (superior)  officer, who
 
@@ -3466,7 +3466,7 @@ Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months.
 
---LSQP--Note: For (1) and (2), above, the punishment set forth does
+[Note: For (1) and (2), above, the punishment set forth does
 
 not apply in the following cases: if in the absence of the order or regulation
 
@@ -3478,7 +3478,7 @@ is prescribed; or if the violation or failure to obey is a breach of restraint
 
 imposed as a result of an order. In these instances, the maximum punishment
 
-is that specifically prescribed elsewhere for that particular offense.--RSQP--
+is that specifically prescribed elsewhere for that particular offense.]
 
 #### (3) Dereliction in the performance of duties.
 
@@ -4040,9 +4040,9 @@ and
 
  being released by proper authority.
 
---LSQP--Note: If the escape was post-trial confinement, add the following
+[Note: If the escape was post-trial confinement, add the following
 
- element--RSQP--
+ element]
 
  
 
@@ -7490,7 +7490,7 @@ or vessel, the accused:
 
 (b) was drunk or impaired, or
 
-(c) the alcohol concentration in the accused's blood or breath equaled or exceeded the applicable limit under subparagraph (b) of paragraph 35a. --LSQP--NOTE: If injury resulted add the following element--RSQP--
+(c) the alcohol concentration in the accused's blood or breath equaled or exceeded the applicable limit under subparagraph (b) of paragraph 35a. [NOTE: If injury resulted add the following element]
 
 (3) That the accused thereby caused the vehicle, aircraft, or vessel
 
@@ -7500,11 +7500,11 @@ to injure a person.
 
 #### (1) Vehicle.
 
-_See_ 1 U.S.C. --SECT-- 4. 
+_See_ 1 U.S.C. &sect; 4. 
 
 #### (2) Vessel.
 
-_See._ 1 U.S.C. --SECT-- 3. 
+_See._ 1 U.S.C. &sect; 3. 
 
 #### (3) Aircraft.
 
@@ -7668,7 +7668,7 @@ Bad-conduct discharge, forfeiture of all pay and allowances, and
 
 ### f. Sample specification.
 
-  In that   (personal jurisdiction data), did (at/on board   location) (subject matter jurisdiction data, if required), on or about  ,  20 , (in the motor pool area) (near the Officer's Club) (at the intersection of   and  ) (while in the Gulf of Mexico) (while in flight over North America) physically control --LSQP--a vehicle, to wit: (a truck) (a passenger car) ()--RSQP-- --LSQP--an aircraft, to wit: (an AH-64 helicopter) (an F-14A fighter) (a KC-135 tanker) ()--RSQP-- --LSQP--a vessel, to wit: (the aircraft carrier USS  ) (the Coast Guard Cutter  ) (  )--RSQP--, --LSQP--while drunk--RSQP-- --LSQP--while impaired by  --RSQP-- --LSQP--while the alcohol concentration in his (blood or breath) equaled or exceeded the applicable limit under subparagraph (b) of the text of the statute in paragraph 35 as shown by chemical analysis--RSQP-- --LSQP--in a (reckless) (wanton) manner by (attempting to pass another vehicle on a sharp curve) (ordering that the aircraft be flown below the authorized altitude)--RSQP-- --LSQP--and did thereby cause said (vehicle) (aircraft) (vessel) to (strike and) (injure  )--RSQP--.
+  In that   (personal jurisdiction data), did (at/on board   location) (subject matter jurisdiction data, if required), on or about  ,  20 , (in the motor pool area) (near the Officer's Club) (at the intersection of   and  ) (while in the Gulf of Mexico) (while in flight over North America) physically control [a vehicle, to wit: (a truck) (a passenger car) ()] [an aircraft, to wit: (an AH-64 helicopter) (an F-14A fighter) (a KC-135 tanker) ()] [a vessel, to wit: (the aircraft carrier USS  ) (the Coast Guard Cutter  ) (  )], [while drunk] [while impaired by  ] [while the alcohol concentration in his (blood or breath) equaled or exceeded the applicable limit under subparagraph (b) of the text of the statute in paragraph 35 as shown by chemical analysis] [in a (reckless) (wanton) manner by (attempting to pass another vehicle on a sharp curve) (ordering that the aircraft be flown below the authorized altitude)] [and did thereby cause said (vehicle) (aircraft) (vessel) to (strike and) (injure  )].
 
 ## 36. Article 112-Drunk on duty
 
@@ -7884,9 +7884,9 @@ and
 
 (b) That the (importation) (exportation) was wrongful.
 
---LSQP--Note: When any of the aggravating circumstances listed in
+[Note: When any of the aggravating circumstances listed in
 
- subparagraph e is alleged, it must be listed as an element.--RSQP--
+ subparagraph e is alleged, it must be listed as an element.]
 
  
 
@@ -8126,7 +8126,7 @@ or aircraft used by or under the control of the armed forces; in or at a
 
 missile launch facility used by or under the control of the armed forces;
 
-while receiving special pay under 37 U.S.C. --SECT-- 310; in time of war;
+while receiving special pay under 37 U.S.C. &sect; 310; in time of war;
 
 or in a confinement facility used by or under the control of the armed forces,
 
@@ -8160,7 +8160,7 @@ sentinel or lookout) (while (on board a vessel/aircraft) (in or at a missile
 
  forces, to wit: ) (while receiving special pay under
 
-37 U.S.C. --SECT-- 310) (during time of war). 
+37 U.S.C. &sect; 310) (during time of war). 
 
 #### (2) Wrongful use of controlled substance.
 
@@ -8178,7 +8178,7 @@ controlled substance) (while on duty as a sentinel or lookout) (while (on
 
  board a vessel/aircraft) (in or at a missile launch facility) used by the
 
-armed forces or under the control of the armed forces, to wit:   ) (while receiving special pay under 37 U.S.C. --SECT-- 310) (during
+armed forces or under the control of the armed forces, to wit:   ) (while receiving special pay under 37 U.S.C. &sect; 310) (during
 
 time of war). 
 
@@ -8202,7 +8202,7 @@ of the armed forces, to wit:  (with the intent to
 
 distribute the said controlled substance) (while on duty as a sentinel or
 
-lookout) (while receiving special pay under 37 U.S.C. --SECT-- 310) (during
+lookout) (while receiving special pay under 37 U.S.C. &sect; 310) (during
 
 a time of war). 
 
@@ -8246,15 +8246,15 @@ may direct.**
 
  while on post, or left post before being regularly relieved.
 
---LSQP--Note: If the offense was committed in time of war or while
+[Note: If the offense was committed in time of war or while
 
-the accused was receiving special pay under 37 U.S.C. --SECT-- 310, add the
+the accused was receiving special pay under 37 U.S.C. &sect; 310, add the
 
-following element--RSQP--
+following element]
 
 (3) That the offense was committed (in time of war) (while the accused
 
- was receiving special pay under 37 U.S.C. --SECT-- 310). 
+ was receiving special pay under 37 U.S.C. &sect; 310). 
 
 ### c. Explanation.
 
@@ -8358,7 +8358,7 @@ See paragraph 3 of this part and Appendix 12A.
 
 Death or such other punishment as a court-martial may direct. 
 
-#### (2) While receiving special pay under 37 U.S.C. --SECT-- 310.
+#### (2) While receiving special pay under 37 U.S.C. &sect; 310.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
@@ -8380,7 +8380,7 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
 time of war) (at/on board-location), (while receiving special pay
 
-under 37 U.S.C. --SECT-- 310), being (posted) (on post) as a (sentinel) (lookout)
+under 37 U.S.C. &sect; 310), being (posted) (on post) as a (sentinel) (lookout)
 
  at (warehouse no. 7) (post no. 11) (for radar observation) (  ) (was found (drunk) (sleeping) upon his/her post) (did leave his/her
 
@@ -8572,9 +8572,9 @@ and
 
  work, duty, or service.
 
---LSQP--Note: If the offense was committed in time of war or in a
+[Note: If the offense was committed in time of war or in a
 
-hostile fire pay zone, add the following element--RSQP--
+hostile fire pay zone, add the following element]
 
 (4) That the offense was committed (in time of war) (in a hostile fire
 
@@ -8912,7 +8912,7 @@ without justification or excuse, unlawfully kills a human being, when he-**
 
 (4) **is engaged in the perpetration or attempted perpetration of burglary, sodomy, rape, rape of a child, sexual assault, sexual assault of a child, aggravated sexual contact, sexual abuse of a child, robbery or aggravated arson; is guilty of murder, and shall suffer such punishment as a court-martial may direct, except that if found guilty under clause (1) or (4), he shall suffer death or imprisonment for life as a court-martial may direct.**
 
---LSQP--Note: This statute was amended by Public Law 112-81 (FY12 NDAA), effective 28 June 2012, to reflect the modified names of sexual offenses in Articles 120 and 120b.--RSQP--
+[Note: This statute was amended by Public Law 112-81 (FY12 NDAA), effective 28 June 2012, to reflect the modified names of sexual offenses in Articles 120 and 120b.]
 
 ### b. Elements.
 
@@ -9200,7 +9200,7 @@ shall be punished as a court-martial may direct.**
 
 (d) That, at the time of the killing, the accused had the intent to kill or inflict great bodily harm upon the person killed.
 
---LSQP--Note: Add the following if applicable--RSQP-- 
+[Note: Add the following if applicable] 
 
 (e) That the person killed was a child under the age of 16 years. 
 
@@ -9214,7 +9214,7 @@ shall be punished as a court-martial may direct.**
 
 (d) That this act or omission of the accused constituted culpable negligence, or occurred while the accused was perpetrating or attempting to perpetrate an offense directly affecting the person other than burglary, forcible sodomy, rape, robbery, or aggravated arson.
 
---LSQP--Note: Add the following if applicable--RSQP-- 
+[Note: Add the following if applicable] 
 
 (d) That the person killed was a child under the age of 16 years. 
 
@@ -9440,7 +9440,7 @@ of development, who is carried in the womb.**
 
 #### (1) Injuring an unborn child.
 
-(a) That the accused was engaged in the --LSQP--(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of--RSQP-- or --LSQP--burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property (known to be occupied by) (belonging to))--RSQP-- a woman;
+(a) That the accused was engaged in the [(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of] or [burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property (known to be occupied by) (belonging to))] a woman;
 
 (b) That the woman was then pregnant; and 
 
@@ -9448,7 +9448,7 @@ of development, who is carried in the womb.**
 
 ####### (2) Killing an unborn child.
 
-(a) That the accused was engaged in the --LSQP--(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of --RSQP-- or --LSQP--burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))--RSQP-- a woman;
+(a) That the accused was engaged in the [(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of ] or [burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))] a woman;
 
 (b) That the woman was then pregnant; and
 
@@ -9456,7 +9456,7 @@ of development, who is carried in the womb.**
 
 ########## (3) Attempting to kill an unborn child.
 
-(a) That the accused was engaged in the --LSQP--(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of--RSQP-- or --LSQP--burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property (known to be occupied by) (belonging to))--RSQP-- a woman;
+(a) That the accused was engaged in the [(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of] or [burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property (known to be occupied by) (belonging to))] a woman;
 
 (b) That the woman was then pregnant; and
 
@@ -9464,7 +9464,7 @@ of development, who is carried in the womb.**
 
 ############# (4) Intentionally killing an unborn child.
 
-(a) That the accused was engaged in the --LSQP--(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of--RSQP-- or --LSQP--burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property (known to be occupied by) (belonging to))--RSQP-- a woman;
+(a) That the accused was engaged in the [(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of] or [burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property (known to be occupied by) (belonging to))] a woman;
 
 (b) That the woman was then pregnant; and 
 
@@ -9514,7 +9514,7 @@ The maximum punishment for (1) Injuring an unborn child; (2) Killing an unborn c
 
   
 
-In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , cause bodily injury to the unborn child of , a pregnant woman, by engaging in the --LSQP--(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of--RSQP-- --LSQP--(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))--RSQP-- that woman.
+In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , cause bodily injury to the unborn child of , a pregnant woman, by engaging in the [(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of] [(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))] that woman.
 
 ############## (2) Killing an unborn child.
 
@@ -9522,7 +9522,7 @@ In that   (personal jurisdiction data), did (at/on board-location), (subject-mat
 
   
 
-In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , cause the death of the unborn child of , a pregnant woman, by engaging in the --LSQP--(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of--RSQP-- --LSQP--(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))--RSQP-- that woman.
+In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , cause the death of the unborn child of , a pregnant woman, by engaging in the [(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of] [(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))] that woman.
 
 ############## (3) Attempting to kill an unborn child.
 
@@ -9530,7 +9530,7 @@ In that   (personal jurisdiction data), did (at/on board-location), (subject-mat
 
   
 
-In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , attempt to kill the unborn child of , a pregnant woman, by engaging in the --LSQP--(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of--RSQP-- --LSQP--(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))--RSQP-- that woman.
+In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , attempt to kill the unborn child of , a pregnant woman, by engaging in the [(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of] [(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))] that woman.
 
 ############## (4) Intentionally killing an unborn child.
 
@@ -9538,11 +9538,11 @@ In that   (personal jurisdiction data), did (at/on board-location), (subject-mat
 
   
 
-In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , intentionally kill the unborn child of , a pregnant woman, by engaging in the --LSQP--(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of--RSQP-- --LSQP--(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))--RSQP-- that woman.
+In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , intentionally kill the unborn child of , a pregnant woman, by engaging in the [(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of] [(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))] that woman.
 
 ## 45.  Article 120-Rape and sexual assault generally
 
-**--LSQP--Note: This statute applies to offenses committed on or after 28 June 2012. Previous versions of Article 120 are located as follows: for offenses committed on or before 30 September 2007, _see_ Appendix 27; for offenses committed during the period 1 October 2007 through 27 June 2012, _see_ Appendix 28.--RSQP--**
+**[Note: This statute applies to offenses committed on or after 28 June 2012. Previous versions of Article 120 are located as follows: for offenses committed on or before 30 September 2007, _see_ Appendix 27; for offenses committed during the period 1 October 2007 through 27 June 2012, _see_ Appendix 28.]**
 
 ### a. Text of statute.
 
@@ -10132,7 +10132,7 @@ Touching may be accomplished by any part of the body.**
 
 			########## (f) When the other person is incapable of consenting.
 
- In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon _________, by causing penetration of __________'s (vulva) (anus) (mouth) with _______'s penis, when _________ was incapable of consenting to the sexual act because he/she --LSQP--was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )--RSQP-- --LSQP--had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)--RSQP--, a condition that was known or reasonably should have been known by the said accused.
+ In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon _________, by causing penetration of __________'s (vulva) (anus) (mouth) with _______'s penis, when _________ was incapable of consenting to the sexual act because he/she [was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )] [had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)], a condition that was known or reasonably should have been known by the said accused.
 
 			
 
@@ -10162,7 +10162,7 @@ Touching may be accomplished by any part of the body.**
 
 			########## (f) When the other person is incapable of consenting.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a sexual act upon __________, by penetrating the (vulva) (anus) ( mouth) of ______________ with (list body part or object), when ____________ was incapable of consenting to the sexual act because he/she --LSQP--was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )--RSQP-- --LSQP--had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)--RSQP--, a condition that was known or reasonably should have been known by the said accused, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) _____.
+ In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a sexual act upon __________, by penetrating the (vulva) (anus) ( mouth) of ______________ with (list body part or object), when ____________ was incapable of consenting to the sexual act because he/she [was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )] [had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)], a condition that was known or reasonably should have been known by the said accused, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) _____.
 
 			
 
@@ -10172,23 +10172,23 @@ Touching may be accomplished by any part of the body.**
 
 			##### (a) By force.
 
- In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause _______ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, by using unlawful force, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, [(touch) (cause _______ to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, by using unlawful force, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
 			###### (b) By force causing or likely to cause death or grievous bodily harm.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, by using force likely to cause death or grievous bodily harm to _________, to wit: _________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, [(touch) (cause _________ to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, by using force likely to cause death or grievous bodily harm to _________, to wit: _________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
 			####### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping.
 
- In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of ______, by (threatening ________) (placing ______ in fear) that _________ would be subjected to (death) (grievous bodily harm) (kidnapping), with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, [(touch) (cause _________ to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of ______, by (threatening ________) (placing ______ in fear) that _________ would be subjected to (death) (grievous bodily harm) (kidnapping), with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
 			######## (d) By first rendering that other person unconscious.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, --LSQP--(touch) (cause ________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, by rendering _______ unconscious by __________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) _______.
+ In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, [(touch) (cause ________ to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, by rendering _______ unconscious by __________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) _______.
 
 			######### (e) By administering a drug, intoxicant, or other similar substance.
 
- In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause __________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of __________, by administering to ____________ (by force) (by threat of force) (without the knowledge or permission of ____) a (drug) (intoxicant) (___) thereby substantially impairing the ability of ___________ to appraise or control his/her conduct, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, [(touch) (cause __________ to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of __________, by administering to ____________ (by force) (by threat of force) (without the knowledge or permission of ____) a (drug) (intoxicant) (___) thereby substantially impairing the ability of ___________ to appraise or control his/her conduct, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
 			
 
@@ -10198,23 +10198,23 @@ Touching may be accomplished by any part of the body.**
 
 			##### (a) By force.
 
- In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause ________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of _______, by using unlawful force, with an intent to (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, [(touch) (cause ________ to touch)] [(directly) (through the clothing)] (name of body part) of _______, by using unlawful force, with an intent to (arouse) (gratify the sexual desire of) __________.
 
 			###### (b) By force causing or likely to cause death or grievous bodily harm.
 
- In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of _______, by using force likely to cause death or grievous bodily harm to ________, to wit: _____________, with an intent to (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, [(touch) (cause _________ to touch)] [(directly) (through the clothing)] (name of body part) of _______, by using force likely to cause death or grievous bodily harm to ________, to wit: _____________, with an intent to (arouse) (gratify the sexual desire of) __________.
 
 			####### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, --LSQP--(touch) (cause ________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of _______, by (threatening _________) (placing _______ in fear) that _____________ would be subjected to (death) (grievous bodily harm) (kidnapping), with an intent to (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, [(touch) (cause ________ to touch)] [(directly) (through the clothing)] (name of body part) of _______, by (threatening _________) (placing _______ in fear) that _____________ would be subjected to (death) (grievous bodily harm) (kidnapping), with an intent to (arouse) (gratify the sexual desire of) __________.
 
 			######## (d) By first rendering that other person unconscious.
 
- In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of _______, by rendering __________ unconscious by ________________, with an intent to (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, [(touch) (cause _________ to touch)] [(directly) (through the clothing)] (name of body part) of _______, by rendering __________ unconscious by ________________, with an intent to (arouse) (gratify the sexual desire of) __________.
 
 			######### (e) By administering a drug, intoxicant, or other similar substance.
 
- In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of ______, by administering to _________ (by force) (by threat of force) (without the knowledge or permission of __________) a (drug) (intoxicant) (____) and thereby substantially impairing the ability of ___________ to appraise or control his/her conduct, with an intent to (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, [(touch) (cause _________ to touch)] [(directly) (through the clothing)] (name of body part) of ______, by administering to _________ (by force) (by threat of force) (without the knowledge or permission of __________) a (drug) (intoxicant) (____) and thereby substantially impairing the ability of ___________ to appraise or control his/her conduct, with an intent to (arouse) (gratify the sexual desire of) __________.
 
 			
 
@@ -10224,27 +10224,27 @@ Touching may be accomplished by any part of the body.**
 
 			##### (a) By threatening or placing that other person in fear.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______ by (threatening ________) (placing _________ in fear), with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______ by (threatening ________) (placing _________ in fear), with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
 			###### (b) By causing bodily harm.
 
- In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______ by causing bodily harm to __________, to wit: ___________________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______ by causing bodily harm to __________, to wit: ___________________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
 			####### (c) By fraudulent representation.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of __________ by making a fraudulent representation that the sexual contact served a professional purpose, to wit: __________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of __________ by making a fraudulent representation that the sexual contact served a professional purpose, to wit: __________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
 			######## (d) By false pretense.
 
- In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of __________ by inducing a belief by (artifice) (pretense) (concealment) that the said accused was another person, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of __________ by inducing a belief by (artifice) (pretense) (concealment) that the said accused was another person, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
 			######### (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ___ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______ when he/she knew or reasonably should have known that _______ was (asleep) (unconscious) (unaware the sexual contact was occurring due to _________), with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ___ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______ when he/she knew or reasonably should have known that _______ was (asleep) (unconscious) (unaware the sexual contact was occurring due to _________), with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
 			########## (f) When that person is incapable of consenting.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of ______ when _________ was incapable of consenting to the sexual contact because he/she --LSQP--was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )--RSQP-- --LSQP--had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)--RSQP-- and this condition was known or reasonably should have been known by ___________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of ______ when _________ was incapable of consenting to the sexual contact because he/she [was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )] [had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)] and this condition was known or reasonably should have been known by ___________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
 			
 
@@ -10254,27 +10254,27 @@ Touching may be accomplished by any part of the body.**
 
 			##### (a) By threatening or placing that other person in fear.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ by (threatening _________) (placing __________ in fear), with an intent to (arouse) (gratify the sexual desire of) _________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (name of body part) of _______ by (threatening _________) (placing __________ in fear), with an intent to (arouse) (gratify the sexual desire of) _________.
 
 			###### (b) By causing bodily harm.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ by causing bodily harm to __________, to wit: _____________, with an intent to (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (name of body part) of _______ by causing bodily harm to __________, to wit: _____________, with an intent to (arouse) (gratify the sexual desire of) __________.
 
 			####### (c) By fraudulent representation.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ by making a fraudulent representation that the sexual contact served a professional purpose, to wit: __________, with an intent to (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (name of body part) of _______ by making a fraudulent representation that the sexual contact served a professional purpose, to wit: __________, with an intent to (arouse) (gratify the sexual desire of) __________.
 
 			######## (d) By false pretense.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ by inducing a belief by (artifice) (pretense) (concealment) that the said accused was another person, with an intent to (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (name of body part) of _______ by inducing a belief by (artifice) (pretense) (concealment) that the said accused was another person, with an intent to (arouse) (gratify the sexual desire of) __________.
 
 			######### (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ when he/she knew or reasonably should have known that _________ was (asleep) (unconscious) (unaware the sexual contact was occurring due to _________), with an intent to (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (name of body part) of _______ when he/she knew or reasonably should have known that _________ was (asleep) (unconscious) (unaware the sexual contact was occurring due to _________), with an intent to (arouse) (gratify the sexual desire of) __________.
 
 			########## (f) When that person is incapable of consenting.
 
- In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ when ____________ was incapable of consenting to the sexual contact because he/she --LSQP--was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )--RSQP-- --LSQP--had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)--RSQP--, a condition that was known or reasonably should have been known by _____________, with an intent to (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, [(touch) (cause another person to touch)] [(directly) (through the clothing)] the (name of body part) of _______ when ____________ was incapable of consenting to the sexual contact because he/she [was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )] [had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)], a condition that was known or reasonably should have been known by _____________, with an intent to (arouse) (gratify the sexual desire of) __________.
 
 			
 
@@ -10338,7 +10338,7 @@ Dishonorable discharge, forfeiture of all pay and allowances, and confinement fo
 
 ## 45b. Article 120b-Rape and sexual assault of a child
 
- --LSQP--**Note: This statute applies to offenses committed on or after 28 June 2012. Article 120b is a new statute designed to address only child sexual offenses. Previous versions of child sexual offenses are located as follows: for offenses committed on or before 30 September 2007, _see_ Appen- dix 27; for offenses committed during the period 1 October 2007 through 27 June 2012, _see_ Appendix 28.--RSQP--**
+ [**Note: This statute applies to offenses committed on or after 28 June 2012. Article 120b is a new statute designed to address only child sexual offenses. Previous versions of child sexual offenses are located as follows: for offenses committed on or before 30 September 2007, _see_ Appen- dix 27; for offenses committed during the period 1 October 2007 through 27 June 2012, _see_ Appendix 28.]**
 
 ### a. Text of Statute
 
@@ -10640,15 +10640,15 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
  			##### (a) Sexual abuse of a child involving sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a lewd act upon __________, a child who had not attained the age of 16 years, by intentionally --LSQP--(touching) (causing _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, with an intent to (abuse) (humiliate) (degrade) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a lewd act upon __________, a child who had not attained the age of 16 years, by intentionally [(touching) (causing _________ to touch)] [(directly) (through the clothing)] the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, with an intent to (abuse) (humiliate) (degrade) __________.
 
 			###### (b) Sexual abuse of a child involving sexual contact involving the touching of any body part of any person.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a lewd act upon __________, a child who had not attained the age of 16 years, by intentionally exposing --LSQP--his (genitalia) (anus) (buttocks)--RSQP-- --LSQP--her (genitalia) (anus) (buttocks) (areola) (nipple)--RSQP-- to ___________, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a lewd act upon __________, a child who had not attained the age of 16 years, by intentionally exposing [his (genitalia) (anus) (buttocks)] [her (genitalia) (anus) (buttocks) (areola) (nipple)] to ___________, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
 			###### (c) Sexual abuse of a child involving indecent exposure.
 
- In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a lewd act upon _______, a child who had not attained the age of 16 years, by intentionally --LSQP--(touching) (causing _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of _______, with an intent to (arouse) (gratify the sexual desire of) __________.
+ In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a lewd act upon _______, a child who had not attained the age of 16 years, by intentionally [(touching) (causing _________ to touch)] [(directly) (through the clothing)] (name of body part) of _______, with an intent to (arouse) (gratify the sexual desire of) __________.
 
 			###### (d) Sexual abuse of a child involving indecent communication.
 
@@ -10660,7 +10660,7 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 ## 45c. Article 120c-Other sexual misconduct
 
-**--LSQP--Note: This statute applies to offenses committed on or after 28 June 2012. Article 120c is a new statute designed to address miscellaneous sexual misconduct. Previous versions of these offenses are located as follows: for offenses committed on or before 30 September 2007, _see_ Appendix 27; for offenses committed during the period 1 October 2007 through 27 June 2012, _see_ Appendix 28.--RSQP--**
+**[Note: This statute applies to offenses committed on or after 28 June 2012. Article 120c is a new statute designed to address miscellaneous sexual misconduct. Previous versions of these offenses are located as follows: for offenses committed on or before 30 September 2007, _see_ Appendix 27; for offenses committed during the period 1 October 2007 through 27 June 2012, _see_ Appendix 28.]**
 
 ### a. Text of Statute
 
@@ -10862,7 +10862,7 @@ be punished as a court-martial may direct.**
 
 use of the accused or for any person other than the owner.
 
---LSQP--Note: If the property is alleged to be military property, as defined in paragraph 46c(1)(h), add the following element--RSQP--
+[Note: If the property is alleged to be military property, as defined in paragraph 46c(1)(h), add the following element]
 
 (e) That the property was military property. 
 
@@ -11516,9 +11516,9 @@ the robbery;
 
  permanently to deprive the person robbed of the use and benefit of the property.
 
---LSQP--Note: If the robbery was committed with a firearm, add the
+[Note: If the robbery was committed with a firearm, add the
 
- following element--RSQP--
+ following element]
 
  
 
@@ -11878,25 +11878,25 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
 if required), on or about   20 ,
 
-with intent to defraud, falsely --LSQP--make (in its entirety) (the signature
+with intent to defraud, falsely [make (in its entirety) (the signature
 
 of  as an indorsement to) (the signature of  to) (  ) a certain (check)
 
  (writing) (  ) in the following words and figures,
 
-to wit:  --RSQP-- --LSQP--alter a certain (check)
+to wit:  ] [alter a certain (check)
 
 (writing) (  ) in the following words and figures,
 
 to wit:  , by (adding thereto  )
 
-(  )--RSQP--, which said (check) (writing) ( ) would, if genuine, apparently operate to the legal harm
+(  )], which said (check) (writing) ( ) would, if genuine, apparently operate to the legal harm
 
-of another --LSQP--*and which  (could be) (was) used
+of another [*and which  (could be) (was) used
 
- to the legal harm of  , in that  --RSQP--.
+ to the legal harm of  , in that  ].
 
---LSQP--*Note: This allegation should be used when the document specified
+[*Note: This allegation should be used when the document specified
 
 is not one which by its nature would clearly operate to the legal prejudice
 
@@ -11904,7 +11904,7 @@ of another-for example, an insurance application. The manner in which
 
 the document could be or was used to prejudice the legal rights of another
 
-should be alleged in the last blank.--RSQP--
+should be alleged in the last blank.]
 
 #### (2) Forgery-uttering.
 
@@ -11928,7 +11928,7 @@ said  , then well knew, falsely (made) (altered) (*and
 
 which  (could be) (was) used to the legal harm of  , in that  ).
 
---LSQP--*Note: _See_ the note following (1), above--RSQP--
+[*Note: _See_ the note following (1), above]
 
 ## 49. Article 123a-Making, drawing, or uttering check, draft, or order
 
@@ -14750,7 +14750,7 @@ The proof required for conviction of an offense under Article 134 depends upon t
 
 (2) For clause 3 offenses under Article 134, the following proof is required: 
 
-(a) That the accused did or failed to do certain acts that satisfy each element of the federal statute (including, in the case of a prosecution under 18 U.S.C. --SECT-- 13, each element of the assimilated State, Territory, Possession, or District law); and  
+(a) That the accused did or failed to do certain acts that satisfy each element of the federal statute (including, in the case of a prosecution under 18 U.S.C. &sect; 13, each element of the assimilated State, Territory, Possession, or District law); and  
 
 (b) That the offense charged was an offense not capital.
 
@@ -14888,7 +14888,7 @@ States Code are made applicable under clause 3 of Article 134 to all persons
 
 subject to the code regardless where the wrongful act or omission occurred.
 
-Examples include: counterfeiting (18 U.S.C. --SECT-- 471), and various frauds
+Examples include: counterfeiting (18 U.S.C. &sect; 471), and various frauds
 
 against the Government not covered by Article 132. 
 
@@ -14916,7 +14916,7 @@ crimes), and a general federal statute, the Federal Assimilative Crimes Act
 
 (which adopts certain state criminal laws). 
 
-###### (ii) Federal Assimilative Crimes Act (18 U.S.C. --SECT-- 13).
+###### (ii) Federal Assimilative Crimes Act (18 U.S.C. &sect; 13).
 
 The Federal Assimilative Crimes Act is an adoption by Congress of
 
@@ -15020,7 +15020,7 @@ _See United States v. Jones_, 68 M.J. 465 (C.A.A.F. 2010). Under _Jones_, an off
 
 ##### (b) Specifications under clause 3.
 
-When alleging a clause 3 violation, the specification must expressly allege that the conduct was "an offense not capital," and each element of the federal statute (including, in the case of a prosecution under 18 U.S.C. --SECT-- 13, each element of the assimilated State, Territory, Possession, or District law) must be alleged expressly or by necessary implication. In addition, the federal statute should be identified.
+When alleging a clause 3 violation, the specification must expressly allege that the conduct was "an offense not capital," and each element of the federal statute (including, in the case of a prosecution under 18 U.S.C. &sect; 13, each element of the assimilated State, Territory, Possession, or District law) must be alleged expressly or by necessary implication. In addition, the federal statute should be identified.
 
 ###### Discussion
 
@@ -15104,7 +15104,7 @@ did, (at/on board-location) (subject-matter jurisdiction data, if required),
 
 on or about (date), wrongfully
 
---LSQP--abuse--RSQP-- --LSQP--neglect--RSQP-- --LSQP--abandon--RSQP--) (*engage in a sexual act, to wit: , with) a certain (*public) animal (*and caused --LSQP--serious injury to--RSQP-- --LSQP--the death of--RSQP-- the animal), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
+[abuse] [neglect] [abandon]) (*engage in a sexual act, to wit: , with) a certain (*public) animal (*and caused [serious injury to] [the death of] the animal), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
 ## 62. Article 134-(Adultery)
 
@@ -15604,9 +15604,9 @@ was and is interested, to wit: (the purchasing of military supplies from
 
 with (  ) (  ), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
---LSQP--*Note: This language should be used to allege bribery.--RSQP--
+[*Note: This language should be used to allege bribery.]
 
---LSQP--**Note: This language should be used to allege graft.--RSQP--
+[**Note: This language should be used to allege graft.]
 
 #### (2) Promising, offering, or giving.
 
@@ -15640,9 +15640,9 @@ States was and is interested, to wit: (the granting of leave to
 
 in favor of  ) (  ), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
---LSQP--*Note: This language should be used to allege bribery.--RSQP--
+[*Note: This language should be used to allege bribery.]
 
---LSQP--**Note: This language should be used to allege graft.--RSQP--
+[**Note: This language should be used to allege graft.]
 
 ## 67. Article 134-(Burning with intent to defraud)
 
@@ -16282,7 +16282,7 @@ a nature to bring discredit upon the armed forces.
 
 Certain disloyal statements by military personnel may not constitute
 
-an offense under 18 U.S.C. --SECT----SECT-- 2385, 2387, and 2388, but may, under
+an offense under 18 U.S.C. &sect;&sect; 2385, 2387, and 2388, but may, under
 
 the circumstances, be punishable under this article. Examples include praising
 
@@ -16700,13 +16700,13 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces.
 
---LSQP--Note: When there is intent to defraud or deceive, add the
+[Note: When there is intent to defraud or deceive, add the
 
 following element after (c) above: That the accused used or possessed the
 
 pass, permit, discharge certificate, or identification card with an intent
 
-to defraud or deceive.--RSQP--
+to defraud or deceive.]
 
 ### c. Explanation.
 
@@ -17216,11 +17216,11 @@ leave) the scene of the accident without (providing assistance to
 
  his/her (the driver's) identity known), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
---LSQP--*Note: This language should be used when the accused was a
+[*Note: This language should be used when the accused was a
 
 passenger and is charged as a principal. _See_ paragraph 1
 
-of this part.--RSQP--
+of this part.]
 
 ## 83. Article 134-(Fraternization)
 
@@ -17480,13 +17480,13 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces.
 
---LSQP--Note 1: If intent to defraud is in issue, add the
+[Note 1: If intent to defraud is in issue, add the
 
  following additional element after (2), above: That the accused did so with
 
-the intent to defraud a certain person or organization in a certain manner;--RSQP--.
+the intent to defraud a certain person or organization in a certain manner;].
 
---LSQP--Note 2: If the accused is charged with impersonating
+[Note 2: If the accused is charged with impersonating
 
 an official of a certain government without an intent to defraud, use the
 
@@ -17494,7 +17494,7 @@ following additional element after (2) above: That the accused committed
 
 one or more acts which exercised or asserted the authority of the office
 
-the accused claimed to have;--RSQP--.
+the accused claimed to have;].
 
 ### c. Explanation.
 
@@ -17562,9 +17562,9 @@ and insignia of rank of a (lieutenant of the  ) ( )) (showing the credentials of
 
  by ), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
---LSQP--*_See_ subsection b note 1.--RSQP--
+[*_See_ subsection b note 1.]
 
---LSQP--**_See_ subsection b note 2.--RSQP--
+[**_See_ subsection b note 2.]
 
 ## 87. Deleted-See Appendix 27
 
@@ -17596,11 +17596,11 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces.
 
---LSQP--Note: In appropriate cases add the following element after
+[Note: In appropriate cases add the following element after
 
 element (1): That the person to whom the language was communicated was a
 
-child under the age of 16.--RSQP--
+child under the age of 16.]
 
 ### c. Explanation.
 
@@ -18202,37 +18202,37 @@ if required), on or about   20 ,
 
 wrongfully (endeavor to) (impede (a trial by court-martial) (an investigation)
 
- (  )) --LSQP--influence the actions of   , (a trial counsel of the court-martial) (a defense counsel of the
+ (  )) [influence the actions of   , (a trial counsel of the court-martial) (a defense counsel of the
 
 court-martial) (an officer responsible for making a recommendation concerning
 
-disposition of charges) (  )--RSQP-- --LSQP--(influence)
+disposition of charges) (  )] [(influence)
 
 (alter) the testimony of  as a witness before a (court-martial)
 
-(a preliminary hearing officer) (  )--RSQP-- in the case
+(a preliminary hearing officer) (  )] in the case
 
-of  by --LSQP--(promising) (offering) (giving)
+of  by [(promising) (offering) (giving)
 
 to the said  , (the sum of $ )
 
-(  , of a value of about $  )--RSQP--
+(  , of a value of about $  )]
 
---LSQP--communicating to the said  a threat to
+[communicating to the said  a threat to
 
- --RSQP-- --LSQP--  --RSQP--,
+ ] [  ],
 
-(if) (unless) he/she, the said  , would --LSQP--recommend
+(if) (unless) he/she, the said  , would [recommend
 
- dismissal of the charges against said  --RSQP--
+ dismissal of the charges against said  ]
 
---LSQP--(wrongfully refuse to testify) (testify falsely concerning
+[(wrongfully refuse to testify) (testify falsely concerning
 
- ) (  )--RSQP-- --LSQP--(at such
+ ) (  )] [(at such
 
- trial) (before such preliminary hearing officer)--RSQP-- --LSQP--
+ trial) (before such preliminary hearing officer)] [
 
-  --RSQP--, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
+  ], and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
 ## 96a. Art 134-(Wrongful interference with an adverse administrative proceeding)
 
@@ -18304,9 +18304,9 @@ data), did (at/on board-location) (subject-matter jurisdiction data, if required
 
 on or about   20 , (wrongfully
 
-endeavor to) --LSQP--impede (an adverse administrative proceeding) (an
+endeavor to) [impede (an adverse administrative proceeding) (an
 
-investigation) (  )--RSQP-- --LSQP--influence the
+investigation) (  )] [influence the
 
 actions of  , (an officer responsible for making a
 
@@ -18316,33 +18316,33 @@ recommendation concerning the adverse administrative action) (an individual
 
 (an individual responsible for processing an adverse administrative proceeding)
 
-( )--RSQP-- --LSQP--(influence)(alter) the testimony
+( )] [(influence)(alter) the testimony
 
 of  a witness before (a board established to consider
 
 an administrative proceeding or elimination) (a preliminary hearing officer)
 
-( )--RSQP-- in the case of  , by
+( )] in the case of  , by
 
---RSQP--(promising) (offering) (giving) to the said  ,
+](promising) (offering) (giving) to the said  ,
 
 (the sum of $ ) (  , of a value
 
-of about $ )--RSQP-- --LSQP--communicating to the
+of about $ )] [communicating to the
 
-said  a threat to  --RSQP--
+said  a threat to  ]
 
---LSQP--  --RSQP--, (if) (unless) the said
+[  ], (if) (unless) the said
 
- , would --LSQP--recommend dismissal of the action against
+ , would [recommend dismissal of the action against
 
-said  --RSQP-- --LSQP--(wrongfully refuse to testify)
+said  ] [(wrongfully refuse to testify)
 
-(testify falsely concerning  ) (  )--RSQP--
+(testify falsely concerning  ) (  )]
 
- --LSQP--(at such administrative proceeding) (before such preliminary hearing officer) (before such administrative board)--RSQP-- --LSQP--
+ [(at such administrative proceeding) (before such preliminary hearing officer) (before such administrative board)] [
 
- --RSQP--, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
+ ], and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
 ## 97. Article 134-(Pandering and prostitution)
 
@@ -19010,9 +19010,9 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces.
 
---LSQP--Note: If the offense was committed in time of war or in a
+[Note: If the offense was committed in time of war or in a
 
-hostile fire pay zone, add the following element--RSQP--
+hostile fire pay zone, add the following element]
 
 (3) That the offense was committed (in time of war) (in a hostile fire
 
@@ -19136,13 +19136,13 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces.
 
---LSQP--Note: If the offense was committed in time of war or while
+[Note: If the offense was committed in time of war or while
 
-the accused was receiving special pay under 37 U.S.C. --SECT-- 310, add the
+the accused was receiving special pay under 37 U.S.C. &sect; 310, add the
 
 following element after element (a): That the accused was so posted (in time
 
-of war) (while receiving special pay under 37 U.S.C. --SECT-- 310).--RSQP--
+of war) (while receiving special pay under 37 U.S.C. &sect; 310).]
 
 ### c. Explanation.
 
@@ -19182,7 +19182,7 @@ Confinement for 3 months and forfeiture of two-thirds pay per month
 
 #### (2) Loitering or wrongfully sitting on post by a sentinel or lookout.
 
-##### (a) In time of war or while receiving special pay under 37 U.S.C. --SECT--
+##### (a) In time of war or while receiving special pay under 37 U.S.C. &sect;
 
  310.
 
@@ -19222,7 +19222,7 @@ the execution of his/her duty, and that said conduct was (to the prejudice of go
 
  jurisdiction data), while posted as a (sentinel) (lookout), did, (at/on
 
-board-location) (while receiving special pay under 37 U.S.C. --SECT--
+board-location) (while receiving special pay under 37 U.S.C. &sect;
 
 310) on or about   20 ,
 
@@ -19606,13 +19606,13 @@ Dishonorable discharge, forfeitures of all pay and allowances, and confinement f
 
   In that   (personal jurisdiction data)
 
-did,  (at/on  board-location)  on or about   20  , wrongfully communicate certain information, to wit:  , which language constituted a threat to harm a person or property by means of a(n) --LSQP--explosive; weapon of mass destruction; biological agent, substance, or weapon; chemical agent, substance, or weapon; and/or (a) hazardous material(s)--RSQP--, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
+did,  (at/on  board-location)  on or about   20  , wrongfully communicate certain information, to wit:  , which language constituted a threat to harm a person or property by means of a(n) [explosive; weapon of mass destruction; biological agent, substance, or weapon; chemical agent, substance, or weapon; and/or (a) hazardous material(s)], and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
 #### (2) Hoax.
 
  
 
-  In that   (personal jurisdiction data) did,  (at/on  board-location),  on or about   20  , maliciously (communicate) (convey) certain information concerning an attempt being made or to be made to unlawfully --LSQP--(kill) (injure) (intimidate)  --RSQP-- --LSQP--(damage) (destroy)  --RSQP-- by means of a(n) --LSQP--explosive; weapon of mass destruction; biological agent, substance, or weapon; chemical agent, substance, or weapon; and/or (a) hazardous material(s)--RSQP--, to wit:  , which information was false and which the accused then knew to be false, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
+  In that   (personal jurisdiction data) did,  (at/on  board-location),  on or about   20  , maliciously (communicate) (convey) certain information concerning an attempt being made or to be made to unlawfully [(kill) (injure) (intimidate)  ] [(damage) (destroy)  ] by means of a(n) [explosive; weapon of mass destruction; biological agent, substance, or weapon; chemical agent, substance, or weapon; and/or (a) hazardous material(s)], to wit:  , which information was false and which the accused then knew to be false, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
 ## 110. Article 134-(Threat, communicating)
 

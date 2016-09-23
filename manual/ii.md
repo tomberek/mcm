@@ -128,7 +128,7 @@ count, but the date on which the period ends shall count as one day.
 
  bomb or grenade, fire bomb, or similar device, and any other compound, mixture,
 
- or device which is an explosive within the meaning of 18 U.S.C. --SECT-- 232(5)
+ or device which is an explosive within the meaning of 18 U.S.C. &sect; 232(5)
 
  or 844(j). 
 
@@ -208,17 +208,17 @@ or the factual determination by the President that the existence of hostilities
 
 The definition of "writing" includes letters, words, or numbers set down by handwriting, typewriting, printing, photostating, photographing, magnetic impulse, mechanical or electronic recording, or any other form of data compilation.  This section makes it clear that computers and other modern reproduction systems are included in this definition, and consistent with the definition of "writing" in Military Rule of Evidence 1001.  The definition is comprehensive, covering all forms of writing or recording of words or word-substitutes.
 
-(21) The definitions and rules of construction in 1 U.S.C. --SECT----SECT--
+(21) The definitions and rules of construction in 1 U.S.C. &sect;&sect;
 
-1 through 5 and in 10 U.S.C. --SECT----SECT-- 101 and 801.
+1 through 5 and in 10 U.S.C. &sect;&sect; 101 and 801.
 
 #### Discussion
 
-1 U.S.C. --SECT----SECT-- 1 through 5, 10 U.S.C. --SECT-- 101, and 10
+1 U.S.C. &sect;&sect; 1 through 5, 10 U.S.C. &sect; 101, and 10
 
- U.S.C. --SECT-- 801 (Article 1) are set forth below.
+ U.S.C. &sect; 801 (Article 1) are set forth below.
 
-1 U.S.C. --SECT-- 1. Words denoting number, gender, and so forth. 
+1 U.S.C. &sect; 1. Words denoting number, gender, and so forth. 
 
   In
 
@@ -266,7 +266,7 @@ same intended it as such;
 
 includes affirmation, and "sworn" includes affirmed;
 
---SECT-- 2. "County" as including "parish," and so forth. 
+&sect; 2. "County" as including "parish," and so forth. 
 
       The
 
@@ -274,7 +274,7 @@ word "county" includes a parish, or any other equivalent subdivision
 
 of a State or Territory of the United States.
 
---SECT-- 3. "Vessel" as including all means of water transportation. 
+&sect; 3. "Vessel" as including all means of water transportation. 
 
       The
 
@@ -284,7 +284,7 @@ artificial contrivance used or capable of being used, as a means of transportati
 
 on water.
 
---SECT-- 4. "Vehicle" as including all means of land transportation. 
+&sect; 4. "Vehicle" as including all means of land transportation. 
 
       The
 
@@ -294,7 +294,7 @@ artificial contrivance used or capable of being used, as a means of transportati
 
 on land.
 
---SECT-- 5. "Company" or "association" as including
+&sect; 5. "Company" or "association" as including
 
  successors and assigns. 
 
@@ -308,7 +308,7 @@ and assigns of such company or association", in like manner as if these
 
 last-named words, or words of similar import, were expressed.
 
-##### 10 U.S.C. --SECT-- 101. Definitions
+##### 10 U.S.C. &sect; 101. Definitions
 
   In addition to the definitions in sections 1-5
 
@@ -460,7 +460,7 @@ by law or regulation.
 
 the armed forces.
 
---LSQP--Definitions established in clauses (18) and (19) post-date
+[Definitions established in clauses (18) and (19) post-date
 
 the enactment of the code and, as a result, differ from usage of the same
 
@@ -474,7 +474,7 @@ enlisted personnel by "grade."  _See_ paragraphs
 
 4c, 16b, 126d, 126i, and 168, MCM, 1951. "Rank" as defined in
 
-10 U.S.C. --SECT-- 101, clause (19) above, refers to the MCM, 1951 provision
+10 U.S.C. &sect; 101, clause (19) above, refers to the MCM, 1951 provision
 
 regarding "lineal precedence, numbers, and seniority." Paragraph
 
@@ -482,7 +482,7 @@ regarding "lineal precedence, numbers, and seniority." Paragraph
 
 Except where lineal position or seniority is clearly intended, rank, as commonly
 
-and traditionally used, and grade refer to the current definition of "grade."--RSQP--
+and traditionally used, and grade refer to the current definition of "grade."]
 
 (20) "Rating" means the name (such as "boatswain's
 
@@ -494,7 +494,7 @@ field. "Rate" means the name (such as "chief boatswain's
 
 who are in the same grade (such as chief petty officer or seaman apprentice).
 
---LSQP--Note: The definitions in clauses (3), (15), (18)-(21), (23)-(30),
+[Note: The definitions in clauses (3), (15), (18)-(21), (23)-(30),
 
 and (31)-(33) reflect the adoption of terminology which, though undefined
 
@@ -502,7 +502,7 @@ in the source statutes restated in this title, represents the closest practicabl
 
 approximation of the ways in which the terms defined have been most commonly
 
-used. A choice has been made where established uses conflict.--RSQP--
+used. A choice has been made where established uses conflict.]
 
 (21) "Authorized strength" means the largest number of members
 
@@ -632,7 +632,7 @@ Guard serving in or having the grade of admiral, vice admiral, rear admiral,
 
 or commodore.
 
-##### 10 U.S.C. --SECT-- 801. Article 1. Definitions
+##### 10 U.S.C. &sect; 801. Article 1. Definitions
 
   In this chapter:
 
@@ -640,7 +640,7 @@ or commodore.
 
  Advocates General of the Army, Navy, and Air Force and, except when the Coast
 
- Guard is operating as a service in the Navy, an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security.  --LSQP--NOTE: The Secretary of Homeland Security has designated the Chief Counsel, U.S. Coast Guard, to serve as the Judge Advocate General of the Coast Guard.--RSQP--.
+ Guard is operating as a service in the Navy, an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security.  [NOTE: The Secretary of Homeland Security has designated the Chief Counsel, U.S. Coast Guard, to serve as the Judge Advocate General of the Coast Guard.].
 
 (2) The Navy, the Marine Corps, and the Coast Guard when it is operating
 
@@ -680,11 +680,11 @@ in the prosecution of the accused.
 
  court-martial detailed in accordance with section 826 of this title (article
 
- 26). --LSQP--_See also_ R.C.M. 103(15).--RSQP--
+ 26). [_See also_ R.C.M. 103(15).]
 
 (11) REPEALED
 
---LSQP--Note: The definition for "law specialist" was repealed by Public Law 109-241, title II, --SECT-- 218(a)(1), July 11, 2006, 120 Stat. 256.  The text was stricken but subsequent paragraphs were not renumbered.--RSQP--
+[Note: The definition for "law specialist" was repealed by Public Law 109-241, title II, &sect; 218(a)(1), July 11, 2006, 120 Stat. 256.  The text was stricken but subsequent paragraphs were not renumbered.]
 
 (12) "Legal officer" means any commissioned officer of the
 
@@ -904,7 +904,7 @@ such delivery on the execution of a court-martial sentence.
 
 If a commissioned officer of any armed force is dismissed by order
 
-of the President under 10 U.S.C. --SECT-- 1161(a)(3), that officer may apply
+of the President under 10 U.S.C. &sect; 1161(a)(3), that officer may apply
 
 for trial by general court-martial within a reasonable time.
 
@@ -1288,7 +1288,7 @@ of damages, collect private debts, order the return of property, or order
 
 a criminal forfeiture of seized property. A summary court-martial appointed
 
-under 10 U.S.C. --SECT----SECT-- 4712 or 9712 to dispose of the effects of a
+under 10 U.S.C. &sect;&sect; 4712 or 9712 to dispose of the effects of a
 
 deceased person is not affected by these Rules or this Manual.
 
@@ -1614,7 +1614,7 @@ be referred to a court-martial for a common trial.
 
 ### (f) Types of courts-martial.
 
-**--LSQP--Note: R.C.M. 201(f)(1) and (f)(2) apply to offenses committed on or after 24 June 2014.--RSQP--**
+**[Note: R.C.M. 201(f)(1) and (f)(2) apply to offenses committed on or after 24 June 2014.]**
 
 #### (1) General courts-martial.
 
@@ -1924,7 +1924,7 @@ are several important qualifications and exceptions to these general guidelines.
 
 to understand the significance of enlisting in the armed forces shall be
 
-valid for purposes of jurisdiction under --LSQP--Article 2(a)--RSQP--
+valid for purposes of jurisdiction under [Article 2(a)]
 
 and a change of status from civilian to member of the armed forces shall be
 
@@ -1954,7 +1954,7 @@ within 90 days of its inception, terminate the enlistment of a 17-year-old
 
 who enlisted without parental consent, if the person has not yet reached
 
-the age of 18. 10 U.S.C. --SECT-- 1170. _See also_ DOD Directive
+the age of 18. 10 U.S.C. &sect; 1170. _See also_ DOD Directive
 
 1332.14 and service regulations for specific rules on separation of persons
 
@@ -1986,9 +1986,9 @@ met the mental competency and minimum age qualifications
 
 of sections 504 and 505 of this title at the time of voluntary submission
 
-to military authority --LSQP--that is, not insane, intoxicated, or under
+to military authority [that is, not insane, intoxicated, or under
 
-the age of 17--RSQP--
+the age of 17]
 
 received military pay or allowances; and
 
@@ -1996,7 +1996,7 @@ performed military duties;
 
  
 
-is subject to --LSQP--the code--RSQP-- until such person's
+is subject to [the code] until such person's
 
 active service has been terminated in accordance with law or regulations
 
@@ -2628,11 +2628,11 @@ agents of the Federal Bureau of Investigation, United States Marshals, and
 
 agents of the Secret Service may apprehend persons for any offenses committed
 
-in their presence and for felonies. 18 U.S.C. --SECT----SECT-- 3052, 3053, 3056.
+in their presence and for felonies. 18 U.S.C. &sect;&sect; 3052, 3053, 3056.
 
  Other agencies have apprehension powers include the General Services Administration,
 
-40 U.S.C. --SECT-- 318 and the Veterans Administration, 38 U.S.C. --SECT-- 218.
+40 U.S.C. &sect; 318 and the Veterans Administration, 38 U.S.C. &sect; 218.
 
 The extent to which such agencies become involved in the apprehension of
 
@@ -3310,11 +3310,11 @@ can be secured, it may be necessary to confine a person apprehended in the
 
 course of a violent crime. 
 
-  "--LSQP--W--RSQP--hen
+  "[W]hen
 
-charged only with an offense normally tried by summary court-martial, --LSQP--an
+charged only with an offense normally tried by summary court-martial, [an
 
-accused--RSQP-- shall not ordinarily be paced in confinement." Article
+accused] shall not ordinarily be paced in confinement." Article
 
 10. 
 
@@ -4250,7 +4250,7 @@ provisions of Part IV, where the elements of proof of various offenses and
 
 forms for specifications appear.
 
---LSQP--Note:  Be advised that the sample specifications in this Manual have not been amended to comport with _United States v. Jones_, 68 M.J. 465 (C.A.A.F. 2010) and _United States v. Fosler_, 70 M.J. 225 (C.A.A.F. 2011). Practitioners should read the notes above and draft specifications in conformity with the cases cited therein.--RSQP--
+[Note:  Be advised that the sample specifications in this Manual have not been amended to comport with _United States v. Jones_, 68 M.J. 465 (C.A.A.F. 2010) and _United States v. Fosler_, 70 M.J. 225 (C.A.A.F. 2011). Practitioners should read the notes above and draft specifications in conformity with the cases cited therein.]
 
 ###### (B) Numbering specifications.
 
@@ -4562,7 +4562,7 @@ specification as follows:
 
        "In
 
-that Doe and Roe, acting jointly and pursuant to a common intent, did.--PUNCSP--.--PUNCSP--.--PUNCSP--."
+that Doe and Roe, acting jointly and pursuant to a common intent, did.&puncsp;.&puncsp;.&puncsp;."
 
 (b) If it is intended that Roe will be tried alone or that Roe will
 
@@ -4576,7 +4576,7 @@ Roe, Roe may be charged as follows:
 
        "In
 
-that Roe did, in conjunction with Doe, .--PUNCSP--.--PUNCSP--.--PUNCSP--."
+that Roe did, in conjunction with Doe, .&puncsp;.&puncsp;.&puncsp;."
 
 ####### (ix) Matters in aggravation.
 
@@ -5446,7 +5446,7 @@ The Military Rules of Evidence do not apply in preliminary hearings under this r
 
  Before considering evidence offered under subsection (h)(2), the preliminary hearing officer must determine that the evidence offered is relevant for the limited scope and purpose of the hearing, that the evidence is proper under subsection (h)(2), and that the probative value of such evidence outweighs the danger of unfair prejudice to the alleged victim's privacy. The preliminary hearing officer shall set forth any limitations on the scope of such evidence.
 
- Evidence offered under subsection (h)(2) above must be protected pursuant to the Privacy Act of 1974, 5 U.S.C. --SECT-- 552a. Although Mil. R. Evid. 412(b)(1)(C) allows admission of evidence of the victim's sexual behavior or predisposition at trial when it is constitutionally required, there is no constitutional requirement at an Article 32 hearing. There is likewise no constitutional requirement for a pretrial hearing officer to consider evidence under Mil. R. Evid. 514(d)(6) at an Article 32 hearing. Evidence deemed admissible by the preliminary hearing officer should be made a part of the report of preliminary hearing. _See_ subsection (j)(2)(C), _infra_. Evidence not considered, and the testimony taken during a closed hearing, should not be included in the report of preliminary hearing but should be appropriately safeguarded or sealed. The preliminary hearing officer and counsel representing the government are responsible for careful handling of any such evidence to prevent unauthorized viewing or disclosure.
+ Evidence offered under subsection (h)(2) above must be protected pursuant to the Privacy Act of 1974, 5 U.S.C. &sect; 552a. Although Mil. R. Evid. 412(b)(1)(C) allows admission of evidence of the victim's sexual behavior or predisposition at trial when it is constitutionally required, there is no constitutional requirement at an Article 32 hearing. There is likewise no constitutional requirement for a pretrial hearing officer to consider evidence under Mil. R. Evid. 514(d)(6) at an Article 32 hearing. Evidence deemed admissible by the preliminary hearing officer should be made a part of the report of preliminary hearing. _See_ subsection (j)(2)(C), _infra_. Evidence not considered, and the testimony taken during a closed hearing, should not be included in the report of preliminary hearing but should be appropriately safeguarded or sealed. The preliminary hearing officer and counsel representing the government are responsible for careful handling of any such evidence to prevent unauthorized viewing or disclosure.
 
 ### (i) Procedure.
 
@@ -9378,7 +9378,7 @@ Evidence not under the control of the government may be obtained by a subpoena i
 
 ###### Discussion
 
-The National Defense Authorization Act for Fiscal Year 2012, P.L. 112-81, --SECT-- 542, amended Article 47 to allow the issuance of subpoenas duces tecum for Article 32 hearings. Although the amended language cites Article 32(b), this new subpoena power extends to documents subpoenaed by the investigating officer and counsel representing the United States, whether or not requested by the defense.
+The National Defense Authorization Act for Fiscal Year 2012, P.L. 112-81, &sect; 542, amended Article 47 to allow the issuance of subpoenas duces tecum for Article 32 hearings. Although the amended language cites Article 32(b), this new subpoena power extends to documents subpoenaed by the investigating officer and counsel representing the United States, whether or not requested by the defense.
 
 ##### (C) Relief.
 
@@ -9518,7 +9518,7 @@ a prosecution in a United States District Court only when specifically authorize
 
 to do so by the Attorney General of the United States or other authority
 
-designated under 18 U.S.C. --SECT-- 6004.
+designated under 18 U.S.C. &sect; 6004.
 
 ##### Discussion
 
@@ -9556,7 +9556,7 @@ persons not subject to the code only when specifically authorized to do so
 
 by the Attorney General of the United States or other authority designated
 
- under 18 U.S.C. --SECT-- 6004.
+ under 18 U.S.C. &sect; 6004.
 
 ##### Discussion
 
@@ -10920,7 +10920,7 @@ shall be made or given in open session in the presence of the parties and
 
 the members, except as otherwise may be determined in the discretion of the
 
-military judge. For purposes of this subsection --LSQP--R.C.M. 801(f)--RSQP--
+military judge. For purposes of this subsection [R.C.M. 801(f)]
 
 "military judge" does not include the president of a special
 
@@ -13220,9 +13220,9 @@ form or designation, shall control.
 
 #### Discussion
 
-Motions may be motions to suppress --LSQP--(_see_ R.C.M.
+Motions may be motions to suppress [(_see_ R.C.M.
 
- 905(b)(3))--RSQP--; motions for appropriate relief (_see_ R.C.M.
+ 905(b)(3))]; motions for appropriate relief (_see_ R.C.M.
 
  906); motions to dismiss (_see_ R.C.M. 907); or motions for
 
@@ -17070,7 +17070,7 @@ accused and the accused must be acquitted;
 
 lower degree as to which there is not reasonable doubt; and 
 
-(D) The burden of proof to establish the guilt of the accused is upon the Government. --LSQP--When the issue of lack of mental responsibility is raised, add: The burden of proving the defense of lack of mental responsibility by clear and convincing evidence is upon the accused. When the issue of mistake of fact under R.C.M. 916(j)(2) is raised, add: The accused has the burden of proving the defense of mistake of fact as to age by a preponderance of the evidence.--RSQP--
+(D) The burden of proof to establish the guilt of the accused is upon the Government. [When the issue of lack of mental responsibility is raised, add: The burden of proving the defense of lack of mental responsibility by clear and convincing evidence is upon the accused. When the issue of mistake of fact under R.C.M. 916(j)(2) is raised, add: The accused has the burden of proving the defense of mistake of fact as to age by a preponderance of the evidence.]
 
 (6) Directions on the procedures under R.C.M. 921 for deliberations
 
@@ -18602,7 +18602,7 @@ When the accused is found guilty of two or more offenses, the maximum authorized
 
 _See also_ R.C.M. 906(b)(12); 907(b)(3)(B).
 
-  Even if charges are not multiplicious, a military judge may rule on a motion that the prosecutor abused his discretion under R.C.M. 307(c)(4) or a motion that an unreasonable multiplication of charges requires relief under R.C.M. 1003(b)(1). Rather than the "single impulse"  test  previously  noted  in this Discussion, "--LSQP--t--RSQP--he better approach is to allow the military judge, in his or her discretion, to merge the offenses for sentencing purposes..." by determining whether the Quiroz test is fulfilled.
+  Even if charges are not multiplicious, a military judge may rule on a motion that the prosecutor abused his discretion under R.C.M. 307(c)(4) or a motion that an unreasonable multiplication of charges requires relief under R.C.M. 1003(b)(1). Rather than the "single impulse"  test  previously  noted  in this Discussion, "[t]he better approach is to allow the military judge, in his or her discretion, to merge the offenses for sentencing purposes..." by determining whether the Quiroz test is fulfilled.
 
 _United States v. Campbell_, 71 M.J. 19 (C.A.A.F. 2012). (citing _United States v. Quiroz_, 55 M.J. 334, 338 (C.A.A.F. 2001).
 
@@ -19140,7 +19140,7 @@ Examples of substantial damage of the national security of the United
 
 impeding the performance of an important mission in a hostile fire or imminent
 
-danger pay area (_see_ 37 U.S.C. --SECT-- 310(a)); and disclosing
+danger pay area (_see_ 37 U.S.C. &sect; 310(a)); and disclosing
 
 military plans, capabilities, or intelligence such as to jeopardize any combat
 
@@ -20640,7 +20640,7 @@ This rule is not intended to limit the Services' discretion to provide records o
 
 ###### Discussion
 
-Subsections (b)(3)(N) and (g)(3) of this rule were added to implement Article 54(e), UCMJ, in compliance with the National Defense Authorization Act for Fiscal Year 2012 (P.L. 112-81, --SECT-- 586). Service of a copy of the record of trial on a victim is prescribed in R.C.M. 1104 (b)(1)(E).
+Subsections (b)(3)(N) and (g)(3) of this rule were added to implement Article 54(e), UCMJ, in compliance with the National Defense Authorization Act for Fiscal Year 2012 (P.L. 112-81, &sect; 586). Service of a copy of the record of trial on a victim is prescribed in R.C.M. 1104 (b)(1)(E).
 
 ### (h) Security classification.
 
@@ -21096,7 +21096,7 @@ Qualifying victims, as defined in R.C.M. 1103 (g)(3)(A), shall be served a copy 
 
 ###### Discussion
 
-Subsection (b)(1)(E) of this rule was added to implement Article 54(e), UCMJ, in compliance with the National Defense Authorization Act for Fiscal Year 2012 (P.L. 112-81, --SECT-- 586). The content of the victim's record of trial is prescribed in R.C.M. 1103(g)(3)(D).
+Subsection (b)(1)(E) of this rule was added to implement Article 54(e), UCMJ, in compliance with the National Defense Authorization Act for Fiscal Year 2012 (P.L. 112-81, &sect; 586). The content of the victim's record of trial is prescribed in R.C.M. 1103(g)(3)(D).
 
   Promulgating orders are to be distributed in accordance with R.C.M. 1114(f).
 
@@ -21104,7 +21104,7 @@ Subsection (b)(1)(E) of this rule was added to implement Article 54(e), UCMJ, in
 
 (ii) A copy of the convening authority's action as described in R.C.M. 1103(b)(2)(D)(iv) shall be provided to each qualifying victim as soon as each document is prepared. If the victim makes a request in writing, service of the record of trial may be delayed until the action is available.
 
-(iii) Classified information pursuant to subsection (b)(1)(D) of this rule, sealed matters pursuant to R.C.M. 1103A, or other portions of the record the release of which would unlawfully violate the privacy interests of any party, to include those afforded by 5 U.S.C.--SECT--552a, the Privacy Act of 1974, shall not be provided. Matters attached to the record as described in R.C.M. 1103 (b)(3) are not required to be provided.
+(iii) Classified information pursuant to subsection (b)(1)(D) of this rule, sealed matters pursuant to R.C.M. 1103A, or other portions of the record the release of which would unlawfully violate the privacy interests of any party, to include those afforded by 5 U.S.C.&sect;552a, the Privacy Act of 1974, shall not be provided. Matters attached to the record as described in R.C.M. 1103 (b)(3) are not required to be provided.
 
 #### (2) Summary courts-martial.
 
@@ -21220,7 +21220,7 @@ to the staff judge advocate or legal officer for recommendation under R.C.M.
 
 ## Rule 1105. Matters submitted by the accused
 
-**--LSQP--Note: R.C.M. 1105(b)(1) and (b)(2) apply to offenses committed on or after 24 June 2014.--RSQP--**
+**[Note: R.C.M. 1105(b)(1) and (b)(2) apply to offenses committed on or after 24 June 2014.]**
 
 ### (a) In general.
 
@@ -21674,7 +21674,7 @@ in subparagraph (f)(1) of this rule.
 
 ## Rule 1107. Action by convening authority
 
-**--LSQP--Note: R.C.M. 1107(b)-(f) apply to offenses committed on or after 24 June 2014; however, if at least one offense in a case occurred prior to 24 June 2014, then the prior version of RCM 1107 applies to all offenses in the case, except that mandatory minimum sentences under Article 56(b) and applicable rules under RCM 1107(d)(1)(D)-(E) still apply.--RSQP--**
+**[Note: R.C.M. 1107(b)-(f) apply to offenses committed on or after 24 June 2014; however, if at least one offense in a case occurred prior to 24 June 2014, then the prior version of RCM 1107 applies to all offenses in the case, except that mandatory minimum sentences under Article 56(b) and applicable rules under RCM 1107(d)(1)(D)-(E) still apply.]**
 
 ### (a) Who may take action.
 
@@ -22382,7 +22382,7 @@ of the sentence shall be remitted. Remission cancels the unexecuted part
 
 ### (b) Who may suspend and remit.
 
-**--LSQP--Note: R.C.M. 1108(b) applies to offenses committed on or after 24 June 2014.--RSQP--**
+**[Note: R.C.M. 1108(b) applies to offenses committed on or after 24 June 2014.]**
 
 The convening authority may, after approving the sentence, suspend the execution of all or any part of the sentence of a court-martial, except for a sentence of death or as prohibited under R.C.M. 1107(d). The general court-martial convening authority over the accused at the time of the court-martial may, when taking action under R.C.M. 1112(f), suspend or remit any part of the sentence. The Secretary concerned and, when designated by the Secretary concerned, any Under Secretary, Assistant Secretary, Judge Advocate General, or commanding officer may suspend or remit any part or amount of the unexecuted part of any sentence other than a sentence approved by the President or a sentence of confinement for life without eligibility for parole that has been ordered executed. The Secretary concerned may, however, suspend or remit the unexecuted part of a sentence of confinement for life without eligibility for parole only after the service of a period of confinement of not less than 20 years. The commander of the accused who has the authority to convene a court-martial of the kind that adjudged the sentence may suspend or remit any part of the unexecuted part of any sentence by summary court-martial or of any sentence by special court-martial that does not include a bad-conduct discharge regardless of whether the person acting has previously approved the sentence. The "unexecuted part of any sentence" is that part that has been approved and ordered executed but that has not actually been carried out.
 
@@ -24778,7 +24778,7 @@ General shall take action under R.C.M. 1205(b).
 
 ### (a) Cases subject to review by the Supreme Court.
 
-Under 28 U.S.C. --SECT-- 1259 and Article 67(h), decisions of the
+Under 28 U.S.C. &sect; 1259 and Article 67(h), decisions of the
 
 Court of Appeals for the Armed Forces may be reviewed by the Supreme Court
 
@@ -25338,7 +25338,7 @@ paragraph 1e, Part V.
 
 ### (c) Jurisdiction.
 
-**--LSQP--Note: R.C.M. 1301(c) applies to offenses committed on or after 24 June 2014.--RSQP--**
+**[Note: R.C.M. 1301(c) applies to offenses committed on or after 24 June 2014.]**
 
 (1) Subject to Chapter II, summary courts-martial have the power to
 

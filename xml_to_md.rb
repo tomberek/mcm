@@ -6,15 +6,17 @@ TEXT_CLEANERS = [
   [/&(bull|mdash|ndash);/, '-'],
   [/&(ldquo|rdquo);/, "\""],
   [/&(lsquo|rsquo);/, "\'"],
-  ['&sect;', "--SECT--"],
-  ['&lsqb;', "--LSQP--"], ['&rsqb;', "--RSQP--"],
-  ['&puncsp;', "--PUNCSP--"],
   ['&hellip;', "..."],
   ['<?Pub Caret>', '']
 ]
 
+ENTITY_REPLACEMENTS = [
+  ['&sect;', "--SECT--"],
+  ['&puncsp;', "--PUNCSP--"]
+]
+
 def clean_text(content)
-  TEXT_CLEANERS.each do |mapping|
+  (TEXT_CLEANERS + ENTITY_REPLACEMENTS).each do |mapping|
     content.gsub! mapping[0], mapping[1]
   end
 
@@ -29,6 +31,17 @@ end
 def clean_whitespace(content)
   content.gsub! /\r|\n/, ''
   content.gsub! /\s+/, ' '
+end
+
+# this is a hack due to some weird unicode bug
+# it goes back through, finds our placeholders,
+# and puts back the correct entities
+def replace_entities(content)
+  ENTITY_REPLACEMENTS.each do |mapping|
+    content.gsub! mapping[1], mapping[0]
+  end
+
+  content
 end
 
 module SAXNodes
@@ -153,7 +166,7 @@ class MCMDoc
 
   def output
     @parts.each do |key, value|
-      File.open("manual/#{key}.md", 'w') { |file| file.write(clean_newlines(value.join(''))) }
+      File.open("manual/#{key}.md", 'w') { |file| file.write(replace_entities(clean_newlines(value.join('')))) }
       # File.open("manual/#{key}.md", 'w') { |file| file.write((value.join(''))) }
     end
   end
