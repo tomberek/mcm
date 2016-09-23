@@ -33,13 +33,13 @@ end
 
 module SAXNodes
   def part_open(name, attrs)
-    return if name.start_with? 'rule.'
+    return if name.include? '.'
     part_label = attrs['label'].downcase.to_sym
     @parts[part_label] = @output = []
   end
 
   def part_close(name, attrs)
-    return if name.start_with? 'rule.'
+    return if name.include? '.'
     @output = []
   end
 
@@ -60,13 +60,13 @@ module SAXNodes
     if rule_num = attrs['rulenum']
       @header_label = "Rule #{rule_num}."
     else
-      @header_label = attrs.fetch('label', '')
+      @header_label = attrs['label']
     end
   end
 
   def para_close(name, attrs)
     @header_level -= 1
-    @header_label = ''
+    @header_label = nil
   end
 
   alias_method :subpara_open, :para_open
@@ -74,14 +74,15 @@ module SAXNodes
 
   def title(string)
     @header_level.times { @output << '#' }
-    @output << " #{@header_label} #{string}\n\n"
-    @header_label = ''
+    @output << " #{@header_label}" if @header_label
+    @output << " #{string}\n\n"
+    @header_label = nil
   end
 
   def paratext_open(name, attrs)
-    return if @header_label.empty?
+    return if !@header_label
     @output << "#{@header_label} "
-    @header_label = ''
+    @header_label = nil
   end
 
   def chapter_open(name, attrs)
@@ -120,11 +121,13 @@ class MCMDoc
     @parts = {}
     @whole_node_cache = []
     @header_level = 1
-    @header_label = ''
+    @header_label = nil
   end
 
+  QUALIFIER_REGEX = /(\w+\.)?(\D+)/
+
   def on_element(namespace, name, attrs = {})
-    unqualified_name = name.match(/(rule\.)?(\D+)/)[2] # removes `rule.` prefix or a # suffix
+    unqualified_name = name.match(QUALIFIER_REGEX)[2] # removes `rule.` prefix or a # suffix
     method_name = "#{unqualified_name}_open".downcase.to_sym
     if SAXNodes.method_defined?(method_name)
       send(method_name, name, attrs)
@@ -134,7 +137,7 @@ class MCMDoc
   end
 
   def after_element(namespace, name, attrs = {})
-    unqualified_name = name.match(/(rule\.)?(\D+)/)[2]
+    unqualified_name = name.match(QUALIFIER_REGEX)[2]
     method_name = "#{unqualified_name}_close".downcase.to_sym
     if SAXNodes.method_defined?(method_name)
       send(method_name, name, attrs)

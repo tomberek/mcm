@@ -1,8 +1,8 @@
 
 
-#  MILITARY RULES OF EVIDENCE
+# MILITARY RULES OF EVIDENCE
 
-#  GENERAL PROVISIONS
+# GENERAL PROVISIONS
 
 ## Rule 101. Scope
 
@@ -22,7 +22,7 @@ In the absence of guidance in this Manual or these rules, courts-martial will ap
 
 Except as otherwise provided in these rules, the term "military judge" includes the president of a special court-martial without a military judge and a summary court-martial officer. 
 
-#  Discussion
+## Discussion
 
 Discussion was added to these Rules in 2013. The Discussion itself does not have the force of law, even though it may describe legal requirements derived from other sources.  It is in the nature of treatise, and may be used as secondary authority. If a matter is included in a rule, it is intended that the matter be binding, unless it is clearly expressed as precatory. The Discussion will be revised from time to time as warranted by changes in applicable law. _See_ Composition of the Manual for Courts-Martial in Appendix 21.
 
@@ -102,7 +102,7 @@ If the military judge admits evidence that is admissible against a party or for 
 
 If a party introduces all or part of a writing or recorded statement, an adverse party may require the introduction, at that time, of any other part - or any other writing or recorded statement - that in fairness ought to be considered at the same time.
 
-#  JUDICIAL NOTICE
+# JUDICIAL NOTICE
 
 ## Rule 201. Judicial notice of adjudicative facts
 
@@ -152,7 +152,7 @@ The military judge may take judicial notice of domestic law.  If a domestic law 
 
 A party who intends to raise an issue concerning the law of a foreign country must give reasonable written notice.  The military judge, in determining foreign law, may consider any relevant material or source, in accordance with Mil. R. Evid. 104.  Such a determination is a ruling on a question of law.
 
-#  EXCLUSIONARY RULES AND RELATED MATTERS CONCERNING SELF-INCRIMINATION, SEARCH AND SEIZURE, AND EYEWITNESS IDENTIFICATION
+# EXCLUSIONARY RULES AND RELATED MATTERS CONCERNING SELF-INCRIMINATION, SEARCH AND SEIZURE, AND EYEWITNESS IDENTIFICATION
 
 ## Rule 301. Privilege concerning compulsory self-incrimination
 
@@ -168,7 +168,7 @@ The privilege of a witness to refuse to respond to a question that may tend to i
 
 An accused who chooses to testify as a witness waives the privilege against self-incrimination only with respect to the matters about which he or she testifies.  If the accused is on trial for two or more offenses and on direct examination testifies about only one or some of the offenses, the accused may not be cross-examined as to guilt or innocence with respect to the other offenses unless the cross-examination is relevant to an offense concerning which the accused has testified.  This waiver is subject to Mil. R. Evid. 608(b).
 
-##  Discussion
+### Discussion
 
 A military judge is not required to provide Article 31 warnings.  If a witness who seems uninformed of the privileges under this rule appears likely to incriminate himself or herself, the military judge may advise the witness of the right to decline to make any answer that might tend to incriminate the witness and that any self-incriminating answer the witness might make can later be used as evidence against the witness. Counsel for any party or for the witness may ask the military judge to so advise a witness if such a request is made out of the hearing of the witness and the members, if present. Failure to so advise a witness does not make the testimony of the witness inadmissible.
 
@@ -548,7 +548,7 @@ Evidence obtained from an involuntary display of the unclothed body, including a
 
 (F) probable cause searches under Mil. R. Evid. 315.
 
-####  Discussion
+##### Discussion
 
 An examination of the unclothed body under this rule should be conducted whenever practicable by a person of the same sex as that of the person being examined; however, failure to comply with this requirement does not make an examination an unlawful search within the meaning of Mil. R. Evid. 311.
 
@@ -580,7 +580,7 @@ An examination of the unclothed body under this rule should be conducted wheneve
 
  Evidence obtained from a nonconsensual intrusive search of the body, other than searches described in subdivisions (c) or (d), conducted to locate or obtain weapons, contraband, or evidence of crime is admissible only if obtained pursuant to a search warrant or search authorization under Mil. R. Evid. 315 and conducted in a reasonable fashion by a person with appropriate medical qualifications in such a manner so as not to endanger the health of the person to be searched.
 
-##  Discussion
+### Discussion
 
 Compelling a person to ingest substances for the purposes of locating the property described above or to compel the bodily elimination of such property is a search within the meaning of this section.
 
@@ -588,7 +588,7 @@ Compelling a person to ingest substances for the purposes of locating the proper
 
  Evidence or contraband obtained in the course of a medical examination or an intrusion conducted for a valid medical purpose is admissible. Such an examination or intrusion may not, for the purpose of obtaining evidence or contraband, exceed what is necessary for the medical purpose.
 
-##  Discussion
+### Discussion
 
 Nothing in this rule will be deemed to interfere with the lawful authority of the Armed Forces to take whatever action may be necessary to preserve the health of a service member.
 
@@ -644,7 +644,7 @@ Evidence from a border search for customs or immigration purposes authorized by 
 
 In addition to inspections under Mil. R. Evid. 313(b), evidence is admissible when a commander of a United States military installation, enclave, or aircraft on foreign soil, or in foreign or international airspace, or a United States vessel in foreign or international waters, has authorized appropriate personnel to search persons or the property of such persons upon entry to or exit from the installation, enclave, aircraft, or vessel to ensure the security, military fitness, or good order and discipline of the command.  A search made for the primary purpose of obtaining evidence for use in a trial by court-martial or other disciplinary proceeding is not authorized by subdivision (c).
 
-###  Discussion
+#### Discussion
 
 Searches under subdivision (c) may not be conducted at a time or in a manner contrary to an express provision of a treaty or agreement to which the United States is a party; however, failure to comply with a treaty or agreement does not render a search unlawful within the meaning of Mil. R. Evid. 311.
 
@@ -662,7 +662,7 @@ Evidence of a search conducted without probable cause is admissible if conducted
 
 A person may consent to a search of his or her person or property, or both, unless control over such property has been given to another.  A person may grant consent to search property when the person exercises control over that property.
 
-###  Discussion
+#### Discussion
 
 Where a co-occupant of property is physically present at the time of the requested search and expressly states his refusal to consent to the search, a warrantless search is unreasonable as to that co-occupant and evidence from the search is inadmissible as to that co-occupant.  _Georgia v. Randolph_, 547 U.S. 103 (2006).
 
@@ -688,7 +688,7 @@ A stop is lawful when conducted by a person authorized to apprehend under R.C.M.
 
 Evidence is admissible if seized from a person who was lawfully stopped and who was frisked for weapons because he or she was reasonably suspected to be armed and dangerous.   Contraband or evidence that is located in the process of a lawful frisk may be seized.
 
-###  Discussion
+#### Discussion
 
 Subdivision (f)(2) requires that the official making the stop have a reasonable suspicion based on specific and articulable facts that the person being frisked is armed and dangerous.  Officer safety is a factor, and the officer need not be absolutely certain that the individual detained is armed for the purposes of frisking or patting down that person's outer clothing for weapons.  The test is whether a reasonably prudent person in similar circumstances would be warranted in a belief that his or her safety was in danger.  The purpose of a frisk is to search for weapons or other dangerous items, including but not limited to: firearms, knives, needles, or razor blades.  A limited search of outer clothing for weapons serves to protect both the officer and the public; therefore, a frisk is reasonable under the Fourth Amendment.
 
@@ -696,7 +696,7 @@ Subdivision (f)(2) requires that the official making the stop have a reasonable 
 
 Evidence is admissible if seized in the course of a search for weapons in the areas of the passenger compartment of a vehicle in which a weapon may be placed or hidden, so long as the person lawfully stopped is the driver or a passenger and the official who made the stop has a reasonable suspicion that the person stopped is dangerous and may gain immediate control of a weapon.
 
-##  Discussion
+### Discussion
 
 The scope of the search is similar to the "stop and frisk" defined in subdivision (f)(2) of this rule.  During the search for weapons, the official may seize any item that is immediately apparent as contraband or as evidence related to the offense serving as the basis for the stop.  As a matter of safety, the official may, after conducting a lawful stop of a vehicle, order the driver and any passengers out of the car without any additional suspicion or justification.
 
@@ -738,7 +738,7 @@ Evidence obtained from a search of an open field or woodland is admissible provi
 
 Evidence obtained from reasonable searches conducted pursuant to a search warrant or search authorization, or under the exigent circumstances described in this rule, is admissible at trial when relevant and not otherwise inadmissible under these rules or the Constitution of the United States as applied to members of the Armed Forces.
 
-##  Discussion
+### Discussion
 
 Although military personnel should adhere to procedural guidance regarding the conduct of searches, violation of such procedural guidance does not render evidence inadmissible unless the search is unlawful under these rules or the Constitution of the United States as applied to members of the Armed Forces.  For example, if the person whose property is to be searched is present during a search conducted pursuant to a search authorization granted under this rule, the person conducting the search should notify him or her of the fact of authorization and the general substance of the authorization.  Such notice may be made prior to or contemporaneously with the search.  Property seized should be inventoried at the time of a seizure or as soon thereafter as practicable.  A copy of the inventory should be given to a person from whose possession or premises the property was taken. Failure to provide notice, make an inventory, furnish a copy thereof, or otherwise comply with this guidance does not render a search or seizure unlawful within the meaning of Mil. R. Evid. 311.
 
@@ -762,7 +762,7 @@ A search authorization may be valid under this rule for a search of:
 
 (4) nonmilitary property within a foreign country.
 
-###  Discussion
+#### Discussion
 
 If nonmilitary property within a foreign country is owned, used, occupied by, or in the possession of an agency of the United States other than the Department of Defense, a search should be conducted in coordination with an appropriate representative of the agency concerned, although failure to obtain such coordination would not render a search unlawful within the meaning of Mil. R. Evid. 311.  If other nonmilitary property within a foreign country is to be searched, the search should be conducted in accordance with any relevant treaty or agreement or in coordination with an appropriate representative of the foreign country, although failure to obtain such coordination or noncompliance with a treaty or agreement would not render a search unlawful within the meaning of Mil. R. Evid. 311.
 
@@ -874,7 +874,7 @@ Wire or oral communications constitute evidence obtained as a result of an unlaw
 
 Evidence from the interception of wire or oral communications is admissible when authorized pursuant to an application to a federal judge of competent jurisdiction under the provisions of a federal statute.
 
-##  Discussion
+### Discussion
 
 Pursuant to 18 U.S.C. --SECT--2516(1), the Attorney General, Deputy Attorney General, Associate Attorney General, or any Assistant Attorney General, any acting Assistant Attorney General, or any Deputy Assistant Attorney General or acting Deputy Assistant Attorney General in the Criminal Division or National Security Division specially designated by the Attorney General, may authorize an application to a Federal judge of competent jurisdiction for, and such judge may grant in conformity with 18 U.S.C. --SECT--2518, an order authorizing or approving the interception of wire or oral communications by the Federal Bureau of Investigation, or a Federal agency having responsibility for the investigation of the offense as to which the application is made, for purposes of obtaining evidence concerning the offenses enumerated in 18 U.S.C. --SECT--2516(1), to the extent such offenses are punishable under the Uniform Code of Military Justice.
 
@@ -974,7 +974,7 @@ A motion to suppress or an objection to evidence made prior to plea under this r
 
 Except as otherwise expressly provided in R.C.M. 910(a)(2), a plea of guilty to an offense that results in a finding of guilty waives all issues under this rule with respect to that offense whether or not raised prior to the plea.
 
-#  RELEVANCY AND ITS LIMITS
+# RELEVANCY AND ITS LIMITS
 
 ## Rule 401. Test for relevant evidence
 
@@ -1236,7 +1236,7 @@ As used in this rule:
 
 (G) an attempt or conspiracy to engage in conduct described in subdivisions (d)(2)(A)-(F).
 
-#  PRIVILEGES
+# PRIVILEGES
 
 ## Rule 501. Privilege in general
 
@@ -1702,7 +1702,7 @@ If the prosecution fails to comply with its obligation under subdivision (j), th
 
  If under this rule any information is withheld from the accused, the accused objects to such withholding, and the trial is continued to an adjudication of guilt of the accused, the entire unaltered text of the relevant documents as well as the prosecution's motion and any materials submitted in support thereof must be sealed in accordance with R.C.M. 1103A and attached to the record of trial as an appellate exhibit.  Such material must be made available to reviewing authorities in closed proceedings for the purpose of reviewing the determination of the military judge.  The record of trial with respect to any classified matter will be prepared under R.C.M. 1103(h) and 1104(b)(1)(D).
 
-##  Discussion
+### Discussion
 
 In addition to the Sixth Amendment right of an accused to a public trial, the Supreme Court has held that the press and general public have a constitutional right under the First Amendment to access to criminal trials.  _United States v. Hershey_, 20 M.J. 433, 436 (C.M.A. 1985) (citing _Richmond Newspapers, Inc. v. Virginia_, 448 U.S. 555 (1980)).  The test that must be met before closure of a criminal trial to the public is set out in _Press-Enterprise Co. v. Superior Court_, 464 U.S. 501 (1984), to wit:  the presumption of openness "may be overcome by an overriding interest based on findings that closure is essential to preserve higher values and is narrowly tailored to serve that interest.  The military judge must consider reasonable alternatives to closure and must make adequate findings supporting the closure to aid in review.
 
@@ -2214,7 +2214,7 @@ There is no privilege under this rule:
 
 (6) The motion, related papers, and the record of the hearing must be sealed in accordance with R.C.M. 1103A and must remain under seal unless the military judge or an appellate court orders otherwise.
 
-#  WITNESSES
+# WITNESSES
 
 ## Rule 601. Competency to testify in general
 
@@ -2458,7 +2458,7 @@ At a party's request, the military judge must order witnesses excluded so that t
 
 (e) A victim of an offense from the trial of an accused for that offense, unless the military judge, after receiving clear and convincing evidence, determines that testimony by the victim would be materially altered if the victim heard other testimony at that hearing or proceeding.
 
-#  OPINIONS AND EXPERT TESTIMONY
+# OPINIONS AND EXPERT TESTIMONY
 
 ## Rule 701. Opinion testimony by lay witnesses
 
@@ -2518,7 +2518,7 @@ Notwithstanding any other provision of law, the result of a polygraph examinatio
 
 This rule does not prohibit admission of an otherwise admissible statement made during a polygraph examination.
 
-#  HEARSAY
+# HEARSAY
 
 ## Rule 801. Definitions that apply to this section; exclusions from hearsay
 
@@ -2842,7 +2842,7 @@ Under the following circumstances, a hearsay statement is not excluded by the ru
 
 The statement is admissible only if, before the trial or hearing, the proponent gives an adverse party reasonable notice of the intent to offer the statement and its particulars, including the declarant's name and address, so that the party has a fair opportunity to meet it.
 
-#  AUTHENTICATION AND IDENTIFICATION
+# AUTHENTICATION AND IDENTIFICATION
 
 ## Rule 901. Authenticating or identifying evidence
 
@@ -2982,7 +2982,7 @@ The original or a copy of a domestic record that meets the requirements of Mil. 
 
 A subscribing witness's testimony is necessary to authenticate a writing only if required by the law of the jurisdiction that governs its validity. 
 
-#  CONTENTS OF WRITINGS, RECORDINGS, AND PHOTOGRAPHS
+# CONTENTS OF WRITINGS, RECORDINGS, AND PHOTOGRAPHS
 
 ## Rule 1001. Definitions that apply to this section
 
@@ -3048,7 +3048,7 @@ Ordinarily, the military judge determines whether the proponent has fulfilled th
 
 (c) other evidence of content accurately reflects the content.
 
-#  MISCELLANEOUS RULES
+# MISCELLANEOUS RULES
 
 ## Rule 1101. Applicability of these rules
 

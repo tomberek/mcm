@@ -1,10 +1,10 @@
 
 
-#  PUNITIVE ARTICLES
+# PUNITIVE ARTICLES
 
 (Statutory text of each Article is in bold)
 
-#  Discussion
+## Discussion
 
 --LSQP--Note: To state an offense under Article 134, practitioners should expressly allege at least one of the three terminal elements, i.e., that the alleged conduct was: prejudicial to good order and discipline; service discrediting; or a crime or offense not capital. _See United States v. Fosler_, 70 M.J. 225 (C.A.A.F. 2011); _United States v. Ballan_, 71 M.J. 28 (C.A.A.F. 2012). _See also_ paragraph 60c(6)(a) in this part and R.C.M. 307(c)(3).--RSQP--
 
@@ -34,9 +34,9 @@ Sample specifications
 
   The prescriptions of maximum punishments in subparagraph e of each paragraph of Part IV must be read in conjunction with R.C.M. 1003, which prescribes additional punishments that may be available and additional limitations on punishments.
 
-#  Article 77-Principals
+## 1. Article 77-Principals
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person punishable under this chapter who-**
 
@@ -48,9 +48,9 @@ counsels, commands, or procures its commission; or**
 
 be punishable by this chapter; is a principal.**
 
-## b. Explanation.
+### b. Explanation.
 
-### (1) Purpose.
+#### (1) Purpose.
 
 Article 77 does not define an offense. Its purpose is to make clear
 
@@ -80,9 +80,9 @@ known as an "aider and abettor"); and accessory before the fact
 
 and who is not present at the scene of the crime). All of these are now "principals."
 
-### (2) Who may be liable for an offense.
+#### (2) Who may be liable for an offense.
 
-#### (a) Perpetrator.
+##### (a) Perpetrator.
 
 A perpetrator is one who actually commits the offense, either by
 
@@ -110,7 +110,7 @@ an enemy, but was known to the superior as a friend, the superior would
 
 be guilty of murder (but the soldier would be guilty of no offense). 
 
-#### (b) Other Parties.
+##### (b) Other Parties.
 
  If one is not a perpetrator, to be guilty of an offense committed
 
@@ -144,9 +144,9 @@ a noninterference is intended to and does operate as an aid or encouragement
 
 to the actual perpetrator. 
 
-### (3) Presence.
+#### (3) Presence.
 
-#### (a) Not necessary.
+##### (a) Not necessary.
 
 Presence at the scene of the crime is not necessary to make one
 
@@ -158,13 +158,13 @@ be carried out, provides the person with a pistol, is guilty of assault when
 
 the offense is committed, even though not present at the scene. 
 
-#### (b) Not sufficient.
+##### (b) Not sufficient.
 
 Mere presence at the scene of a crime does not make one a principal
 
  unless the requirements of paragraph 1b(2)(a) or (b) have been met. 
 
-### (4) Parties whose intent differs from the perpetrator's.
+#### (4) Parties whose intent differs from the perpetrator's.
 
 When an offense charged requires proof of a specific intent or
 
@@ -194,7 +194,7 @@ only to the perpetrator, is an officer, the party would be guilty only of
 
 assault, while the perpetrator would be guilty of assault on an officer.
 
-### (5) Responsibility for other crimes.
+#### (5) Responsibility for other crimes.
 
 A principal may be convicted of crimes committed by another principal
 
@@ -210,13 +210,13 @@ of murder. (_See also_ paragraph 5 concerning liability for
 
 offenses committed by co-conspirators.) 
 
-### (6) Principals independently liable.
+#### (6) Principals independently liable.
 
 One may be a principal, even if the perpetrator is not identified
 
 or prosecuted, or is acquitted. 
 
-### (7) Withdrawal.
+#### (7) Withdrawal.
 
 A person may withdraw from a common venture or design and avoid
 
@@ -238,9 +238,9 @@ or to appropriate law enforcement authorities in time for the perpetrators
 
 to abandon the plan or for law enforcement authorities to prevent the offense.
 
-#  Article 78-Accessory after the fact
+## 2. Article 78-Accessory after the fact
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who, knowing that an
 
@@ -250,7 +250,7 @@ or assists the offender in order to hinder or prevent his apprehension, trial,
 
  or punishment shall be punished as a court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) That an offense punishable by the code was committed by a certain
 
@@ -266,9 +266,9 @@ or assists the offender in order to hinder or prevent his apprehension, trial,
 
  the apprehension, trial, or punishment of the offender. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 The assistance given a principal by an accessory after the fact
 
@@ -280,7 +280,7 @@ of the principal, but also includes acts performed to conceal the commission
 
  offense). 
 
-### (2) Failure to report offense.
+#### (2) Failure to report offense.
 
 The mere failure to report a known offense will not make one an
 
@@ -294,13 +294,13 @@ however, and thus constitute an offense under Article 92. _See_ paragraph
 
 134. _See_ paragraph 95. 
 
-### (3) Offense punishable by the code.
+#### (3) Offense punishable by the code.
 
 The term "offense punishable by this chapter" in the
 
 text of the article means any offense described in the code. 
 
-### (4) Status of principal.
+#### (4) Status of principal.
 
 The principal who committed the offense in question need not be
 
@@ -308,7 +308,7 @@ The principal who committed the offense in question need not be
 
 code. 
 
-### (5) Conviction or acquittal of principal.
+#### (5) Conviction or acquittal of principal.
 
 The prosecution must prove that a principal committed the offense
 
@@ -324,23 +324,23 @@ the acquittal in a separate trial of the principal whom the accused allegedly
 
 comforted, received, or assisted. 
 
-### (6) Accessory after the fact not a lesser included offense.
+#### (6) Accessory after the fact not a lesser included offense.
 
 The offense of being an accessory after the fact is not a lesser
 
  included offense of the primary offense. 
 
-### (7) Actual knowledge.
+#### (7) Actual knowledge.
 
 Actual knowledge is required but may be proved by circumstantial
 
  evidence. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Any person subject to the code who is found guilty as an accessory
 
@@ -356,7 +356,7 @@ of confinement exceed 10 years in any case, including offenses for which
 
 life imprisonment may be adjudged. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -372,9 +372,9 @@ on or about   20 , in order
 
 to (hinder) (prevent) the (apprehension) (trial) (punishment) of the said  , (receive) (comfort) (assist) the said  by  . 
 
-#  Article 79-Conviction of lesser included offenses
+## 3. Article 79-Conviction of lesser included offenses
 
-## a. Text of statute.
+### a. Text of statute.
 
  **An accused may be found guilty of an offense necessarily
 
@@ -382,9 +382,9 @@ to (hinder) (prevent) the (apprehension) (trial) (punishment) of the said  , (re
 
 charged or an offense necessarily included therein.** 
 
-## b. Explanation.
+### b. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 A lesser offense is "necessarily included" in a charged offense when the elements of the lesser offense are a subset of the elements of the charged offense, thereby putting the accused on notice to defend against the lesser offense in addition to the offense specifically charged. A lesser offense may be "necessarily included" when:
 
@@ -394,19 +394,19 @@ A lesser offense is "necessarily included" in a charged offense when the element
 
 (c) All of the elements of the lesser offense are "included and necessary" parts of the greater offense, but the mental element is a subset by being legally less serious (for example, wrongful appropriation as a lesser included offense of larceny).
 
-####  Discussion
+###### Discussion
 
 The "elements test" is the proper method for determining lesser included offenses. _See United States v. Jones_, 68 M.J. 465 (C.A.A.F. 2010); _Schmuck v. United States_, 489 U.S. 705 (1989); Appendix 23 of this Manual, Art. 79. Paragraph 3.b.(1) was amended to comport with the elements test, which requires that the elements of the lesser offense must be a subset of the elements of the charged offense. The elements test does not require identical statutory language, and use of normal principles of statutory interpretation is permitted. The elements test is necessary to safeguard the due process requirement of notice to a criminal defendant.
 
-### (2) Sua sponte duty.
+#### (2) Sua sponte duty.
 
 A military judge must instruct panel members on lesser included offenses reasonably raised by the evidence. 
 
-### (3) Multiple lesser included offenses.
+#### (3) Multiple lesser included offenses.
 
 When the offense charged is a compound offense comprising two or more lesser included offenses, an accused may be found guilty of any or all of the offenses included in the offense charged. For example, robbery includes both larceny and assault. Therefore, in a proper case, a court-martial may find an accused not guilty of robbery, but guilty of wrongful appropriation and assault.
 
-### (4) Findings of guilty to a lesser included offense.
+#### (4) Findings of guilty to a lesser included offense.
 
 A court-martial may find an accused not guilty of the offense charged, but guilty of a lesser included offense by the process of exception and substitution. The court-martial may except (that is, delete) the words in the specification that pertain to the offense charged and, if necessary, substitute language appropriate to the lesser included offense. For example, the accused is charged with murder in violation of Article 118, but found guilty of voluntary manslaughter in violation of Article 119. Such a finding may be worded as follows:
 
@@ -416,17 +416,17 @@ A court-martial may find an accused not guilty of the offense charged, but guilt
 
   If a court-martial finds an accused guilty of a lesser included offense, the finding as to the charge shall state a violation of the specific punitive article violated and not a violation of Article 79.
 
-### (5) Specific lesser included offenses.
+#### (5) Specific lesser included offenses.
 
 Specific lesser included offenses, if any, are listed for each offense in Appendix 12A, but the list is merely guidance to practitioners, is not all-inclusive, and is not binding on military courts.
 
-###  Discussion
+##### Discussion
 
  Practitioners must consider lesser included offenses on a case-by-case basis. _See United States v. Jones_, 68 M.J. 465 (C.A.A.F. 2010); United States v. Alston, 69 M.J. 214 (C.A.A.F. 2010); discussion following paragraph 3.b.(1)(c) above. The lesser included offenses listed in Appendix 12A were amended in 2015 to comport with the elements test; however, practitioners must analyze each lesser included offense on a case-by-case basis. _See_ Appendix 23 of this Manual, Art. 79.
 
-#  Article 80-Attempts
+## 4. Article 80-Attempts
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **An act, done with specific intent to commit an offense under this
 
@@ -446,7 +446,7 @@ to commit an offense although it appears on the trial that the offense was
 
  consummated.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused did a certain overt act;
 
@@ -460,9 +460,9 @@ to commit an offense although it appears on the trial that the offense was
 
 intended offense. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 To constitute an attempt there must be a specific intent to commit
 
@@ -470,7 +470,7 @@ To constitute an attempt there must be a specific intent to commit
 
 the unlawful purpose. 
 
-### (2) More than preparation.
+#### (2) More than preparation.
 
 Preparation consists of devising or arranging the means or measures
 
@@ -498,7 +498,7 @@ it, constitutes the offense of attempt. Failure to complete the offense,
 
 whatever the cause, is not a defense. 
 
-### (3) Factual impossibility.
+#### (3) Factual impossibility.
 
 A person who purposely engages in conduct which would constitute
 
@@ -516,7 +516,7 @@ with the intent to steal that person's billfold is guilty of an attempt
 
 to commit larceny, even though the pocket is empty. 
 
-### (4) Voluntary abandonment.
+#### (4) Voluntary abandonment.
 
 It is a defense to an attempt offense that the person voluntarily
 
@@ -540,7 +540,7 @@ unable to complete the crime, or encountered unanticipated difficulties or
 
 may nonetheless be guilty of assault with a dangerous weapon. 
 
-### (5) Solicitation.
+#### (5) Solicitation.
 
  Soliciting another to commit an offense does not constitute an
 
@@ -548,7 +548,7 @@ may nonetheless be guilty of assault with a dangerous weapon.
 
 solicitation. 
 
-### (6) Attempts not under Article 80. 
+#### (6) Attempts not under Article 80. 
 
 While most attempts should be charged under Article 80, the following
 
@@ -570,7 +570,7 @@ charged accordingly:
 
 (g) Article 128-assault 
 
-### (7) Regulations.
+#### (7) Regulations.
 
 An attempt to commit conduct which would violate a lawful general
 
@@ -582,11 +582,11 @@ prove that the accused intended to violate the order or regulation, but it
 
 must be proved that the accused intended to commit the prohibited conduct.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Any person subject to the code who is found guilty of an attempt
 
@@ -600,7 +600,7 @@ shall any mandatory minimum punishment provisions apply; and in no case,
 
 other than attempted murder, shall confinement exceeding 20 years be adjudged.
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -612,23 +612,23 @@ if required), on or about   20 ,
 
 or by necessary implication every element). 
 
-#  Article 81-Conspiracy
+## 5. Article 81-Conspiracy
 
-## a. Text of statute.
+### a. Text of statute.
 
  (a) Any person subject to this chapter who conspires with any other person to commit an offense under this chapter shall, if one or more of the conspirators does an act to effect the object of the conspiracy, be punished as a court-martial may direct.
 
  (b) Any person subject to this chapter who conspires with any other person to commit an offense under the law of war, and who knowingly does an overt act to effect the object of the conspiracy, shall be punished, if death results to one or more of the victims, by death or such other punishment as a court-martial or military commission may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a court-martial or military commission may direct.
 
-### b. Elements.
+#### b. Elements.
 
-#### (1) Conspiracy.
+##### (1) Conspiracy.
 
 (a) That the accused entered into an agreement with one or more persons to commit an offense under the UCMJ; and 
 
 (b) That, while the agreement continued to exist, and while the accused remained a party to the agreement, the accused or at least one of the co-conspirators performed an overt act for the purpose of bringing about the object of the conspiracy.
 
-####  Conspiracy when offense is an offense under the law of war resulting in the death of one or more victims.
+##### Conspiracy when offense is an offense under the law of war resulting in the death of one or more victims.
 
 (a) That the accused entered into an agreement with one or more persons to commit an offense under the law of war;
 
@@ -636,9 +636,9 @@ or by necessary implication every element).
 
 (c) That death resulted to one or more victims.
 
-### c. Explanation.
+#### c. Explanation.
 
-#### (1) Co-conspirators.
+##### (1) Co-conspirators.
 
 Two or more persons are required in order to have a conspiracy.
 
@@ -664,7 +664,7 @@ of joining the conspiracy, an overt act in furtherance of the object of the
 
 agreement is committed. 
 
-#### (2) Agreement.
+##### (2) Agreement.
 
 The agreement in a conspiracy need not be in any particular form
 
@@ -678,7 +678,7 @@ need not state the means by which the conspiracy is to be accomplished or
 
 what part each conspirator is to play. 
 
-#### (3) Object of the agreement.
+##### (3) Object of the agreement.
 
 The object of the agreement must, at least in part, involve the
 
@@ -692,7 +692,7 @@ where the agreement exists only between the persons necessary to commit such
 
 an offense. Examples include dueling, bigamy, incest, adultery, and bribery.
 
-#### (4) Overt act.
+##### (4) Overt act.
 
 (a) The overt act must be independent of the agreement to commit the
 
@@ -722,7 +722,7 @@ equally guilty even though each does not participate in, or have knowledge
 
  of, all of the details of the execution of the conspiracy. 
 
-#### (5) Liability for offenses.
+##### (5) Liability for offenses.
 
 Each conspirator is liable for all offenses committed pursuant to
 
@@ -730,7 +730,7 @@ the conspiracy by any of the co-conspirators while the conspiracy continues
 
 and the person remains a party to it. 
 
-#### (6) Withdrawal.
+##### (6) Withdrawal.
 
 A party to the conspiracy who abandons or withdraws from the agreement
 
@@ -758,7 +758,7 @@ not liable for offenses committed thereafter by the remaining conspirators.
 
 status of the remaining members. 
 
-#### (7) Factual impossibility.
+##### (7) Factual impossibility.
 
 It is not a defense that the means adopted by the conspirators to
 
@@ -768,7 +768,7 @@ capable of success, or that the conspirators were not physically able to
 
  accomplish their intended object. 
 
-#### (8) Conspiracy as a separate offense.
+##### (8) Conspiracy as a separate offense.
 
 A conspiracy to commit an offense is a separate and distinct offense
 
@@ -780,7 +780,7 @@ and punished. The commission of the intended offense may also constitute
 
 the overt act which is an element of the conspiracy to commit that offense.
 
-#### (9) Special conspiracies under Article 134.
+##### (9) Special conspiracies under Article 134.
 
 The United States Code prohibits conspiracies to commit certain
 
@@ -796,17 +796,17 @@ and certain drug conspiracies under 21 U.S.C. --SECT-- 846. _See_ paragraph
 
  60c(4)(c)(ii). 
 
-### d. Lesser included offenses.
+#### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-### e. Maximum punishment.
+#### e. Maximum punishment.
 
 Any person subject to the code who is found guilty of conspiracy shall be subject to the maximum punishment authorized for the offense which is the object of the conspiracy. However, with the exception noted below, if death is an authorized punishment for the offense which is the object of the conspiracy, the maximum punishment shall be dishonorable discharge, forfeiture of all pay and allowances, and confinement for life without eligibility for parole. If the offense which is the object of the conspiracy is an offense under the law of war, the person knowingly performed an overt act for the purpose of bringing about the object of the conspiracy, and death results to one or more victims, the death penalty shall be an available punishment.
 
-### f. Sample specification.
+#### f. Sample specification.
 
-#### (1) Conspiracy.
+##### (1) Conspiracy.
 
   In that  (personal jurisdiction
 
@@ -824,7 +824,7 @@ of  , of a value of (about) $  ,
 
  of the conspiracy the said  (and   ) did  . 
 
-#### (2) Conspiracy when offense is an offense under the law of war resulting in the death of one or more victims.
+##### (2) Conspiracy when offense is an offense under the law of war resulting in the death of one or more victims.
 
   In that  (personal jurisdiction
 
@@ -842,9 +842,9 @@ of  ), and in order to effect the object of the conspiracy the said
 
  .
 
-#  Article 82-Solicitation
+## 6. Article 82-Solicitation
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **Any person subject to this chapter who solicits or advises another
 
@@ -874,7 +874,7 @@ of the offense, but, if the offense solicited or advised is not committed,
 
 he shall be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused solicited or advised a certain person or persons
 
@@ -892,9 +892,9 @@ be committed.
 
 as the proximate result of the solicitation. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Instantaneous offense.
+#### (1) Instantaneous offense.
 
 The offense is complete when a solicitation is made or advice is
 
@@ -906,7 +906,7 @@ that the person or persons solicited or advised agree to or act upon the
 
 solicitation or advice. 
 
-### (2) Form of solicitation.
+#### (2) Form of solicitation.
 
 Solicitation may be by means other than word of mouth or writing.
 
@@ -920,7 +920,7 @@ or in the advising; the accused may act through other persons in committing
 
 this offense. 
 
-### (3) Solicitations in violation of Article 134.
+#### (3) Solicitations in violation of Article 134.
 
 Solicitation to commit offenses other than violations of the four
 
@@ -940,11 +940,11 @@ pandering (_see_ paragraph 97) and obstruction of justice
 
 (_see_ paragraph 96) in violation of Article 134. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 If the offense solicited or advised is committed or (in the case
 
@@ -976,9 +976,9 @@ years.
 
  of all pay and allowances, and confinement for 10 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) For soliciting desertion (Article 85) or mutiny (Article 94).
+#### (1) For soliciting desertion (Article 85) or mutiny (Article 94).
 
  
 
@@ -1004,7 +1004,7 @@ by  (and  )--RSQP--.
 
 offense solicited or advised is actually committed.--RSQP--
 
-### (2) For soliciting an act of misbehavior before the enemy (Article 99)
+#### (2) For soliciting an act of misbehavior before the enemy (Article 99)
 
 or sedition (Article 94).
 
@@ -1028,9 +1028,9 @@ or sedition (Article 94).
 
 offense solicited or advised is actually committed.--RSQP--
 
-#  Article 83-Fraudulent enlistment, appointment, or separation
+## 7. Article 83-Fraudulent enlistment, appointment, or separation
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -1052,9 +1052,9 @@ separation;
 
 shall be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Fraudulent enlistment or appointment.
+#### (1) Fraudulent enlistment or appointment.
 
 (a) That the accused was enlisted or appointed in an armed force; 
 
@@ -1072,7 +1072,7 @@ for enlistment or appointment;
 
 pay or allowances or both. 
 
-### (2) Fraudulent separation.
+#### (2) Fraudulent separation.
 
 (a) That the accused was separated from an armed force; 
 
@@ -1086,9 +1086,9 @@ and
 
 knowingly false representation or deliberate concealment. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 A fraudulent enlistment, appointment, or separation is one procured
 
@@ -1108,7 +1108,7 @@ in any particular case, and any information that normally would have been
 
 so considered had it been provided to that officer. 
 
-### (2) Receipt of pay or allowances.
+#### (2) Receipt of pay or allowances.
 
 A member of the armed forces who enlists or accepts an appointment
 
@@ -1128,7 +1128,7 @@ receipt of allowances. However, whatever is furnished the accused while in
 
 pay or allowances may be proved by circumstantial evidence. 
 
-### (3) One offense.
+#### (3) One offense.
 
 One who procures one's own enlistment, appointment, or separation
 
@@ -1138,27 +1138,27 @@ one enlistment, appointment, or separation so procured, commits only one
 
 offense under Article 83. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Fraudulent enlistment or appointment.
+#### (1) Fraudulent enlistment or appointment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-### (2) Fraudulent separation.
+#### (2) Fraudulent separation.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) For fraudulent enlistment or appointment.
+#### (1) For fraudulent enlistment or appointment.
 
   In that  (personal jurisdiction
 
@@ -1182,7 +1182,7 @@ the accused procured the enlistment or appointment), and did thereafter,
 
 under the enlistment) (appointment) so procured. 
 
-### (2) For fraudulent separation.
+#### (2) For fraudulent separation.
 
  
 
@@ -1202,9 +1202,9 @@ be separated from the (here state the armed force from which the accused
 
 procured his/her separation). 
 
-#  Article 84-Effecting unlawful enlistment, appointment, or separation
+## 8. Article 84-Effecting unlawful enlistment, appointment, or separation
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who effects an
 
@@ -1216,7 +1216,7 @@ or separation because it is prohibited by law, regulation, or order shall
 
 be punished as a court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused effected the enlistment, appointment, or separation
 
@@ -1230,7 +1230,7 @@ or separation because it was prohibited by law, regulation, or order; and
 
 appointment, or separation. 
 
-## c. Explanation.
+### c. Explanation.
 
 It must be proved that the enlistment, appointment, or separation
 
@@ -1240,17 +1240,17 @@ then knew that the person enlisted, appointed, or separated was ineligible
 
 for the enlistment, appointment, or separation. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -1268,9 +1268,9 @@ the enlistment, appointment, or separation was prohibited by law, regulation,
 
 or order). 
 
-#  Article 85-Desertion
+## 9. Article 85-Desertion
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **Any member of the armed forces who-**
 
@@ -1314,9 +1314,9 @@ Military Appeals in _United States v. Huff_, 22 C.M.R.
 
 37 (1956)--RSQP--
 
-## b. Elements.
+### b. Elements.
 
-### (1) Desertion with intent to remain away permanently.
+#### (1) Desertion with intent to remain away permanently.
 
 (a) That the accused absented himself or herself from his or her unit,
 
@@ -1338,7 +1338,7 @@ the following element--RSQP--
 
 (e) That the accused's absence was terminated by apprehension. 
 
-### (2) Desertion with intent to avoid hazardous duty or to shirk important
+#### (2) Desertion with intent to avoid hazardous duty or to shirk important
 
  service.
 
@@ -1358,7 +1358,7 @@ duty or service; and
 
 (e) That the accused remained absent until the date alleged.
 
-### (3) Desertion before notice of acceptance of resignation.
+#### (3) Desertion before notice of acceptance of resignation.
 
 (a) That the accused was a commissioned officer of an armed force of
 
@@ -1380,7 +1380,7 @@ resignation, the accused quit his or her post or proper duties;
 
 (e) That the accused's absence was terminated by apprehension.
 
-### (4) Attempted desertion.
+#### (4) Attempted desertion.
 
 (a) That the accused did a certain overt act;
 
@@ -1392,11 +1392,11 @@ resignation, the accused quit his or her post or proper duties;
 
 offense of desertion.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Desertion with intent to remain away permanently.
+#### (1) Desertion with intent to remain away permanently.
 
-#### (a) In general.
+##### (a) In general.
 
 Desertion with intent to remain away permanently is complete when
 
@@ -1410,13 +1410,13 @@ is no defense. It is not necessary that the person be absent entirely from
 
 military jurisdiction and control. 
 
-#### (b) Absence without authority
+##### (b) Absence without authority
 
 -inception, duration, termination. _See_ paragraph
 
 10c.
 
-#### (c) Intent to remain away permanently.
+##### (c) Intent to remain away permanently.
 
 (i) The intent to remain away permanently from the unit, organization,
 
@@ -1486,7 +1486,7 @@ not evidence of intent to desert.
 
 of extended duration, does not, without more, prove guilt of desertion.
 
-#### (d) Effect of enlistment or appointment in the same or a different armed
+##### (d) Effect of enlistment or appointment in the same or a different armed
 
  force.
 
@@ -1522,11 +1522,11 @@ serving the enlistment or appointment, the person may be tried and convicted
 
 for each desertion.
 
-### (2) Quitting unit, organization, or place of duty with intent to avoid
+#### (2) Quitting unit, organization, or place of duty with intent to avoid
 
  hazardous duty or to shirk important service.
 
-#### (a) Hazardous duty or important service.
+##### (a) Hazardous duty or important service.
 
 "Hazardous duty" or "important service"
 
@@ -1550,13 +1550,13 @@ is important depends upon the circumstances of the particular case, and is
 
 a question of fact for the court-martial to decide.
 
-#### (b) Quits.
+##### (b) Quits.
 
 "Quits" in Article 85 means "goes absent without
 
  authority." 
 
-#### (c) Actual knowledge.
+##### (c) Actual knowledge.
 
 Article 85 _a_(2) requires proof that the accused
 
@@ -1564,7 +1564,7 @@ Article 85 _a_(2) requires proof that the accused
 
 may be proved by circumstantial evidence. 
 
-### (3) Attempting to desert.
+#### (3) Attempting to desert.
 
 Once the attempt is made, the fact that the person desists, voluntarily
 
@@ -1582,7 +1582,7 @@ discussion of attempts, _see_ paragraph 4. For an explanation
 
 9c(1)(c). 
 
-### (4) Prisoner with executed punitive discharge.
+#### (4) Prisoner with executed punitive discharge.
 
 A prisoner whose dismissal or dishonorable or bad-conduct discharge
 
@@ -1596,13 +1596,13 @@ such a prisoner could be charged with escape from confinement under Article
 
 95 or an offense under Article 134.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Completed or attempted desertion with intent to avoid hazardous duty
+#### (1) Completed or attempted desertion with intent to avoid hazardous duty
 
 or to shirk important service.
 
@@ -1610,27 +1610,27 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-### (2) Other cases of completed or attempted desertion.
+#### (2) Other cases of completed or attempted desertion.
 
-#### (a) Terminated by apprehension.
+##### (a) Terminated by apprehension.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-#### (b) Terminated otherwise.
+##### (b) Terminated otherwise.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-### (3) In time of war.
+#### (3) In time of war.
 
  Death or such other punishment as a court-martial may direct.
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Desertion with intent to remain away permanently.
+#### (1) Desertion with intent to remain away permanently.
 
  
 
@@ -1648,7 +1648,7 @@ and did remain so absent in desertion until (he/she was apprehended) on or
 
 about   20 .
 
-### (2) Desertion with intent to avoid hazardous duty or shirk important service.
+#### (2) Desertion with intent to avoid hazardous duty or shirk important service.
 
  
 
@@ -1666,7 +1666,7 @@ and did remain so absent in desertion until on or about
 
  20 . 
 
-### (3) Desertion prior to acceptance of resignation.
+#### (3) Desertion prior to acceptance of resignation.
 
  
 
@@ -1682,7 +1682,7 @@ away therefrom permanently, quit his/her (post) (proper duties), to wit:
 
 was apprehended) on or about   20 .
 
-### (4) Attempted desertion.
+#### (4) Attempted desertion.
 
  
 
@@ -1698,9 +1698,9 @@ did  (at/on  board-location),  on or about  20 , (a time of war) attempt to (abs
 
 duty) (shirk important service) namely  ) ( ).
 
-#  Article 86-Absence without leave
+## 10. Article 86-Absence without leave
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any member of the armed forces who, without authority-**
 
@@ -1718,9 +1718,9 @@ duty) (shirk important service) namely  ) ( ).
 
 shall be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Failure to go to appointed place of duty.
+#### (1) Failure to go to appointed place of duty.
 
 (a) That a certain authority appointed a certain time and place of duty
 
@@ -1732,7 +1732,7 @@ shall be punished as a court-martial may direct.**
 
  place of duty at the time prescribed.
 
-### (2) Going from appointed place of duty.
+#### (2) Going from appointed place of duty.
 
 (a) That a certain authority appointed a certain time and place of duty
 
@@ -1744,7 +1744,7 @@ shall be punished as a court-martial may direct.**
 
 of duty after having reported at such place.
 
-### (3) Absence from unit, organization, or place of duty.
+#### (3) Absence from unit, organization, or place of duty.
 
 (a) That the accused absented himself or herself from his or her unit,
 
@@ -1762,7 +1762,7 @@ the following element--RSQP--
 
 (d) That the absence was terminated by apprehension.
 
-### (4) Abandoning watch or guard.
+#### (4) Abandoning watch or guard.
 
 (a) That the accused was a member of a guard, watch, or duty; 
 
@@ -1782,7 +1782,7 @@ the following element--RSQP--
 
 duty section. 
 
-### (5) Absence from unit, organization, or place of duty with intent to avoid
+#### (5) Absence from unit, organization, or place of duty with intent to avoid
 
 maneuvers or field exercises.
 
@@ -1802,9 +1802,9 @@ of a period of maneuvers or field exercises; and
 
  or field exercises.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 This article is designed to cover every case not elsewhere provided
 
@@ -1820,7 +1820,7 @@ the appointed place of duty-applies whether the place is appointed
 
 as a rendezvous for several or for one only. 
 
-### (2) Actual knowledge.
+#### (2) Actual knowledge.
 
 The offenses of failure to go to and going from appointed place
 
@@ -1836,13 +1836,13 @@ of a period of maneuvers or field exercises. Actual knowledge may be proved
 
 by circumstantial evidence.
 
-### (3) Intent.
+#### (3) Intent.
 
 Specific intent is not an element of unauthorized absence. Specific
 
  intent is an element for certain aggravated unauthorized absences.
 
-### (4) Aggravated forms of unauthorized absence.
+#### (4) Aggravated forms of unauthorized absence.
 
 There are variations of unauthorized absence under Article 86(3)
 
@@ -1874,7 +1874,7 @@ of duty).
 
  exercises (special type of duty and specific intent).
 
-### (5) Control by civilian authorities.
+#### (5) Control by civilian authorities.
 
 A member of the armed forces turned over to the civilian authorities
 
@@ -1908,7 +1908,7 @@ of unauthorized absence only if it is proved that the member actually committed
 
  result of the member's own misconduct. 
 
-### (6) Inability to return.
+#### (6) Inability to return.
 
 The status of absence without leave is not changed by an inability
 
@@ -1926,7 +1926,7 @@ is unable to return at the expiration thereof, that person has not committed
 
 the offense of absence without leave.
 
-### (7) Determining the unit or organization of an accused.
+#### (7) Determining the unit or organization of an accused.
 
 A person undergoing transfer between activities is ordinarily considered
 
@@ -1940,7 +1940,7 @@ absent without leave from both units, and may be charged with being absent
 
 without leave from either unit.
 
-### (8) Duration.
+#### (8) Duration.
 
 Unauthorized absence under Article 86(3) is an instantaneous offense.
 
@@ -1958,7 +1958,7 @@ alleged but not proved, an accused can be convicted of and punished for
 
 only 1 day of unauthorized absence.
 
-### (9) Computation of duration.
+#### (9) Computation of duration.
 
 In computing the duration of an unauthorized absence, any one continuous
 
@@ -1980,9 +1980,9 @@ the accused is found guilty simply of unauthorized absence from 4 April to
 
 7 April, the maximum punishment would be based on an absence of 3 days.
 
-### (10) Termination-methods of return to military control.
+#### (10) Termination-methods of return to military control.
 
-#### (a) Surrender to military authority.
+##### (a) Surrender to military authority.
 
 A surrender occurs when a person presents himself or herself to
 
@@ -1994,25 +1994,25 @@ or demonstrates a willingness to submit to military control. Such a surrender
 
 terminates the unauthorized absence.
 
-#### (b) Apprehension by military authority.
+##### (b) Apprehension by military authority.
 
 Apprehension by military authority of a known absentee terminates
 
 an unauthorized absence. 
 
-#### (c) Delivery to military authority.
+##### (c) Delivery to military authority.
 
 Delivery of a known absentee by anyone to military authority terminates
 
 the unauthorized absence. 
 
-#### (d) Apprehension by civilian authorities at the request of the military.
+##### (d) Apprehension by civilian authorities at the request of the military.
 
 When an absentee is taken into custody by civilian authorities at
 
 the request of military authorities, the absence is terminated.
 
-#### (e) Apprehension by civilian authorities without prior military request.
+##### (e) Apprehension by civilian authorities without prior military request.
 
 When an absentee is in the hands of civilian authorities for other
 
@@ -2022,7 +2022,7 @@ military control, the absence is terminated when the military authorities
 
 are informed of the absentee's availability.
 
-### (11) Findings of more than one absence under one specification.
+#### (11) Findings of more than one absence under one specification.
 
 An accused may properly be found guilty of two or more separate
 
@@ -2038,19 +2038,19 @@ punishment shall not exceed that authorized if the accused had been found
 
 guilty as charged in the specification.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Failing to go to, or going from, the appointed place of duty.
+#### (1) Failing to go to, or going from, the appointed place of duty.
 
  Confinement for 1 month and forfeiture of two-thirds pay per month
 
  for 1 month. 
 
-### (2) Absence from unit, organization, or other place of duty.
+#### (2) Absence from unit, organization, or other place of duty.
 
 (a) For not more than 3 days. Confinement for 1 month and forfeiture
 
@@ -2070,27 +2070,27 @@ pay and allowances, and confinement for 1 year.
 
 months.
 
-### (3) From guard or watch.
+#### (3) From guard or watch.
 
 Confinement for 3 months and forfeiture of two-thirds pay per month
 
  for 3 months.
 
-### (4) From guard or watch with intent to abandon.
+#### (4) From guard or watch with intent to abandon.
 
  Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-### (5) With intent to avoid maneuvers or field exercises.
+#### (5) With intent to avoid maneuvers or field exercises.
 
  Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Failing to go or leaving place of duty.
+#### (1) Failing to go or leaving place of duty.
 
  In that  (personal jurisdiction data),
 
@@ -2102,7 +2102,7 @@ to) (go from) his/her appointed place of duty, to wit: (here set forth the
 
 appointed place of duty). 
 
-### (2) Absence from unit, organization, or place of duty.
+#### (2) Absence from unit, organization, or place of duty.
 
  In that  (personal jurisdiction data),
 
@@ -2116,7 +2116,7 @@ located at  , and did remain so absent until (he/she
 
 was apprehended) on or about   20 .
 
-### (3) Absence from unit, organization, or place of duty with intent to avoid
+#### (3) Absence from unit, organization, or place of duty with intent to avoid
 
 maneuvers or field exercises.
 
@@ -2130,7 +2130,7 @@ himself/herself from his/her (unit) (organization) (place of duty at which
 
 he/she was required to be), to wit:  located at ( ), and did remain so absent until on or about   20 . 
 
-### (4) Abandoning watch or guard.
+#### (4) Abandoning watch or guard.
 
  In that  (personal jurisdiction data),
 
@@ -2140,9 +2140,9 @@ did, (at/on board-location), on or about  20  , without authority, go from his/h
 
 section) (with intent to abandon the same).
 
-#  Article 87-Missing movement
+## 11. Article 87-Missing movement
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -2154,7 +2154,7 @@ which he is required in the course of duty to move shall be punished as
 
 a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was required in the course of duty to move with
 
@@ -2170,9 +2170,9 @@ aircraft or unit;
 
 (4) That the accused missed the movement through design or neglect.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Movement.
+#### (1) Movement.
 
 "Movement" as used in Article 87 includes a move, transfer,
 
@@ -2192,9 +2192,9 @@ shifted from one berth to another in the same shipyard or harbor or when
 
 a unit is moved from one barracks to another on the same post.
 
-### (2) Mode of movement.
+#### (2) Mode of movement.
 
-#### (a) Unit.
+##### (a) Unit.
 
 If a person is required in the course of duty to move with a unit,
 
@@ -2214,7 +2214,7 @@ of their technical designation, and units intended to be disbanded upon arrival
 
 at their destination. 
 
-#### (b) Ship, aircraft.
+##### (b) Ship, aircraft.
 
 If a person is assigned as a crew member or is ordered to move as
 
@@ -2224,13 +2224,13 @@ then missing the particular sailing or flight is essential to establish
 
 the offense of missing movement. 
 
-### (3) Design.
+#### (3) Design.
 
 "Design" means on purpose, intentionally, or according
 
  to plan and requires specific intent to miss the movement. 
 
-### (4) Neglect.
+#### (4) Neglect.
 
 "Neglect" means the omission to take such measures as
 
@@ -2246,7 +2246,7 @@ movement to such a distance as would make it likely that one could not return
 
 in time for the movement.
 
-### (5) Actual knowledge.
+#### (5) Actual knowledge.
 
 In order to be guilty of the offense, the accused must have actually
 
@@ -2262,7 +2262,7 @@ missing of the scheduled movement. Knowledge may be proved by circumstantial
 
 evidence.
 
-### (6) Proof of absence.
+#### (6) Proof of absence.
 
  That the accused actually missed the movement may be proved by
 
@@ -2276,25 +2276,25 @@ certain time, together with evidence that the accused was physically elsewhere
 
 at that time.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Design.
+#### (1) Design.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-### (2) Neglect.
+#### (2) Neglect.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -2310,9 +2310,9 @@ USS  ) (Company A, 1st Battalion, 7th Infantry) ( ) with which he/she was requir
 
 to move.
 
-#  Article 88-Contempt toward officials
+## 12. Article 88-Contempt toward officials
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -2328,7 +2328,7 @@ or the Governor or legislature of any State, Territory, Commonwealth, or
 
 may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was a commissioned officer of the United States
 
@@ -2354,7 +2354,7 @@ add the following element--RSQP--
 
 or possession of the Governor or legislature concerned.
 
-## c. Explanation.
+### c. Explanation.
 
 The official or legislature against whom the words are used must
 
@@ -2386,17 +2386,17 @@ subordinates, aggravates the offense. The truth or falsity of the statements
 
  is immaterial.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dismissal, forfeiture of all pay and allowances, and confinement
 
 for 1 year.
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -2422,9 +2422,9 @@ in which he/she, the said   , was then (on duty), (present)--RSQP--,
 
 to wit: "  ," or words to that effect.
 
-#  Article 89-Disrespect toward a superior commissioned officer
+## 13. Article 89-Disrespect toward a superior commissioned officer
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -2434,7 +2434,7 @@ with disrespect toward his superior commissioned officer shall be punished
 
 as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused did or omitted certain acts or used certain language
 
@@ -2456,11 +2456,11 @@ whom the acts, omissions, or words were directed was the accused's superior
 
  to that commissioned officer.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Superior commissioned officer.
+#### (1) Superior commissioned officer.
 
-#### (a) Accused and victim in same uniformed service.
+##### (a) Accused and victim in same uniformed service.
 
 If the accused and the victim are in the same uniformed service, the victim
 
@@ -2472,7 +2472,7 @@ superior in rank or command to the accused; however, the victim is not a
 
  is inferior in command, even though superior in rank.
 
-#### (b) Accused and victim in different uniformed service.
+##### (b) Accused and victim in different uniformed service.
 
 If the accused and the victim are in different uniformed services, the
 
@@ -2490,13 +2490,13 @@ is not a "superior commissioned officer" of the accused merely
 
  because the victim is superior in grade to the accused.
 
-#### (c) Execution of office.
+##### (c) Execution of office.
 
 It is not necessary that the "superior commissioned officer"
 
 be in the execution of office at the time of the disrespectful behavior.
 
-### (2) Knowledge.
+#### (2) Knowledge.
 
 If the accused did not know that the person against whom the acts
 
@@ -2506,7 +2506,7 @@ the accused may not be convicted of a violation of this article. Knowledge
 
 may be proved by circumstantial evidence.
 
-### (3) Disrespect.
+#### (3) Disrespect.
 
 Disrespectful behavior is that which detracts from the respect due
 
@@ -2526,7 +2526,7 @@ impertinence, undue familiarity, or other rudeness in the presence of the
 
  superior officer.
 
-### (4) Presence.
+#### (4) Presence.
 
 It is not essential that the disrespectful behavior be in the presence
 
@@ -2534,7 +2534,7 @@ of the superior, but ordinarily one should not be held accountable under
 
 this article for what was said or done in a purely private conversation.
 
-### (5) Special defense-unprotected victim.
+#### (5) Special defense-unprotected victim.
 
 A superior commissioned officer whose conduct in relation to the
 
@@ -2548,17 +2548,17 @@ of being disrespectful to the officer who has so lost the entitlement to
 
 respect protected by Article 89.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year.
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -2576,11 +2576,11 @@ that effect) (contemptuously turning from and leaving him/her while he/she,
 
 the said  , was talking to him/her, the said  ) (  ).
 
-#  Article 90-Assaulting or willfully disobeying superior commissioned
+## 14. Article 90-Assaulting or willfully disobeying superior commissioned
 
 officer
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who-**
 
@@ -2602,9 +2602,9 @@ if the offense is committed at any other time, by such punishment, other
 
  than death, as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Striking or assaulting superior commissioned officer.
+#### (1) Striking or assaulting superior commissioned officer.
 
 (a) That the accused struck, drew, or lifted up a weapon against, or
 
@@ -2620,7 +2620,7 @@ if the offense is committed at any other time, by such punishment, other
 
 of office. 
 
-### (2) Disobeying superior commissioned officer.
+#### (2) Disobeying superior commissioned officer.
 
 (a) That the accused received a lawful command from a certain commissioned
 
@@ -2636,25 +2636,25 @@ superior commissioned officer; and
 
 (d) That the accused willfully disobeyed the lawful command.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Striking or assaulting superior commissioned officer.
+#### (1) Striking or assaulting superior commissioned officer.
 
-#### (a) Definitions.
+##### (a) Definitions.
 
-##### (i) Superior commissioned officer.
+###### (i) Superior commissioned officer.
 
 The definitions in paragraph
 
 13c(1)(_a_) and (_b_) apply here and in subparagraph c(2).
 
-##### (ii) Strikes.
+###### (ii) Strikes.
 
 "Strikes" means an intentional blow, and includes any
 
  offensive touching of the person of an officer, however slight.
 
-##### (iii) Draws or lifts up any weapon against.
+###### (iii) Draws or lifts up any weapon against.
 
 The phrase "draws or lifts up any weapon against" covers
 
@@ -2670,7 +2670,7 @@ of a club, or of anything by which a serious blow or injury could be given
 
 is included in "lifts up."
 
-##### (iv) Offers any violence against.
+###### (iv) Offers any violence against.
 
 The phrase "offers any violence against" includes any
 
@@ -2682,7 +2682,7 @@ executed, the violence must be physically attempted or menaced. A mere threateni
 
 in words is not an offering of violence in the sense of this article.
 
-#### (b) Execution of office.
+##### (b) Execution of office.
 
 An officer is in the execution of office when engaged in any act
 
@@ -2700,7 +2700,7 @@ board a ship or the commanding officer of a unit in the field is generally
 
 considered to be on duty at all times.
 
-#### (c) Knowledge.
+##### (c) Knowledge.
 
 If the accused did not know the officer was the accused's superior
 
@@ -2708,7 +2708,7 @@ If the accused did not know the officer was the accused's superior
 
 Knowledge may be proved by circumstantial evidence.
 
-#### (d) Defenses.
+##### (d) Defenses.
 
 In a prosecution for striking or assaulting a superior commissioned
 
@@ -2728,11 +2728,11 @@ of assault as done in self-defense, depending on the circumstances
 
 (_see_ paragraph 54c; R.C.M. 916(_e_)).
 
-### (2) Disobeying superior commissioned officer.
+#### (2) Disobeying superior commissioned officer.
 
-#### (a) Lawfulness of the order.
+##### (a) Lawfulness of the order.
 
-##### (i) Inference of lawfulness.
+###### (i) Inference of lawfulness.
 
 An order requiring the performance of a military duty or act may
 
@@ -2742,11 +2742,11 @@ This inference does not apply to a patently illegal order, such as one that
 
 directs the commission of a crime.
 
-##### (ii) Determination of lawfulness.
+###### (ii) Determination of lawfulness.
 
 The lawfulness of an order is a question of law to be determined by the military judge.
 
-##### (iii) Authority of issuing officer.
+###### (iii) Authority of issuing officer.
 
 The commissioned officer issuing the order must have authority to
 
@@ -2754,7 +2754,7 @@ The commissioned officer issuing the order must have authority to
 
 of the service.
 
-##### (iv) Relationship to military duty.
+###### (iv) Relationship to military duty.
 
 The order must relate to military duty, which includes all activities
 
@@ -2778,13 +2778,13 @@ increasing the penalty for an offense which it is expected the accused may
 
 commit, is not punishable under this article.
 
-##### (v) Relationship to statutory or constitutional rights.
+###### (v) Relationship to statutory or constitutional rights.
 
 The order must not conflict with the statutory or constitutional
 
  rights of the person receiving the order.
 
-#### (b) Personal nature of the order.
+##### (b) Personal nature of the order.
 
 The order must be directed specifically to the subordinate. Violations
 
@@ -2794,13 +2794,13 @@ established duties are not punishable under this article, but may violate
 
 Article 92.
 
-#### (c) Form and transmission of the order.
+##### (c) Form and transmission of the order.
 
 As long as the order is understandable, the form of the order is
 
  immaterial, as is the method by which it is transmitted to the accused.
 
-#### (d) Specificity of the order.
+##### (d) Specificity of the order.
 
 The order must be a specific mandate to do or not to do a specific
 
@@ -2808,7 +2808,7 @@ The order must be a specific mandate to do or not to do a specific
 
 duty does not constitute an order under this article. 
 
-#### (e) Knowledge.
+##### (e) Knowledge.
 
 The accused must have actual knowledge of the order and of the fact
 
@@ -2816,7 +2816,7 @@ The accused must have actual knowledge of the order and of the fact
 
 officer. Actual knowledge may be proved by circumstantial evidence. 
 
-#### (f) Nature of the disobedience.
+##### (f) Nature of the disobedience.
 
 "Willful disobedience" is an intentional defiance of
 
@@ -2826,11 +2826,11 @@ or forgetfulness is not a violation of this article but may violate Article
 
 92.
 
-#### (g) Time for compliance.
+##### (g) Time for compliance.
 
 When an order requires immediate compliance, an accused's declared intent not to obey and the failure to make any move to comply constitutes disobedience. Immediate compliance is required for any order that does not explicitly or implicitly indicate that delayed compliance is authorized or directed. If an order requires performance in the future, an accused's present statement of intention to disobey the order does not constitute disobedience of that order, although carrying out that intention may. 
 
-### (3) Civilians and discharged prisoners.
+#### (3) Civilians and discharged prisoners.
 
 A discharged prisoner or other civilian subject to military law
 
@@ -2838,13 +2838,13 @@ A discharged prisoner or other civilian subject to military law
 
 officer is subject to the provisions of this article.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Striking, drawing, or lifting up any weapon or offering any violence
+#### (1) Striking, drawing, or lifting up any weapon or offering any violence
 
 to superior commissioned officer in the execution of office.
 
@@ -2852,19 +2852,19 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years.
 
-### (2) Willfully disobeying a lawful order of superior commissioned officer.
+#### (2) Willfully disobeying a lawful order of superior commissioned officer.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-### (3) In time of war.
+#### (3) In time of war.
 
 Death or such other punishment as a court-martial may direct.
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Striking superior commissioned officer.
+#### (1) Striking superior commissioned officer.
 
  
 
@@ -2882,7 +2882,7 @@ commissioned officer, who was then in the execution of his/her office, (in)
 
 (on) the  with (_a_) (his/her)  . 
 
-### (2) Drawing or lifting up a weapon against superior commissioned officer.
+#### (2) Drawing or lifting up a weapon against superior commissioned officer.
 
  
 
@@ -2900,7 +2900,7 @@ known by the said  to be his/her superior commissioned
 
 officer, who was then in the execution of his/her office.
 
-### (3) Offering violence to superior commissioned officer.
+#### (3) Offering violence to superior commissioned officer.
 
  
 
@@ -2918,7 +2918,7 @@ be his/her superior commissioned officer, who was then in the execution
 
 of his/her office, by  .
 
-### (4) Willful disobedience of superior commissioned officer.
+#### (4) Willful disobedience of superior commissioned officer.
 
  
 
@@ -2932,11 +2932,11 @@ be his/her superior commissioned officer, to  , or
 
 words to that effect, did, (at/on board-location), on or about   20 , willfully disobey the same.
 
-#  Article 91-Insubordinate conduct toward warrant officer, noncommissioned
+## 15. Article 91-Insubordinate conduct toward warrant officer, noncommissioned
 
 officer, or petty officer
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any warrant officer or enlisted member who-**
 
@@ -2956,9 +2956,9 @@ that officer is in the execution of his office; shall be punished as a court-mar
 
 may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Striking or assaulting warrant, noncommissioned, or petty officer.
+#### (1) Striking or assaulting warrant, noncommissioned, or petty officer.
 
 (a) That the accused was a warrant officer or enlisted member;
 
@@ -2986,7 +2986,7 @@ of the accused; and
 
  the accused's superior noncommissioned, or petty officer.
 
-### (2) Disobeying a warrant, noncommissioned, or petty officer.
+#### (2) Disobeying a warrant, noncommissioned, or petty officer.
 
 (a) That the accused was a warrant officer or enlisted member;
 
@@ -3002,7 +3002,7 @@ a warrant, noncommissioned, or petty officer;
 
 (e) That the accused willfully disobeyed the order.
 
-### (3) Treating with contempt or being disrespectful in language or deportment
+#### (3) Treating with contempt or being disrespectful in language or deportment
 
  toward a warrant, noncommissioned, or petty officer.
 
@@ -3042,9 +3042,9 @@ of the accused; and
 
  officer.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 Article 91 has the same general objects with respect to warrant,
 
@@ -3064,7 +3064,7 @@ nor does it protect military police or members of the shore patrol who are
 
 not warrant, noncommissioned, or petty officers. 
 
-### (2) Knowledge.
+#### (2) Knowledge.
 
 All of the offenses prohibited by Article 91 require that the accused
 
@@ -3072,7 +3072,7 @@ All of the offenses prohibited by Article 91 require that the accused
 
 petty officer. Actual knowledge may be proved by circumstantial evidence.
 
-### (3) Striking or assaulting a warrant, noncommissioned, or petty officer.
+#### (3) Striking or assaulting a warrant, noncommissioned, or petty officer.
 
 For a discussion of "strikes" and "in the execution
 
@@ -3086,7 +3086,7 @@ law, upon a warrant, noncommissioned, or petty officer should be charged
 
 under Article 128 or 134.
 
-### (4) Disobeying a warrant, noncommissioned, or petty officer.
+#### (4) Disobeying a warrant, noncommissioned, or petty officer.
 
  _See_ paragraph 14c(2) for a discussion of lawfulness,
 
@@ -3094,7 +3094,7 @@ personal nature, form, transmission, and specificity of the order, nature
 
 of the disobedience, and time for compliance with the order. 
 
-### (5) Treating with contempt or being disrespectful in language or deportment
+#### (5) Treating with contempt or being disrespectful in language or deportment
 
  toward a warrant, noncommissioned, or petty officer.
 
@@ -3108,37 +3108,37 @@ see_ paragraph 14c. For a discussion of disrespect, _see_
 
 paragraph 13c.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Striking or assaulting warrant officer.
+#### (1) Striking or assaulting warrant officer.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-### (2) Striking or assaulting superior noncommissioned or petty officer.
+#### (2) Striking or assaulting superior noncommissioned or petty officer.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-### (3) Striking or assaulting other noncommissioned or petty officer.
+#### (3) Striking or assaulting other noncommissioned or petty officer.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-### (4) Willfully disobeying the lawful order of a warrant officer.
+#### (4) Willfully disobeying the lawful order of a warrant officer.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-### (5) Willfully disobeying the lawful order of a noncommissioned or petty
+#### (5) Willfully disobeying the lawful order of a noncommissioned or petty
 
 officer.
 
@@ -3146,27 +3146,27 @@ Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-### (6) Contempt or disrespect to warrant officer.
+#### (6) Contempt or disrespect to warrant officer.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 9 months. 
 
-### (7) Contempt or disrespect to superior noncommissioned or petty officer.
+#### (7) Contempt or disrespect to superior noncommissioned or petty officer.
 
  Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-### (8) Contempt or disrespect to other noncommissioned or petty officer.
+#### (8) Contempt or disrespect to other noncommissioned or petty officer.
 
  Forfeiture of two-thirds pay per month for 3 months, and confinement
 
  for 3 months. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Striking or assaulting warrant, noncommissioned, or petty officer.
+#### (1) Striking or assaulting warrant, noncommissioned, or petty officer.
 
  
 
@@ -3182,7 +3182,7 @@ if required), on or about   20 ,
 
 (_a_)  (his/her)  .
 
-### (2) Willful disobedience of warrant, noncommissioned, or petty officer.
+#### (2) Willful disobedience of warrant, noncommissioned, or petty officer.
 
  
 
@@ -3200,7 +3200,7 @@ or about   20 , willfully disobey
 
 the same. 
 
-### (3) Contempt or disrespect toward warrant, noncommissioned, or petty officer.
+#### (3) Contempt or disrespect toward warrant, noncommissioned, or petty officer.
 
  
 
@@ -3216,9 +3216,9 @@ was then in the execution of his/her office, by (saying to him/her, " ," or word
 
 feet) (  )
 
-#  Article 92-Failure to obey order or regulation
+## 16. Article 92-Failure to obey order or regulation
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who-**
 
@@ -3234,9 +3234,9 @@ the armed forces, which it is his duty to obey, fails to obey the order;
 
 as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Violation of or failure to obey a lawful general order or regulation.
+#### (1) Violation of or failure to obey a lawful general order or regulation.
 
 (a) That there was in effect a certain lawful general order or regulation;
 
@@ -3244,7 +3244,7 @@ as a court-martial may direct.**
 
 (c) That the accused violated or failed to obey the order or regulation.
 
-### (2) Failure to obey other lawful order.
+#### (2) Failure to obey other lawful order.
 
 (a) That a member of the armed forces issued a certain lawful order;
 
@@ -3254,7 +3254,7 @@ as a court-martial may direct.**
 
 (d) That the accused failed to obey the order.
 
-### (3) Dereliction in the performance of duties.
+#### (3) Dereliction in the performance of duties.
 
 (a) That the accused had certain duties;
 
@@ -3270,11 +3270,11 @@ derelict in the performance of those duties.
 
 (d) That such dereliction of duty resulted in death or grievous bodily harm to a person other than the accused.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Violation of or failure to obey a lawful general order or regulation.
+#### (1) Violation of or failure to obey a lawful general order or regulation.
 
-#### (a)  Authority to issue general orders and regulations.
+##### (a)  Authority to issue general orders and regulations.
 
 General orders or regulations are those orders or regulations generally
 
@@ -3294,7 +3294,7 @@ which are issued by:
 
 (iii) a commander superior to (i) or (ii).
 
-#### (b)  Effect of change of command on validity of order.
+##### (b)  Effect of change of command on validity of order.
 
 A general order or regulation issued by a commander with authority
 
@@ -3308,7 +3308,7 @@ a general or flag officer in command and command is assumed by another officer
 
 who is not a general or flag officer.
 
-#### (c)  Lawfulness.
+##### (c)  Lawfulness.
 
 A general order or regulation is lawful unless it is contrary to
 
@@ -3318,7 +3318,7 @@ or for some other reason is beyond the authority of the official issuing
 
 it. _See_ the discussion of lawfulness in paragraph 14c(2)(a).
 
-#### (d) Knowledge.
+##### (d) Knowledge.
 
 Knowledge of a general order or regulation need not be alleged or
 
@@ -3326,7 +3326,7 @@ Knowledge of a general order or regulation need not be alleged or
 
 does not constitute a defense.
 
-#### (e) Enforceability.
+##### (e) Enforceability.
 
 Not all provisions in general orders or regulations can be enforced
 
@@ -3336,9 +3336,9 @@ advice for conducting military functions may not be enforceable under Article
 
 92(1).
 
-### (2) Violation of or failure to obey other lawful order.
+#### (2) Violation of or failure to obey other lawful order.
 
-#### (a) Scope.
+##### (a) Scope.
 
 Article 92(2) includes all other lawful orders which may be issued
 
@@ -3350,7 +3350,7 @@ which are not general regulations. _See also_ subparagraph
 
 (1)(e) above as applicable. 
 
-#### (b) Knowledge.
+##### (b) Knowledge.
 
 In order to be guilty of this offense, a person must have had actual
 
@@ -3358,9 +3358,9 @@ In order to be guilty of this offense, a person must have had actual
 
 by circumstantial evidence.
 
-#### (c) Duty to obey order.
+##### (c) Duty to obey order.
 
-##### (i) From a superior.
+###### (i) From a superior.
 
 A member of one armed force who is senior in rank to a member of
 
@@ -3374,7 +3374,7 @@ orders which that member has a duty to obey under the same circumstances
 
 89 and 90. _See_ paragraph 13c(1).
 
-##### (ii) From one not a superior.
+###### (ii) From one not a superior.
 
 Failure to obey the lawful order of one not a superior is an offense
 
@@ -3386,15 +3386,15 @@ See_ paragraph 15b(2) if the order was issued by a warrant, noncommissioned,
 
 or petty officer in the execution of office.
 
-### (3) Dereliction in the performance of duties.
+#### (3) Dereliction in the performance of duties.
 
-#### (a) Duty.
+##### (a) Duty.
 
 A duty may be imposed by treaty, statute, regulation, lawful order,
 
  standard operating procedure, or custom of the service.
 
-#### (b) Knowledge.
+##### (b) Knowledge.
 
 Actual knowledge of duties may be proved by circumstantial evidence.
 
@@ -3408,7 +3408,7 @@ testimony of persons who have held similar or superior positions, or similar
 
 evidence.
 
-#### (c) Derelict.
+##### (c) Derelict.
 
 A person is derelict in the performance of duties when that person
 
@@ -3430,7 +3430,7 @@ circumstances. "Culpable inefficiency" is inefficiency for which
 
 there is no reasonable or just excuse. 
 
-#### (d) Ineptitude.
+##### (d) Ineptitude.
 
 A person is not derelict in the performance of duties if the failure
 
@@ -3448,19 +3448,19 @@ performance of duties if the recruit fails to qualify with the weapon.
 
 (f) Where the dereliction of duty resulted in death or grievous bodily harm, an intent to cause death or grievous bodily harm is not required.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Violation of or failure to obey lawful general order or regulation.
+#### (1) Violation of or failure to obey lawful general order or regulation.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-### (2) Violation of or failure to obey other lawful order.
+#### (2) Violation of or failure to obey other lawful order.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
@@ -3480,37 +3480,37 @@ imposed as a result of an order. In these instances, the maximum punishment
 
 is that specifically prescribed elsewhere for that particular offense.--RSQP--
 
-### (3) Dereliction in the performance of duties.
+#### (3) Dereliction in the performance of duties.
 
-#### (A) Through neglect or culpable inefficiency.
+##### (A) Through neglect or culpable inefficiency.
 
 Forfeiture of two-thirds pay per month for 3 months and confinement
 
  for 3 months.
 
-#### (B) Through neglect or culpable inefficiency resulting in death or grievous bodily harm. 
+##### (B) Through neglect or culpable inefficiency resulting in death or grievous bodily harm. 
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and confinement for 18 months.
 
-#### (C) Willful.
+##### (C) Willful.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months.
 
-#### (D) Willful dereliction of duty resulting in death or grievous bodily harm.
+##### (D) Willful dereliction of duty resulting in death or grievous bodily harm.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 2 years.
 
 (Note: For (1) and (2) above, the punishment set forth does not apply in the following cases: if, in the absence of the order or regulation which was violated or not obeyed, the accused would on the same facts be subject to conviction for another specific offense for which a lesser punishment is prescribed; or if the violation or failure to obey is a breach of restraint imposed as a result of an order. In these instances, the maximum punishment is that specifically prescribed elsewhere for that particular offense.)
 
-####  Discussion
+###### Discussion
 
  If the dereliction of duty resulted in death, the accused may also be charged under Article 119 or Article 134 (negligent homicide), as applicable.
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Violation or failure to obey lawful general order or regulation.
+#### (1) Violation or failure to obey lawful general order or regulation.
 
  
 
@@ -3528,7 +3528,7 @@ dated   20 ) (Article
 
  dated   20 ) (), by (wrongfully)  .
 
-### (2) Violation or failure to obey other lawful written order.
+#### (2) Violation or failure to obey other lawful written order.
 
  
 
@@ -3550,7 +3550,7 @@ jurisdiction data, if required), on or about
 
  20 , fail to obey the same by (wrongfully)  .
 
-### (3) Failure to obey other lawful order.
+#### (3) Failure to obey other lawful order.
 
  
 
@@ -3568,7 +3568,7 @@ it was his/her duty to obey, did (at/on board-location) (subject-matter
 
   , fail to obey the same (by (wrongfully)  .)
 
-### (4) Dereliction in the performance of duties.
+#### (4) Dereliction in the performance of duties.
 
  
 
@@ -3584,9 +3584,9 @@ was derelict in the performance of those duties in that he/she (negligently)
 
 it was his/her duty to do (, and that such dereliction of duty resulted in (grievous bodily harm, to wit: (broken leg) (deep cut) (fractured skull) to) (the death of) ). 
 
-#  Article 93-Cruelty and maltreatment
+## 17. Article 93-Cruelty and maltreatment
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -3596,7 +3596,7 @@ of cruelty toward, or oppression or maltreatment of, any person subject
 
 to his orders shall be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That a certain person was subject to the orders of the accused;
 
@@ -3606,9 +3606,9 @@ and
 
  person. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Nature of victim.
+#### (1) Nature of victim.
 
 "Any person subject to his orders" means not only those
 
@@ -3620,7 +3620,7 @@ required to obey the lawful orders of the accused, regardless whether the
 
 accused is in the direct chain of command over the person.
 
-### (2) Nature of act.
+#### (2) Nature of act.
 
 The cruelty, oppression, or maltreatment, although not necessarily
 
@@ -3638,15 +3638,15 @@ or proper duties and the exaction of their performance does not constitute
 
 this offense even though the duties are arduous or hazardous or both.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 2 years.
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -3662,9 +3662,9 @@ person subject to his/her orders, by (kicking him/her in the stomach) (confining
 
 him/her for twenty-four hours without water) ().
 
-#  Article 94-Mutiny and sedition
+## 18. Article 94-Mutiny and sedition
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -3698,9 +3698,9 @@ guilty of a failure to suppress or report a mutiny or sedition.**
 
 by death or such other punishment as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Mutiny by creating violence or disturbance.
+#### (1) Mutiny by creating violence or disturbance.
 
 (a) That the accused created violence or a disturbance; and
 
@@ -3708,7 +3708,7 @@ by death or such other punishment as a court-martial may direct.**
 
 to usurp or override lawful military authority.
 
-### (2) Mutiny by refusing to obey orders or perform duty.
+#### (2) Mutiny by refusing to obey orders or perform duty.
 
 (a) That the accused refused to obey orders or otherwise do the accused's
 
@@ -3722,7 +3722,7 @@ in concert with another person or persons; and
 
  military authority. 
 
-### (3) Sedition.
+#### (3) Sedition.
 
 (a) That the accused created revolt, violence, or disturbance against
 
@@ -3736,7 +3736,7 @@ and
 
  destruction of that authority.
 
-### (4) Failure to prevent and suppress a mutiny or sedition.
+#### (4) Failure to prevent and suppress a mutiny or sedition.
 
 (a) That an offense of mutiny or sedition was committed in the presence
 
@@ -3746,7 +3746,7 @@ and
 
  suppress the mutiny or sedition.
 
-### (5) Failure to report a mutiny or sedition.
+#### (5) Failure to report a mutiny or sedition.
 
 (a) That an offense of mutiny or sedition occurred;
 
@@ -3758,7 +3758,7 @@ was taking place; and
 
  accused's superior commissioned officer or commander of the offense.
 
-### (6) Attempted mutiny.
+#### (6) Attempted mutiny.
 
 (a) That the accused committed a certain overt act;
 
@@ -3772,21 +3772,21 @@ of mutiny;
 
 offense of mutiny. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Mutiny.
+#### (1) Mutiny.
 
 Article 94(_a_)(1) defines two types of mutiny, both
 
  requiring an intent to usurp or override military authority.
 
-#### (a) Mutiny by creating violence or disturbance.
+##### (a) Mutiny by creating violence or disturbance.
 
 Mutiny by creating violence or disturbance may be committed by one
 
  person acting alone or by more than one acting together.
 
-#### (b) Mutiny by refusing to obey orders or perform duties.
+##### (b) Mutiny by refusing to obey orders or perform duties.
 
 Mutiny by refusing to obey orders or perform duties requires collective
 
@@ -3806,7 +3806,7 @@ The intent may be declared in words or inferred from acts, omissions, or
 
 surrounding circumstances. 
 
-### (2) Sedition.
+#### (2) Sedition.
 
 Sedition requires a concert of action in resistance to civil authority.
 
@@ -3814,7 +3814,7 @@ This differs from mutiny by creating violence or disturbance. _See
 
 _ subparagraph c(1)(_a_) above. 
 
-### (3) Failure to prevent and suppress a mutiny or sedition.
+#### (3) Failure to prevent and suppress a mutiny or sedition.
 
 "Utmost" means taking those measures to prevent and
 
@@ -3828,7 +3828,7 @@ as may be reasonably necessary under the circumstances to prevent and suppress
 
 a mutiny or sedition.
 
-### (4) Failure to report a mutiny or sedition.
+#### (4) Failure to report a mutiny or sedition.
 
 Failure to "take all reasonable means to inform" includes
 
@@ -3846,23 +3846,23 @@ offense in violation of Article 94. _But see _ paragraph 16c(3)
 
 (dereliction of duty).
 
-### (5) Attempted mutiny.
+#### (5) Attempted mutiny.
 
 For a discussion of attempts, see paragraph 4.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 For all offenses under Article 94, death or such other punishment
 
 as a court-martial may direct. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Mutiny by creating violence or disturbance.
+#### (1) Mutiny by creating violence or disturbance.
 
  
 
@@ -3880,7 +3880,7 @@ rifle at  , and exhorting other persons to join him/her
 
 in defiance of ) ().
 
-### (2) Mutiny by refusing to obey orders or perform duties.
+#### (2) Mutiny by refusing to obey orders or perform duties.
 
  
 
@@ -3894,7 +3894,7 @@ to (obey the orders of  to  )
 
 (perform his/her duty as  ). 
 
-### (3) Sedition.
+#### (3) Sedition.
 
  
 
@@ -3918,7 +3918,7 @@ property and records therein) (marching upon and compelling the surrender
 
 of the police of  ) (  ). 
 
-### (4) Failure to prevent and suppress a mutiny or sedition.
+#### (4) Failure to prevent and suppress a mutiny or sedition.
 
  
 
@@ -3940,7 +3940,7 @@ of the assembly) (he/she made no effort to assist  who
 
 was attempting to quell the mutiny) (  ). 
 
-### (5) Failure to report a mutiny or sedition.
+#### (5) Failure to report a mutiny or sedition.
 
  
 
@@ -3958,7 +3958,7 @@ officer or his/her commander of a (mutiny) (sedition) among the (soldiers)
 
 (had reason to believe) was taking place.
 
-### (6) Attempted mutiny.
+#### (6) Attempted mutiny.
 
  
 
@@ -3972,9 +3972,9 @@ data, if required), on or about   20  , attempt to (create (violence) (a disturb
 
 ) ().
 
-#  Article 95-Resistance, flight, breach of arrest, and escape
+## 19. Article 95-Resistance, flight, breach of arrest, and escape
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who-**
 
@@ -3988,9 +3988,9 @@ data, if required), on or about   20  , attempt to (create (violence) (a disturb
 
 shall be punished as a court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Resisting apprehension.
+#### (1) Resisting apprehension.
 
 (a) That a certain person attempted to apprehend the accused;
 
@@ -3998,7 +3998,7 @@ shall be punished as a court-martial may direct.**
 
 (c) That the accused actively resisted the apprehension.
 
-### (2) Flight from apprehension.
+#### (2) Flight from apprehension.
 
 (a) That a certain person attempted to apprehend the accused;
 
@@ -4006,7 +4006,7 @@ shall be punished as a court-martial may direct.**
 
 (c) That the accused fled from the appre- hension.
 
-### (3) Breaking arrest.
+#### (3) Breaking arrest.
 
 (a) That a certain person ordered the accused into arrest;
 
@@ -4018,7 +4018,7 @@ and
 
 released from that arrest by proper authority.
 
-### (4) Escape from custody.
+#### (4) Escape from custody.
 
 (a) That a certain person apprehended the accused;
 
@@ -4028,7 +4028,7 @@ released from that arrest by proper authority.
 
  released by proper authority.
 
-### (5) Escape from confinement.
+#### (5) Escape from confinement.
 
 (a) That a certain person ordered the accused into confinement;
 
@@ -4048,17 +4048,17 @@ and
 
 (d) That the confinement was the result of a court-martial conviction.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Resisting apprehension.
+#### (1) Resisting apprehension.
 
-#### (a) Apprehension.
+##### (a) Apprehension.
 
 Apprehension is the taking of a person into custody. _ See
 
 _ R.C.M. 302.
 
-#### (b) Authority to apprehend.
+##### (b) Authority to apprehend.
 
  _See_ R.C.M. 302(_b_) concerning
 
@@ -4070,7 +4070,7 @@ judge. Whether the person who attempted to make an apprehension had such
 
 a status is a question of fact to be decided by the factfinder.
 
-#### (c) Nature of the resistance.
+##### (c) Nature of the resistance.
 
 The resistance must be active, such as assaulting the person attempting
 
@@ -4082,7 +4082,7 @@ the offense of resisting apprehension although they may constitute other
 
 offenses.
 
-#### (d) Mistake.
+##### (d) Mistake.
 
 It is a defense that the accused held a reasonable belief that the
 
@@ -4092,7 +4092,7 @@ the accused's belief at the time that no basis exists for the apprehension
 
  is not a defense.
 
-#### (e) Illegal apprehension.
+##### (e) Illegal apprehension.
 
 A person may not be convicted of resisting apprehension if the
 
@@ -4106,13 +4106,13 @@ of evidence to the contrary. Ordinarily the legality of an apprehension is
 
 a question of law to be decided by the military judge. 
 
-### (2) Flight from apprehension.
+#### (2) Flight from apprehension.
 
 The flight must be active, such as running or driving away.
 
-### (3) Breaking arrest.
+#### (3) Breaking arrest.
 
-#### (a) Arrest.
+##### (a) Arrest.
 
 There are two types of arrest: pretrial arrest under Article 9
 
@@ -4122,19 +4122,19 @@ _ paragraph 5c(3), Part V, MCM). This article prohibits breaking
 
 any arrest.
 
-#### (b) Authority to order arrest.
+##### (b) Authority to order arrest.
 
  _See_ R.C.M. 304(b) and paragraphs 2 and 5b, Part
 
 V, MCM concerning authority to order arrest.
 
-#### (c) Nature of restraint imposed by arrest.
+##### (c) Nature of restraint imposed by arrest.
 
 In arrest, the restraint is moral restraint imposed by orders fixing
 
  the limits of arrest. 
 
-#### (d) Breaking.
+##### (d) Breaking.
 
 Breaking arrest is committed when the person in arrest infringes
 
@@ -4144,7 +4144,7 @@ For example, innocence of the offense with respect to which an arrest may
 
 have been imposed is not a defense.
 
-#### (e) Illegal arrest.
+##### (e) Illegal arrest.
 
 A person may not be convicted of breaking arrest if the arrest is
 
@@ -4154,9 +4154,9 @@ legal in the absence of some evidence to the contrary. Ordinarily, the legality
 
 of an arrest is a question of law to be decided by the military judge.
 
-### (4) Escape from custody.
+#### (4) Escape from custody.
 
-#### (a) Custody.
+##### (a) Custody.
 
 "Custody" is restraint of free locomotion imposed by
 
@@ -4170,17 +4170,17 @@ orders. Custody is temporary restraint intended to continue until other restrain
 
 (arrest, restriction, confinement) is imposed or the person is released.
 
-#### (b) Authority to apprehend.
+##### (b) Authority to apprehend.
 
  _See_ subparagraph (1)(_b_) above.
 
-#### (c) Escape.
+##### (c) Escape.
 
 For a discussion of escape, _see_ subparagraph
 
 c(5)(_c_), below. 
 
-#### (d) Illegal custody.
+##### (d) Illegal custody.
 
 A person may not be convicted of this offense if the custody was
 
@@ -4192,13 +4192,13 @@ legality of an apprehension is a question of law to be decided by the military
 
 judge.
 
-#### (e) Correctional custody.
+##### (e) Correctional custody.
 
  _See_ paragraph 70.
 
-### (5) Escape from confinement.
+#### (5) Escape from confinement.
 
-#### (a) Confinement.
+##### (a) Confinement.
 
 Confinement is physical restraint imposed under R.C.M. 305, 1101,
 
@@ -4212,13 +4212,13 @@ to an adjudged sentence of a court-martial and not as a result of pretrial
 
 restraint or nonjudicial punishment.
 
-#### (b) Authority to order confinement.
+##### (b) Authority to order confinement.
 
  _See_ R.C.M. 304(b); 1101; and
 
 paragraphs 2 and 5b, Part V, MCM concerning who may order confinement.
 
-#### (c) Escape.
+##### (c) Escape.
 
 An escape may be either with or without force or artifice, and either
 
@@ -4240,7 +4240,7 @@ is opposed, or before it is completed, an immediate pursuit follows, there
 
 is no escape until opposition is overcome or pursuit is eluded.
 
-#### (d) Status when temporarily outside confinement facility.
+##### (d) Status when temporarily outside confinement facility.
 
 A prisoner who is temporarily escorted outside a confinement facility
 
@@ -4248,7 +4248,7 @@ A prisoner who is temporarily escorted outside a confinement facility
 
 means to prevent that prisoner from escaping, remains in confinement. 
 
-#### (e) Legality of confinement.
+##### (e) Legality of confinement.
 
 A person may not be convicted of escape from confinement if the
 
@@ -4260,31 +4260,31 @@ the legality of confinement is a question of law to be decided by the military
 
 judge.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Resisting apprehension.
-
-Bad-conduct discharge, forfeiture of all pay and allowances, and
-
- confinement for 1 year.
-
-### (2) Flight from apprehension.
+#### (1) Resisting apprehension.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year.
 
-### (3) Breaking arrest.
+#### (2) Flight from apprehension.
+
+Bad-conduct discharge, forfeiture of all pay and allowances, and
+
+ confinement for 1 year.
+
+#### (3) Breaking arrest.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months.
 
-### (4) Escape from custody, pretrial confinement, or confinement on bread
+#### (4) Escape from custody, pretrial confinement, or confinement on bread
 
 and water or diminished rations imposed pursuant to Article 15.
 
@@ -4292,15 +4292,15 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year.
 
-### (5) Escape from post-trial confinement.
+#### (5) Escape from post-trial confinement.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years.
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Resisting apprehension.
+#### (1) Resisting apprehension.
 
  
 
@@ -4314,7 +4314,7 @@ resist being apprehended by  , (an armed force policeman)
 
 (  ), a person authorized to apprehend the accused.
 
-### (2) Flight from apprehension.
+#### (2) Flight from apprehension.
 
  
 
@@ -4328,7 +4328,7 @@ flee apprehension by  , (an armed force policeman)
 
 (  ), a person authorized to apprehend the accused.
 
-### (3) Breaking arrest.
+#### (3) Breaking arrest.
 
  
 
@@ -4340,7 +4340,7 @@ flee apprehension by  , (an armed force policeman)
 
 arrest, did, (at/on board-location) on or about  20  , break said arrest.
 
-### (4) Escape from custody.
+#### (4) Escape from custody.
 
  
 
@@ -4354,7 +4354,7 @@ escape from the custody of  , a person authorized
 
 to apprehend the accused.
 
-### (5) Escape from confinement.
+#### (5) Escape from confinement.
 
  
 
@@ -4370,9 +4370,9 @@ or about   20 , escape from
 
 confinement. 
 
-#  Article 96-Releasing prisoner without proper authority
+## 20. Article 96-Releasing prisoner without proper authority
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -4386,9 +4386,9 @@ punished as a court-martial may direct, whether or not the prisoner was committe
 
 in strict compliance with law.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Releasing a prisoner without proper authority.
+#### (1) Releasing a prisoner without proper authority.
 
 (a) That a certain prisoner was committed to the charge of the accused;
 
@@ -4396,7 +4396,7 @@ and
 
 (b) That the accused released the prisoner without proper authority.
 
-### (2) Suffering a prisoner to escape through neglect.
+#### (2) Suffering a prisoner to escape through neglect.
 
 (a) That a certain prisoner was committed to the charge of the accused;
 
@@ -4410,7 +4410,7 @@ was acting, would have taken in the same or similar circumstances; and
 
 (d) That the escape was the proximate result of the neglect.
 
-### (3) Suffering a prisoner to escape through design.
+#### (3) Suffering a prisoner to escape through design.
 
 (a) That a certain prisoner was committed to the charge of the accused;
 
@@ -4422,23 +4422,23 @@ was acting, would have taken in the same or similar circumstances; and
 
  design of the accused.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Releasing a prisoner without proper authority.
+#### (1) Releasing a prisoner without proper authority.
 
-#### (a) Prisoner.
+##### (a) Prisoner.
 
 "Prisoner" includes a civilian or military person who
 
 has been confined.
 
-#### (b) Release.
+##### (b) Release.
 
 The release of a prisoner is removal of restraint by the custodian
 
  rather than by the prisoner. 
 
-#### (c) Authority to release.
+##### (c) Authority to release.
 
  _See_ R.C.M. 305(_g_) as to who may
 
@@ -4452,7 +4452,7 @@ court-martial jurisdiction over the prisoner. _See also_ R.C.M.
 
  1101.
 
-#### (d) Committed.
+##### (d) Committed.
 
 Once a prisoner has been confined, the prisoner has been "committed"
 
@@ -4462,15 +4462,15 @@ subparagraph (c)) may order release, regardless of failure
 
 to follow procedures prescribed by the code, this Manual, or other law.
 
-### (2) Suffering a prisoner to escape through neglect.
+#### (2) Suffering a prisoner to escape through neglect.
 
-#### (a) Suffer.
+##### (a) Suffer.
 
 "Suffer" means to allow or permit; not to forbid or
 
  hinder.
 
-#### (b) Neglect.
+##### (b) Neglect.
 
 "Neglect" is a relative term. It is the absence of
 
@@ -4478,17 +4478,17 @@ conduct which would have been taken by a reasonably careful person in the
 
 same or similar circumstances.
 
-#### (c) Escape.
+##### (c) Escape.
 
 Escape is defined in paragraph 19.c.(4)(c).
 
-#### (d) Status of prisoner after escape not a defense.
+##### (d) Status of prisoner after escape not a defense.
 
 After escape, the fact that a prisoner returns, is captured, killed,
 
  or otherwise dies is not a defense. 
 
-### (3) Suffering a prisoner to escape through design.
+#### (3) Suffering a prisoner to escape through design.
 
 An escape is suffered through design when it is intended. Such intent
 
@@ -4498,33 +4498,33 @@ inference which may be drawn is that the escape was contemplated as a probable
 
 result.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Releasing a prisoner without proper authority.
+#### (1) Releasing a prisoner without proper authority.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-### (2) Suffering a prisoner to escape through neglect.
+#### (2) Suffering a prisoner to escape through neglect.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-### (3) Suffering a prisoner to escape through design.
+#### (3) Suffering a prisoner to escape through design.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Releasing a prisoner without proper authority.
+#### (1) Releasing a prisoner without proper authority.
 
  
 
@@ -4534,7 +4534,7 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
   , without proper authority, release   , a prisoner committed to his/her charge. 
 
-### (2) Suffering a prisoner to escape through neglect or design.
+#### (2) Suffering a prisoner to escape through neglect or design.
 
  
 
@@ -4544,9 +4544,9 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  20 , through (neglect) (design), suffer   , a prisoner committed to his/her charge, to escape.
 
-#  Article 97-Unlawful detention
+## 21. Article 97-Unlawful detention
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -4556,7 +4556,7 @@ as provided by law, apprehends, arrests, or confines any person shall be
 
 punished as a court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused apprehended, arrested, or confined a certain person;
 
@@ -4566,9 +4566,9 @@ punished as a court-martial may direct.**
 
 do so. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Scope.
+#### (1) Scope.
 
 This article prohibits improper acts by those empowered by the code
 
@@ -4582,29 +4582,29 @@ another's freedom of movement by one not acting under such a delegation of
 
 authority under the code. 
 
-### (2) No force required.
+#### (2) No force required.
 
 The apprehension, arrest, or confinement must be against the will
 
 of the person restrained, but force is not required. 
 
-### (3) Defense.
+#### (3) Defense.
 
 A reasonable belief held by the person imposing restraint that it
 
 is lawful is a defense. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -4612,9 +4612,9 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  data), did,  (at/on  board-location),  on or about  20  , unlawfully (apprehend  ) (place  in arrest) (confine  in  ). 
 
-#  Article 98-Noncompliance with procedural rules
+## 22. Article 98-Noncompliance with procedural rules
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -4630,9 +4630,9 @@ case of a person accused of an offense under this chapter; or**
 
  trial of an accused; shall be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Unnecessary delay in disposing of case.
+#### (1) Unnecessary delay in disposing of case.
 
 (a) That the accused was charged with a certain duty in connection with
 
@@ -4646,7 +4646,7 @@ case of a person accused of an offense under this chapter; or**
 
 (e) That, under the circumstances, the delay was unnecessary. 
 
-### (2) Knowingly and intentionally failing to enforce or comply with provisions
+#### (2) Knowingly and intentionally failing to enforce or comply with provisions
 
 of the code.
 
@@ -4666,9 +4666,9 @@ of the code regulating a proceeding before, during, or after a trial;
 
  was intentional. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Unnecessary delay in disposing of case.
+#### (1) Unnecessary delay in disposing of case.
 
  The purpose of section (1) of Article 98 is to ensure expeditious
 
@@ -4678,7 +4678,7 @@ may be responsible for delay in the disposition of a case only when that
 
 person's duties require action with respect to the disposition of that case.
 
-### (2) Knowingly and intentionally failing to enforce or comply with provisions
+#### (2) Knowingly and intentionally failing to enforce or comply with provisions
 
  of the code.
 
@@ -4694,19 +4694,19 @@ under Article 37 may be prosecuted under this Article. _See also_ Article
 
 31 and R.C.M. 104. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Unnecessary delay in disposing of case.
+#### (1) Unnecessary delay in disposing of case.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-### (2) Knowingly and intentionally failing to enforce or comply with provisions
+#### (2) Knowingly and intentionally failing to enforce or comply with provisions
 
  of the code.
 
@@ -4714,9 +4714,9 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Unnecessary delay in disposing of case.
+#### (1) Unnecessary delay in disposing of case.
 
  
 
@@ -4734,7 +4734,7 @@ for unnecessary delay in (investigating said charges) (determining the proper
 
 disposition of said charges (), in that he/she (did ) (failed to ) (). 
 
-### (2) Knowingly and intentionally failing to enforce or comply with provisions
+#### (2) Knowingly and intentionally failing to enforce or comply with provisions
 
 of the code.
 
@@ -4746,9 +4746,9 @@ of the code.
 
  board-location), on or about   20  , knowingly and intentionally fail to (enforce) (comply with) Article  , Uniform Code of Military Justice, in that he/she  . 
 
-#  Article 99-Misbehavior before the enemy
+## 23. Article 99-Misbehavior before the enemy
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -4792,9 +4792,9 @@ or**
 
 or such other punishment as a court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Running away.
+#### (1) Running away.
 
 (a) That the accused was before or in the presence of the enemy; 
 
@@ -4804,7 +4804,7 @@ or such other punishment as a court-martial may direct.**
 
  the enemy by running away. 
 
-### (2) Shamefully abandoning, surrendering, or delivering up command.
+#### (2) Shamefully abandoning, surrendering, or delivering up command.
 
 (a) That the accused was charged by orders or circumstances with the
 
@@ -4820,7 +4820,7 @@ surrendered, or delivered up that command, unit, place, ship, or military
 
 of the enemy. 
 
-### (3) Endangering safety of a command, unit, place, ship, or military property.
+#### (3) Endangering safety of a command, unit, place, ship, or military property.
 
 (a) That it was the duty of the accused to defend a certain command,
 
@@ -4838,13 +4838,13 @@ unit, place, ship, or military property; and
 
 of the enemy. 
 
-### (4) Casting away arms or ammunition.
+#### (4) Casting away arms or ammunition.
 
 (a) That the accused was before or in the presence of the enemy; and
 
 (b) That the accused cast away certain arms or ammunition. 
 
-### (5) Cowardly conduct.
+#### (5) Cowardly conduct.
 
 (a) That the accused committed an act of cowardice; 
 
@@ -4854,7 +4854,7 @@ of the enemy.
 
 (c) That this conduct was the result of fear. 
 
-### (6) Quitting place of duty to plunder or pillage.
+#### (6) Quitting place of duty to plunder or pillage.
 
 (a) That the accused was before or in the presence of the enemy; 
 
@@ -4864,7 +4864,7 @@ of the enemy.
 
 public or private property. 
 
-### (7) Causing false alarms.
+#### (7) Causing false alarms.
 
 (a) That an alarm was caused in a certain command, unit, or place under
 
@@ -4880,7 +4880,7 @@ justification or excuse; and
 
 of the enemy. 
 
-### (8) Willfully failing to do utmost to encounter enemy.
+#### (8) Willfully failing to do utmost to encounter enemy.
 
 (a) That the accused was serving before or in the presence of the enemy;
 
@@ -4894,7 +4894,7 @@ of the enemy.
 
  duty. 
 
-### (9) Failing to afford relief and assistance.
+#### (9) Failing to afford relief and assistance.
 
 (a) That certain troops, combatants, vessels, or aircraft of the armed
 
@@ -4916,11 +4916,11 @@ and
 
 the enemy. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Running away.
+#### (1) Running away.
 
-#### (a) Running away.
+##### (a) Running away.
 
 "Running away" means an unauthorized departure to avoid
 
@@ -4928,7 +4928,7 @@ the enemy.
 
 and there is no requirement that the accused literally run. 
 
-#### (b) Enemy.
+##### (b) Enemy.
 
 "Enemy" includes organized forces of the enemy in time
 
@@ -4942,7 +4942,7 @@ government or its armed forces. All the citizens of one belligerent are enemies
 
 of the government and all the citizens of the other. 
 
-#### (c) Before the enemy.
+##### (c) Before the enemy.
 
 Whether a person is "before the enemy" is a question
 
@@ -4960,9 +4960,9 @@ operation then going on or in immediate prospect is not "before or
 
 in the presence of the enemy" within the meaning of this article.
 
-### (2) Shamefully abandoning, surrendering, or delivering up of command.
+#### (2) Shamefully abandoning, surrendering, or delivering up of command.
 
-#### (a) Scope.
+##### (a) Scope.
 
 This provision concerns primarily commanders chargeable with responsibility
 
@@ -4970,19 +4970,19 @@ for defending a command, unit, place, ship or military property. Abandonment
 
 by a subordinate would ordinarily be charged as running away. 
 
-#### (b) Shameful.
+##### (b) Shameful.
 
 Surrender or abandonment without justification is shameful within
 
 the meaning of this article. 
 
-#### (c) Surrender; deliver up.
+##### (c) Surrender; deliver up.
 
 "Surrender" and "deliver up" are synonymous
 
  for the purposes of this article. 
 
-#### (d) Justification.
+##### (d) Justification.
 
 Surrender or abandonment of a command, unit, place, ship, or military
 
@@ -4990,61 +4990,61 @@ Surrender or abandonment of a command, unit, place, ship, or military
 
 necessity or extremity. 
 
-### (3) Endangering safety of a command, unit, place, ship, or military property.
+#### (3) Endangering safety of a command, unit, place, ship, or military property.
 
-#### (a) Neglect.
+##### (a) Neglect.
 
 "Neglect" is the absence of conduct which would have
 
 been taken by a reasonably careful person in the same or similar circumstances.
 
-#### (b) Intentional misconduct.
+##### (b) Intentional misconduct.
 
 "Intentional misconduct" does not include a mere error
 
 in judgment. 
 
-### (4) Casting away arms or ammunition.
+#### (4) Casting away arms or ammunition.
 
 Self-explanatory. 
 
-### (5) Cowardly conduct.
+#### (5) Cowardly conduct.
 
-#### (a) Cowardice.
+##### (a) Cowardice.
 
 "Cowardice" is misbehavior motivated by fear. 
 
-#### (b) Fear.
+##### (b) Fear.
 
 Fear is a natural feeling of apprehension when going into battle.
 
 The mere display of apprehension does not constitute this offense. 
 
-#### (c) Nature of offense.
+##### (c) Nature of offense.
 
 Refusal or abandonment of a performance of duty before or in the
 
  presence of the enemy as a result of fear constitutes this offense. 
 
-#### (d) Defense.
+##### (d) Defense.
 
 Genuine and extreme illness, not generated by cowardice, is a defense.
 
-### (6) Quitting place of duty to plunder or pillage.
+#### (6) Quitting place of duty to plunder or pillage.
 
-#### (a) Place of duty.
+##### (a) Place of duty.
 
 "Place of duty" includes any place of duty, whether
 
  permanent or temporary, fixed or mobile. 
 
-#### (b) Plunder or pillage.
+##### (b) Plunder or pillage.
 
 "Plunder or pillage" means to seize or appropriate public
 
  or private property unlawfully. 
 
-#### (c) Nature of offense.
+##### (c) Nature of offense.
 
 The essence of this offense is quitting the place of duty with intent
 
@@ -5052,21 +5052,21 @@ The essence of this offense is quitting the place of duty with intent
 
 even if the intended misconduct is not done. 
 
-### (7) Causing false alarms.
+#### (7) Causing false alarms.
 
 This provision covers spreading of false or disturbing rumors or
 
  reports, as well as the false giving of established alarm signals. 
 
-### (8) Willfully failing to do utmost to encounter enemy.
+#### (8) Willfully failing to do utmost to encounter enemy.
 
 Willfully refusing a lawful order to go on a combat patrol may
 
 violate this provision. 
 
-### (9) Failing to afford relief and assistance.
+#### (9) Failing to afford relief and assistance.
 
-#### (a) All practicable relief and assistance.
+##### (a) All practicable relief and assistance.
 
 "All practicable relief and assistance" means all relief
 
@@ -5074,25 +5074,25 @@ violate this provision.
 
 a person by reason of that person's own specific tasks or mission. 
 
-#### (b) Nature of offense.
+##### (b) Nature of offense.
 
 This offense is limited to a failure to afford relief and assistance
 
  to forces "engaged in battle." 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 All offenses under Article 99. Death or such other punishment as
 
 a court-martial may direct. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Running away.
+#### (1) Running away.
 
  
 
@@ -5106,7 +5106,7 @@ away  (from his/her company)  (and hide) (), (and did
 
  not return until after the engagement had been concluded) ( ). 
 
-### (2) Shamefully abandoning, surrendering, or delivering up command.
+#### (2) Shamefully abandoning, surrendering, or delivering up command.
 
  
 
@@ -5120,7 +5120,7 @@ away  (from his/her company)  (and hide) (), (and did
 
 his/her duty to defend. 
 
-### (3) Endangering safety of a command, unit, place, ship, or military property.
+#### (3) Endangering safety of a command, unit, place, ship, or military property.
 
  
 
@@ -5140,7 +5140,7 @@ his/her duty as a sentinel by engaging in a card game while on his/her post)
 
 revealing the location of his/her unit) (). 
 
-### (4) Casting away arms or ammunition.
+#### (4) Casting away arms or ammunition.
 
  
 
@@ -5152,7 +5152,7 @@ revealing the location of his/her unit) ().
 
 (rifle) (ammunition) (). 
 
-### (5) Cowardly conduct.
+#### (5) Cowardly conduct.
 
  
 
@@ -5164,7 +5164,7 @@ revealing the location of his/her unit) ().
 
 cowardly conduct as a result of fear, in that  .
 
-### (6) Quitting place of duty to plunder or pillage.
+#### (6) Quitting place of duty to plunder or pillage.
 
  
 
@@ -5178,7 +5178,7 @@ place of duty for the purpose of (plundering) (pillaging) (plundering and
 
 pillaging). 
 
-### (7) Causing false alarms.
+#### (7) Causing false alarms.
 
  
 
@@ -5194,7 +5194,7 @@ a false alarm in (Fort  ) (the said ship) (the camp)
 
  call to arms to be sounded) (sounding the general alarm)) (  ). 
 
-### (8) Willfully failing to do utmost to encounter enemy.
+#### (8) Willfully failing to do utmost to encounter enemy.
 
  
 
@@ -5212,7 +5212,7 @@ fail to do his/her utmost to (encounter) (engage) (capture) (destroy), as
 
 it was his/her duty to do, (certain enemy troops which were in retreat) ( ). 
 
-### (9) Failing to afford relief and assistance.
+#### (9) Failing to afford relief and assistance.
 
  
 
@@ -5232,9 +5232,9 @@ take her in tow) (certain troops of the ground forces of   , which were engaged 
 
  he/she properly should have done. 
 
-#  Article 100-Subordinate compelling surrender
+## 24. Article 100-Subordinate compelling surrender
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -5250,9 +5250,9 @@ an enemy without proper authority, shall be punished by death or such other
 
 punishment as a court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Compelling surrender.
+#### (1) Compelling surrender.
 
 (a) That a certain person was in command of a certain place, vessel,
 
@@ -5270,7 +5270,7 @@ body of members of the armed forces was actually given up to the enemy or
 
 abandoned. 
 
-### (2) Attempting to compel surrender.
+#### (2) Attempting to compel surrender.
 
 (a) That a certain person was in command of a certain place, vessel,
 
@@ -5292,7 +5292,7 @@ forces;
 
  surrender or abandonment. 
 
-### (3) Striking the colors or flag.
+#### (3) Striking the colors or flag.
 
 (a) That there was an offer of surrender to an enemy; 
 
@@ -5304,11 +5304,11 @@ forces;
 
 (d) That the accused did not have proper authority to make the offer.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Compelling surrender.
+#### (1) Compelling surrender.
 
-#### (a) Nature of offense.
+##### (a) Nature of offense.
 
 The offenses under this article are similar to mutiny or attempted
 
@@ -5320,19 +5320,19 @@ offenses under this article. The offense is not complete until the place,
 
 military property, or command is actually abandoned or given up to the enemy.
 
-#### (b) Surrender.
+##### (b) Surrender.
 
 "Surrender" and "to give it up to an enemy"
 
  are synonymous. 
 
-#### (c) Acts required.
+##### (c) Acts required.
 
 The surrender or abandonment must be compelled or attempted to be
 
  compelled by acts rather than words. 
 
-### (2) Attempting to compel surrender.
+#### (2) Attempting to compel surrender.
 
 The offense of attempting to compel a surrender or abandonment does
 
@@ -5340,9 +5340,9 @@ The offense of attempting to compel a surrender or abandonment does
 
 done with this purpose in view, even if it does not accomplish the purpose.
 
-### (3) Striking the colors or flag.
+#### (3) Striking the colors or flag.
 
-#### (a) In general.
+##### (a) In general.
 
 To "strike the colors or flag" is to haul down the colors
 
@@ -5350,7 +5350,7 @@ To "strike the colors or flag" is to haul down the colors
 
 It is traditional wording for an act of surrender. 
 
-#### (b) Nature of offense.
+##### (b) Nature of offense.
 
 The offense is committed when one assumes the authority to surrender
 
@@ -5374,25 +5374,25 @@ of an emissary charged with making the offer or surrender is an act sufficient
 
 to prove the offer, even though the emissary does not reach the enemy. 
 
-### (4) Enemy.
+#### (4) Enemy.
 
 For a discussion of "enemy," _see_ paragraph
 
 23c(1)(_b_). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 All offenses under Article 100. Death or such other punishment as
 
 a court-martial may direct. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Compelling surrender or attempting to compel surrender.
+#### (1) Compelling surrender or attempting to compel surrender.
 
  
 
@@ -5404,7 +5404,7 @@ a court-martial may direct.
 
 of  , (to give up to the enemy) (to abandon) said  , by  . 
 
-### (2) Striking the colors or flag.
+#### (2) Striking the colors or flag.
 
  
 
@@ -5416,9 +5416,9 @@ of  , (to give up to the enemy) (to abandon) said  , by  .
 
 to the enemy by  (striking the  (colors)  (flag)) ().
 
-#  Article 101-Improper use of countersign
+## 25. Article 101-Improper use of countersign
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -5434,9 +5434,9 @@ to his knowledge, he was authorized and required to give, shall be punished
 
 by death or such other punishment as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Disclosing the parole or countersign to one not entitled to receive
+#### (1) Disclosing the parole or countersign to one not entitled to receive
 
  it.
 
@@ -5446,7 +5446,7 @@ by death or such other punishment as a court-martial may direct.**
 
 (b) That this person was not entitled to receive it. 
 
-### (2) Giving a parole or countersign different from that authorized.
+#### (2) Giving a parole or countersign different from that authorized.
 
 (a) That, in time of war, the accused knew that the accused was authorized
 
@@ -5458,9 +5458,9 @@ by death or such other punishment as a court-martial may direct.**
 
 the accused was authorized and required to give. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Countersign.
+#### (1) Countersign.
 
 A countersign is a word, signal, or procedure given from the principal
 
@@ -5470,13 +5470,13 @@ persons who apply to pass the lines. It consists of a secret challenge and
 
 a password, signal, or procedure. 
 
-### (2) Parole.
+#### (2) Parole.
 
 A parole is a word used as a check on the countersign; it is given
 
  only to those who are entitled to inspect guards and to commanders of guards.
 
-### (3) Who may receive countersign.
+#### (3) Who may receive countersign.
 
 The class of persons entitled to receive the countersign or parole
 
@@ -5490,7 +5490,7 @@ a word, a person subject to military law must determine at that person's
 
 peril that the recipient is a person authorized to receive it. 
 
-### (4) Intent, motive, negligence, mistake, ignorance not defense.
+#### (4) Intent, motive, negligence, mistake, ignorance not defense.
 
 The accused's intent or motive in disclosing the countersign or
 
@@ -5502,7 +5502,7 @@ know that the person to whom the countersign or parole was given was not
 
 entitled to receive it. 
 
-### (5) How accused received countersign or parole.
+#### (5) How accused received countersign or parole.
 
 It is immaterial whether the accused had received the countersign
 
@@ -5510,21 +5510,21 @@ or parole in the regular course of duty or whether it was obtained in some
 
 other way. 
 
-### (6) In time of war.
+#### (6) In time of war.
 
  _See_ R.C.M. 103(19). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Death or such other punishment as a court-martial may direct. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Disclosing the parole or countersign to one not entitled to receive
+#### (1) Disclosing the parole or countersign to one not entitled to receive
 
  it.
 
@@ -5540,7 +5540,7 @@ to wit:  , to  , a person
 
 who was not entitled to receive it. 
 
-### (2) Giving a parole or countersign different from that authorized.
+#### (2) Giving a parole or countersign different from that authorized.
 
  
 
@@ -5558,9 +5558,9 @@ which, to his/her knowledge, he/she was authorized and required to give,
 
 to wit:  . 
 
-#  Article 102-Forcing a safeguard
+## 26. Article 102-Forcing a safeguard
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -5570,7 +5570,7 @@ a safeguard shall suffer death or such other punishment as a court-martial
 
 may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) that a safeguard had been issued or posted for the protection of
 
@@ -5580,9 +5580,9 @@ a certain person or persons, place, or property;
 
 (3) That the accused forced the safeguard. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Safeguard.
+#### (1) Safeguard.
 
 A safeguard is a detachment, guard, or detail posted by a commander
 
@@ -5610,13 +5610,13 @@ is to pledge the honor of the nation that the person or property shall be
 
 respected by the national armed forces. 
 
-### (2) Forcing a safeguard.
+#### (2) Forcing a safeguard.
 
 "Forcing a safeguard" means to perform an act or acts
 
 in violation of the protection of the safeguard. 
 
-### (3) Nature of offense.
+#### (3) Nature of offense.
 
 Any trespass on the protection of the safeguard will constitute
 
@@ -5626,21 +5626,21 @@ of war or in circumstances amounting to a state of belligerency short of
 
 a formal state of war. 
 
-### (4) Knowledge.
+#### (4) Knowledge.
 
 Actual knowledge of the safeguard is not required. It is sufficient
 
  if an accused should have known of the existence of the safeguard. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Death or such other punishment as a court-martial may direct. 
 
-## f. Sample specification.
+### f. Sample specification.
 
 In that  (personal jurisdiction
 
@@ -5652,9 +5652,9 @@ over the premises occupied by  at  by
 
 ()) (). 
 
-#  Article 103-Captured or abandoned property
+## 27. Article 103-Captured or abandoned property
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **All persons subject to this chapter shall secure all public property
 
@@ -5684,9 +5684,9 @@ shall be punished as a court-martial
 
 may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Failing to secure public property taken from the enemy.
+#### (1) Failing to secure public property taken from the enemy.
 
 (a) That certain public property was taken from the enemy; 
 
@@ -5696,7 +5696,7 @@ may direct.**
 
  to secure this property for the service of the United States. 
 
-### (2) Failing to report and turn over captured or abandoned property.
+#### (2) Failing to report and turn over captured or abandoned property.
 
 (a) That certain captured or abandoned public or private property came
 
@@ -5710,7 +5710,7 @@ to turn over to proper authority, without delay, the captured or abandoned
 
 public or private property. 
 
-### (3) Dealing in captured or abandoned property.
+#### (3) Dealing in captured or abandoned property.
 
 (a) That the accused bought, sold, traded, or otherwise dealt in or
 
@@ -5724,7 +5724,7 @@ benefit, or advantage to the accused or to a certain person or persons connected
 
  directly or indirectly with the accused. 
 
-### (4) Looting or pillaging.
+#### (4) Looting or pillaging.
 
 (a) That the accused engaged in looting, pillaging, or looting and
 
@@ -5754,11 +5754,11 @@ of the place where the act occurred, was under the protection of the enemy
 
 on board a seized or captured vessel. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Failing to secure public property taken from the enemy.
+#### (1) Failing to secure public property taken from the enemy.
 
-#### (a) Nature of property.
+##### (a) Nature of property.
 
 Unlike the remaining offenses under this article, failing to secure
 
@@ -5770,7 +5770,7 @@ the United States. Neither the person who takes it nor any other person has
 
 any private right in this property. 
 
-#### (b) Nature of duty.
+##### (b) Nature of duty.
 
 Every person subject to military law has an immediate duty to take
 
@@ -5780,9 +5780,9 @@ property for the service of the United States and to protect it from destruction
 
 or loss. 
 
-### (2) Failing to report and turn over captured or abandoned property.
+#### (2) Failing to report and turn over captured or abandoned property.
 
-#### (a) Reports.
+##### (a) Reports.
 
 Reports of receipt of captured or abandoned property are to be made
 
@@ -5790,33 +5790,33 @@ Reports of receipt of captured or abandoned property are to be made
 
 orders, or the customs of the service. 
 
-#### (b) Proper authority.
+##### (b) Proper authority.
 
 "Proper authority" is any authority competent to order
 
  disposition of the property in question. 
 
-### (3) Dealing in captured or abandoned property.
+#### (3) Dealing in captured or abandoned property.
 
 "Disposed of" includes destruction or abandonment.
 
-### (4) Looting or pillaging.
+#### (4) Looting or pillaging.
 
 "Looting or pillaging" means unlawfully seizing or
 
 appropriating property which is located in enemy or occupied territory.
 
-### (5) Enemy.
+#### (5) Enemy.
 
 For a discussion of "enemy," see paragraph 23c(1)(b).
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Failing to secure public property taken from the enemy; failing to
+#### (1) Failing to secure public property taken from the enemy; failing to
 
  secure, give notice and turn over, selling, or otherwise wrongfully dealing
 
@@ -5830,15 +5830,15 @@ of all pay and allowances, and confinement for 6 months.
 
 discharge, forfeiture of all pay and allowances, and confinement for 5 years.
 
-### (2) Looting or pillaging.
+#### (2) Looting or pillaging.
 
  Any punishment, other than death, that a court-martial may direct. _
 
 See_ R.C.M. 1003. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Failing to secure public property taken from the enemy.
+#### (1) Failing to secure public property taken from the enemy.
 
  
 
@@ -5852,7 +5852,7 @@ States certain public property taken from the enemy, to wit:
 
  , of a value of (about) $ . 
 
-### (2) Failing to report and turn over captured or abandoned property.
+#### (2) Failing to report and turn over captured or abandoned property.
 
  
 
@@ -5866,7 +5866,7 @@ authority without delay certain (captured) (abandoned) property which had
 
 come into his/her (possession) (custody) (control), to wit:   , of a value of (about), $  . 
 
-### (3) Dealing in captured or abandoned property.
+#### (3) Dealing in captured or abandoned property.
 
  
 
@@ -5886,15 +5886,15 @@ $ , thereby (receiving) (expecting) a (profit) (benefit)
 
 accomplice) ( , his/her brother) ( ). 
 
-### (4) Looting or pillaging.
+#### (4) Looting or pillaging.
 
  
 
   In that (personal jurisdiction data), did, (at/onboard-location), on or about (date), engage in (looting) (and) (pillaging) by unlawfully (seizing) (appropriating)  , (property which had been left behind) (the property of  ), ((an inhabitant of  ) (  )).
 
-#  Article 104-Aiding the enemy
+## 28. Article 104-Aiding the enemy
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -5912,9 +5912,9 @@ accomplice) ( , his/her brother) ( ).
 
 other punishment as a court-martial or military commission may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Aiding the enemy.
+#### (1) Aiding the enemy.
 
 (a) That the accused aided the enemy; and 
 
@@ -5922,7 +5922,7 @@ other punishment as a court-martial or military commission may direct.**
 
  money, or other things. 
 
-### (2) Attempting to aid the enemy.
+#### (2) Attempting to aid the enemy.
 
 (a) That the accused did a certain overt act; 
 
@@ -5936,7 +5936,7 @@ other punishment as a court-martial or military commission may direct.**
 
  the enemy with certain arms, ammunition, supplies, money, or other things.
 
-### (3) Harboring or protecting the enemy.
+#### (3) Harboring or protecting the enemy.
 
 (a) That the accused, without proper authority, harbored or protected
 
@@ -5948,7 +5948,7 @@ a person;
 
 an enemy. 
 
-### (4) Giving intelligence to the enemy.
+#### (4) Giving intelligence to the enemy.
 
 (a) That the accused, without proper authority, knowingly gave intelligence
 
@@ -5958,7 +5958,7 @@ an enemy.
 
 at least in part. 
 
-### (5) Communicating with the enemy.
+#### (5) Communicating with the enemy.
 
 (a) That the accused, without proper authority, communicated, corresponded,
 
@@ -5968,9 +5968,9 @@ or held intercourse with the enemy; and;
 
 or holding intercourse with the enemy. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Scope of Article 104.
+#### (1) Scope of Article 104.
 
 This article denounces offenses by all persons whether or not otherwise
 
@@ -5978,13 +5978,13 @@ subject to military law. Offenders may be tried by court-martial or by military
 
 commission. 
 
-### (2) Enemy.
+#### (2) Enemy.
 
 For a discussion of "enemy," _see_ paragraph
 
 23c(1)(b). 
 
-### (3) Aiding or attempting to aid the enemy.
+#### (3) Aiding or attempting to aid the enemy.
 
 It is not a violation of this article to furnish prisoners of war
 
@@ -5992,9 +5992,9 @@ It is not a violation of this article to furnish prisoners of war
 
 entitled. 
 
-### (4) Harboring or protecting the enemy.
+#### (4) Harboring or protecting the enemy.
 
-#### (a) Nature of offense.
+##### (a) Nature of offense.
 
 An enemy is harbored or protected when, without proper authority,
 
@@ -6004,15 +6004,15 @@ or representation from any injury or misfortune which in the chance of war
 
 may occur. 
 
-#### (b) Knowledge.
+##### (b) Knowledge.
 
 Actual knowledge is required, but may be proved by circumstantial
 
  evidence. 
 
-### (5) Giving intelligence to the enemy.
+#### (5) Giving intelligence to the enemy.
 
-#### (a) Nature of offense.
+##### (a) Nature of offense.
 
 Giving intelligence to the enemy is a particular case of corresponding
 
@@ -6024,21 +6024,21 @@ that make information valuable to belligerents. This intelligence may be
 
 conveyed by direct or indirect means. 
 
-#### (b) Intelligence.
+##### (b) Intelligence.
 
 "Intelligence" imports that the information conveyed
 
 is true or implies the truth, at least in part. 
 
-#### (c) Knowledge.
+##### (c) Knowledge.
 
 Actual knowledge is required but may be proved by circumstantial
 
  evidence. 
 
-### (6) Communicating with the enemy.
+#### (6) Communicating with the enemy.
 
-#### (a) Nature of the offense.
+##### (a) Nature of the offense.
 
 No unauthorized communication, correspondence, or intercourse with
 
@@ -6056,13 +6056,13 @@ prisoner of war may violate this Article by engaging in unauthorized communicati
 
 with the enemy. _See also_ paragraph 29c(3). 
 
-#### (b) Knowledge.
+##### (b) Knowledge.
 
 Actual knowledge is required but may be proved by circumstantial
 
  evidence. 
 
-#### (c) Citizens of neutral powers.
+##### (c) Citizens of neutral powers.
 
 Citizens of neutral powers resident in or visiting invaded or occupied
 
@@ -6070,19 +6070,19 @@ territory can claim no immunity from the customary laws of war relating to
 
 communication with the enemy. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Death or such other punishment as a court-martial or military commission
 
 may direct. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Aiding or attempting to aid the enemy.
+#### (1) Aiding or attempting to aid the enemy.
 
  
 
@@ -6098,7 +6098,7 @@ to  , members of the enemy's armed forces
 
 ) (). 
 
-### (2) Harboring or protecting the enemy.
+#### (2) Harboring or protecting the enemy.
 
  
 
@@ -6110,7 +6110,7 @@ to  , members of the enemy's armed forces
 
 (protect)  , an enemy, by (concealing the said  in his/her house) (). 
 
-### (3) Giving intelligence to the enemy.
+#### (3) Giving intelligence to the enemy.
 
  
 
@@ -6124,7 +6124,7 @@ to the enemy, by (informing a patrol of the enemy's forces of the whereabouts
 
 of a military patrol of the United States forces) ().
 
-### (4) Communicating with the enemy.
+#### (4) Communicating with the enemy.
 
  
 
@@ -6150,9 +6150,9 @@ and figures substantially as follows, to wit:  )) ((indirectly
 
  , which communication was intended to reach the enemy)) (()). 
 
-#  Article 105-Misconduct as a prisoner
+## 29. Article 105-Misconduct as a prisoner
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -6172,9 +6172,9 @@ civilian or military prisoners; or**
 
  without justifiable cause; shall be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Acting without authority to the detriment of another for the purpose
+#### (1) Acting without authority to the detriment of another for the purpose
 
 of securing favorable treatment.
 
@@ -6194,7 +6194,7 @@ the enemy in time of war;
 
  suffered some detriment because of the accused's act. 
 
-### (2) Maltreating prisoners while in a position of authority.
+#### (2) Maltreating prisoners while in a position of authority.
 
 (a) That the accused maltreated a prisoner held by the enemy; 
 
@@ -6208,23 +6208,23 @@ and
 
 (d) That the act was without justifiable cause. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Enemy.
+#### (1) Enemy.
 
 For a discussion of "enemy," _see_ paragraph
 
 23c(1)(b). 
 
-### (2) In time of war.
+#### (2) In time of war.
 
  _See_ R.C.M. 103(19). 
 
-### (3) Acting without authority to the detriment of another for the purpose
+#### (3) Acting without authority to the detriment of another for the purpose
 
 of securing favorable treatment.
 
-#### (a) Nature of offense.
+##### (a) Nature of offense.
 
 Unauthorized conduct by a prisoner of war must be intended to result
 
@@ -6240,7 +6240,7 @@ food caches, equipment, or arms. The conduct of the prisoner must be contrary
 
 to law, custom, or regulation. 
 
-#### (b) Escape.
+##### (b) Escape.
 
 Escape from the enemy is authorized by custom. An escape or escape
 
@@ -6248,9 +6248,9 @@ Escape from the enemy is authorized by custom. An escape or escape
 
 prisoners still in the hands of the enemy is not an offense under this article.
 
-### (4) Maltreating prisoners while in a position of authority.
+#### (4) Maltreating prisoners while in a position of authority.
 
-#### (a) Authority.
+##### (a) Authority.
 
 The source of authority is not material. It may arise from the
 
@@ -6260,7 +6260,7 @@ to the contrary-designation by the captor authorities, or voluntary
 
 election or selection by other prisoners for their self-government. 
 
-#### (b) Maltreatment.
+##### (b) Maltreatment.
 
 The maltreatment must be real, although not necessarily physical,
 
@@ -6268,19 +6268,19 @@ and it must be without justifiable cause. Abuse of an inferior by inflammatory
 
 and derogatory words may, through mental anguish, constitute this offense.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Any punishment other than death that a court-martial may direct. _
 
 See_ R.C.M. 1003. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Acting without authority to the detriment of another for the purpose
+#### (1) Acting without authority to the detriment of another for the purpose
 
 of securing favorable treatment.
 
@@ -6300,7 +6300,7 @@ camp, to escape, as a result of which report the said  was
 
 placed in solitary confinement) (). 
 
-### (2) Maltreating prisoner while in a position of authority.
+#### (2) Maltreating prisoner while in a position of authority.
 
  
 
@@ -6316,9 +6316,9 @@ placed in solitary confinement) ().
 
 without justifiable cause. 
 
-#  Article 106-Spies
+## 30. Article 106-Spies
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -6336,7 +6336,7 @@ United States, or elsewhere, shall be tried by a general court-martial or
 
 by a military commission and on conviction shall be punished by death.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was found in, about, or in and about a certain
 
@@ -6362,19 +6362,19 @@ to the enemy; and
 
 (5) That this was done in time of war. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In time of war.
+#### (1) In time of war.
 
  _See_ R.C.M. 103(19). 
 
-### (2) Enemy.
+#### (2) Enemy.
 
 For a discussion of "enemy," _see_ paragraph
 
 23c(1)(b). 
 
-### (3) Scope of offense.
+#### (3) Scope of offense.
 
 The words "any person" bring within the jurisdiction
 
@@ -6382,7 +6382,7 @@ of general courts-martial and military commissions all persons of whatever
 
 nationality or status who commit spying. 
 
-### (4) Nature of offense.
+#### (4) Nature of offense.
 
 A person can be a spy only when, acting clandestinely or under false
 
@@ -6396,7 +6396,7 @@ with lurking or acting clandestinely or under false pretenses with intent
 
 to accomplish these objects. 
 
-### (5) Intent.
+#### (5) Intent.
 
 It is necessary to prove an intent to convey information to the
 
@@ -6410,7 +6410,7 @@ reach friendly lines by assuming a disguise, is admissible to rebut this
 
 inference. 
 
-### (6) Persons not included under "spying."
+#### (6) Persons not included under "spying."
 
 (a) Members of a military organization not wearing a disguise, dispatch
 
@@ -6438,15 +6438,15 @@ intelligence to or communicating with the enemy, but may not be charged
 
 under this article as being a spy. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Mandatory punishment.
+### e. Mandatory punishment.
 
 Death.
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -6474,9 +6474,9 @@ the United States) (), with intent to impart the
 
 same to the enemy.
 
-#  Article 106a-Espionage
+## 30a. Article 106a-Espionage
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a)(1) **Any person subject to this chapter who, with intent or reason to
 
@@ -6574,9 +6574,9 @@ a grave risk of death to another person.**
 
  under section 836 of this title (Article 36).**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Espionage.
+#### (1) Espionage.
 
 (a) That the accused communicated, delivered, or transmitted any document,
 
@@ -6602,7 +6602,7 @@ or citizen thereof, either directly or indirectly; and
 
 of a foreign nation. 
 
-### (2) Attempted espionage.
+#### (2) Attempted espionage.
 
 (a) That the accused did a certain overt act; 
 
@@ -6614,7 +6614,7 @@ espionage;
 
 (d) That the act apparently tended to bring about the offense of espionage.
 
-### (3) Espionage as a capital offense.
+#### (3) Espionage as a capital offense.
 
 (a) That the accused committed espionage or attempted espionage; and
 
@@ -6628,9 +6628,9 @@ intelligence or cryptographic information, or (4) any other major weapons
 
  system or major element of defense strategy. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Intent.
+#### (1) Intent.
 
 "Intent or reason to believe" that the information
 
@@ -6642,7 +6642,7 @@ without lawful authority with respect to information that is not lawfully
 
  accessible to the public. 
 
-### (2) National defense information.
+#### (2) National defense information.
 
 "Instrument, appliance, or information relating to the national
 
@@ -6652,7 +6652,7 @@ may be developed in the future, including chemical or biological agents,
 
 computer technology, and other matter related to the national defense. 
 
-### (3) Espionage as a capital offense.
+#### (3) Espionage as a capital offense.
 
 Capital punishment is authorized if the government alleges and proves
 
@@ -6668,25 +6668,25 @@ element of defense strategy. _See_ R.C.M. 1004 concerning
 
 sentencing proceedings in capital cases. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Espionage as a capital offense.
+#### (1) Espionage as a capital offense.
 
 Death or such other punishment as a court-martial may direct. _
 
 See_ R.C.M. 1003. 
 
-### (2) Espionage or attempted espionage.
+#### (2) Espionage or attempted espionage.
 
  Any punishment, other than death, that a court-martial may direct. _
 
 See_ R.C.M. 1003. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -6720,9 +6720,9 @@ within a foreign country) (a military force within a foreign country) (a
 
 naval force within a foreign country)) (indirectly by  ).
 
-#  Article 107-False official statements
+## 31. Article 107-False official statements
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -6736,7 +6736,7 @@ official statement knowing it to be false, shall be punished as a court-martial
 
 may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused signed a certain official document or made a certain
 
@@ -6752,15 +6752,15 @@ may direct.**
 
  deceive. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Official documents and statements.
+#### (1) Official documents and statements.
 
 Official documents and official statements include all documents
 
 and statements made in the line of duty. 
 
-### (2) Status of victim of the deception.
+#### (2) Status of victim of the deception.
 
 The rank of any person intended to be deceived is immaterial if
 
@@ -6770,7 +6770,7 @@ or receive the statement or document from the accused. The government may
 
 be the victim of this offense. 
 
-### (3) Intent to deceive.
+#### (3) Intent to deceive.
 
 The false representation must be made with the intent to deceive.
 
@@ -6782,7 +6782,7 @@ as some evidence of the intent to deceive, while immateriality may tend to
 
 show an absence of this intent. 
 
-### (4) Material gain.
+#### (4) Material gain.
 
 The expectation of material gain is not an element of this offense.
 
@@ -6790,7 +6790,7 @@ The expectation of material gain is not an element of this offense.
 
 on the element of intent to deceive. 
 
-### (5) Knowledge that the document or statement was false.
+#### (5) Knowledge that the document or statement was false.
 
 The false representation must be one which the accused actually
 
@@ -6800,17 +6800,17 @@ An honest, although erroneous, belief that a statement made is true, is
 
 a defense. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -6832,11 +6832,11 @@ in that ), and was then known by the said
 
  to be so false. 
 
-#  Article 108-Military property of the United States-sale,
+## 32. Article 108-Military property of the United States-sale,
 
 loss, damage, destruction, or wrongful disposition
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -6854,9 +6854,9 @@ proper authority-**
 
 shall be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Selling or otherwise disposing of military property.
+#### (1) Selling or otherwise disposing of military property.
 
 (a) That the accused sold or otherwise disposed of certain property
 
@@ -6868,7 +6868,7 @@ shall be punished as a court-martial may direct.**
 
 (d) That the property was of a certain value. 
 
-### (2) Damaging, destroying, or losing military property.
+#### (2) Damaging, destroying, or losing military property.
 
 (a) That the accused, without proper authority, damaged or destroyed
 
@@ -6884,7 +6884,7 @@ shall be punished as a court-martial may direct.**
 
  certain amount. 
 
-### (3) Suffering military property to be lost, damaged, destroyed, sold, or
+#### (3) Suffering military property to be lost, damaged, destroyed, sold, or
 
  wrongfully disposed of.
 
@@ -6906,13 +6906,13 @@ omission of duty by the accused;
 
  certain amount. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Military property.
+#### (1) Military property.
 
 Military property is all property, real or personal, owned, held, or used by one of the armed forces of the United States. Military property is a term of art, and should not be confused with government property. The terms are not interchangeable. While all military property is government property, not all government property is military property. An item of government property is not military property unless the item in question meets the definition provided above. It is immaterial whether the property sold, disposed, destroyed, lost, or damaged had been issued to the accused, to someone else, or even issued at all. If it is proved by either direct or circumstantial evidence that items of individual issue were issued to the accused, it may be inferred, depending on all the evidence, that the damage, destruction, or loss proved was due to the neglect of the accused. Retail merchandise of service exchange stores is not military property under this article.
 
-### (2) Suffering military property to be lost, damaged, destroyed, sold,
+#### (2) Suffering military property to be lost, damaged, destroyed, sold,
 
 or wrongfully disposed of.
 
@@ -6930,7 +6930,7 @@ to be consumed, wasted, or injured by other persons; or loaning it to a
 
 person, known to be irresponsible, by whom it is damaged. 
 
-### (3) Value and damage.
+#### (3) Value and damage.
 
 In the case of loss, destruction, sale, or wrongful disposition,
 
@@ -6944,63 +6944,63 @@ agency normally employed in such work, or the cost of replacement, as shown
 
 by government price lists or otherwise, whichever is less. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Selling or otherwise disposing of military property.
+#### (1) Selling or otherwise disposing of military property.
 
-#### (a) Of a value of $500.00 or less.
+##### (a) Of a value of $500.00 or less.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-#### (b) Of a value of more than $500.00 or any firearm or explosive.
+##### (b) Of a value of more than $500.00 or any firearm or explosive.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years. 
 
-### (2) Through neglect damaging, destroying, or losing, or through neglect
+#### (2) Through neglect damaging, destroying, or losing, or through neglect
 
  suffering to be lost, damaged, destroyed, sold, or wrongfully disposed of,
 
 military property.
 
-#### (a) Of a value or damage of $500.00 or less.
+##### (a) Of a value or damage of $500.00 or less.
 
 Confinement for 6 months, and forfeiture of two-thirds pay per month
 
  for 6 months. 
 
-#### (b) Of a value or damage of more than $500.00.
+##### (b) Of a value or damage of more than $500.00.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-### (3) Willfully damaging, destroying, or losing, or willfully suffering to
+#### (3) Willfully damaging, destroying, or losing, or willfully suffering to
 
 be lost, damaged, destroyed, sold, or wrongfully disposed of, military property.
 
-#### (a) Of a value or damage of $500.00 or less.
+##### (a) Of a value or damage of $500.00 or less.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-#### (b) Of a value or damage of more than $500.00, or of any firearm or explosive.
+##### (b) Of a value or damage of more than $500.00, or of any firearm or explosive.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Selling or disposing of military property.
+#### (1) Selling or disposing of military property.
 
  
 
@@ -7016,7 +7016,7 @@ of a value of (about) $  , military property of the
 
 United States. 
 
-### (2) Damaging, destroying, or losing military property.
+#### (2) Damaging, destroying, or losing military property.
 
  
 
@@ -7032,7 +7032,7 @@ property of the United States (the amount of said damage being in the sum
 
 of (about) $  ). 
 
-### (3) Suffering military property to be lost, damaged, destroyed, sold, or
+#### (3) Suffering military property to be lost, damaged, destroyed, sold, or
 
  wrongfully disposed of.
 
@@ -7052,11 +7052,11 @@ to  ) (wrongfully disposed of by  )
 
  (the amount of said damage being in the sum of (about $  ).
 
-#  Article 109-Property other than military property of the United
+## 33. Article 109-Property other than military property of the United
 
 States-waste, spoilage, or destruction
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who willfully
 
@@ -7066,9 +7066,9 @@ or damages any property other than military property of the United States
 
 shall be punished as a court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Wasting or spoiling of non-military property.
+#### (1) Wasting or spoiling of non-military property.
 
 (a) That the accused willfully or recklessly wasted or spoiled certain
 
@@ -7078,7 +7078,7 @@ real property in a certain manner;
 
 (c) That the property was of a certain value. 
 
-### (2) Destroying or damaging non-military property.
+#### (2) Destroying or damaging non-military property.
 
 (a) That the accused willfully and wrongfully destroyed or damaged certain
 
@@ -7090,9 +7090,9 @@ real property in a certain manner;
 
  certain amount. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Wasting or spoiling non-military property.
+#### (1) Wasting or spoiling non-military property.
 
 This portion of Article 109 proscribes willful or reckless waste
 
@@ -7110,7 +7110,7 @@ or recklessly, that is through a culpable disregard of the foreseeable consequen
 
  of some voluntary act. 
 
-### (2) Destroying or damaging non-military property.
+#### (2) Destroying or damaging non-military property.
 
 This portion of Article 109 proscribes the willful and wrongful
 
@@ -7132,7 +7132,7 @@ or custom. Willfulness may be proved by circumstantial evidence, such as
 
 the manner in which the acts were done. 
 
-### (3) Value and damage.
+#### (3) Value and damage.
 
 In the case of destruction, the value of the property destroyed
 
@@ -7146,29 +7146,29 @@ who are available to the community wherein the owner resides, or the replacement
 
 cost, whichever is less. _See also_ paragraph 46c(1)(g). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Wasting, spoiling, destroying, or damaging any property other than
 
  military property of the United States of a value or damage. 
 
-### (1) Of $500.00 or less.
+#### (1) Of $500.00 or less.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-### (2) Of more than $500.00.
+#### (2) Of more than $500.00.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -7186,9 +7186,9 @@ of said damage being in the sum of (about $  ), the
 
 property of  . 
 
-#  Article 110-Improper hazarding of vessel
+## 34. Article 110-Improper hazarding of vessel
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **Any person subject to this chapter who willfully and wrongfully
 
@@ -7202,7 +7202,7 @@ suffers to be hazarded any vessel of the armed forces shall be punished as
 
 a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That a vessel of the armed forces was hazarded in a certain manner;
 
@@ -7212,9 +7212,9 @@ and
 
  or negligently, caused or suffered the vessel to be hazarded. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Hazard.
+#### (1) Hazard.
 
 "Hazard" means to put in danger of loss or injury. Actual
 
@@ -7232,7 +7232,7 @@ she is not stranded; if she "touches and sticks," she is. A shoal
 
 is a sand, mud, or gravel bank or bar that makes the water shallow. 
 
-### (2) Willfully and wrongfully.
+#### (2) Willfully and wrongfully.
 
 As used in this article, "willfully" means intentionally
 
@@ -7240,7 +7240,7 @@ As used in this article, "willfully" means intentionally
 
 or custom. 
 
-### (3) Negligence.
+#### (3) Negligence.
 
 "Negligence" as used in this article means the failure
 
@@ -7268,7 +7268,7 @@ able person might have committed under the same circumstances does not constitut
 
 an offense under this article. 
 
-### (4) Suffer.
+#### (4) Suffer.
 
 "To suffer" means to allow or permit. A ship is willfully
 
@@ -7286,27 +7286,27 @@ an omission to take such measures as were appropriate under the circumstances
 
 to prevent a foreseeable danger. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Hazarding or suffering to be hazarded any vessel of the armed forces:
 
-### (1) Willfully and wrongfully.
+#### (1) Willfully and wrongfully.
 
 Death or such other punishment as a court-martial may direct. 
 
-### (2) Negligently.
+#### (2) Negligently.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Hazarding or suffering to be hazarded any vessel, willfully and wrongfully.
+#### (1) Hazarding or suffering to be hazarded any vessel, willfully and wrongfully.
 
  
 
@@ -7324,9 +7324,9 @@ said vessel to collide with  ) (allowing the said
 
 vessel to run aground) (  ). 
 
-### (2) Hazarding of vessel, negligently.
+#### (2) Hazarding of vessel, negligently.
 
-#### (a) Example 1.
+##### (a) Example 1.
 
  
 
@@ -7348,7 +7348,7 @@ on the day aforesaid, became stranded in the vicinity of (Channel Buoy Number
 
 Three). 
 
-#### (b) Example 2.
+##### (b) Example 2.
 
  
 
@@ -7388,7 +7388,7 @@ a rock off the southwest coast of  Island, at about
 
 in consequence of which the said  was lost. 
 
-#### (c) Example 3.
+##### (c) Example 3.
 
  
 
@@ -7424,7 +7424,7 @@ about latitude  degrees,  minutes,
 
 west, and seriously injured. 
 
-### (3) Suffering a vessel to be hazarded, negligently.
+#### (3) Suffering a vessel to be hazarded, negligently.
 
  
 
@@ -7444,11 +7444,11 @@ neglecting to report said collision course with said radar target to the
 
 officer of the deck, as it was his/her duty to do, and he/she, the said , through negligence, did cause the said   to collide with the  at or about  hours on said date, with resultant damage to both vessels.
 
-#  Article 111-Drunken or reckless operation of vehicle, aircraft,
+## 35. Article 111-Drunken or reckless operation of vehicle, aircraft,
 
 or vessel
 
-## a. Text of statute.
+### a. Text of statute.
 
 **(a) Any person subject to this chapter who-**
 
@@ -7476,7 +7476,7 @@ or vessel
 
  **(B) The term "United States" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa and the term "State" includes each of those jurisdictions.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was operating or in physical control of a vehicle,
 
@@ -7496,21 +7496,21 @@ or vessel, the accused:
 
 to injure a person. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Vehicle.
+#### (1) Vehicle.
 
 _See_ 1 U.S.C. --SECT-- 4. 
 
-### (2) Vessel.
+#### (2) Vessel.
 
 _See._ 1 U.S.C. --SECT-- 3. 
 
-### (3) Aircraft.
+#### (3) Aircraft.
 
 Any contrivance used or designed for transportation in the air.
 
-### (4) Operates.
+#### (4) Operates.
 
 Operating a vehicle, aircraft, or vessel includes not only driving
 
@@ -7522,7 +7522,7 @@ power in action or the manipulation of its controls so as to cause the particula
 
 vehicle, aircraft or vessel to move. 
 
-### (5) Physical control and actual physical control.
+#### (5) Physical control and actual physical control.
 
 These terms as used in the statute are synonymous. They describe
 
@@ -7544,7 +7544,7 @@ would not be deemed in actual physical control. Physical control necessarily
 
 encompasses operation. 
 
-### (6) Drunk or impaired.
+#### (6) Drunk or impaired.
 
 "Drunk" and "impaired" mean any intoxication
 
@@ -7556,7 +7556,7 @@ by alcohol. The term impaired is used in relation to intoxication by a substance
 
 described in Article 112(a), Uniform Code of Military Justice. 
 
-### (7) Reckless.
+#### (7) Reckless.
 
 The operation or physical control of a vehicle, vessel, or aircraft
 
@@ -7594,7 +7594,7 @@ of importance in the proof of an offense charged under this article and,
 
  where they are of importance, may properly be alleged. 
 
-### (8) Wanton.
+#### (8) Wanton.
 
 "Wanton" includes "reckless," but in describing
 
@@ -7604,7 +7604,7 @@ may, in a proper case, connote willfulness, or a disregard of probable consequen
 
 and thus describe a more aggravated offense. 
 
-### (9) Causation.
+#### (9) Causation.
 
 The accused's drunken or reckless driving must be a proximate cause
 
@@ -7620,7 +7620,7 @@ cause is deemed proximate only if it plays a material role in the victim's
 
 injury. 
 
-### (10) Separate offenses.
+#### (10) Separate offenses.
 
 While the same course of conduct may constitute violations of both
 
@@ -7648,31 +7648,31 @@ point and time, might be admissible as corroborating other evidence of the
 
 other proof of drunkenness. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Resulting in personal injury.
+#### (1) Resulting in personal injury.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 18 months. 
 
-### (2) No personal injury involved.
+#### (2) No personal injury involved.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that   (personal jurisdiction data), did (at/on board   location) (subject matter jurisdiction data, if required), on or about  ,  20 , (in the motor pool area) (near the Officer's Club) (at the intersection of   and  ) (while in the Gulf of Mexico) (while in flight over North America) physically control --LSQP--a vehicle, to wit: (a truck) (a passenger car) ()--RSQP-- --LSQP--an aircraft, to wit: (an AH-64 helicopter) (an F-14A fighter) (a KC-135 tanker) ()--RSQP-- --LSQP--a vessel, to wit: (the aircraft carrier USS  ) (the Coast Guard Cutter  ) (  )--RSQP--, --LSQP--while drunk--RSQP-- --LSQP--while impaired by  --RSQP-- --LSQP--while the alcohol concentration in his (blood or breath) equaled or exceeded the applicable limit under subparagraph (b) of the text of the statute in paragraph 35 as shown by chemical analysis--RSQP-- --LSQP--in a (reckless) (wanton) manner by (attempting to pass another vehicle on a sharp curve) (ordering that the aircraft be flown below the authorized altitude)--RSQP-- --LSQP--and did thereby cause said (vehicle) (aircraft) (vessel) to (strike and) (injure  )--RSQP--.
 
-#  Article 112-Drunk on duty
+## 36. Article 112-Drunk on duty
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter other than
 
@@ -7680,19 +7680,19 @@ sentinel or look-out, who is found drunk on duty, shall be punished as a
 
 court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was on a certain duty; and 
 
 (2) That the accused was found drunk while on this duty. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Drunk.
+#### (1) Drunk.
 
 _See_ paragraph 35c(6). 
 
-### (2) Duty.
+#### (2) Duty.
 
 "Duty" as used in this article means military duty.
 
@@ -7726,7 +7726,7 @@ the guard, or of the watch, are on duty during their entire tour within
 
 the meaning of this article. 
 
-### (3) Nature of offense.
+#### (3) Nature of offense.
 
 It is necessary that the accused be found drunk while actually on
 
@@ -7748,7 +7748,7 @@ of an aircraft crew ordered to stand by for flight duty, or of an enlisted
 
 person ordered to stand by for guard duty. 
 
-### (4) Defenses.
+#### (4) Defenses.
 
 If the accused is known by superior authorities to be drunk at the
 
@@ -7762,17 +7762,17 @@ to this offense. _But see_ paragraph 76 (incapacitation for
 
 duty). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 9 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -7782,9 +7782,9 @@ Bad-conduct discharge, forfeiture of all pay and allowances, and
 
   20  , found drunk while on duty as  .
 
-#  Article 112a-Wrongful use, possession, etc., of controlled substances
+## 37. Article 112a-Wrongful use, possession, etc., of controlled substances
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **Any person subject to this chapter who wrongfully uses, possesses,
 
@@ -7818,9 +7818,9 @@ a list prescribed by the President under clause (2) that is listed in Schedules
 
 I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Wrongful possession of controlled substance.
+#### (1) Wrongful possession of controlled substance.
 
 (a) That the accused possessed a certain amount of a controlled substance;
 
@@ -7828,13 +7828,13 @@ and
 
 (b) That the possession by the accused was wrongful. 
 
-### (2) Wrongful use of controlled substance.
+#### (2) Wrongful use of controlled substance.
 
 (a) That the accused used a controlled substance; and 
 
 (b) That the use by the accused was wrongful. 
 
-### (3) Wrongful distribution of controlled substance.
+#### (3) Wrongful distribution of controlled substance.
 
 (a) That the accused distributed a certain amount of a controlled substance;
 
@@ -7842,7 +7842,7 @@ and
 
 (b) That the distribution by the accused was wrongful. 
 
-### (4) Wrongful introduction of a controlled substance.
+#### (4) Wrongful introduction of a controlled substance.
 
 (a) That the accused introduced onto a vessel, aircraft, vehicle, or
 
@@ -7852,7 +7852,7 @@ forces a certain amount of a controlled substance; and
 
 (b) That the introduction was wrongful. 
 
-### (5) Wrongful manufacture of a controlled substance.
+#### (5) Wrongful manufacture of a controlled substance.
 
 (a) That the accused manufactured a certain amount of a controlled
 
@@ -7860,7 +7860,7 @@ substance; and
 
 (b) That the manufacture was wrongful. 
 
-### (6) Wrongful possession, manufacture, or introduction of a controlled
+#### (6) Wrongful possession, manufacture, or introduction of a controlled
 
 substance with intent to distribute.
 
@@ -7876,7 +7876,7 @@ and
 
  intent to distribute. 
 
-### (7) Wrongful importation or exportation of a controlled substance.
+#### (7) Wrongful importation or exportation of a controlled substance.
 
 (a) That the accused (imported into the customs territory of) (exported
 
@@ -7890,9 +7890,9 @@ and
 
  
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Controlled substance.
+#### (1) Controlled substance.
 
 "Controlled substance" means amphetamine, cocaine,
 
@@ -7906,7 +7906,7 @@ I through V established by the Controlled Substances Act of 1970 (21 U.S.C.
 
 812). 
 
-### (2) Possess.
+#### (2) Possess.
 
 "Possess" means to exercise control of something. Possession
 
@@ -7930,7 +7930,7 @@ the accused's control. Awareness of the presence of a controlled substance
 
 may be inferred from circumstantial evidence. 
 
-### (3) Distribute.
+#### (3) Distribute.
 
 "Distribute" means to deliver to the possession of
 
@@ -7938,7 +7938,7 @@ another. "Deliver" means the actual, constructive, or attempted
 
 transfer of an item, whether or not there exists an agency relationship.
 
-### (4) Manufacture.
+#### (4) Manufacture.
 
 "Manufacture" means the production, preparation, propagation,
 
@@ -7956,7 +7956,7 @@ in this subparagraph, includes the planting, cultivating, growing, or harvesting
 
  of a drug or other substance. 
 
-### (5) Wrongfulness.
+#### (5) Wrongfulness.
 
 To be punishable under Article 112a, possession, use, distribution,
 
@@ -7996,7 +7996,7 @@ proof is upon the United States to establish that the use, possession, distribut
 
 manufacture, or introduction was wrongful. 
 
-### (6) Intent to distribute.
+#### (6) Intent to distribute.
 
 Intent to distribute may be inferred from circumstantial evidence.
 
@@ -8014,7 +8014,7 @@ addicted to or is a heavy user of the substance may tend to negate an inference
 
 of intent to distribute. 
 
-### (7) Certain amount.
+#### (7) Certain amount.
 
 When a specific amount of a controlled substance is believed to
 
@@ -8030,7 +8030,7 @@ or manufactured "some," "traces of," or "an
 
 unknown quantity of" a controlled substance. 
 
-### (8) Missile launch facility.
+#### (8) Missile launch facility.
 
 A "missile launch facility" includes the place from
 
@@ -8038,13 +8038,13 @@ which missiles are fired and launch control facilities from which the launch
 
 of a missile is initiated or controlled after launch. 
 
-### (9) Customs territory of the United States.
+#### (9) Customs territory of the United States.
 
 "Customs territory of the United States" includes only
 
  the States, the District of Columbia, and Puerto Rico. 
 
-### (10) Use.
+#### (10) Use.
 
 "Use" means to inject, ingest, inhale, or otherwise
 
@@ -8060,7 +8060,7 @@ evidence. This permissive inference may be legally sufficient to satisfy
 
 the government's burden of proof as to knowledge. 
 
-### (11) Deliberate ignorance.
+#### (11) Deliberate ignorance.
 
 An accused who consciously avoids knowledge of the presence of a
 
@@ -8068,17 +8068,17 @@ An accused who consciously avoids knowledge of the presence of a
 
 to the same criminal liability as one who has actual knowledge. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishments.
+### e. Maximum punishments.
 
-### (1) Wrongful use, possession, manufacture, or introduction of controlled
+#### (1) Wrongful use, possession, manufacture, or introduction of controlled
 
  substance.
 
-#### (a) Amphetamine, cocaine, heroin, lysergic acid diethylamide, marijuana
+##### (a) Amphetamine, cocaine, heroin, lysergic acid diethylamide, marijuana
 
  (except possession of less than 30 grams or use of marijuana), methamphetamine,
 
@@ -8088,7 +8088,7 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement 5 years. 
 
-#### (b) Marijuana (possession of less than 30 grams or use), phenobarbital,
+##### (b) Marijuana (possession of less than 30 grams or use), phenobarbital,
 
 and Schedule IV and V controlled substances.
 
@@ -8096,13 +8096,13 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-### (2) Wrongful distribution, possession, manufacture, or introduction of
+#### (2) Wrongful distribution, possession, manufacture, or introduction of
 
  controlled substance with intent to distribute, or wrongful importation
 
 or exportation of a controlled substance.
 
-#### (a) Amphetamine, cocaine, heroin, lysergic acid diethylamide, marijuana,
+##### (a) Amphetamine, cocaine, heroin, lysergic acid diethylamide, marijuana,
 
  methamphetamine, opium, phencyclidine, secobarbital, and Schedule I, II,
 
@@ -8112,7 +8112,7 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 15 years. 
 
-#### (b) Phenobarbital and Schedule IV and V controlled substances.
+##### (b) Phenobarbital and Schedule IV and V controlled substances.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
@@ -8134,9 +8134,9 @@ the maximum period of confinement authorized for such offense shall be increased
 
  by 5 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Wrongful possession, manufacture, or distribution of controlled substance.
+#### (1) Wrongful possession, manufacture, or distribution of controlled substance.
 
  
 
@@ -8162,7 +8162,7 @@ sentinel or lookout) (while (on board a vessel/aircraft) (in or at a missile
 
 37 U.S.C. --SECT-- 310) (during time of war). 
 
-### (2) Wrongful use of controlled substance.
+#### (2) Wrongful use of controlled substance.
 
  
 
@@ -8182,7 +8182,7 @@ armed forces or under the control of the armed forces, to wit:   ) (while receiv
 
 time of war). 
 
-### (3) Wrongful introduction of controlled substance.
+#### (3) Wrongful introduction of controlled substance.
 
  
 
@@ -8206,7 +8206,7 @@ lookout) (while receiving special pay under 37 U.S.C. --SECT-- 310) (during
 
 a time of war). 
 
-### (4) Wrongful importation or exportation of controlled substance.
+#### (4) Wrongful importation or exportation of controlled substance.
 
  
 
@@ -8220,9 +8220,9 @@ the customs territory of) (from) the United States (while on board a vessel/airc
 
 used by the armed forces or under the control of the armed forces, to wit:  ) (during time of war). 
 
-#  Article 113-Misbehavior of sentinel or lookout
+## 38. Article 113-Misbehavior of sentinel or lookout
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -8238,7 +8238,7 @@ such other punishment as a court-martial may direct, but if the offense is
 
 may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was posted or on post as a sentinel or lookout;
 
@@ -8256,9 +8256,9 @@ following element--RSQP--
 
  was receiving special pay under 37 U.S.C. --SECT-- 310). 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 This article defines three kinds of misbehavior committed by sentinels
 
@@ -8272,7 +8272,7 @@ of a sentinel or lookout, nor does it include a person whose duties as a
 
 watchman or attendant do not require constant alertness. 
 
-### (2) Post.
+#### (2) Post.
 
 "Post" is the area where the sentinel or lookout is
 
@@ -8290,7 +8290,7 @@ it is such a distance that the ability to fully perform the duty for which
 
 posted is impaired. 
 
-### (3) On post.
+#### (3) On post.
 
 A sentinel or lookout becomes "on post" after having
 
@@ -8316,7 +8316,7 @@ danger, or at a designated place to maintain internal discipline, or to guard
 
 stores, or to guard prisoners while in confinement or at work. 
 
-### (4) Sentinel or lookout.
+#### (4) Sentinel or lookout.
 
 A sentinel or a lookout is a person whose duties include the requirement
 
@@ -8326,13 +8326,13 @@ observe for the possible approach of the enemy, or to guard persons, property,
 
 or a place and to sound the alert, if necessary. 
 
-### (5) Drunk.
+#### (5) Drunk.
 
 For an explanation of "drunk," _see_
 
 paragraph 35c(3). 
 
-### (6) Sleeping.
+#### (6) Sleeping.
 
 As used in this article, "sleeping" is that condition
 
@@ -8348,29 +8348,29 @@ by disease or accident is an affirmative defense. _See_ R.C.M.
 
 916(i). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) In time of war.
+#### (1) In time of war.
 
 Death or such other punishment as a court-martial may direct. 
 
-### (2) While receiving special pay under 37 U.S.C. --SECT-- 310.
+#### (2) While receiving special pay under 37 U.S.C. --SECT-- 310.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years. 
 
-### (3) In all other places.
+#### (3) In all other places.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -8386,9 +8386,9 @@ under 37 U.S.C. --SECT-- 310), being (posted) (on post) as a (sentinel) (lookout
 
 post before he/she was regularly relieved). 
 
-#  Article 114-Dueling
+## 39. Article 114-Dueling
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who
 
@@ -8400,9 +8400,9 @@ report the fact promptly to the proper authority, shall be punished as a
 
 court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Dueling.
+#### (1) Dueling.
 
 (a) That the accused fought another person with deadly weapons; 
 
@@ -8410,13 +8410,13 @@ court-martial may direct.**
 
 (c) That the combat was by prior agreement. 
 
-### (2) Promoting a duel.
+#### (2) Promoting a duel.
 
 (a) That the accused promoted a duel between certain persons; and 
 
 (b) That the accused did so in a certain manner. 
 
-### (3) Conniving at fighting a duel.
+#### (3) Conniving at fighting a duel.
 
 (a) That certain persons intended to and were about to engage in a duel;
 
@@ -8426,7 +8426,7 @@ court-martial may direct.**
 
  manner. 
 
-### (4) Failure to report a duel.
+#### (4) Failure to report a duel.
 
 (a) That a challenge to fight a duel had been sent or was about to be
 
@@ -8438,15 +8438,15 @@ court-martial may direct.**
 
 authority. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Duel.
+#### (1) Duel.
 
 A duel is combat between two persons for private reasons fought
 
 with deadly weapons by prior agreement. 
 
-### (2) Promoting a duel.
+#### (2) Promoting a duel.
 
 Urging or taunting another to challenge or to accept a challenge
 
@@ -8456,7 +8456,7 @@ or otherwise furthering or contributing to the fighting of a duel are examples
 
 of promoting a duel. 
 
-### (3) Conniving at fighting a duel.
+#### (3) Conniving at fighting a duel.
 
 Anyone who has knowledge that steps are being taken or have been
 
@@ -8464,19 +8464,19 @@ Anyone who has knowledge that steps are being taken or have been
 
 preventive action thereby connives at the fighting of a duel. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 For all Article 114 offenses: dishonorable discharge, forfeiture
 
 of all pay and allowances, and confinement for 1 year. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Dueling.
+#### (1) Dueling.
 
  
 
@@ -8488,7 +8488,7 @@ of all pay and allowances, and confinement for 1 year.
 
 as weapons therefor (pistols) (swords) (  ). 
 
-### (2) Promoting a duel.
+#### (2) Promoting a duel.
 
  
 
@@ -8508,7 +8508,7 @@ failed to challenge said  to a duel) (knowingly carrying
 
 to fight a duel). 
 
-### (3) Conniving at fighting a duel.
+#### (3) Conniving at fighting a duel.
 
  
 
@@ -8520,7 +8520,7 @@ to fight a duel).
 
 by (failing to take reasonable preventive action) (  ).
 
-### (4) Failure to report a duel.
+#### (4) Failure to report a duel.
 
  
 
@@ -8536,9 +8536,9 @@ on or about   20  fail to
 
 report that fact promptly to the proper authority. 
 
-#  Article 115-Malingering
+## 40. Article 115-Malingering
 
-## a. Text of statute.
+### a. Text of statute.
 
  
 
@@ -8556,7 +8556,7 @@ shall be punished as a court-martial
 
 may direct. **
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was assigned to, or was aware of prospective assignment
 
@@ -8580,9 +8580,9 @@ hostile fire pay zone, add the following element--RSQP--
 
  pay zone). 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Nature of offense.
+#### (1) Nature of offense.
 
 The essence of this offense is the design to avoid performance of
 
@@ -8602,7 +8602,7 @@ feigned disability may, however, be relevant as a factor indicating the presence
 
 or absence of the purpose. 
 
-### (2) How injury inflicted.
+#### (2) How injury inflicted.
 
 The injury may be inflicted by nonviolent as well as by violent
 
@@ -8614,19 +8614,19 @@ results in debility is a self-inflicted injury and when done for the purpose
 
 of avoiding work, duty, or service constitutes a violation of this article.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Feigning illness, physical disablement, mental lapse, or derangement.
+#### (1) Feigning illness, physical disablement, mental lapse, or derangement.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-### (2) Feigning illness, physical disablement, mental lapse, or derangement
+#### (2) Feigning illness, physical disablement, mental lapse, or derangement
 
 in a hostile fire pay zone or in time of war.
 
@@ -8634,13 +8634,13 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-### (3) Intentional self-inflicted injury.
+#### (3) Intentional self-inflicted injury.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-### (4) Intentional self-inflicted injury in a hostile fire pay zone or in
+#### (4) Intentional self-inflicted injury in a hostile fire pay zone or in
 
 time of war.
 
@@ -8648,7 +8648,7 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -8672,9 +8672,9 @@ sore back) (illness)  (mental lapse)  (mental  derangement)
 
 ()) (intentionally injure himself/herself by  ).
 
-#  Article 116-Riot or breach of peace
+## 41. Article 116-Riot or breach of peace
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who
 
@@ -8682,9 +8682,9 @@ causes or participates in any riot or breach of the peace shall be punished
 
 as a court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Riot.
+#### (1) Riot.
 
 (a) That the accused was a member of an assembly of three or more persons;
 
@@ -8704,7 +8704,7 @@ turbulent manner; and
 
  or were intended to cause public alarm or terror. 
 
-### (2) Breach of the peace.
+#### (2) Breach of the peace.
 
 (a) That the accused caused or participated in a certain act of a violent
 
@@ -8712,9 +8712,9 @@ turbulent manner; and
 
 (b) That the peace was thereby unlawfully disturbed. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Riot.
+#### (1) Riot.
 
 "Riot" is a tumultuous disturbance of the peace by three
 
@@ -8736,7 +8736,7 @@ begins to execute in a tumultuous manner a common purpose formed after it
 
 assembled. 
 
-### (2) Breach of the peace.
+#### (2) Breach of the peace.
 
 A "breach of the peace" is an unlawful disturbance of
 
@@ -8762,33 +8762,33 @@ results. The fact that the words are true or used under provocation is not
 
 a defense, nor is tumultuous conduct excusable because incited by others.
 
-### (3) Community and public.
+#### (3) Community and public.
 
 "Community" and "public" include a military
 
  organization, post, camp, ship, aircraft, or station. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Riot.
+#### (1) Riot.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years. 
 
-### (2) Breach of the peace.
+#### (2) Breach of the peace.
 
 Confinement for 6 months and forfeiture of two-thirds pay per month
 
  for 6 months. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Riot.
+#### (1) Riot.
 
  
 
@@ -8804,7 +8804,7 @@ the police of ) (assaulting passers-by) ( ), and in furtherance of said purpose 
 
 (assault certain persons, to wit:  ) (), to the terror and disturbance of  . 
 
-### (2) Breach of the peace.
+#### (2) Breach of the peace.
 
  
 
@@ -8822,9 +8822,9 @@ a fist fight in the dayroom with  ) (using the following
 
 and singing in a public place, to wit: ) (). 
 
-#  Article 117-Provoking speeches or gestures
+## 42. Article 117-Provoking speeches or gestures
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who
 
@@ -8832,7 +8832,7 @@ uses provoking or reproachful words or gestures towards any other person
 
 subject to this chapter shall be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused wrongfully used words or gestures toward a certain
 
@@ -8844,9 +8844,9 @@ subject to this chapter shall be punished as a court-martial may direct.**
 
 a person subject to the code. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 As used in this article, "provoking" and "reproachful"
 
@@ -8862,7 +8862,7 @@ be administered in the interests of training, efficiency, or discipline
 
 in the armed forces. 
 
-### (2) Knowledge.
+#### (2) Knowledge.
 
 It is not necessary that the accused have knowledge that the person
 
@@ -8870,17 +8870,17 @@ It is not necessary that the accused have knowledge that the person
 
 code. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Confinement for 6 months and forfeiture of two-thirds pay per month
 
  for 6 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -8894,9 +8894,9 @@ wrongfully use (provoking) (reproachful) (words, to wit; "  :" or words to that 
 
 (  ). 
 
-#  Article 118-Murder
+## 43. Article 118-Murder
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who,
 
@@ -8914,9 +8914,9 @@ without justification or excuse, unlawfully kills a human being, when he-**
 
 --LSQP--Note: This statute was amended by Public Law 112-81 (FY12 NDAA), effective 28 June 2012, to reflect the modified names of sexual offenses in Articles 120 and 120b.--RSQP--
 
-## b. Elements.
+### b. Elements.
 
-### (1) Premeditated murder.
+#### (1) Premeditated murder.
 
 (a) That a certain named or described person is dead; 
 
@@ -8928,7 +8928,7 @@ without justification or excuse, unlawfully kills a human being, when he-**
 
  design to kill. 
 
-### (2) Intent to kill or inflict great bodily harm.
+#### (2) Intent to kill or inflict great bodily harm.
 
 (a) That a certain named or described person is dead; 
 
@@ -8940,7 +8940,7 @@ without justification or excuse, unlawfully kills a human being, when he-**
 
 kill or inflict great bodily harm upon a person. 
 
-### (3) Act inherently dangerous to another.
+#### (3) Act inherently dangerous to another.
 
 (a) That a certain named or described person is dead; 
 
@@ -8956,7 +8956,7 @@ kill or inflict great bodily harm upon a person.
 
 (e) That the killing was unlawful. 
 
-### (4) During certain offenses.
+#### (4) During certain offenses.
 
 (a) That a certain named or described person is dead; 
 
@@ -8966,9 +8966,9 @@ kill or inflict great bodily harm upon a person.
 
 (d) That, at the time of the killing, the accused was engaged in the perpetration or attempted perpetration of burglary, sodomy, rape, rape of a child, aggravated sexual assault, aggravated sexual assault of a child, aggravated sexual contact, aggravated sexual abuse of a child, aggravated sexual contact with a child, robbery, or aggravated arson.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 Killing a human being is unlawful when done without justification
 
@@ -8984,9 +8984,9 @@ omission, or at some time thereafter, it must have followed from an injury
 
  received by the victim which resulted from the act or omission. 
 
-### (2) Premeditated murder.
+#### (2) Premeditated murder.
 
-#### (a) Premeditation.
+##### (a) Premeditation.
 
 A murder is not premeditated unless the thought of taking life was
 
@@ -9006,7 +9006,7 @@ put into execution. The existence of premeditation may be inferred from the
 
 circumstances. 
 
-#### (b) Transferred premeditation.
+##### (b) Transferred premeditation.
 
 When an accused with a premeditated design attempted to unlawfully
 
@@ -9018,7 +9018,7 @@ the premeditated design to kill is transferred from the intended victim to
 
 the actual victim. 
 
-#### (c) Intoxication.
+##### (c) Intoxication.
 
 Voluntary intoxication (_see_ R.C.M.
 
@@ -9030,9 +9030,9 @@ but it does not reduce either premeditated murder or unpremeditated murder
 
 to manslaughter (Article 119) or any other lesser offense. 
 
-### (3) Intent to kill or inflict great bodily harm.
+#### (3) Intent to kill or inflict great bodily harm.
 
-#### (a) Intent.
+##### (a) Intent.
 
 An unlawful killing without premeditation is also murder when the
 
@@ -9062,7 +9062,7 @@ of murder even if the householder was not seen until the moment before striking
 
  the fatal blow. 
 
-#### (b) Great bodily harm.
+##### (b) Great bodily harm.
 
 "Great bodily harm" means serious injury; it does not
 
@@ -9074,7 +9074,7 @@ include fractured or dislocated bones, deep cuts, torn members of the body,
 
 is synonymous with the term "grievous bodily harm." 
 
-#### (c) Intoxication.
+##### (c) Intoxication.
 
 Voluntary intoxication not amounting to legal insanity does not
 
@@ -9082,9 +9082,9 @@ Voluntary intoxication not amounting to legal insanity does not
 
 lesser offense. 
 
-### (4) Act inherently dangerous to others.
+#### (4) Act inherently dangerous to others.
 
-#### (a) Wanton disregard of human life.
+##### (a) Wanton disregard of human life.
 
 Intentionally engaging in an act inherently dangerous to another-although
 
@@ -9102,7 +9102,7 @@ harm. Examples include throwing a live grenade toward another in jest or
 
  flying an aircraft very low over one or more persons to cause alarm. 
 
-#### (b) Knowledge.
+##### (b) Knowledge.
 
 The accused must know that death or great bodily harm was a probable
 
@@ -9110,9 +9110,9 @@ The accused must know that death or great bodily harm was a probable
 
 by circumstantial evidence. 
 
-### (5) During certain offenses.
+#### (5) During certain offenses.
 
-#### (a) In general.
+##### (a) In general.
 
 The commission or attempted commission of any of the offenses listed
 
@@ -9124,17 +9124,17 @@ of one of these offenses, the killing is murder. Under these circumstances
 
 it is not a defense that the killing was unintended or accidental. 
 
-#### (b) Separate offenses.
+##### (b) Separate offenses.
 
 The perpetration or attempted perpetration of the burglary, forcible sodomy,
 
  rape, robbery, or aggravated arson may be charged separately from the homicide.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 (1) Article 118(1) or (4)-death. Mandatory minimum-imprisonment
 
@@ -9144,7 +9144,7 @@ for life with eligibility for parole.
 
 a court-martial may direct. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -9160,9 +9160,9 @@ if required), on or about   20 ,
 
 him/her with a rifle) (  ). 
 
-#  Article 119-Manslaughter
+## 44. Article 119-Manslaughter
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **Any person subject to this chapter who, with an intent to kill
 
@@ -9188,9 +9188,9 @@ is guilty of involuntary manslaughter and
 
 shall be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Voluntary manslaughter.
+#### (1) Voluntary manslaughter.
 
 (a) That a certain named or described person is dead; 
 
@@ -9204,7 +9204,7 @@ shall be punished as a court-martial may direct.**
 
 (e) That the person killed was a child under the age of 16 years. 
 
-### (2) Involuntary manslaughter.
+#### (2) Involuntary manslaughter.
 
 (a) That a certain named or described person is dead; 
 
@@ -9218,11 +9218,11 @@ shall be punished as a court-martial may direct.**
 
 (d) That the person killed was a child under the age of 16 years. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Voluntary manslaughter.
+#### (1) Voluntary manslaughter.
 
-#### (a) Nature of offense.
+##### (a) Nature of offense.
 
 An unlawful killing, although done with an intent to kill or inflict
 
@@ -9240,7 +9240,7 @@ be struck before self-control has returned. Although adequate provocation
 
 does not excuse the homicide, it does preclude conviction of murder. 
 
-#### (b) Nature of provocation.
+##### (b) Nature of provocation.
 
 The provocation must be adequate to excite uncontrollable passion
 
@@ -9266,15 +9266,15 @@ or fist, and trespass or other injury to property are not, standing alone,
 
 adequate provocation. 
 
-#### (c) When committed upon a child under 16 years of age. 
+##### (c) When committed upon a child under 16 years of age. 
 
 The maximum punishment is increased when voluntary manslaughter is committed upon a child under 16 years of age. The accused's knowledge that the child was under 16 years of age at the time of the offense is not required for the increased maximum punishment. 
 
-### (2) Involuntary manslaughter.
+#### (2) Involuntary manslaughter.
 
-#### (a) Culpable negligence.
+##### (a) Culpable negligence.
 
-##### (i) Nature of culpable negligence.
+###### (i) Nature of culpable negligence.
 
 Culpable negligence is a degree of carelessness greater than simple
 
@@ -9302,7 +9302,7 @@ that it would not be dangerous; and carelessly leaving poisons or dangerous
 
 drugs where they may endanger life. 
 
-##### (ii) Legal duty required.
+###### (ii) Legal duty required.
 
 When there is no legal duty to act there can be no neglect. Thus,
 
@@ -9310,7 +9310,7 @@ When there is no legal duty to act there can be no neglect. Thus,
 
 a beggar to freeze or starve to death, no crime is committed. 
 
-#### (b) Offense directly affecting the person.
+##### (b) Offense directly affecting the person.
 
 An "offense directly affecting the person" means one
 
@@ -9322,39 +9322,39 @@ various types of assault, battery, false imprisonment, voluntary engagement
 
 in an affray, and maiming. 
 
-#### (c) When committed upon a child under 16 years of age. 
+##### (c) When committed upon a child under 16 years of age. 
 
 The maximum punishment is increased when involuntary manslaughter is committed upon a child under 16 years of age. The accused's knowledge that the child was under 16 years of age at the time of the offense is not required for the increased maximum punishment.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Voluntary manslaughter.
+#### (1) Voluntary manslaughter.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 15 years. 
 
-### (2) Involuntary manslaughter.
+#### (2) Involuntary manslaughter.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years. 
 
-### (3) Voluntary manslaughter of a child under 16 years of age.
+#### (3) Voluntary manslaughter of a child under 16 years of age.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 20 years. 
 
-### (4) Involuntary manslaughter of a child under 16 years of age.
+#### (4) Involuntary manslaughter of a child under 16 years of age.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 15 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Voluntary manslaughter.
+#### (1) Voluntary manslaughter.
 
  
 
@@ -9362,15 +9362,15 @@ Dishonorable discharge, forfeiture of all pay and allowances, and confinement fo
 
  data), did, (at/on board - location) (subject matter jurisdiction data, if required), on or about  20 , willfully and unlawfully kill  , (a child under 16 years of age) by  him/her (in) (on) the  with a  .
 
-### (2) Involuntary manslaughter.
+#### (2) Involuntary manslaughter.
 
  
 
   In that  (personal jurisdiction data), did, (at/on board location) (subject matter jurisdiction data, if required), on or about  (by culpable negligence) (while (perpetrating) (attempting to perpetrate) an offense directly affecting the person of  , to wit: (maiming) (a battery) (  )) unlawfully kill   (a child under 16 years of age) by  him/her (in)(on) the   with a  .
 
-#  Article 119a-Death or injury of an unborn child
+## 44a. Article 119a-Death or injury of an unborn child
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a)(1) **Any person subject to this chapter who engages in conduct that violates
 
@@ -9436,9 +9436,9 @@ is in utero" means a member of the species homo sapiens, at any stage
 
 of development, who is carried in the womb.** 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Injuring an unborn child.
+#### (1) Injuring an unborn child.
 
 (a) That the accused was engaged in the --LSQP--(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of--RSQP-- or --LSQP--burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property (known to be occupied by) (belonging to))--RSQP-- a woman;
 
@@ -9446,7 +9446,7 @@ of development, who is carried in the womb.**
 
 (c) That the accused thereby caused bodily injury to the unborn child of that woman.
 
-###### (2) Killing an unborn child.
+####### (2) Killing an unborn child.
 
 (a) That the accused was engaged in the --LSQP--(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of --RSQP-- or --LSQP--burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))--RSQP-- a woman;
 
@@ -9454,7 +9454,7 @@ of development, who is carried in the womb.**
 
 (c) That the accused thereby caused the death of the unborn child of that woman.
 
-######### (3) Attempting to kill an unborn child.
+########## (3) Attempting to kill an unborn child.
 
 (a) That the accused was engaged in the --LSQP--(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of--RSQP-- or --LSQP--burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property (known to be occupied by) (belonging to))--RSQP-- a woman;
 
@@ -9462,7 +9462,7 @@ of development, who is carried in the womb.**
 
 (c) That the accused thereby intended and attempted to kill the unborn child of that woman.
 
-############ (4) Intentionally killing an unborn child.
+############# (4) Intentionally killing an unborn child.
 
 (a) That the accused was engaged in the --LSQP--(murder (article 118)), (voluntary manslaughter (article 119(a))), (involuntary manslaughter (article 119(b)(2))), (rape (article 120)), (robbery (article 122)), (maiming (article 124)), (assault (article 128)), of--RSQP-- or --LSQP--burning or setting afire, as arson (article 126), of (a dwelling inhabited by) (a structure or property (known to be occupied by) (belonging to))--RSQP-- a woman;
 
@@ -9470,9 +9470,9 @@ of development, who is carried in the womb.**
 
 (c) That the accused thereby intentionally killed the unborn child of that woman.
 
-############ c. Explanation.
+############# c. Explanation.
 
-############# (1) Nature of offense.
+############## (1) Nature of offense.
 
  This article makes it a separate, punishable crime to cause the death of or bodily injury to an unborn child while engaged in arson (article 126, UCMJ); murder (article 118, UCMJ); voluntary manslaughter (article 119(a), UCMJ); involuntary manslaughter (article 119(b)(2), UCMJ); rape (article 120(a), UCMJ); robbery (article 122, UCMJ); maiming (article 124, UCMJ); or assault (article 128, UCMJ) against a pregnant woman. For all underlying offenses, except arson, this article requires that the victim of the underlying offense be the pregnant mother. For purposes of arson, the pregnant mother must have some nexus to the arson such that she sustained some "bodily injury" due to the arson. For the purposes of this article the term "woman" means a female of any age. This article does not permit the prosecution of any-
 
@@ -9490,25 +9490,25 @@ of development, who is carried in the womb.**
 
 (3) The offense of "attempting to kill an unborn child" requires that the accused intended by his conduct to cause the death of the unborn child (See paragraph b(3)(c) above).
 
-################### (4) Bodily injury.
+#################### (4) Bodily injury.
 
  For the purpose of this offense, the term "bodily injury" is that which is provided by section 1365 of title 18, to wit: a cut, abrasion, bruise, burn, or disfigurement; physical pain; illness; impairment of the function of a bodily member, organ, or mental faculty; or any other injury to the body, no matter how temporary.
 
-#################### (5) Unborn child.
+##################### (5) Unborn child.
 
  "Unborn child" means a child in utero or a member of the species homo sapiens who is carried in the womb, at any stage of development, from conception to birth.
 
-############ d. Lesser included offenses.
+############# d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-############ e. Maximum punishment.
+############# e. Maximum punishment.
 
 The maximum punishment for (1) Injuring an unborn child; (2) Killing an unborn child; (3) Attempting to kill an unborn child; or (4) Intentionally killing an unborn child is such punishment, other than death, as a court-martial may direct, but shall be consistent with the punishment had the bodily injury, death, attempt to kill, or intentional killing occurred to the unborn child's mother.
 
-############ f. Sample specifications.
+############# f. Sample specifications.
 
-############# (1) Injuring an unborn child.
+############## (1) Injuring an unborn child.
 
  
 
@@ -9516,7 +9516,7 @@ The maximum punishment for (1) Injuring an unborn child; (2) Killing an unborn c
 
 In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , cause bodily injury to the unborn child of , a pregnant woman, by engaging in the --LSQP--(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of--RSQP-- --LSQP--(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))--RSQP-- that woman.
 
-############# (2) Killing an unborn child.
+############## (2) Killing an unborn child.
 
  
 
@@ -9524,7 +9524,7 @@ In that   (personal jurisdiction data), did (at/on board-location), (subject-mat
 
 In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , cause the death of the unborn child of , a pregnant woman, by engaging in the --LSQP--(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of--RSQP-- --LSQP--(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))--RSQP-- that woman.
 
-############# (3) Attempting to kill an unborn child.
+############## (3) Attempting to kill an unborn child.
 
  
 
@@ -9532,7 +9532,7 @@ In that   (personal jurisdiction data), did (at/on board-location), (subject-mat
 
 In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , attempt to kill the unborn child of , a pregnant woman, by engaging in the --LSQP--(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of--RSQP-- --LSQP--(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))--RSQP-- that woman.
 
-############# (4) Intentionally killing an unborn child.
+############## (4) Intentionally killing an unborn child.
 
  
 
@@ -9540,11 +9540,11 @@ In that   (personal jurisdiction data), did (at/on board-location), (subject-mat
 
 In that   (personal jurisdiction data), did (at/on board-location), (subject-matter jurisdiction data, if required), on or about   20 , intentionally kill the unborn child of , a pregnant woman, by engaging in the --LSQP--(murder) (voluntary manslaughter) (involuntary manslaughter) (rape) (robbery) (maiming) (assault) of--RSQP-- --LSQP--(burning) (setting afire) of (a dwelling inhabited by) (a structure or property known to (be occupied by) (belong to))--RSQP-- that woman.
 
-#   Article 120-Rape and sexual assault generally
+## 45.  Article 120-Rape and sexual assault generally
 
 **--LSQP--Note: This statute applies to offenses committed on or after 28 June 2012. Previous versions of Article 120 are located as follows: for offenses committed on or before 30 September 2007, _see_ Appendix 27; for offenses committed during the period 1 October 2007 through 27 June 2012, _see_ Appendix 28.--RSQP--**
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **_Rape_. Any person subject to this chapter who commits a sexual act upon another person by-**
 
@@ -9638,43 +9638,43 @@ Touching may be accomplished by any part of the body.**
 
 (C) **Lack of consent may be inferred based on the circumstances of the offense. All the surrounding circumstances are to be considered in determining whether a person gave consent, or whether a person did not resist or ceased to resist only because of another person's actions.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Rape involving contact between penis and vulva or anus or mouth.
+#### (1) Rape involving contact between penis and vulva or anus or mouth.
 
-#### (a) By unlawful force
+##### (a) By unlawful force
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by the penis; and
 
 (ii) That the accused did so with unlawful force.
 
-#### (b) By force causing or likely to cause death or grievous bodily harm
+##### (b) By force causing or likely to cause death or grievous bodily harm
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by the penis; and
 
 (ii) That the accused did so by using force causing or likely to cause death or grievous bodily harm to any person.
 
-#### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping
+##### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by the penis; and
 
 (ii) That the accused did so by threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping.
 
-##### (d) By first rendering that other person unconscious
+###### (d) By first rendering that other person unconscious
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by the penis; and
 
 (ii) That the accused did so by first rendering that other person unconscious.
 
-##### (e) By administering a drug, intoxicant, or other similar substance
+###### (e) By administering a drug, intoxicant, or other similar substance
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by the penis; and
 
 (ii) That the accused did so by administering to that other person by force or threat of force, or without the knowledge or permission of that person, a drug, intoxicant, or other similar substance and thereby substantially impairing the ability of that other person to appraise or control conduct.
 
-### (2) Rape involving penetration of the vulva, anus, or mouth by any part of the body or any object.
+#### (2) Rape involving penetration of the vulva, anus, or mouth by any part of the body or any object.
 
-#### (a) By force
+##### (a) By force
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth of another person by any part of the body or by any object;
 
@@ -9682,7 +9682,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-##### (b) By force causing or likely to cause death or grievous bodily harm
+###### (b) By force causing or likely to cause death or grievous bodily harm
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth of another person by any part of the body or by any object; 
 
@@ -9690,7 +9690,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-###### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping 
+####### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping 
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth of another person by any part of the body or by any object;
 
@@ -9698,7 +9698,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-####### (d) By first rendering that other person unconscious
+######## (d) By first rendering that other person unconscious
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth of another person by any part of the body or by any object;
 
@@ -9706,7 +9706,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-######## (e) By administering a drug, intoxicant, or other similar substance
+######### (e) By administering a drug, intoxicant, or other similar substance
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth of another person by any part of the body or by any object;
 
@@ -9714,33 +9714,33 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-### (3) Sexual assault involving contact between penis and vulva or anus or mouth.
+#### (3) Sexual assault involving contact between penis and vulva or anus or mouth.
 
-#### (a) By threatening or placing that other person in fear 
+##### (a) By threatening or placing that other person in fear 
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by the penis; and
 
 (ii) That the accused did so by threatening or placing that other person in fear.
 
-##### (b) By causing bodily harm
+###### (b) By causing bodily harm
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by the penis; and
 
 (ii) That the accused did so by causing bodily harm to that other person.
 
-##### (c) By fraudulent representation
+###### (c) By fraudulent representation
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by the penis; and
 
 (ii) That the accused did so by making a fraudulent representation that the sexual act served a professional purpose.
 
-###### (d) By false pretense
+####### (d) By false pretense
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by the penis; and
 
 (ii) That the accused did so by inducing a belief by any artifice, pretense, or concealment that the accused is another person.
 
-###### (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring
+####### (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by the penis; 
 
@@ -9748,7 +9748,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused knew or reasonably should have known that the other person was asleep, unconscious, or otherwise unaware that the sexual act was occurring.
 
-###### (f) When the other person is incapable of consenting
+####### (f) When the other person is incapable of consenting
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight,of the vulva, anus, or mouth by the penis; 
 
@@ -9760,9 +9760,9 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused knew or reasonably should have known of the impairment, mental disease or defect, or physical disability of the other person.
 
-### (4) Sexual assault involving penetration of the vulva, anus, or mouth by any part of the body or any object.
+#### (4) Sexual assault involving penetration of the vulva, anus, or mouth by any part of the body or any object.
 
-#### (a) By threatening or placing that other person in fear
+##### (a) By threatening or placing that other person in fear
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by any part of the body or by any object;
 
@@ -9770,7 +9770,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-###### (b) By causing bodily harm
+####### (b) By causing bodily harm
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by any part of the body or by any object;
 
@@ -9778,7 +9778,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-######## (c) By fraudulent representation
+######### (c) By fraudulent representation
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by any part of the body or by any object;
 
@@ -9786,7 +9786,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-########## (d) By false pretense
+########### (d) By false pretense
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by any part of the body or by any object;
 
@@ -9794,7 +9794,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-########## (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring
+########### (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by any part of the body or by any object;
 
@@ -9804,7 +9804,7 @@ Touching may be accomplished by any part of the body.**
 
 (iv) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-########## (f) When the other person is incapable of consenting
+########### (f) When the other person is incapable of consenting
 
 (i) That the accused committed a sexual act upon another person by causing penetration, however slight, of the vulva, anus, or mouth by any part of the body or by any object;
 
@@ -9818,9 +9818,9 @@ Touching may be accomplished by any part of the body.**
 
 (iv) That the accused did so with intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-### (5) Aggravated sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
+#### (5) Aggravated sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
 
-#### (a) By force
+##### (a) By force
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person;
 
@@ -9828,7 +9828,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-#### (b) By force causing or likely to cause death or grievous bodily harm
+##### (b) By force causing or likely to cause death or grievous bodily harm
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person;
 
@@ -9836,7 +9836,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-#### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping
+##### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person;
 
@@ -9844,7 +9844,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-#### (d) By first rendering that other person unconscious
+##### (d) By first rendering that other person unconscious
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person;
 
@@ -9852,7 +9852,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-#### (e) By administering a drug, intoxicant, or other similar substance
+##### (e) By administering a drug, intoxicant, or other similar substance
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person;
 
@@ -9860,9 +9860,9 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-### (6) Aggravated sexual contact involving the touching of any body part of any person.
+#### (6) Aggravated sexual contact involving the touching of any body part of any person.
 
-#### (a) By force
+##### (a) By force
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, any body part of any person;
 
@@ -9870,7 +9870,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-#### (b) By force causing or likely to cause death or grievous bodily harm
+##### (b) By force causing or likely to cause death or grievous bodily harm
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, any body part of any person;
 
@@ -9878,7 +9878,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-#### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping
+##### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, any body part of any person;
 
@@ -9886,7 +9886,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-#### (d) By first rendering that other person unconscious
+##### (d) By first rendering that other person unconscious
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, any body part of any person;
 
@@ -9894,7 +9894,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-#### (e) By administering a drug, intoxicant, or other similar substance
+##### (e) By administering a drug, intoxicant, or other similar substance
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, any body part of any person;
 
@@ -9902,9 +9902,9 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-### (7) Abusive sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
+#### (7) Abusive sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
 
-#### (a) By threatening or placing that other person in fear
+##### (a) By threatening or placing that other person in fear
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person;
 
@@ -9912,7 +9912,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-#### (b) By causing bodily harm
+##### (b) By causing bodily harm
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person;
 
@@ -9920,7 +9920,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-#### (c) By fraudulent representation
+##### (c) By fraudulent representation
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person;
 
@@ -9928,7 +9928,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-#### (d) By false pretense
+##### (d) By false pretense
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person;
 
@@ -9936,7 +9936,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-#### (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring
+##### (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person;
 
@@ -9946,7 +9946,7 @@ Touching may be accomplished by any part of the body.**
 
 (iv) That the accused did so with intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-#### (f) When the other person is incapable of consenting
+##### (f) When the other person is incapable of consenting
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person;
 
@@ -9960,9 +9960,9 @@ Touching may be accomplished by any part of the body.**
 
 (iv) That the accused did so with intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-### (8) Abusive sexual contact involving the touching of any body part of any person.
+#### (8) Abusive sexual contact involving the touching of any body part of any person.
 
-#### (a) By threatening or placing that other person in fear
+##### (a) By threatening or placing that other person in fear
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, any body part of any person;
 
@@ -9970,7 +9970,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-###### (b) By causing bodily harm
+####### (b) By causing bodily harm
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, any body part of any person;
 
@@ -9978,7 +9978,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-######## (c) By fraudulent representation
+######### (c) By fraudulent representation
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, any body part of any person;
 
@@ -9986,7 +9986,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-########## (d) By false pretense
+########### (d) By false pretense
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, any body part of any person;
 
@@ -9994,7 +9994,7 @@ Touching may be accomplished by any part of the body.**
 
 (iii) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-############ (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring
+############# (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, any body part of any person;
 
@@ -10004,7 +10004,7 @@ Touching may be accomplished by any part of the body.**
 
 (iv) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-############## (f) When the other person is incapable of consenting
+############### (f) When the other person is incapable of consenting
 
 (i) That the accused committed sexual contact upon another person by touching, or causing another person to touch, any body part of any person;
 
@@ -10018,63 +10018,63 @@ Touching may be accomplished by any part of the body.**
 
 (iv) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
  Sexual offenses have been separated into three statutes: adults (120), children (120b), and other offenses (120c).
 
-#### (2) Definitions.
+##### (2) Definitions.
 
  The terms are defined in Paragraph 45.a.(g).
 
-##### (3) Victim character and privilege.
+###### (3) Victim character and privilege.
 
  See Mil. R. Evid. 412 concerning rules of evidence relating to the character of the victim of an alleged sexual offense. See Mil. R. Evid. 514 concerning rules of evidence relating to privileged communications between the victim and victim advocate.
 
-###### (4) Consent as an element.
+####### (4) Consent as an element.
 
  Lack of consent is not an element of any offense under this paragraph unless expressly stated. Consent may be relevant for other purposes.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
  See paragraph 3 of this part and Appendix 12A.
 
-## e. Maximum punishments.
+### e. Maximum punishments.
 
-### (1) Rape.
+#### (1) Rape.
 
  Forfeiture of all pay and allowances and confinement for life without eligibility for parole. Mandatory minimum - Dismissal or dishonorable discharge.
 
-#### (2) Sexual assault.
+##### (2) Sexual assault.
 
  Forfeiture of all pay and allowances, and confinement for 30 years. Mandatory minimum - Dismissal or dishonorable discharge.
 
-##### (3) Aggravated sexual contact.
+###### (3) Aggravated sexual contact.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 20 years.
 
-###### (4) Abusive sexual contact.
+####### (4) Abusive sexual contact.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 7 years.
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Rape involving contact between penis and vulva or anus or mouth.
+#### (1) Rape involving contact between penis and vulva or anus or mouth.
 
-			#### (a) By force.
+			##### (a) By force.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____, commit a sexual act upon ____________ by causing penetration of ___________'s (vulva) (anus) (mouth) with _________'s penis, by using unlawful force.
 
-			##### (b) By force causing or likely to cause death or grievous bodily harm.
+			###### (b) By force causing or likely to cause death or grievous bodily harm.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon ____________ by causing penetration of ___________'s (vulva) (anus) (mouth) with _______'s penis, by using force likely to cause death or grievous bodily harm to _________, to wit: _____________.
 
-			###### (d) By first rendering that other person unconscious.
+			####### (d) By first rendering that other person unconscious.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon __________ by causing penetration of __________'s (vulva) (anus) (mouth) with ________'s penis, by first rendering __________ unconscious by __________________.
 
-			####### (e) By administering a drug, intoxicant, or other similar substance.
+			######## (e) By administering a drug, intoxicant, or other similar substance.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon ____________ by causing penetration of ___________'s (vulva) (anus) (mouth) with _________'s penis, by administering to ____________ (by force) (by threat of force) (without the knowledge or permission of ___________) a (drug) (intoxicant) (list other similar substance), to wit:  ________, thereby substantially impairing the ability of ___________ to appraise or control his/her conduct.
 
@@ -10082,25 +10082,25 @@ Touching may be accomplished by any part of the body.**
 
 			
 
-### (2) Rape involving penetration of genital opening by any part of the body or any object.
+#### (2) Rape involving penetration of genital opening by any part of the body or any object.
 
-			#### (a) By force.
+			##### (a) By force.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a sexual act upon _________, by penetrating the (vulva) (anus) (mouth) of ____________ with (list body part or object) by using unlawful force, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse/gratify the sexual desire of) ____________.
 
-			##### (b) By force causing or likely to cause death or grievous bodily injury.
+			###### (b) By force causing or likely to cause death or grievous bodily injury.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon _________, by penetrating the (vulva) (anus) (mouth) of __________ with (list body part or object) by using force likely to cause death or grievous bodily harm to ________, to wit: _________________, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse/gratify the sexual desire of) ____________.
 
-			###### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping.
+			####### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ___ 20__, commit a sexual act upon ________, by penetrating the (vulva) (anus) (mouth) of __________ with (list body part or object) by (threatening ______) (placing ______ in fear) that __________ would be subjected to (death) (grievous bodily harm) (kidnapping), with an intent to (abuse) (humiliate) (harass) (degrade) (arouse/gratify the sexual desire of) ____________.
 
-			####### (d) By first rendering that other person unconscious.
+			######## (d) By first rendering that other person unconscious.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a sexual act upon ________, by penetrating the (vulva) (anus) (mouth) of ________ with (list body part or object) by first rendering ________ unconscious, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse/gratify the sexual desire of) ____________.
 
-			######## (e) By administering a drug, intoxicant, or other similar substance.
+			######### (e) By administering a drug, intoxicant, or other similar substance.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a sexual act upon _________, by penetrating the (vulva) (anus) (mouth) of ____________ with (list body part or object) by administering to ____________ (by force) (by threat of force) (without the knowledge or permission of ___________) a (drug) (intoxicant) (list other similar substance), to wit:  ________, thereby substantially impairing the ability of ___________ to appraise or control his/her conduct, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse/gratify the sexual desire of) ____________.
 
@@ -10108,29 +10108,29 @@ Touching may be accomplished by any part of the body.**
 
 			
 
-### (3) Sexual assault involving contact between penis and vulva or anus or mouth.
+#### (3) Sexual assault involving contact between penis and vulva or anus or mouth.
 
-			#### (a) By threatening or placing that other person in fear.
+			##### (a) By threatening or placing that other person in fear.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon _________, by causing penetration of _________'s (vulva) (anus) (mouth) with _________'s penis, by (threatening _________) (placing _________ in fear).
 
-			##### (b) By causing bodily harm.
+			###### (b) By causing bodily harm.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a sexual act upon _______, by causing penetration of __________'s (vulva) (anus) (mouth) with _______'s penis by causing bodily harm to _________, to wit: _________.
 
-			###### (c) By fraudulent representation.
+			####### (c) By fraudulent representation.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon __________, by causing penetration of _________'s (vulva) (anus) (mouth) with _________'s penis by making a fraudulent representation that the sexual act served a professional purpose, to wit: __________.
 
-			####### (d) By false pretense.
+			######## (d) By false pretense.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon __________, by causing penetration of _________'s (vulva) (anus) (mouth) with _________'s penis by inducing a belief by (artifice) (pretense) (concealment) that the said accused was another person.
 
-			######## (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring.
+			######### (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon _________, by causing penetration of __________'s (vulva) (anus) (mouth) with ________'s penis when he/she knew or reasonably should have known that ________ was (asleep) (unconscious) (unaware the sexual act was occurring due to _________).
 
-			######### (f) When the other person is incapable of consenting.
+			########## (f) When the other person is incapable of consenting.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon _________, by causing penetration of __________'s (vulva) (anus) (mouth) with _______'s penis, when _________ was incapable of consenting to the sexual act because he/she --LSQP--was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )--RSQP-- --LSQP--had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)--RSQP--, a condition that was known or reasonably should have been known by the said accused.
 
@@ -10138,29 +10138,29 @@ Touching may be accomplished by any part of the body.**
 
 			
 
-### (4) Sexual assault involving penetration of vulva or anus or mouth by any part of the body or any object.
+#### (4) Sexual assault involving penetration of vulva or anus or mouth by any part of the body or any object.
 
-			#### (a) By threatening or placing that other person in fear.
+			##### (a) By threatening or placing that other person in fear.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a sexual act upon __________, by penetrating the (vulva) (anus) (mouth) of ______________ with (list body part or object), by (threatening __________) (placing __________ in fear), with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-			##### (b) By causing bodily harm.
+			###### (b) By causing bodily harm.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a sexual act upon __________, by penetrating the (vulva) (anus) (mouth) of ______________ with (list body part or object), by causing bodily harm to __________, to wit:_________ with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-			###### (c) By fraudulent representation.
+			####### (c) By fraudulent representation.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon __________, by penetrating the (vulva) (anus) (mouth) of ______________ with (list body part or object), by making a fraudulent representation that the sexual act served a professional purpose, to wit: __________, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-			####### (d) By false pretense.
+			######## (d) By false pretense.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a sexual act upon _________, by penetrating the (vulva) (anus) (mouth) of _____________ with (list body part or object), by inducing a belief by (artifice) (pretense) (concealment) that the said accused was another person, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-			######## (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring.
+			######### (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon __________, by penetrating the (vulva) (anus) (mouth) of _____________ with (list body part or object), when he/she knew or reasonably should have known that _________ was (asleep) (unconscious) (unaware the sexual act was occurring due to ________), with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ___________.
 
-			######### (f) When the other person is incapable of consenting.
+			########## (f) When the other person is incapable of consenting.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a sexual act upon __________, by penetrating the (vulva) (anus) ( mouth) of ______________ with (list body part or object), when ____________ was incapable of consenting to the sexual act because he/she --LSQP--was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )--RSQP-- --LSQP--had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)--RSQP--, a condition that was known or reasonably should have been known by the said accused, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) _____.
 
@@ -10168,25 +10168,25 @@ Touching may be accomplished by any part of the body.**
 
 			
 
-### (5) Aggravated sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
+#### (5) Aggravated sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
 
-			#### (a) By force.
+			##### (a) By force.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause _______ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, by using unlawful force, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
-			##### (b) By force causing or likely to cause death or grievous bodily harm.
+			###### (b) By force causing or likely to cause death or grievous bodily harm.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, by using force likely to cause death or grievous bodily harm to _________, to wit: _________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
-			###### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping.
+			####### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of ______, by (threatening ________) (placing ______ in fear) that _________ would be subjected to (death) (grievous bodily harm) (kidnapping), with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
-			####### (d) By first rendering that other person unconscious.
+			######## (d) By first rendering that other person unconscious.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, --LSQP--(touch) (cause ________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, by rendering _______ unconscious by __________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) _______.
 
-			######## (e) By administering a drug, intoxicant, or other similar substance.
+			######### (e) By administering a drug, intoxicant, or other similar substance.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause __________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of __________, by administering to ____________ (by force) (by threat of force) (without the knowledge or permission of ____) a (drug) (intoxicant) (___) thereby substantially impairing the ability of ___________ to appraise or control his/her conduct, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
@@ -10194,25 +10194,25 @@ Touching may be accomplished by any part of the body.**
 
 			
 
-### (6) Aggravated sexual contact involving the touching of any body part of any person.
+#### (6) Aggravated sexual contact involving the touching of any body part of any person.
 
-			#### (a) By force.
+			##### (a) By force.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause ________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of _______, by using unlawful force, with an intent to (arouse) (gratify the sexual desire of) __________.
 
-			##### (b) By force causing or likely to cause death or grievous bodily harm.
+			###### (b) By force causing or likely to cause death or grievous bodily harm.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of _______, by using force likely to cause death or grievous bodily harm to ________, to wit: _____________, with an intent to (arouse) (gratify the sexual desire of) __________.
 
-			###### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping.
+			####### (c) By threatening or placing that other person in fear that any person would be subjected to death, grievous bodily harm, or kidnapping.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, --LSQP--(touch) (cause ________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of _______, by (threatening _________) (placing _______ in fear) that _____________ would be subjected to (death) (grievous bodily harm) (kidnapping), with an intent to (arouse) (gratify the sexual desire of) __________.
 
-			####### (d) By first rendering that other person unconscious.
+			######## (d) By first rendering that other person unconscious.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of _______, by rendering __________ unconscious by ________________, with an intent to (arouse) (gratify the sexual desire of) __________.
 
-			######## (e) By administering a drug, intoxicant, or other similar substance.
+			######### (e) By administering a drug, intoxicant, or other similar substance.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of ______, by administering to _________ (by force) (by threat of force) (without the knowledge or permission of __________) a (drug) (intoxicant) (____) and thereby substantially impairing the ability of ___________ to appraise or control his/her conduct, with an intent to (arouse) (gratify the sexual desire of) __________.
 
@@ -10220,29 +10220,29 @@ Touching may be accomplished by any part of the body.**
 
 			
 
-### (7) Abusive sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
+#### (7) Abusive sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
 
-			#### (a) By threatening or placing that other person in fear.
+			##### (a) By threatening or placing that other person in fear.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______ by (threatening ________) (placing _________ in fear), with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
-			##### (b) By causing bodily harm.
+			###### (b) By causing bodily harm.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______ by causing bodily harm to __________, to wit: ___________________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
-			###### (c) By fraudulent representation.
+			####### (c) By fraudulent representation.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of __________ by making a fraudulent representation that the sexual contact served a professional purpose, to wit: __________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
-			####### (d) By false pretense.
+			######## (d) By false pretense.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of __________ by inducing a belief by (artifice) (pretense) (concealment) that the said accused was another person, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
-			######## (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring.
+			######### (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ___ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______ when he/she knew or reasonably should have known that _______ was (asleep) (unconscious) (unaware the sexual contact was occurring due to _________), with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
-			######### (f) When that person is incapable of consenting.
+			########## (f) When that person is incapable of consenting.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of ______ when _________ was incapable of consenting to the sexual contact because he/she --LSQP--was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )--RSQP-- --LSQP--had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)--RSQP-- and this condition was known or reasonably should have been known by ___________, with an intent to (abuse) (humiliate) (degrade) (arouse) (gratify the sexual desire of) __________.
 
@@ -10250,29 +10250,29 @@ Touching may be accomplished by any part of the body.**
 
 			
 
-### (8) Abusive sexual contact involving the touching of any body part of any person.
+#### (8) Abusive sexual contact involving the touching of any body part of any person.
 
-			#### (a) By threatening or placing that other person in fear.
+			##### (a) By threatening or placing that other person in fear.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ by (threatening _________) (placing __________ in fear), with an intent to (arouse) (gratify the sexual desire of) _________.
 
-			##### (b) By causing bodily harm.
+			###### (b) By causing bodily harm.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ by causing bodily harm to __________, to wit: _____________, with an intent to (arouse) (gratify the sexual desire of) __________.
 
-			###### (c) By fraudulent representation.
+			####### (c) By fraudulent representation.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ by making a fraudulent representation that the sexual contact served a professional purpose, to wit: __________, with an intent to (arouse) (gratify the sexual desire of) __________.
 
-			####### (d) By false pretense.
+			######## (d) By false pretense.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ by inducing a belief by (artifice) (pretense) (concealment) that the said accused was another person, with an intent to (arouse) (gratify the sexual desire of) __________.
 
-			######## (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring.
+			######### (e) Of a person who is asleep, unconscious, or otherwise unaware the act is occurring.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ when he/she knew or reasonably should have known that _________ was (asleep) (unconscious) (unaware the sexual contact was occurring due to _________), with an intent to (arouse) (gratify the sexual desire of) __________.
 
-			######### (f) When that person is incapable of consenting.
+			########## (f) When that person is incapable of consenting.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, --LSQP--(touch) (cause another person to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (name of body part) of _______ when ____________ was incapable of consenting to the sexual contact because he/she --LSQP--was impaired by (a drug, to wit: ______) (an intoxicant, to wit: __________) (  )--RSQP-- --LSQP--had a (mental disease, to wit: ________) (mental defect, to wit: _________) (physical disability, to wit: _________)--RSQP--, a condition that was known or reasonably should have been known by _____________, with an intent to (arouse) (gratify the sexual desire of) __________.
 
@@ -10282,9 +10282,9 @@ Touching may be accomplished by any part of the body.**
 
 			
 
-#  Article 120a-Stalking
+## 45a. Article 120a-Stalking
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **Any person subject to this section: **
 
@@ -10308,7 +10308,7 @@ is guilty of stalking and shall be punished as a court-martial may direct.**
 
 (3) ** The term "immediate family," in the case of a specific person, means a spouse, parent, child, or sibling of the person, or any other family member, relative, or intimate partner of the person who regularly resides in the household of the person or who within the six months preceding the commencement of the course of conduct regularly resided in the household of the person.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused wrongfully engaged in a course of conduct directed at a specific person that would cause a reasonable person to fear death or bodily harm to himself or herself or a member of his or her immediate family;
 
@@ -10316,19 +10316,19 @@ is guilty of stalking and shall be punished as a court-martial may direct.**
 
 (3) That the accused's acts induced reasonable fear in the specific person of death or bodily harm to himself or herself or to a member of his or her immediate family.
 
-## c. Explanation.
+### c. Explanation.
 
  See Paragraph 54c(1)(a) for an explanation of "bodily harm".
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 3 years.
 
-## f. Sample Specification.
+### f. Sample Specification.
 
   In that  (personal jurisdiction data), who (knew)(should have known) that  would be placed in reasonable fear of (death)(bodily harm) to (himself) (herself)
 
@@ -10336,11 +10336,11 @@ Dishonorable discharge, forfeiture of all pay and allowances, and confinement fo
 
   to about   20 ), wrongfully engage in a course of conduct directed at  , to wit:  thereby inducing in  , a reasonable fear of (death)(bodily harm) to (himself)(herself) (  , a member of his or her immediate family).
 
-#  Article 120b-Rape and sexual assault of a child
+## 45b. Article 120b-Rape and sexual assault of a child
 
  --LSQP--**Note: This statute applies to offenses committed on or after 28 June 2012. Article 120b is a new statute designed to address only child sexual offenses. Previous versions of child sexual offenses are located as follows: for offenses committed on or before 30 September 2007, _see_ Appen- dix 27; for offenses committed during the period 1 October 2007 through 27 June 2012, _see_ Appendix 28.--RSQP--**
 
-## a. Text of Statute
+### a. Text of Statute
 
 (a) **_Rape of a Child_. Any person subject to this chapter who-**
 
@@ -10406,17 +10406,17 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 (D) **any indecent conduct, intentionally done with or in the presence of a child, including via any communication technology, that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Rape of a child involving contact between penis and vulva or anus or mouth.
+#### (1) Rape of a child involving contact between penis and vulva or anus or mouth.
 
-			#### (a) Rape of a child who has not attained the age of 12.
+			##### (a) Rape of a child who has not attained the age of 12.
 
 				(i) That the accused committed a sexual act upon a child causing penetration, however slight, by the penis of the vulva or anus or mouth; and
 
 				(ii) That at the time of the sexual act the child had not attained the age of 12 years.
 
-			#### (b) Rape by force of a child who has attained the age of 12.
+			##### (b) Rape by force of a child who has attained the age of 12.
 
 				(i) That the accused committed a sexual act upon a child causing penetration, however slight, by the penis of the vulva or anus or mouth; and
 
@@ -10424,7 +10424,7 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 				(iii) That the accused did so by using force against that child or any other person.
 
-			#### (c) Rape by threatening or placing in fear a child who has attained the age of 12.
+			##### (c) Rape by threatening or placing in fear a child who has attained the age of 12.
 
 				(i) That the accused committed a sexual act upon a child causing penetration, however slight, by the penis of the vulva or anus or mouth;
 
@@ -10432,7 +10432,7 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 				(iii) That the accused did so by threatening the child or another person or placing that child in fear.
 
-			#### (d) Rape by rendering unconscious a child who has attained the age of 12.
+			##### (d) Rape by rendering unconscious a child who has attained the age of 12.
 
 				(i) That the accused committed a sexual act upon a child causing penetration, however slight, by the penis of the vulva or anus or mouth;
 
@@ -10440,7 +10440,7 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 				(iii) That the accused did so by rendering that child unconscious.
 
-			#### (e) Rape by administering a drug, intoxicant, or other similar substance to a child who has attained the age of 12.
+			##### (e) Rape by administering a drug, intoxicant, or other similar substance to a child who has attained the age of 12.
 
 				(i) That the accused committed a sexual act upon a child causing penetration, however slight, by the penis of the vulva or anus or mouth;
 
@@ -10448,9 +10448,9 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 				(iii) That the accused did so by administering to that child a drug, intoxicant, or other similar substance.
 
-		### (2) Rape of a child involving penetration of vulva or anus or mouth by any part of the body or any object.
+		#### (2) Rape of a child involving penetration of vulva or anus or mouth by any part of the body or any object.
 
-			#### (a) Rape of a child who has not attained the age of 12.
+			##### (a) Rape of a child who has not attained the age of 12.
 
 				(i) That the accused committed a sexual act upon a child by causing penetration, however slight, of the vulva, anus, or mouth of the child by any part of the body or by any object;
 
@@ -10458,7 +10458,7 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 				(iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-			#### (b) Rape by force of a child who has attained the age of 12.
+			##### (b) Rape by force of a child who has attained the age of 12.
 
 				(i) That the accused committed a sexual act upon a child by causing penetration, however slight, of the vulva, anus, or mouth of the child by any part of the body or by any object;
 
@@ -10468,7 +10468,7 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 				(iv) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-			#### (c) Rape by threatening or placing in fear a child who has attained the age of 12.
+			##### (c) Rape by threatening or placing in fear a child who has attained the age of 12.
 
 				(i) That the accused committed a sexual act upon a child by causing penetration, however slight, of the vulva or anus  or mouth of the child by any part of the body or by any object;
 
@@ -10478,7 +10478,7 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 				(iv) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-			#### (d) Rape by rendering unconscious a child who has attained the age of 12.
+			##### (d) Rape by rendering unconscious a child who has attained the age of 12.
 
 				(i) That the accused committed a sexual act upon a child by causing penetration, however slight, of the vulva or anus  or mouth of the child by any part of the body or by any object;
 
@@ -10488,7 +10488,7 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 				(iv) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-			#### (e) Rape by administering a drug, intoxicant, or other similar substance to a child who has attained the age of 12.
+			##### (e) Rape by administering a drug, intoxicant, or other similar substance to a child who has attained the age of 12.
 
 				(i) That the accused committed a sexual act upon a child by causing penetration, however slight, of the vulva or anus  or mouth of the child by any part of the body or by any object;
 
@@ -10498,15 +10498,15 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 				(iv) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-		### (3) Sexual assault of a child.
+		#### (3) Sexual assault of a child.
 
-			#### (a) Sexual assault of a child who has attained the age of 12 involving contact between penis and vulva or anus or mouth.
+			##### (a) Sexual assault of a child who has attained the age of 12 involving contact between penis and vulva or anus or mouth.
 
 				(i) That the accused committed a sexual act upon a child causing contact between penis and vulva or anus or mouth; and
 
 				(ii) That at the time of the sexual act the child had attained the age of 12 years but had not attained the age of 16 years.
 
-			#### (b) Sexual assault of a child who has attained the age of 12 involving penetration of vulva or anus  or mouth by any part of the body or any object.
+			##### (b) Sexual assault of a child who has attained the age of 12 involving penetration of vulva or anus  or mouth by any part of the body or any object.
 
 				(i) That the accused committed a sexual act upon a child by causing penetration, however slight, of the vulva or anus or mouth  of  the child by any part of the body or by any object;
 
@@ -10514,155 +10514,155 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 				(iii) That the accused did so with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-		### (4) Sexual abuse of a child.
+		#### (4) Sexual abuse of a child.
 
-			#### (a) Sexual abuse of a child by sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
+			##### (a) Sexual abuse of a child by sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
 
 				(i) That the accused committed sexual contact upon a child by touching, or causing another person to touch, either directly or through the clothing, the genitalia, anus, groin, breast, inner thigh, or buttocks of any person; and
 
 				(ii) hat the accused did so with intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-			#### (b) Sexual abuse of a child by sexual contact involving the touching of any body part.
+			##### (b) Sexual abuse of a child by sexual contact involving the touching of any body part.
 
 				(i) That the accused committed sexual contact upon a child by touching, or causing another person to touch, either directly or through the clothing, any body part of any person; and
 
 				(ii) That the accused did so with intent to arouse or gratify the sexual desire of any person.
 
-			#### (c) Sexual abuse of a child by indecent exposure.
+			##### (c) Sexual abuse of a child by indecent exposure.
 
 				(i) That the accused intentionally exposed his or her genitalia, anus, buttocks, or female areola or nipple to a child by any means; and
 
 				(ii) That the accused did so with an intent to abuse, humiliate or degrade any person, or to arouse or gratify the sexual desire of any person.
 
-			#### (d) Sexual abuse of a child by indecent communication.
+			##### (d) Sexual abuse of a child by indecent communication.
 
 				(i) That the accused intentionally communicated indecent language to a child by any means; and
 
 				(ii) That the accused did so with an intent to abuse, humiliate or degrade any person, or to arouse or gratify the sexual desire of any person.
 
-			#### (e) Sexual abuse of a child by indecent conduct.
+			##### (e) Sexual abuse of a child by indecent conduct.
 
 				(i) That the accused engaged in indecent conduct, intentionally done with or in the presence of a child; and
 
 				(ii) That the indecent conduct amounted to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
 
-## c. Explanation.
+### c. Explanation.
 
-		### (1) In general.
+		#### (1) In general.
 
  Sexual offenses have been separated into three statutes: adults (120), children (120b), and other offenses (120c).
 
-		### (2) Definitions.
+		#### (2) Definitions.
 
  Terms not defined in this paragraph are defined in paragraph 45b.a.(h), _supra_.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
  See paragraph 3 of this part and Appendix 12A.
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-		### (1) Rape of a child.
+		#### (1) Rape of a child.
 
  Forfeiture of all pay and allowances, and confinement for life without eligibility for parole. Mandatory minimum - Dismissal or dishonorable discharge.
 
-		### (2) Sexual assault of a child.
+		#### (2) Sexual assault of a child.
 
  Forfeiture of all pay and allowances, and confinement for 30 years. Mandatory minimum - Dismissal or dishonorable discharge.
 
-		### (3) Sexual abuse of a child.
+		#### (3) Sexual abuse of a child.
 
-			#### (a) Cases involving sexual contact.
+			##### (a) Cases involving sexual contact.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 20 years.
 
-			#### (b) Other cases.
+			##### (b) Other cases.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 15 years.
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-		### (1) Rape of a child involving contact between penis and vulva or anus or mouth.
+		#### (1) Rape of a child involving contact between penis and vulva or anus or mouth.
 
-			#### (a) Rape of a child who has not attained the age of 12.
+			##### (a) Rape of a child who has not attained the age of 12.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, commit a sexual act upon __________, a child who had not attained the age of 12 years, by causing penetration of _________'s (vulva) (anus) (mouth) with _________'s penis.
 
-			#### (b) Rape by force of a child who has attained the age of 12 years.
+			##### (b) Rape by force of a child who has attained the age of 12 years.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, commit a sexual act upon __________, a child who had attained the age of 12 years but had not attained the age of 16 years, by causing penetration of _________'s (vulva) (anus) (mouth) with _________'s penis, by using force against ________, to wit: ______________.
 
-			#### (c) Rape by threatening or placing in fear a child who has attained the age of 12 years.
+			##### (c) Rape by threatening or placing in fear a child who has attained the age of 12 years.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a sexual act upon __________, a child who had attained the age of 12 years but had not attained the age of 16 years, by causing penetration of _________'s (vulva) (anus) (mouth) with _______'s penis by (threatening ______) (placing _______ in fear).
 
-			#### (d) Rape by rendering unconscious of a child who has attained the age of 12 years.
+			##### (d) Rape by rendering unconscious of a child who has attained the age of 12 years.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon ________, a child who had attained the age of 12 years but had not attained the age of 16 years, by causing penetration of ________'s (vulva) (anus) (mouth) with _________'s penis by rendering __________ unconscious by ___________________.
 
-			#### (e) Rape by administering a drug, intoxicant, or other similar substance to a child who has attained the age of 12 years.
+			##### (e) Rape by administering a drug, intoxicant, or other similar substance to a child who has attained the age of 12 years.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a sexual act upon __________, a child who had attained the age of 12 years but had not attained the age of 16 years, by causing penetration of __________'s (vulva) (anus) (mouth) with ________'s penis by administering to ____________ a (drug) (intoxicant) (____), to wit: _____________.
 
-		### (2) Rape of a child involving penetration of the vulva or anus or mouth by any part of the body or any object.
+		#### (2) Rape of a child involving penetration of the vulva or anus or mouth by any part of the body or any object.
 
-			#### (a) Rape of a child who has not attained the age of 12.
+			##### (a) Rape of a child who has not attained the age of 12.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a sexual act upon _________, a child who had not attained the age of 12 years, by penetrating the (vulva) (anus) (mouth) of ____________ with (list body part or object), with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-			#### (b) Rape by force of a child who has attained the age of 12 years.
+			##### (b) Rape by force of a child who has attained the age of 12 years.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a sexual act upon __________, a child who had attained the age of 12 years but had not attained the age of 16 years, by penetrating the (vulva) (anus) (mouth) of ____________ with (list body part or object), by using force against ________, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-			#### (c) Rape by threatening or placing in fear a child who has attained the age of 12 years.
+			##### (c) Rape by threatening or placing in fear a child who has attained the age of 12 years.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon __________, a child who had attained the age of 12 years but had not attained the age of 16 years, by penetrating the (vulva) (anus) (mouth) of ____________ with (list body part or object), by (threatening __________) (placing _______ in fear), with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-			#### (d) Rape by rendering unconscious of a child who has attained the age of 12 years.
+			##### (d) Rape by rendering unconscious of a child who has attained the age of 12 years.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon __________, a child who had attained the age of 12 years but had not attained the age of 16 years, by penetrating the (vulva) (anus) (mouth) of ____________ with (list body part or object), by rendering __________ unconscious, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-			#### (e) Rape by administering a drug, intoxicant, or other similar substance to a child who has attained the age of 12 years.
+			##### (e) Rape by administering a drug, intoxicant, or other similar substance to a child who has attained the age of 12 years.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a sexual act upon __________, a child who had attained the age of 12 years but had not attained the age of 16 years, by penetrating the (vulva) (anus) (mouth) of ____________ with (list body part or object), by administering to ____________ a (drug) (intoxicant) (____), to wit: __________, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-		### (3) Sexual assault of a child.
+		#### (3) Sexual assault of a child.
 
-			#### (a) Sexual assault of a child who has attained the age of 12 years involving contact between penis and vulva or anus or mouth.
+			##### (a) Sexual assault of a child who has attained the age of 12 years involving contact between penis and vulva or anus or mouth.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _____ 20__, commit a sexual act upon _______, a child who had attained the age of 12 years but had not attained the age of 16 years, by causing penetration of ___________'s (vulva) (anus) (mouth) with _________'s penis.
 
-			#### (b) Sexual assault of a child who has attained the age of 12 years involving penetration of vulva or anus or mouth by any part of the body or any object.
+			##### (b) Sexual assault of a child who has attained the age of 12 years involving penetration of vulva or anus or mouth by any part of the body or any object.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a sexual act upon __________, a child who had attained the age of 12 years but had not attained the age of 16 years, by penetrating the (vulva) (anus) (mouth) of ____________ with (list body part or object), with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-		### (4) Sexual abuse of a child.
+		#### (4) Sexual abuse of a child.
 
- 			#### (a) Sexual abuse of a child involving sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
+ 			##### (a) Sexual abuse of a child involving sexual contact involving the touching of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a lewd act upon __________, a child who had not attained the age of 16 years, by intentionally --LSQP--(touching) (causing _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- the (genitalia) (anus) (groin) (breast) (inner thigh) (buttocks) of _______, with an intent to (abuse) (humiliate) (degrade) __________.
 
-			##### (b) Sexual abuse of a child involving sexual contact involving the touching of any body part of any person.
+			###### (b) Sexual abuse of a child involving sexual contact involving the touching of any body part of any person.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ______ 20__, commit a lewd act upon __________, a child who had not attained the age of 16 years, by intentionally exposing --LSQP--his (genitalia) (anus) (buttocks)--RSQP-- --LSQP--her (genitalia) (anus) (buttocks) (areola) (nipple)--RSQP-- to ___________, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-			##### (c) Sexual abuse of a child involving indecent exposure.
+			###### (c) Sexual abuse of a child involving indecent exposure.
 
  In that (personal jurisdiction data), did (at/on board location), on or about ____ 20__, commit a lewd act upon _______, a child who had not attained the age of 16 years, by intentionally --LSQP--(touching) (causing _________ to touch)--RSQP-- --LSQP--(directly) (through the clothing)--RSQP-- (name of body part) of _______, with an intent to (arouse) (gratify the sexual desire of) __________.
 
-			##### (d) Sexual abuse of a child involving indecent communication.
+			###### (d) Sexual abuse of a child involving indecent communication.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, commit a lewd act upon __________, a child who had not attained the age of 16 years, by intentionally communicating to ________ indecent language to wit: ___________, with an intent to (abuse) (humiliate) (harass) (degrade) (arouse) (gratify the sexual desire of) ____________.
 
-			##### (e) Sexual abuse of a child involving indecent conduct.
+			###### (e) Sexual abuse of a child involving indecent conduct.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, commit a lewd act upon __________, a child who had not attained the age of 16 years, by engaging in indecent conduct, to wit: __________, intentionally done (with) (in the presence of) _______, which conduct amounted to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
 
-#  Article 120c-Other sexual misconduct
+## 45c. Article 120c-Other sexual misconduct
 
 **--LSQP--Note: This statute applies to offenses committed on or after 28 June 2012. Article 120c is a new statute designed to address miscellaneous sexual misconduct. Previous versions of these offenses are located as follows: for offenses committed on or before 30 September 2007, _see_ Appendix 27; for offenses committed during the period 1 October 2007 through 27 June 2012, _see_ Appendix 28.--RSQP--**
 
-## a. Text of Statute
+### a. Text of Statute
 
 (a) **_Indecent Viewing, Visual Recording, or Broadcasting_. Any person subject to this chapter who, without legal justification or lawful authorization-**
 
@@ -10698,9 +10698,9 @@ is guilty of an offense under this section and shall be punished as a court-mart
 
 (6) **_Indecent manner_. The term 'indecent manner' means conduct that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Indecent viewing.
+#### (1) Indecent viewing.
 
 			(a) That the accused knowingly and wrongfully viewed the private area of another person;
 
@@ -10708,7 +10708,7 @@ is guilty of an offense under this section and shall be punished as a court-mart
 
 			(c) That said viewing took place under circumstances in which the other person had a reasonable expectation of privacy.
 
-		### (2) Indecent visual recording.
+		#### (2) Indecent visual recording.
 
 			(a) That the accused knowingly recorded (photographed, videotaped, filmed, or recorded by any means) the private area of another person;
 
@@ -10716,7 +10716,7 @@ is guilty of an offense under this section and shall be punished as a court-mart
 
 			(c) That said visual recording was made under circumstances in which the other person had a reasonable expectation of privacy.
 
-		### (3) Broadcasting of an indecent visual recording.
+		#### (3) Broadcasting of an indecent visual recording.
 
 			(a) That the accused knowingly broadcast a certain visual recording of another person's private area;
 
@@ -10728,7 +10728,7 @@ is guilty of an offense under this section and shall be punished as a court-mart
 
 			(e) That the accused knew or reasonably should have known that said visual recording was made under circumstances in which the other person had a reasonable expectation of privacy.
 
-		### (4) Distribution of an indecent visual recording.
+		#### (4) Distribution of an indecent visual recording.
 
 			(a) That the accused knowingly distributed a certain visual recording of another person's private area;
 
@@ -10740,11 +10740,11 @@ is guilty of an offense under this section and shall be punished as a court-mart
 
 			(e) That the accused knew or reasonably should have known that said visual recording was made under circumstances in which the other person had a reasonable expectation of privacy.
 
-		#### (5) Forcible pandering.
+		##### (5) Forcible pandering.
 
  That the accused compelled another person to engage in an act of prostitution with any person.
 
-		#### (6) Indecent exposure.
+		##### (6) Indecent exposure.
 
 			(a) That the accused exposed his or her genitalia, anus, buttocks, or female areola or nipple;
 
@@ -10752,71 +10752,71 @@ is guilty of an offense under this section and shall be punished as a court-mart
 
 			(c) That the exposure was intentional.
 
-## c. Explanation.
+### c. Explanation.
 
-		### (1) In general.
+		#### (1) In general.
 
  Sexual offenses have been separated into three statutes: adults (120), children (120b), and other offenses (120c).
 
-		#### (2) Definitions.
+		##### (2) Definitions.
 
 			(a) Recording or visual recording. A "recording" or "visual recording" is a still or moving visual image captured or recorded by any means.
 
 			(b) Other terms are defined in paragraph 45c.a.(d), _supra_
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
  See paragraph 3 of this part and Appendix 12A.
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Indecent viewing.
+#### (1) Indecent viewing.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 1 year.
 
-### (2) Indecent visual recording.
+#### (2) Indecent visual recording.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 5 years.
 
-### (3) Broadcasting or distribution of an indecent visual recording.
+#### (3) Broadcasting or distribution of an indecent visual recording.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 7 years.
 
-### (4) Forcible pandering.
+#### (4) Forcible pandering.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 12 years.
 
-### (5) Indecent exposure.
+#### (5) Indecent exposure.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 1 year.
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Indecent viewing, visual recording, or broadcasting.
+#### (1) Indecent viewing, visual recording, or broadcasting.
 
-			#### (a) Indecent viewing.
+			##### (a) Indecent viewing.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, knowingly and wrongfully view the private area of __________, without (his) (her) consent and under circumstances in which (he) (she) had a reasonable expectation of privacy.
 
-			#### (b) Indecent visual recording.
+			##### (b) Indecent visual recording.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, knowingly (photograph) (videotape) (film) (make a visual recording of)  the private area of __________, without (his) (her) consent and under circumstances in which (he) (she) had a reasonable expectation of privacy.
 
-			#### (c) Broadcasting or distributing an indecent visual recording.
+			##### (c) Broadcasting or distributing an indecent visual recording.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, knowingly (broadcast) (distribute) a visual recording of the private area of __________, when the said accused knew or reasonably should have known that the said visual recording  was (made) (and/or) (distributed/broadcast) without the consent of ______________ and under circumstances in which (he) (she) had a reasonable expectation of privacy.
 
-		### (2) Forcible pandering.
+		#### (2) Forcible pandering.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, wrongfully compel __________ to engage in (a sexual act) (sexual contact) with ___________, to wit: ____________, for the purpose of receiving (money) (other compensation) (_______).
 
-		### (3) Indecent exposure.
+		#### (3) Indecent exposure.
 
  In that (personal jurisdiction data), did (at/on board location), on or about _______ 20__, intentionally expose "his (genitalia) (anus) (buttocks)" "her (genitalia) (anus) (buttocks) (areola) (nipple)" in an indecent manner, to wit: ___________.
 
-#  Article 121-Larceny and wrongful appropriation
+## 46. Article 121-Larceny and wrongful appropriation
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **Any person subject to this chapter who wrongfully takes, obtains,
 
@@ -10842,9 +10842,9 @@ use of any person other than the owner, is guilty of wrongful appropriation.**
 
 be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Larceny.
+#### (1) Larceny.
 
 (a) That the accused wrongfully took, obtained, or withheld certain
 
@@ -10866,7 +10866,7 @@ use of the accused or for any person other than the owner.
 
 (e) That the property was military property. 
 
-### (2) Wrongful appropriation.
+#### (2) Wrongful appropriation.
 
 (a) That the accused wrongfully took, obtained, or withheld certain
 
@@ -10884,11 +10884,11 @@ benefit of the property or temporarily to appropriate the property for the
 
 use of the accused or for any person other than the owner. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Larceny.
+#### (1) Larceny.
 
-#### (a) In general.
+##### (a) In general.
 
 A wrongful taking with intent permanently to deprive includes the
 
@@ -10904,7 +10904,7 @@ under Article 121 may be charged and proved under a specification alleging
 
 that the accused "did steal" the property in question. 
 
-#### (b) Taking, obtaining, or withholding.
+##### (b) Taking, obtaining, or withholding.
 
 There must be a taking, obtaining, or withholding of the property
 
@@ -10968,9 +10968,9 @@ creditor does not give the creditor a possessory right in any specific money
 
 or other property of the debtor. 
 
-#### (c) Ownership of the property.
+##### (c) Ownership of the property.
 
-##### (i) In general.
+###### (i) In general.
 
 Article 121 requires that the taking, obtaining, or withholding
 
@@ -10978,7 +10978,7 @@ be from the possession of the owner or of any other person. Care, custody,
 
 management, and control are among the definitions of possession. 
 
-##### (ii) Owner.
+###### (ii) Owner.
 
 "Owner" refers to the person who, at the time of the
 
@@ -10992,7 +10992,7 @@ may be involved in the particular case. For instance, an organization is the
 
 the larceny thereof. 
 
-##### (iii) Any other person.
+###### (iii) Any other person.
 
 "Any other person" means any person-even a person
 
@@ -11012,7 +11012,7 @@ such as a borrower or hirer, is one who does not have title but who does
 
 have possession, or the right of possession, of the property. 
 
-##### (iv) Person.
+###### (iv) Person.
 
 "Person," as used in referring to one from whose possession
 
@@ -11024,7 +11024,7 @@ an association, an organization, and an estate. Such a person need not be
 
 a legal entity. 
 
-#### (d) Wrongfulness of the taking, obtaining, or withholding.
+##### (d) Wrongfulness of the taking, obtaining, or withholding.
 
 The taking, obtaining, or withholding of the property must be wrongful.
 
@@ -11058,7 +11058,7 @@ with a guilty knowledge or intent of the principal which that person does
 
 not share. 
 
-#### (e) False pretense.
+##### (e) False pretense.
 
 With respect to obtaining property by false pretense, the false
 
@@ -11096,9 +11096,9 @@ who gets another's watch by pretending that it will be borrowed briefly
 
 and then returned, but who really intends to sell it, is guilty of larceny.
 
-#### (f) Intent.
+##### (f) Intent.
 
-##### (i) In general.
+###### (i) In general.
 
 The offense of larceny requires that the taking, obtaining, or
 
@@ -11128,7 +11128,7 @@ though at the time the vehicle was rented, the person intended to return
 
 it after using it according to the agreement. 
 
-##### (ii) Inference of intent.
+###### (ii) Inference of intent.
 
 An intent to steal may be proved by circumstantial evidence. Thus,
 
@@ -11148,9 +11148,9 @@ of another in a manner likely to cause that person to suffer a permanent
 
 loss thereof. 
 
-##### (iii) Special situations.
+###### (iii) Special situations.
 
-###### (A) Motive does not negate intent.
+####### (A) Motive does not negate intent.
 
 The accused's purpose in taking an item ordinarily is irrelevant
 
@@ -11170,7 +11170,7 @@ as when stolen property is taken from a thief in order to return it to its
 
 owner, larceny or wrongful appropriation is not committed. 
 
-###### (B) Intent to pay for or replace property not a defense.
+####### (B) Intent to pay for or replace property not a defense.
 
 An intent to pay for or replace the stolen property is not a defense,
 
@@ -11182,7 +11182,7 @@ face value, with the intent to return an equivalent amount of money, the
 
 offense of larceny is not committed although wrongful appropriation may be.
 
-###### (C) Return of property not a defense.
+####### (C) Return of property not a defense.
 
  Once a larceny is committed, a return of the property or payment
 
@@ -11190,15 +11190,15 @@ for it is no defense. _See_ subparagraph c(2) below when the
 
 taking, obtaining, or withholding is with the intent to return. 
 
-#### (g) Value.
+##### (g) Value.
 
-##### (i) In general.
+###### (i) In general.
 
 Value is a question of fact to be determined on the basis of all
 
 of the evidence admitted. 
 
-##### (ii) Government property.
+###### (ii) Government property.
 
 When the stolen property is an item issued or procured from Government
 
@@ -11216,7 +11216,7 @@ publication is not conclusive as to the value of the item, and other evidence
 
 may be admitted on the question of its condition and value. 
 
-##### (iii) Other property.
+###### (iii) Other property.
 
 As a general rule, the value of other stolen property is its legitimate
 
@@ -11260,7 +11260,7 @@ Writings representing value may be considered to have the value-even
 
  though contingent-which they represented at the time of the theft.
 
-##### (iv) Limited interest in property.
+###### (iv) Limited interest in property.
 
 If an owner of property or someone acting in the owner's behalf
 
@@ -11270,13 +11270,13 @@ property, such as a lien, the value for punishment purposes shall be that
 
 of the limited interest. 
 
-#### (h) Military Property.
+##### (h) Military Property.
 
 Military property is all property, real or personal, owned, held, or used by one of the armed forces of the United States. Military property is a term of art, and should not be confused with government property. The terms are not interchangeable. While all military property is government property, not all government property is military property. An item of government property is not military property unless the item in question meets the definition provided above. Retail merchandise of service exchange stores is not military property under this article.
 
-##### (i) Miscellaneous considerations.
+###### (i) Miscellaneous considerations.
 
-###### (i) Lost property.
+####### (i) Lost property.
 
 A taking or withholding of lost property by the finder is larceny
 
@@ -11288,7 +11288,7 @@ is furnished by the character, location, or marketing of the property, or
 
 by other circumstances. 
 
-###### (ii) Multiple article larceny.
+####### (ii) Multiple article larceny.
 
 When a larceny of several articles is committed at substantially
 
@@ -11302,7 +11302,7 @@ to various persons, there is but one larceny, which should be alleged in
 
 but one specification. 
 
-###### (iii) Special kinds of property which may also be the subject of larceny.
+####### (iii) Special kinds of property which may also be the subject of larceny.
 
 Included in property which may be the subject of larceny is property
 
@@ -11310,13 +11310,13 @@ Included in property which may be the subject of larceny is property
 
 writings which represent value such as commercial paper. 
 
-###### (iv) Services.
+####### (iv) Services.
 
 Theft of services may not be charged under this paragraph, but_
 
  see_ paragraph 78. 
 
-###### (vi)  Credit, Debit, and Electronic Transactions.
+####### (vi)  Credit, Debit, and Electronic Transactions.
 
 Wrongfully engaging in a credit, debit, or electronic transaction
 
@@ -11344,9 +11344,9 @@ number, issued for the use in obtaining money, goods, or anything else of
 
 value. 
 
-### (2) Wrongful appropriation.
+#### (2) Wrongful appropriation.
 
-#### (a) In general.
+##### (a) In general.
 
 Wrongful appropriation requires an intent to temporarily-as
 
@@ -11358,7 +11358,7 @@ or obtained. In all other respects wrongful appropriation and larceny are
 
 identical. 
 
-#### (b) Examples.
+##### (b) Examples.
 
 Wrongful appropriation includes: taking another's automobile without
 
@@ -11384,27 +11384,27 @@ return a borrowed boat at the time agreed upon because the boat inadvertently
 
 went aground is not guilty of this offense. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Larceny.
+#### (1) Larceny.
 
-#### (a) Military property of a value of $500 or less.
+##### (a) Military property of a value of $500 or less.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-#### (b) Property other than military property of a value of $500 or less.
+##### (b) Property other than military property of a value of $500 or less.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-#### (c) Military property of a value of more than $500 or of any military motor
+##### (c) Military property of a value of more than $500 or of any military motor
 
  vehicle, aircraft, vessel, firearm, or explosive.
 
@@ -11412,7 +11412,7 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years. 
 
-#### (d) Property other than military property of a value of more than $500
+##### (d) Property other than military property of a value of more than $500
 
 or any motor vehicle, aircraft, vessel, firearm, or explosive not included
 
@@ -11422,29 +11422,29 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-### (2) Wrongful appropriation.
+#### (2) Wrongful appropriation.
 
-#### (a) Of a value of $500.00 or less.
+##### (a) Of a value of $500.00 or less.
 
 Confinement for 3 months, and forfeiture of two-thirds pay per month
 
  for 3 months. 
 
-#### (b) Of a value of more than $500.00.
+##### (b) Of a value of more than $500.00.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-#### (c) Of any motor vehicle, aircraft, vessel, firearm, or explosive.
+##### (c) Of any motor vehicle, aircraft, vessel, firearm, or explosive.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Larceny.
+#### (1) Larceny.
 
  
 
@@ -11458,7 +11458,7 @@ steal  , (military property), of a value of (about)
 
  $  , the property of  . 
 
-### (2) Wrongful appropriation.
+#### (2) Wrongful appropriation.
 
  
 
@@ -11470,9 +11470,9 @@ if required), on or about   20 ,
 
 wrongfully appropriate  , of a value of (about) $ , the property of  . 
 
-#  Article 122-Robbery
+## 47. Article 122-Robbery
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who
 
@@ -11488,7 +11488,7 @@ of the robbery, is guilty of robbery and shall be punished as a court-martial
 
 may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused wrongfully took certain property from the person
 
@@ -11526,9 +11526,9 @@ the robbery;
 
 fear was a firearm. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Taking in the presence of the victim.
+#### (1) Taking in the presence of the victim.
 
 It is not necessary that the property taken be located within any
 
@@ -11540,7 +11540,7 @@ and, leaving the owner tied, go into that room and steal the valuables, they
 
 have committed robbery. 
 
-### (2) Force or violence.
+#### (2) Force or violence.
 
 For a robbery to be committed by force or violence, there must be
 
@@ -11578,7 +11578,7 @@ of a prisoner in the guard's charge after handcuffing the prisoner on the
 
 pretext of preventing escape. 
 
-### (3) Fear.
+#### (3) Fear.
 
 For a robbery to be committed by putting the victim in fear, there
 
@@ -11602,7 +11602,7 @@ company at the time of sufficient gravity to warrant giving up the property
 
 demanded by the assailant. 
 
-### (4) Larceny by taking.
+#### (4) Larceny by taking.
 
 Robbery includes "taking with intent to steal"; hence,
 
@@ -11610,31 +11610,31 @@ a larceny by taking is an integral part of a charge of robbery and must
 
 be proved at the trial. _ See_ paragraph 46c(1). 
 
-### (5) Multiple-victim robberies.
+#### (5) Multiple-victim robberies.
 
 Robberies of different persons at the same time and place are separate
 
 offenses and each such robbery should be alleged in a separate specification.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) When committed with a firearm.
+#### (1) When committed with a firearm.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 15 years. 
 
-### (2) Other cases.
+#### (2) Other cases.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
  
 
@@ -11650,9 +11650,9 @@ in fear) (with a firearm) steal from the (person) (presence) of   , against his/
 
 value of (about) $  , the property of   . 
 
-#  Article 123-Forgery
+## 48. Article 123-Forgery
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who, with
 
@@ -11670,9 +11670,9 @@ to be so made or altered; is guilty of forgery and shall be punished as a
 
 court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Forgery-making or altering.
+#### (1) Forgery-making or altering.
 
 (a) That the accused falsely made or altered a certain signature or
 
@@ -11686,7 +11686,7 @@ rights or liabilities to that person's prejudice; and
 
 (c) That the false making or altering was with the intent to defraud.
 
-### (2) Forgery-uttering.
+#### (2) Forgery-uttering.
 
 (a) That a certain signature or writing was falsely made or altered;
 
@@ -11708,9 +11708,9 @@ had been falsely made or altered; and
 
 intent to defraud. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 Forgery may be committed either by falsely making a writing or by
 
@@ -11724,7 +11724,7 @@ on another or to change another's legal rights or liabilities to that person's
 
 prejudice; and an intent to defraud. 
 
-### (2) False.
+#### (2) False.
 
 "False" refers not to the contents of the writing or
 
@@ -11758,7 +11758,7 @@ a forgery. _But see_ paragraph 31 concerning false official
 
 statements. 
 
-### (3) Signatures.
+#### (3) Signatures.
 
 Signing the name of another to an instrument having apparent legal
 
@@ -11782,7 +11782,7 @@ committed by signing a fictitious name, as when Roe makes a check payable
 
  to Roe and signs it with a fictitious name-Doe-as drawer. 
 
-### (4) Nature of writing.
+#### (4) Nature of writing.
 
 The writing must be one which would, if genuine, apparently impose
 
@@ -11822,7 +11822,7 @@ with intent to defraud is forgery, even if there is no resemblance to the
 
 genuine signature and the name is misspelled. 
 
-### (5) Intent to defraud.
+#### (5) Intent to defraud.
 
  _See_ paragraph 49c(14). The intent to defraud need
 
@@ -11836,7 +11836,7 @@ no further step was made toward carrying out the intent to defraud other
 
 than the false making or altering of a writing. 
 
-### (6) Alteration.
+#### (6) Alteration.
 
 The alteration must effect a material change in the legal tenor
 
@@ -11852,23 +11852,23 @@ in the accused's possession is later found to be altered, it may be inferred
 
 that the writing was altered by the accused. 
 
-### (7) Uttering.
+#### (7) Uttering.
 
  _See_ paragraph 49c(4). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Forgery-making or altering.
+#### (1) Forgery-making or altering.
 
  
 
@@ -11906,7 +11906,7 @@ the document could be or was used to prejudice the legal rights of another
 
 should be alleged in the last blank.--RSQP--
 
-### (2) Forgery-uttering.
+#### (2) Forgery-uttering.
 
  
 
@@ -11930,11 +11930,11 @@ which  (could be) (was) used to the legal harm of  , in that  ).
 
 --LSQP--*Note: _See_ the note following (1), above--RSQP--
 
-#  Article 123a-Making, drawing, or uttering check, draft, or order
+## 49. Article 123a-Making, drawing, or uttering check, draft, or order
 
 without sufficient funds
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who-**
 
@@ -11976,9 +11976,9 @@ express or implied, with the bank or other depository for the payment of
 
 that check, draft, or order.** 
 
-## b. Elements.
+### b. Elements.
 
-### (1) For the procurement of any article or thing of value, with intent to
+#### (1) For the procurement of any article or thing of value, with intent to
 
  defraud.
 
@@ -12000,7 +12000,7 @@ not or would not have sufficient funds in, or credit with, the bank or other
 
 depository for the payment thereof upon presentment. 
 
-### (2) For the payment of any past due obligation, or for any other purpose,
+#### (2) For the payment of any past due obligation, or for any other purpose,
 
  with intent to deceive.
 
@@ -12022,9 +12022,9 @@ had not or would not have sufficient funds in, or credit with, the bank
 
 or other depository for the payment thereof upon presentment. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Written instruments.
+#### (1) Written instruments.
 
 The written instruments covered by this article include any check,
 
@@ -12038,19 +12038,19 @@ order carries with it a representation that the instrument will be paid in
 
 full by the bank or other depository upon presentment by a holder when due.
 
-### (2) Bank or other depository.
+#### (2) Bank or other depository.
 
 "Bank or other depository" includes any business regularly
 
 but not necessarily exclusively engaged in public banking activities. 
 
-### (3) Making or drawing.
+#### (3) Making or drawing.
 
 "Making" and "drawing" are synonymous and
 
  refer to the act of writing and signing the instrument. 
 
-### (4) Uttering or delivering.
+#### (4) Uttering or delivering.
 
 "Uttering" and "delivering" have similar
 
@@ -12068,7 +12068,7 @@ another, that person may be guilty of an offense under this article despite
 
 the fact that the person did not personally draw the check. 
 
-### (5) For the procurement.
+#### (5) For the procurement.
 
 "For the procurement" means for the purpose of obtaining
 
@@ -12078,7 +12078,7 @@ of value actually be obtained, and the purpose of the obtaining may be for
 
 the accused's own use or benefit or for the use or benefit of another. 
 
-### (6) For the payment.
+#### (6) For the payment.
 
 "For the payment" means for the purpose or purported
 
@@ -12086,7 +12086,7 @@ the accused's own use or benefit or for the use or benefit of another.
 
 need not be legally effected. 
 
-### (7) For any other purpose.
+#### (7) For any other purpose.
 
 "For any other purpose" includes all purposes other
 
@@ -12110,7 +12110,7 @@ if made with the requisite intent and knowledge, be a violation of this
 
 article. 
 
-### (8) Article or thing of value.
+#### (8) Article or thing of value.
 
 "Article or thing of value" extends to every kind of
 
@@ -12118,7 +12118,7 @@ article.
 
 and rights which are intangible or contingent or which mature in the future.
 
-### (9) Past due obligation.
+#### (9) Past due obligation.
 
 A "past due obligation" is an obligation to pay money,
 
@@ -12126,7 +12126,7 @@ A "past due obligation" is an obligation to pay money,
 
 delivering the instrument. 
 
-### (10) Knowledge.
+#### (10) Knowledge.
 
 The accused must have knowledge, at the time the accused makes,
 
@@ -12140,7 +12140,7 @@ in full upon its presentment. Such knowledge may be proved by circumstantial
 
 evidence. 
 
-### (11) Sufficient funds.
+#### (11) Sufficient funds.
 
 "Sufficient funds" refers to a condition in which the
 
@@ -12152,7 +12152,7 @@ the face amount of the instrument and has not been rendered unavailable for
 
 payment by garnishment, attachment, or other legal procedures. 
 
-### (12) Credit.
+#### (12) Credit.
 
 "Credit" means an arrangement or understanding, express
 
@@ -12164,7 +12164,7 @@ draft, or order. An absence of credit includes those situations in which
 
  accused has no account. 
 
-### (13) Upon its presentment.
+#### (13) Upon its presentment.
 
 "Upon its presentment" refers to the time the demand
 
@@ -12172,7 +12172,7 @@ for payment is made upon presentation of the instrument to the bank or other
 
 depository on which it was drawn. 
 
-### (14) Intent to defraud.
+#### (14) Intent to defraud.
 
 "Intent to defraud" means an intent to obtain, through
 
@@ -12182,7 +12182,7 @@ own use and benefit or to the use and benefit of another, either permanently
 
  or temporarily. 
 
-### (15) Intent to deceive.
+#### (15) Intent to deceive.
 
 "Intent to deceive" means an intent to mislead, cheat,
 
@@ -12194,7 +12194,7 @@ a disadvantage to the interests of the person to whom the representation
 
 was made or to interests represented by that person. 
 
-### (16) The relationship of time and intent.
+#### (16) The relationship of time and intent.
 
 Under this article, two times are involved: (a) when the accused
 
@@ -12218,7 +12218,7 @@ of presentment nor refusal of payment is necessary, as when the instrument
 
 is one drawn on a nonexistent bank. 
 
-### (17) Statutory rule of evidence.
+#### (17) Statutory rule of evidence.
 
 The provision of this article with respect to establishing prima
 
@@ -12260,35 +12260,35 @@ prosecution from using the statutory rule of evidence but does not preclude
 
 conviction of this offense if all the elements are otherwise proved. 
 
-### (18) Affirmative defense.
+#### (18) Affirmative defense.
 
 Honest mistake is an affirmative defense to offenses under this
 
 article. _See_ R.C.M. 916(j). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) For the procurement of any article or thing of value, with intent to
+#### (1) For the procurement of any article or thing of value, with intent to
 
 defraud, in the face amount of:
 
-#### (a) $500.00 or less.
+##### (a) $500.00 or less.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
 confinement for 6 months. 
 
-#### (b) More than $500.00.
+##### (b) More than $500.00.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
 confinement for 5 years. 
 
-### (2) For the payment of any past due obligation, or for any other purpose,
+#### (2) For the payment of any past due obligation, or for any other purpose,
 
 with intent to deceive.
 
@@ -12296,9 +12296,9 @@ Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) For the procurement of any article or thing of value, with intent to
+#### (1) For the procurement of any article or thing of value, with intent to
 
 defraud.
 
@@ -12324,7 +12324,7 @@ funds in or credit with such (bank) (depository) for the payment of the said
 
 (check) (draft) (order) in full upon its presentment. 
 
-### (2) For the payment of any past due obligation, or for any other purpose,
+#### (2) For the payment of any past due obligation, or for any other purpose,
 
 with intent to deceive.
 
@@ -12352,9 +12352,9 @@ not have sufficient funds in or credit with such (bank) (depository) for
 
 the payment of the said (check) (draft) (order) in full upon its presentment.
 
-#  Article 124-Maiming
+## 50. Article 124-Maiming
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who, with intent
 
@@ -12372,7 +12372,7 @@ any member or organ; is guilty of maiming and shall be punished as a court-marti
 
 may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused inflicted a certain injury upon a certain person;
 
@@ -12386,9 +12386,9 @@ vigor by the injury to an organ or member; and
 
  injury to a person. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Nature of offense.
+#### (1) Nature of offense.
 
 It is maiming to put out a person's eye, to cut off a hand, foot,
 
@@ -12416,7 +12416,7 @@ though there is a possibility that the victim may eventually recover the
 
 use of the member or organ, or that the disfigurement may be cured by surgery.
 
-### (2) Means of inflicting injury.
+#### (2) Means of inflicting injury.
 
 To prove the offense it is not necessary to prove the specific means
 
@@ -12424,7 +12424,7 @@ To prove the offense it is not necessary to prove the specific means
 
 on the question of intent. 
 
-### (3) Intent.
+#### (3) Intent.
 
 Maiming requires a specific intent to injure generally but not a
 
@@ -12438,7 +12438,7 @@ this article upon the person of another may support an inference of the intent
 
 to injure, disfigure, or disable. 
 
-### (4) Defenses.
+#### (4) Defenses.
 
 If the injury is done under circumstances which would justify or
 
@@ -12446,15 +12446,15 @@ If the injury is done under circumstances which would justify or
 
 916. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 20 years.
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -12468,9 +12468,9 @@ required) on or about   20 ,
 
  (  ). 
 
-#  Article 125-Forcible sodomy; bestiality
+## 51. Article 125-Forcible sodomy; bestiality
 
-## a. Text of statute.
+### a. Text of statute.
 
  **(a) _Forcible sodomy._-Any person subject to this chapter who engages in unnatural carnal copulation with another person of the same or opposite sex by force or without the consent of the other person is guilty of forcible sodomy and shall be punished as a court-martial may direct.
 
@@ -12478,51 +12478,51 @@ required) on or about   20 ,
 
  (c) _Scope of offenses._-Penetration, however slight, is sufficient to complete an offense under subsection (a) or (b).**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Forcible sodomy.
+#### (1) Forcible sodomy.
 
 (a) That the accused engaged in unnatural carnal copulation with a certain other person.
 
 (b) That the act was done by force or without the consent of the other person.
 
-### (2) Bestiality.
+#### (2) Bestiality.
 
 (a) That the accused engaged in unnatural carnal copulation with an animal.
 
-## c. Explanation.
+### c. Explanation.
 
 (1) It is unnatural carnal copulation for a person to take into that person's mouth or anus the sexual organ of another person or of an animal; or to place that person's sexual organ in the mouth or anus of another person or of an animal; or to have carnal copulation in any opening of the body, except the sexual parts, with another person; or to have carnal copulation with an animal.
 
 (2) For purposes of this Article, the term "force" means an act of force done without legal justification or excuse.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A.
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Forcible sodomy.
+#### (1) Forcible sodomy.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for life without eligibility for parole. Mandatory minimum - Dismissal or dishonorable discharge.
 
-### (2) Bestiality.
+#### (2) Bestiality.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 5 years.
 
-## f. Sample specification.
+### f. Sample specification.
 
-### (1) Forcible sodomy.
+#### (1) Forcible sodomy.
 
  In that (personal jurisdiction data), did, (at/on board-location) (subject-matter jurisdiction data, if required), on or about ________20__, engage in unnatural carnal copulation with _______, by force or without the consent of the said ______.
 
-### (2) Bestiality.
+#### (2) Bestiality.
 
  In that (personal jurisdiction data), did, (at/on board-location) (subject-matter jurisdiction data, if required), on or about ________20__, engage in unnatural carnal copulation with (type of animal).
 
-#  Article 126-Arson
+## 52. Article 126-Arson
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **Any person subject to this chapter who willfully and maliciously
 
@@ -12542,11 +12542,11 @@ burns or sets fire to the property of another, except as provided in subsection
 
 direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Aggravated arson.
+#### (1) Aggravated arson.
 
-#### (a) Inhabited dwelling.
+##### (a) Inhabited dwelling.
 
 (i) That the accused burned or set on fire an inhabited dwelling; 
 
@@ -12556,7 +12556,7 @@ direct.**
 
 (iii) That the act was willful and malicious. 
 
-#### (b) Structure.
+##### (b) Structure.
 
 (i) That the accused burned or set on fire a certain structure; 
 
@@ -12572,7 +12572,7 @@ direct.**
 
 value. 
 
-### (2) Simple arson.
+#### (2) Simple arson.
 
 (a) That the accused burned or set fire to certain property of another;
 
@@ -12580,9 +12580,9 @@ value.
 
 (c) That the act was willful and malicious. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 In aggravated arson, danger to human life is the essential element;
 
@@ -12594,9 +12594,9 @@ the accused set the fire willfully and maliciously, that is, not merely by
 
 negligence or accident. 
 
-### (2) Aggravated arson.
+#### (2) Aggravated arson.
 
-#### (a) Inhabited dwelling.
+##### (a) Inhabited dwelling.
 
 An inhabited dwelling includes the outbuildings that form part of
 
@@ -12608,7 +12608,7 @@ inhabited dwelling unless occupied as such, nor is a house that has never
 
  of aggravated arson of the person's dwelling, whether as owner or tenant.
 
-#### (b) Structure.
+##### (b) Structure.
 
 Aggravated arson may also be committed by burning or setting on
 
@@ -12628,7 +12628,7 @@ been such that a reasonable person would have known that a human being was
 
 inside at the time. 
 
-#### (c) Damage to property.
+##### (c) Damage to property.
 
 It is not necessary that the dwelling or structure be consumed or
 
@@ -12638,7 +12638,7 @@ part thereof. Any actual burning or charring is sufficient, but a mere scorching
 
 or discoloration by heat is not. 
 
-#### (d) Value and ownership of property.
+##### (d) Value and ownership of property.
 
 For the offense of aggravated arson, the value and ownership of
 
@@ -12648,7 +12648,7 @@ alleged and proved to permit the finding in an appropriate case of the included
 
 offense of simple arson. 
 
-### (3) Simple arson.
+#### (3) Simple arson.
 
 "Simple arson" is the willful and malicious burning
 
@@ -12660,37 +12660,37 @@ or personal property of someone other than the offender. _See also
 
 _ paragraph 67 (Burning with intent to defraud). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Aggravated arson.
+#### (1) Aggravated arson.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 20 years. 
 
-### (2) Simple arson, where the property is-
+#### (2) Simple arson, where the property is-
 
-#### (a) Of a value of $500.00 or less.
+##### (a) Of a value of $500.00 or less.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-#### (b) Of a value of more than $500.00.
+##### (b) Of a value of more than $500.00.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Aggravated arson.
+#### (1) Aggravated arson.
 
-#### (a) Inhabited dwelling.
+##### (a) Inhabited dwelling.
 
  
 
@@ -12706,7 +12706,7 @@ wit: (the residence of  ) (  ),
 
 (the property of  ) of a value of (about) $  . 
 
-#### (b) Structure.
+##### (b) Structure.
 
  
 
@@ -12720,7 +12720,7 @@ and maliciously (burn) (set on fire), knowing that a human being was therein
 
 at the time, (the Post Theater) (  , the property of  ), of a value of (about) $  . 
 
-### (2) Simple arson.
+#### (2) Simple arson.
 
  
 
@@ -12734,9 +12734,9 @@ required), on or about   20 ,
 
 $  . 
 
-#  Article 127-Extortion
+## 53. Article 127-Extortion
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who communicates
 
@@ -12746,7 +12746,7 @@ of value or any acquittance, advantage, or immunity is guilty of extortion
 
  and shall be punished as a court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused communicated a certain threat to another; and
 
@@ -12754,9 +12754,9 @@ of value or any acquittance, advantage, or immunity is guilty of extortion
 
 or any acquittance, advantage, or immunity. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 Extortion is complete upon communication of the threat with the
 
@@ -12764,7 +12764,7 @@ Extortion is complete upon communication of the threat with the
 
 be proved. 
 
-### (2) Threat.
+#### (2) Threat.
 
 A threat may be communicated by any means but must be received by
 
@@ -12788,13 +12788,13 @@ person's family or any other person held dear to that person; or a threat
 
  to do any other harm. 
 
-### (3) Acquittance.
+#### (3) Acquittance.
 
 An "acquittance" is a release or discharge from an
 
 obligation. 
 
-### (4) Advantage or immunity.
+#### (4) Advantage or immunity.
 
 Unless it is clear from the circumstances, the advantage or immunity
 
@@ -12804,17 +12804,17 @@ do an act against that person's will is not, by itself, sufficient to constitute
 
 extortion. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -12830,9 +12830,9 @@ required), on or about   20 ,
 
 the threat). 
 
-#  Article 128-Assault
+## 54. Article 128-Assault
 
-## a. Text of statute.
+### a. Text of statute.
 
 (a) **Any person subject to this chapter who attempts or offers with
 
@@ -12858,9 +12858,9 @@ is guilty of aggravated assault and shall be punished
 
 as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Simple assault.
+#### (1) Simple assault.
 
 (a) That the accused attempted or offered to do bodily harm to a certain
 
@@ -12868,15 +12868,15 @@ as a court-martial may direct.**
 
 (b) That the attempt or offer was done with unlawful force or violence.
 
-### (2) Assault consummated by a battery.
+#### (2) Assault consummated by a battery.
 
 (a) That the accused did bodily harm to a certain person; and
 
 (b) That the bodily harm was done with unlawful force or violence.
 
-### (3) Assaults permitting increased punishment based on status of victim.
+#### (3) Assaults permitting increased punishment based on status of victim.
 
-#### (a) Assault upon a commissioned, warrant, noncommissioned, or petty officer.
+##### (a) Assault upon a commissioned, warrant, noncommissioned, or petty officer.
 
 (i) That the accused attempted to do, offered to do, or did bodily harm
 
@@ -12894,7 +12894,7 @@ as a court-martial may direct.**
 
 warrant, noncommissioned, or petty officer. 
 
-#### (b) Assault upon a sentinel or lookout in the execution of duty, or upon
+##### (b) Assault upon a sentinel or lookout in the execution of duty, or upon
 
 a person in the execution of law enforcement duties.
 
@@ -12922,7 +12922,7 @@ of security police, military police, shore patrol, master at arms, or other
 
 military or civilian law enforcement duties. 
 
-#### (c) Assault consummated by a battery upon a child under 16 years.
+##### (c) Assault consummated by a battery upon a child under 16 years.
 
 (i) That the accused did bodily harm to a certain person; 
 
@@ -12930,9 +12930,9 @@ military or civilian law enforcement duties.
 
 (iii) That the person was then a child under the age of 16 years. 
 
-### (4) Aggravated assault.
+#### (4) Aggravated assault.
 
-#### (a) Assault with a dangerous weapon or other means or force likely to produce death or grievous bodily harm.
+##### (a) Assault with a dangerous weapon or other means or force likely to produce death or grievous bodily harm.
 
 (i) That the accused attempted to do, offered to do, or did bodily harm to a certain person;
 
@@ -12948,7 +12948,7 @@ military or civilian law enforcement duties.
 
 (vi) That the person was a child under the age of 16 years.
 
-#### (b) Assault in which grievous bodily harm is intentionally inflicted.
+##### (b) Assault in which grievous bodily harm is intentionally inflicted.
 
 (i) That the accused assaulted a certain person;
 
@@ -12964,11 +12964,11 @@ military or civilian law enforcement duties.
 
 (vi) That the person was a child under the age of 16 years.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Simple assault.
+#### (1) Simple assault.
 
-#### (a) Definition of assault.
+##### (a) Definition of assault.
 
 An "assault" is an attempt or offer with unlawful force
 
@@ -12980,11 +12980,11 @@ and without the lawful consent of the person affected. "Bodily harm"
 
 means any offensive touching of another, however slight. 
 
-#### (b) Difference between "attempt" and "offer" type
+##### (b) Difference between "attempt" and "offer" type
 
 assaults.
 
-##### (i) Attempt type assault.
+###### (i) Attempt type assault.
 
 An "attempt" type assault requires a specific intent
 
@@ -12996,7 +12996,7 @@ to more than mere preparation and apparently tends to effect the intended
 
 had no knowledge of the incident at the time. 
 
-##### (ii) Offer type assault.
+###### (ii) Offer type assault.
 
 An "offer" type assault is an unlawful demonstration
 
@@ -13006,7 +13006,7 @@ which creates in the mind of another a reasonable apprehension of receiving
 
 immediate bodily harm. Specific intent to inflict bodily harm is not required.
 
-##### (iii) Examples.
+###### (iii) Examples.
 
 (A) If Doe swings a fist at Roe's head intending to hit Roe but misses,
 
@@ -13034,15 +13034,15 @@ to hit Roe, and Roe does not see the blow and is not placed in fear, then
 
 no assault of any type has been committed. 
 
-#### (c) Situations not amounting to assault.
+##### (c) Situations not amounting to assault.
 
-##### (i) Mere preparation.
+###### (i) Mere preparation.
 
 Preparation not amounting to an overt act, such as picking up a
 
 stone without any attempt or offer to throw it, does not constitute an assault.
 
-##### (ii) Threatening words.
+###### (ii) Threatening words.
 
 The use of threatening words alone does not constitute an assault.
 
@@ -13052,7 +13052,7 @@ there may be an assault, since the combination constitutes a demonstration
 
 of violence. 
 
-##### (iii) Circumstances negating intent to harm.
+###### (iii) Circumstances negating intent to harm.
 
 If the circumstances known to the person menaced clearly negate
 
@@ -13078,9 +13078,9 @@ committed an assault upon Roe. _See also_ paragraph 47 (robbery)
 
 of this part. 
 
-#### (d) Situations not constituting defenses to assault.
+##### (d) Situations not constituting defenses to assault.
 
-##### (i) Assault attempt fails.
+###### (i) Assault attempt fails.
 
 It is not a defense to a charge of assault that for some reason
 
@@ -13098,7 +13098,7 @@ to be, that person may be guilty of assault even though the policeman is at
 
 another place on the roof. 
 
-##### (ii) Retreating victim.
+###### (ii) Retreating victim.
 
 An assault is complete if there is a demonstration of violence and
 
@@ -13116,15 +13116,15 @@ at a person at such a distance that it clearly could not injure would not
 
 be an assault. 
 
-### (2) Battery.
+#### (2) Battery.
 
-#### (a) In general.
+##### (a) In general.
 
 A "battery" is an assault in which the attempt or offer
 
 to do bodily harm is consummated by the infliction of that harm. 
 
-#### (b) Application of force.
+##### (b) Application of force.
 
 The force applied in a battery may have been directly or indirectly
 
@@ -13134,7 +13134,7 @@ a person through striking the horse on which the person is mounted causing
 
 the horse to throw the person, as well as by striking the person directly.
 
-#### (c) Examples of battery.
+##### (c) Examples of battery.
 
 It may be a battery to spit on another, push a third person against
 
@@ -13150,7 +13150,7 @@ uses more force than is required, commits a battery. Throwing an object
 
 into a crowd may be a battery on anyone whom the object hits. 
 
-#### (d) Situations not constituting battery.
+##### (d) Situations not constituting battery.
 
 If bodily harm is inflicted unintentionally and without culpable
 
@@ -13158,9 +13158,9 @@ If bodily harm is inflicted unintentionally and without culpable
 
 to attract the other's attention or to prevent injury. 
 
-### (3) Assaults permitting increased punishment based on status of victims.
+#### (3) Assaults permitting increased punishment based on status of victims.
 
-#### (a) Assault upon a commissioned, warrant, noncommissioned, or petty officer.
+##### (a) Assault upon a commissioned, warrant, noncommissioned, or petty officer.
 
 The maximum punishment is increased when assault is committed upon
 
@@ -13178,7 +13178,7 @@ to the accused, that the victim be in the same armed force, or that the victim
 
 be in the execution of office at the time of the assault. 
 
-#### (b) Assault upon a sentinel or lookout in the execution of duty, or upon
+##### (b) Assault upon a sentinel or lookout in the execution of duty, or upon
 
 a person in the execution of law enforcement duties.
 
@@ -13196,7 +13196,7 @@ be proved by circumstantial evidence. _See_ paragraph 38c(4)
 
 for the definition of "sentinel or lookout." 
 
-#### (c) Assault consummated by a battery upon a child under 16 years of age.
+##### (c) Assault consummated by a battery upon a child under 16 years of age.
 
 The maximum punishment is increased when assault consummated by
 
@@ -13206,19 +13206,19 @@ the person assaulted was under 16 years of age is not an element of this
 
  offense. 
 
-### (4) Aggravated assault.
+#### (4) Aggravated assault.
 
-#### (a) Assault with a dangerous weapon or other means or force likely to
+##### (a) Assault with a dangerous weapon or other means or force likely to
 
 produce death or grievous bodily harm.
 
-##### (i) Dangerous weapon.
+###### (i) Dangerous weapon.
 
 A weapon is dangerous when used in a manner likely to produce death
 
  or grievous bodily harm. 
 
-##### (ii) Other means or force.
+###### (ii) Other means or force.
 
 The phrase "other means or force" may include any means
 
@@ -13246,7 +13246,7 @@ to produce grievous bodily harm, whether or not the assailant knew it was
 
 unloaded. 
 
-##### (iii) Grievous bodily harm.
+###### (iii) Grievous bodily harm.
 
 "Grievous bodily harm" means serious bodily injury.
 
@@ -13258,7 +13258,7 @@ of the body, serious damage to internal organs, and other serious bodily
 
 injuries. 
 
-##### (iv) Death or injury not required.
+###### (iv) Death or injury not required.
 
 It is not necessary that death or grievous bodily harm be actually
 
@@ -13266,19 +13266,19 @@ It is not necessary that death or grievous bodily harm be actually
 
 grievous bodily harm. 
 
-##### (v) When committed upon a child under 16 years of age.
+###### (v) When committed upon a child under 16 years of age.
 
 The maximum punishment is increased when aggravated assault with a dangerous weapon or means likely to produce death or grievous bodily harm is inflicted upon a child under 16 years of age. Knowledge that the person assaulted was under the age of 16 years is not an element of the offense.
 
-#### (b) Assault in which grievous bodily harm is intentionally inflicted.
+##### (b) Assault in which grievous bodily harm is intentionally inflicted.
 
-##### (i) In general.
+###### (i) In general.
 
 It must be proved that the accused specifically intended to and
 
 did inflict grievous bodily harm. Culpable negligence will not suffice.
 
-##### (ii) Proving intent.
+###### (ii) Proving intent.
 
 Specific intent may be proved by circumstantial evidence. When
 
@@ -13300,41 +13300,41 @@ while the others beat the victim with their fists and break a nose, jaw,
 
 or rib. 
 
-##### (iii) Grievous bodily harm.
+###### (iii) Grievous bodily harm.
 
  _See_ subparagraph (4)(a)(iii). 
 
-##### (iv) When committed on a child under 16 years of age.
+###### (iv) When committed on a child under 16 years of age.
 
 The maximum punishment is increased when aggravated assault with intentional infliction of grievous bodily harm is inflicted upon a child under 16 years of age. Knowledge that the person assaulted was under the age of 16 years is not an element of the offense.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Simple assault.
+#### (1) Simple assault.
 
-#### (A) Generally.
+##### (A) Generally.
 
 Confinement for 3 months and forfeiture of two-thirds pay per month
 
  for 3 months. 
 
-#### (B) When committed with an unloaded firearm.
+##### (B) When committed with an unloaded firearm.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-### (2) Assault consummated by a battery.
+#### (2) Assault consummated by a battery.
 
 Bad conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-### (3) Assault upon a commissioned officer of the armed forces of the United
+#### (3) Assault upon a commissioned officer of the armed forces of the United
 
  States or of a friendly foreign power, not in the execution of office.
 
@@ -13342,13 +13342,13 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-### (4) Assault upon a warrant officer, not in the execution of office.
+#### (4) Assault upon a warrant officer, not in the execution of office.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 18 months. 
 
-### (5) Assault upon a noncommissioned or petty officer, not in the execution
+#### (5) Assault upon a noncommissioned or petty officer, not in the execution
 
 of office.
 
@@ -13356,7 +13356,7 @@ Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-### (6) Assault upon a sentinel or lookout in the execution of duty, or upon
+#### (6) Assault upon a sentinel or lookout in the execution of duty, or upon
 
 any person who, in the execution of office, is performing security police,
 
@@ -13368,51 +13368,51 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
 confinement for 3 years. 
 
-### (7) Assault consummated by a battery upon a child under 16 years.
+#### (7) Assault consummated by a battery upon a child under 16 years.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-### (8) Aggravated assault with a dangerous weapon or other means or force likely to produce death or grievous bodily harm.
+#### (8) Aggravated assault with a dangerous weapon or other means or force likely to produce death or grievous bodily harm.
 
-#### (a) When committed with a loaded firearm.
+##### (a) When committed with a loaded firearm.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 8 years. 
 
-#### (b) Aggravated assault with a dangerous weapon or other means or force likely to produce death or grievous bodily harm when committed upon a child under the age of 16 years.
+##### (b) Aggravated assault with a dangerous weapon or other means or force likely to produce death or grievous bodily harm when committed upon a child under the age of 16 years.
 
 Dishonorable discharge, total forfeitures, and confinement for 5 years.
 
-#### (c) Other cases.
+##### (c) Other cases.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-### (9) Aggravated assault in which grievous bodily harm is intentionally inflicted.
+#### (9) Aggravated assault in which grievous bodily harm is intentionally inflicted.
 
-#### (a) When the injury is inflicted with a loaded firearm.
+##### (a) When the injury is inflicted with a loaded firearm.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years. 
 
-#### (b) Aggravated assault in which grievous bodily harm is intentionally inflicted when committed upon a child under the age of 16 years.
+##### (b) Aggravated assault in which grievous bodily harm is intentionally inflicted when committed upon a child under the age of 16 years.
 
 Dishonorable discharge, total forfeitures, and confinement for 8 years.
 
-#### (c) Other cases.
+##### (c) Other cases.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Simple assault.
+#### (1) Simple assault.
 
  
 
@@ -13424,7 +13424,7 @@ required), on or about   20 ,
 
  assault  by (striking at him/her with a   ) (  ). 
 
-### (2) Assault consummated by a battery.
+#### (2) Assault consummated by a battery.
 
  
 
@@ -13438,7 +13438,7 @@ required), on or about   20 ,
 
  (in) the  with  . 
 
-### (3) Assault upon a commissioned officer.
+#### (3) Assault upon a commissioned officer.
 
  
 
@@ -13456,7 +13456,7 @@ foreign power) (the United States (Army) (Navy) (Marine Corps) (Air Force)
 
 (Coast Guard)) by  . 
 
-### (4) Assault upon a warrant, noncommissioned, or petty officer.
+#### (4) Assault upon a warrant, noncommissioned, or petty officer.
 
  
 
@@ -13472,7 +13472,7 @@ required), on or about   20 ,
 
 States (Army) (Navy) (Marine Corps) (Air Force) (Coast Guard), by   . 
 
-### (5) Assault upon a sentinel or lookout.
+#### (5) Assault upon a sentinel or lookout.
 
 In that  (personal jurisdiction data),
 
@@ -13482,7 +13482,7 @@ on or about   20 , assault  , who then was and was then known by the accused to 
 
 (sentinel) (lookout) in the execution of his/her duty, ((in) (on) the  ) by  . 
 
-### (6) Assault upon a person in the execution of law enforcement duties.
+#### (6) Assault upon a person in the execution of law enforcement duties.
 
 In that  (personal jurisdiction data),
 
@@ -13496,7 +13496,7 @@ police) (shore patrol) (master at arms) ((military) (civilian) law enforcement))
 
 duties, by  . 
 
-### (7) Assault consummated by a battery upon a child under 16 years.
+#### (7) Assault consummated by a battery upon a child under 16 years.
 
 In that  (personal jurisdiction data),
 
@@ -13508,11 +13508,11 @@ on or about   20 , unlawfully
 
 the age of 16 years, (in) (on) the  with   . 
 
-### (8) Assault, aggravated-with a dangerous weapon, means or force.
+#### (8) Assault, aggravated-with a dangerous weapon, means or force.
 
 In that  (personal jurisdiction data), did, (at/on board-location) (subject matter jurisdiction data, if required), on or about   20 , commit an assault upon  (a child under the age of 16 years) by (shooting) (pointing) (striking) (cutting) () (at him/her) (him/her) (in) (on) (the ) with (a dangerous weapon)(a (means) (force) likely to produce death or grievous bodily harm), to wit: a (loaded firearm)(pickax) (bayonet) (club) ().
 
-### (9) Assault, aggravated-inflicting grievous bodily harm.
+#### (9) Assault, aggravated-inflicting grievous bodily harm.
 
 In that  (personal jurisdiction data), did, (at/on board-location)(subject matter jurisdiction data, if required), on or about   20 , commit an assault upon  (a child under the age of 16 years) by (shooting) (striking) (cutting)
 
@@ -13520,9 +13520,9 @@ In that  (personal jurisdiction data), did, (at/on board-location)(subject matte
 
 a (broken leg) (deep cut) (fractured skull) ().
 
-#  Article 129-Burglary
+## 55. Article 129-Burglary
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who, with intent
 
@@ -13532,7 +13532,7 @@ to commit an offense punishable under sections 918-928 of this title (articles
 
 is guilty of burglary and shall be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused unlawfully broke and entered the dwelling house
 
@@ -13546,9 +13546,9 @@ and
 
 an offense punishable under Article 118 through 128, except Article 123a.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 "Burglary" is the breaking and entering in the nighttime
 
@@ -13564,7 +13564,7 @@ of this article. This includes, for example, assaults punishable under Article
 
 134 which necessarily include simple assault under Article 128. 
 
-### (2) Breaking.
+#### (2) Breaking.
 
 There must be a breaking, actual or constructive. Merely to enter
 
@@ -13602,7 +13602,7 @@ a confederate, an occupant of the house; or by descending a chimney, even
 
 if only a partial descent is made and no room is entered. 
 
-### (3) Entry.
+#### (3) Entry.
 
 An entry must be effected before the offense is complete, but the
 
@@ -13612,7 +13612,7 @@ the house of a tool or other instrument is also a sufficient entry, unless
 
 the insertion is solely to facilitate the breaking or entry. 
 
-### (4) Nighttime.
+#### (4) Nighttime.
 
 Both the breaking and entry must be in the nighttime. "Nighttime"
 
@@ -13620,7 +13620,7 @@ is the period between sunset and sunrise when there is not sufficient daylight
 
 to discern a person's face. 
 
-### (5) Dwelling house of another.
+#### (5) Dwelling house of another.
 
 To constitute burglary the house must be the dwelling house of
 
@@ -13650,7 +13650,7 @@ of burglary by other residents or guests, and in general by the owner of
 
 the building. A tent is not a subject of burglary. 
 
-### (6) Intent to commit offense.
+#### (6) Intent to commit offense.
 
 Both the breaking and entry must be done with the intent to commit
 
@@ -13668,23 +13668,23 @@ immaterial whether the offense intended is committed or even attempted. If
 
 the offense is intended, it is no defense that its commission was impossible.
 
-### (7) Separate offense.
+#### (7) Separate offense.
 
 If the evidence warrants, the intended offense in the burglary
 
 specification may be separately charged. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
 In that  (personal jurisdiction data),
 
@@ -13696,9 +13696,9 @@ nighttime, unlawfully break and enter the (dwelling house) (  within the curtila
 
 commit (murder) (larceny) (  ) therein. 
 
-#  Article 130-Housebreaking
+## 56. Article 130-Housebreaking
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who unlawfully enters
 
@@ -13708,7 +13708,7 @@ therein is guilty of housebreaking and shall be punished as a court-martial
 
 may direct.**
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused unlawfully entered a certain building or structure
 
@@ -13718,9 +13718,9 @@ of a certain other person; and
 
 offense therein. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Scope of offense.
+#### (1) Scope of offense.
 
 The offense of housebreaking is broader than burglary in that the
 
@@ -13734,7 +13734,7 @@ not be to commit one of the offenses made punishable under Articles 118 through
 
 128. 
 
-### (2) Intent.
+#### (2) Intent.
 
 The intent to commit some criminal offense is an essential element
 
@@ -13746,7 +13746,7 @@ inside the building or structure, it may be inferred that the accused intended
 
 to commit that offense at the time of the entry. 
 
-### (3) Criminal offense.
+#### (3) Criminal offense.
 
 Any act or omission which is punishable by courts-martial, except
 
@@ -13754,7 +13754,7 @@ an act or omission constituting a purely military offense, is a "criminal
 
 offense." 
 
-### (4) Building, structure.
+#### (4) Building, structure.
 
 "Building" includes a room, shop, store, office, or
 
@@ -13768,27 +13768,27 @@ are a stateroom, hold, or other compartment of a vessel, an inhabitable trailer,
 
 that the building or structure be in use at the time of the entry. 
 
-### (5) Entry.
+#### (5) Entry.
 
 _See_ paragraph 55c(3). 
 
-### (6) Separate offense.
+#### (6) Separate offense.
 
 If the evidence warrants, the intended offense in the housebreaking
 
 specification may be separately charged. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -13804,9 +13804,9 @@ enter a (dwelling) (room) (bank) (store) (warehouse) (shop) (tent) (stateroom)
 
 intent to commit a criminal offense, to wit:  , therein.
 
-#  Article 131-Perjury
+## 57. Article 131-Perjury
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter who in a judicial
 
@@ -13826,9 +13826,9 @@ Code, subscribes any false statement material to the issue or matter of inquiry;
 
 is guilty of perjury and shall be punished as a court-martial may direct.**
 
-## b. Elements.
+### b. Elements.
 
-### (1) Giving false testimony.
+#### (1) Giving false testimony.
 
 (a) That the accused took an oath or affirmation in a certain judicial
 
@@ -13852,7 +13852,7 @@ testimony;
 
 (g) That the accused did not then believe the testimony to be true.
 
-### (2) Subscribing false statement.
+#### (2) Subscribing false statement.
 
 (a) That the accused subscribed a certain statement in a judicial proceeding
 
@@ -13872,9 +13872,9 @@ stated the truth of that certain statement;
 
 (f) That the accused did not then believe the statement to be true.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 "Judicial proceeding" includes a trial by court-martial
 
@@ -13882,9 +13882,9 @@ and "course of justice" includes a preliminary hearing conducted under Article 3
 
  a court-martial, it must be shown that the court-martial was duly constituted.
 
-### (2) Giving false testimony.
+#### (2) Giving false testimony.
 
-#### (a) Nature.
+##### (a) Nature.
 
 The testimony must be false and must be willfully and corruptly
 
@@ -13906,7 +13906,7 @@ as a witness, or that the testimony was given in response to questions that
 
 the witness could have declined to answer. 
 
-#### (b) Material matter.
+##### (b) Material matter.
 
 The false testimony must be with respect to a material matter, but
 
@@ -13920,7 +13920,7 @@ as by giving false testimony with respect to a fact from which a legitimate
 
 inference may be drawn as to the existence or nonexistence of a fact in issue.
 
-#### (c) Proof.
+##### (c) Proof.
 
 The falsity of the allegedly perjured statement cannot be proved
 
@@ -13946,7 +13946,7 @@ had in any manner been recognized by the accused as containing the truth-before
 
  the allegedly perjured statement was made. 
 
-#### (d) Oath.
+##### (d) Oath.
 
 The oath must be one recognized or authorized by law and must be
 
@@ -13960,7 +13960,7 @@ form. "Oath" includes an affirmation when the latter is authorized
 
 in lieu of an oath. 
 
-#### (e) Belief of accused.
+##### (e) Belief of accused.
 
 The fact that the accused did not believe the statement to be true
 
@@ -13968,7 +13968,7 @@ may be proved by testimony of one witness without corroboration or by circumstan
 
 evidence. 
 
-### (3) Subscribing false statement.
+#### (3) Subscribing false statement.
 
 _See_ subparagraphs (1) and (2), above, as applicable.
 
@@ -13988,19 +13988,19 @@ document be sworn before a third party. Section 1746 does not change the require
 
 is required to be taken before a specific person. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Giving false testimony.
+#### (1) Giving false testimony.
 
 In that  (personal jurisdiction data),
 
@@ -14018,7 +14018,7 @@ data, if required), on or about   20  , willfully, corruptly, and contrary to su
 
 then believe to be true. 
 
-### (2) Subscribing false statement.
+#### (2) Subscribing false statement.
 
 In that  (personal jurisdiction data),
 
@@ -14038,9 +14038,9 @@ which statement was false in that  , and which statement
 
 he/she did not then believe to be true. 
 
-#  Article 132-Frauds against the United States
+## 58. Article 132-Frauds against the United States
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any person subject to this chapter-** 
 
@@ -14096,9 +14096,9 @@ shall, upon conviction, be punished
 
 as a court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Making a false or fraudulent claim.
+#### (1) Making a false or fraudulent claim.
 
 (a) That the accused made a certain claim against the United States
 
@@ -14110,7 +14110,7 @@ or an officer thereof;
 
 in these particulars. 
 
-### (2) Presenting for approval or payment a false or fraudulent claim.
+#### (2) Presenting for approval or payment a false or fraudulent claim.
 
 (a) That the accused presented for approval or payment to a certain
 
@@ -14126,7 +14126,7 @@ thereof;
 
 in these particulars. 
 
-### (3) Making or using a false writing or other paper in connection with claims.
+#### (3) Making or using a false writing or other paper in connection with claims.
 
 (a) That the accused made or used a certain writing or other paper;
 
@@ -14144,7 +14144,7 @@ approval, allowance, or payment of a certain claim or claims against the
 
 United States or an officer thereof. 
 
-### (4) False oath in connection with claims.
+#### (4) False oath in connection with claims.
 
 (a) That the accused made an oath to a certain fact or to a certain
 
@@ -14160,7 +14160,7 @@ or payment of a certain claim or claims against the United States or an officer
 
 thereof. 
 
-### (5) Forgery of signature in connection with claims.
+#### (5) Forgery of signature in connection with claims.
 
 (a) That the accused forged or counterfeited the signature of a certain
 
@@ -14170,7 +14170,7 @@ person on a certain writing or other paper; and
 
 or payment of a certain claim against the United States or an officer thereof.
 
-### (6) Using forged signature in connection with claims.
+#### (6) Using forged signature in connection with claims.
 
 (a) That the accused used the forged or counterfeited signature of a
 
@@ -14184,7 +14184,7 @@ and
 
 or payment of a certain claim against the United States or an officer thereof.
 
-### (7) Delivering less than amount called for by receipt.
+#### (7) Delivering less than amount called for by receipt.
 
 (a) That the accused had charge, possession, custody, or control of
 
@@ -14206,7 +14206,7 @@ the certificate or receipt; and
 
 (d) That the undelivered money or property was of a certain value.
 
-### (8) Making or delivering receipt without having full knowledge that it
+#### (8) Making or delivering receipt without having full knowledge that it
 
 is true.
 
@@ -14232,11 +14232,11 @@ and
 
 (e) That the property certified as being received was of a certain value.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Making a false or fraudulent claim.
+#### (1) Making a false or fraudulent claim.
 
-#### (a) Claim.
+##### (a) Claim.
 
 A "claim" is a demand for a transfer of ownership of
 
@@ -14248,7 +14248,7 @@ thereof as such, and not to claims against an officer of the United States
 
 in that officer's private capacity. 
 
-#### (b) Making a claim.
+##### (b) Making a claim.
 
 Making a claim is a distinct act from presenting it. A claim may
 
@@ -14268,7 +14268,7 @@ the person to be benefited by the allowance or payment. _See_ also
 
 subparagraph (2), below. 
 
-#### (c) Knowledge.
+##### (c) Knowledge.
 
 The claim must be made with knowledge of its fictitious or dishonest
 
@@ -14278,9 +14278,9 @@ may be, that the maker believes to be valid, or claims that are merely made
 
 negligently or without ordinary prudence. 
 
-### (2) Presenting for approval or payment a false or fraudulent claim.
+#### (2) Presenting for approval or payment a false or fraudulent claim.
 
-#### (a) False and fraudulent.
+##### (a) False and fraudulent.
 
 False and fraudulent claims include not only those containing some
 
@@ -14292,7 +14292,7 @@ authorized to present or upon which the claimant knows the claimant has no
 
 right to collect. 
 
-#### (b) Presenting a claim.
+##### (b) Presenting a claim.
 
 The claim must be presented, directly or indirectly, to some person
 
@@ -14316,7 +14316,7 @@ in that dependency status, has tacitly presented a false claim. _See
 
 also_ subparagraph (1), above. 
 
-### (3) Making or using a false writing or other paper in connection with claims.
+#### (3) Making or using a false writing or other paper in connection with claims.
 
 The false or fraudulent statement must be material, that is, it
 
@@ -14334,11 +14334,11 @@ been attempted and whether or not the claim has been presented. _See
 
 also_ the explanation in subparagraph (1) and (2), above. 
 
-### (4) False oath in connection with claims.
+#### (4) False oath in connection with claims.
 
 _See_ subparagraphs (1) and (2), above. 
 
-### (5) Forgery of signature in connection with claims.
+#### (5) Forgery of signature in connection with claims.
 
 Any fraudulent making of the signature of another is forging or
 
@@ -14346,7 +14346,7 @@ counterfeiting, whether or not an attempt is made to imitate the handwriting. _
 
 See_ paragraph 48(c) and subparagraph (1) and (2), above. 
 
-### (6) Delivering less than amount called for by receipt.
+#### (6) Delivering less than amount called for by receipt.
 
 It is immaterial by what means-whether deceit, collusion,
 
@@ -14354,7 +14354,7 @@ or otherwise-the accused effected the transaction, or what was the
 
 accused's purpose. 
 
-### (7) Making or delivering receipt without having full knowledge that it
+#### (7) Making or delivering receipt without having full knowledge that it
 
 is true.
 
@@ -14382,11 +14382,11 @@ with knowledge that the full amount was not received, it may be inferred that
 
 the person intended to defraud the United States. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 (1) Article 132(1) and (2). Dishonorable discharge, forfeiture of all
 
@@ -14394,21 +14394,21 @@ pay and allowances, and confinement for 5 years.
 
 (2) Article 132(3) and (4).
 
-#### (a) When amount is $500.00 or less.
+##### (a) When amount is $500.00 or less.
 
  Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-#### (b) When amount is over $500.00.
+##### (b) When amount is over $500.00.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Making false claim.
+#### (1) Making false claim.
 
  
 
@@ -14434,7 +14434,7 @@ of $  in that  and was then known by the
 
 said  to be (false) (fraudulent) (false and fraudulent).
 
-### (2) Presenting false claim.
+#### (2) Presenting false claim.
 
  
 
@@ -14462,7 +14462,7 @@ claim was (false) (fraudulent) (false and fraudulent) in the amount of $ in that
 
 the said  to be (false) (fraudulent) (false and fraudulent).
 
-### (3) Making or using false writing.
+#### (3) Making or using false writing.
 
  
 
@@ -14484,7 +14484,7 @@ fraudulent) in that  , and was then known by the said
 
   to be (false) (fraudulent) (false and fraudulent).
 
-### (4) Making false oath.
+#### (4) Making false oath.
 
  
 
@@ -14506,7 +14506,7 @@ which said oath was false in that  , and was then known
 
 by the said  to be false. 
 
-### (5) Forging or counterfeiting signature.
+#### (5) Forging or counterfeiting signature.
 
  
 
@@ -14522,7 +14522,7 @@ or about   20 , (forge) (counterfeit)
 
 (forge and counterfeit) the signature of  upon a  in words and figures as follows:  .
 
-### (6) Using forged signature.
+#### (6) Using forged signature.
 
  
 
@@ -14540,7 +14540,7 @@ jurisdiction  data, if required),  on or  about
 
 to be (forged) (counterfeited) (forged and counterfeited). 
 
-### (7) Paying amount less than called for by receipt.
+#### (7) Paying amount less than called for by receipt.
 
  
 
@@ -14564,7 +14564,7 @@ was ($) () less than the
 
 (receipt) from the said  . 
 
-### (8) Making receipt without knowledge of the facts.
+#### (8) Making receipt without knowledge of the facts.
 
  
 
@@ -14586,9 +14586,9 @@ in words and figures as follows:  , the property therein
 
 certified as received being of a value of about $  .
 
-#  Article 133-Conduct unbecoming an officer and gentleman
+## 59. Article 133-Conduct unbecoming an officer and gentleman
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Any commissioned officer, cadet, or midshipman who
 
@@ -14596,7 +14596,7 @@ is convicted of conduct unbecoming an officer and a gentleman shall be punished
 
 as a court-martial may direct.** 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused did or omitted to do certain acts; and 
 
@@ -14604,15 +14604,15 @@ as a court-martial may direct.**
 
 conduct unbecoming an officer and gentleman. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Gentleman.
+#### (1) Gentleman.
 
 As used in this article, "gentleman" includes both male
 
 and female commissioned officers, cadets, and midshipmen. 
 
-### (2) Nature of offense.
+#### (2) Nature of offense.
 
 Conduct violative of this article is action or behavior in an official
 
@@ -14658,7 +14658,7 @@ the elements of proof are the same as those set forth in the paragraph which
 
 or omission constitutes conduct unbecoming an officer and gentleman. 
 
-### (3) Examples of offenses.
+#### (3) Examples of offenses.
 
 Instances of violation of this article include knowingly making
 
@@ -14676,11 +14676,11 @@ or attempting to commit a crime involving moral turpitude; and failing without
 
 good cause to support the officer's family. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dismissal, forfeiture of all pay and allowances, and confinement
 
@@ -14690,9 +14690,9 @@ for which a punishment is prescribed in this Manual, or, if none is prescribed,
 
 for 1 year. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Copying or using examination paper.
+#### (1) Copying or using examination paper.
 
 In that  (personal jurisdiction data),
 
@@ -14704,7 +14704,7 @@ unauthorized aid by ((using) (copying) the examination paper of
 
  )) (  ). 
 
-### (2) Drunk or disorderly.
+#### (2) Drunk or disorderly.
 
  
 
@@ -14716,9 +14716,9 @@ was, (at/on board-location), on or about  20  , in a public place, to wit:  ,
 
 of the armed forces. 
 
-#  Article 134-General article
+## 60. Article 134-General article
 
-## a. Text of statute.
+### a. Text of statute.
 
  **Though not specifically mentioned in this chapter,
 
@@ -14734,11 +14734,11 @@ special, or summary court-martial, according to the nature and degree of
 
 the offense, and shall be punished at the discretion of that court.**
 
-## b. Elements.
+### b. Elements.
 
 The proof required for conviction of an offense under Article 134 depends upon the nature of the misconduct charged. If the conduct is punished as a crime or offense not capital, the proof must establish every element of the crime or offense as required by the applicable law. All offenses under Article 134 require proof of a single terminal element; however, the terminal element may be proven using any of three theories of liability corresponding to clause 1, 2, or 3 offenses.
 
-##  Discussion
+#### Discussion
 
  The terminal element is merely the expression of one of the clauses under Article 134. See paragraph c below for an explanation of the clauses and rules for drafting specifications. More than one clause may be alleged and proven; however, proof of only one clause will satisfy the terminal element. For clause 3 offenses, the military judge may judicially notice whether an offense is capital. _See_ Mil. R. Evid. 202.
 
@@ -14754,9 +14754,9 @@ The proof required for conviction of an offense under Article 134 depends upon t
 
 (b) That the offense charged was an offense not capital.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 Article 134 makes punishable acts in three categories of offenses
 
@@ -14784,11 +14784,11 @@ See_ subparagraph (5)(a) below. However, _see_ paragraph
 
 and midshipmen. 
 
-### (2) Disorders and neglects to the prejudice of good order and discipline
+#### (2) Disorders and neglects to the prejudice of good order and discipline
 
 in the armed forces (clause 1).
 
-#### (a) To the prejudice of good order and discipline.
+##### (a) To the prejudice of good order and discipline.
 
 "To the prejudice of good order and discipline" refers
 
@@ -14812,7 +14812,7 @@ armed forces. However, _see_ R.C.M. 203 concerning subject-matter
 
 jurisdiction. 
 
-#### (b) Breach of custom of the service.
+##### (b) Breach of custom of the service.
 
 A breach of a custom of the service may result in a violation of
 
@@ -14838,7 +14838,7 @@ armed forces. Violations of these customs should be charged under Article
 
 is punitive. _ See_ paragraph 16c. 
 
-### (3) Conduct of a nature to bring discredit upon the armed forces (clause
+#### (3) Conduct of a nature to bring discredit upon the armed forces (clause
 
 2).
 
@@ -14854,9 +14854,9 @@ Acts in violation of a local civil law or a foreign law may be punished if
 
 see_ R.C.M. 203 concerning subject-matter jurisdiction. 
 
-### (4) Crimes and offenses not capital (clause 3).
+#### (4) Crimes and offenses not capital (clause 3).
 
-#### (a) In general.
+##### (a) In general.
 
 State and foreign laws are not included within the crimes and offenses
 
@@ -14880,7 +14880,7 @@ application (crimes which are punishable only if committed in areas of federal
 
 jurisdiction). 
 
-#### (b) Crimes and offenses of unlimited application.
+##### (b) Crimes and offenses of unlimited application.
 
 Certain noncapital crimes and offenses prohibited by the United
 
@@ -14892,9 +14892,9 @@ Examples include: counterfeiting (18 U.S.C. --SECT-- 471), and various frauds
 
 against the Government not covered by Article 132. 
 
-#### (c) Crimes and offenses of local application.
+##### (c) Crimes and offenses of local application.
 
-##### (i) In general.
+###### (i) In general.
 
 A person subject to the code may not be punished under clause 3
 
@@ -14916,7 +14916,7 @@ crimes), and a general federal statute, the Federal Assimilative Crimes Act
 
 (which adopts certain state criminal laws). 
 
-##### (ii) Federal Assimilative Crimes Act (18 U.S.C. --SECT-- 13).
+###### (ii) Federal Assimilative Crimes Act (18 U.S.C. --SECT-- 13).
 
 The Federal Assimilative Crimes Act is an adoption by Congress of
 
@@ -14964,9 +14964,9 @@ such act or omission, shall be guilty of a like offense and subject to a
 
 like punishment. 
 
-### (5) Limitations on Article 134.
+#### (5) Limitations on Article 134.
 
-#### (a) Preemption doctrine.
+##### (a) Preemption doctrine.
 
 The preemption doctrine prohibits application of Article 134 to
 
@@ -14984,17 +14984,17 @@ intent, where Congress has already set the minimum requirements for such an
 
 offense in Article 121. 
 
-#### (b) Capital offense.
+##### (b) Capital offense.
 
 A capital offense may not be tried under Article 134. 
 
-### (6) Drafting specifications for Article 134 offenses.
+#### (6) Drafting specifications for Article 134 offenses.
 
-#### (a) Specifications under clause 1 or 2.
+##### (a) Specifications under clause 1 or 2.
 
 When alleging a clause 1 or 2 violation, the specification must expressly allege that the conduct was "to the prejudice of good order and discipline" or that it was "of a nature to bring discredit upon the armed forces." The same conduct may be prejudicial to good order and discipline in the armed forces and at the same time be of a nature to bring discredit upon the armed forces. Both clauses may be alleged; however, only one must be proven to satisfy the terminal element. If conduct by an accused does not fall under any of the enumerated Article 134 offenses (paragraphs 61 through 113 of this Part), a specification not listed in this Manual may be used to allege the offense.
 
-####  Discussion
+###### Discussion
 
  Clauses 1 and 2 are theories of liability that must be expressly alleged in a specification so that the accused will be given notice as to which clause or clauses to defend against. The words "to the prejudice of good order and discipline in the armed forces" encompass both paragraph c.(2)(a), prejudice to good order and discipline, and paragraph c.(2)(b), breach of custom of the Service. A generic sample specification is provided below:
 
@@ -15002,7 +15002,7 @@ When alleging a clause 1 or 2 violation, the specification must expressly allege
 
  If clauses 1 and 2 are alleged together in the terminal element, the word "and" should be used to separate them. Any clause not proven beyond a reasonable doubt should be excepted from the specification at findings. See R.C.M. 918(a)(1). _See also_ Appendix 23 of this Manual, Art. 79. Although using the conjunctive "and" to connect the two theories of liability is recommended, a specification connecting the two theories with the disjunctive "or" is sufficient to provide the accused reasonable notice of the charge against him. _See_ Appendix 23 of this Manual, Art. 134.
 
-####  Discussion
+###### Discussion
 
 The first sentence in paragraph 60c(6)(a) above is inaccurate, as set forth in _United States v. Fosler_, 70 M.J. 225 (C.A.A.F. 2011). _See also United States v. Ballan_, 71 M.J. 28 (C.A.A.F. 2012). Amending subparagraph (6)(a) requires an Executive Order, hence the strikethrough font. To state an offense under Article 134, practitioners should expressly allege at least one of the three terminal elements, i.e., that the alleged conduct was: prejudicial to good order and discipline; service discrediting; or a crime or offense not capital. _See Fosler_, 70 M.J. at 226 and R.C.M 307(c)(3).
 
@@ -15018,11 +15018,11 @@ board-location), on or about (date), (commit elements of Article 134, clause 1 o
 
 _See United States v. Jones_, 68 M.J. 465 (C.A.A.F. 2010). Under _Jones_, an offense under Article 79 is "necessarily included" in the offense charged only if the elements of the lesser offense are a subset of the elements of the greater offense alleged. 68 M.J. at 472. _See also_ discussion following paragraph 3b(1)(c) in this part and the related analysis in Appendix 23 of this Manual. This change in the law has particularly broad impact on Article 134 offenses, and practitioners should carefully consider lesser included offenses using the elements test in conformity with _Jones_. _See_ paragraph 3b(4) in Appendix 23 of this Manual. If it is uncertain whether an Article 134 offense is included within a charged offense, the government may plead in the alternative, or with accused consent, the government may amend the charge sheet. _Jones_, 68 M.J. at 472-3 (referring to R.C.M. 603(d) for amending a charge sheet).
 
-#### (b) Specifications under clause 3.
+##### (b) Specifications under clause 3.
 
 When alleging a clause 3 violation, the specification must expressly allege that the conduct was "an offense not capital," and each element of the federal statute (including, in the case of a prosecution under 18 U.S.C. --SECT-- 13, each element of the assimilated State, Territory, Possession, or District law) must be alleged expressly or by necessary implication. In addition, the federal statute should be identified.
 
-####  Discussion
+###### Discussion
 
 The words "an offense not capital" are sufficient to provide notice to the accused that a clause 3 offense has been charged and are meant to include all crimes and offenses not capital. A generic sample specification for clause 3 offenses is provided below:
 
@@ -15030,15 +15030,15 @@ The words "an offense not capital" are sufficient to provide notice to the accus
 
 In addition to alleging each element of the federal statute, practitioners should consider including, when appropriate and necessary, words of criminality (_e.g._, wrongfully, knowingly, or willfully).
 
-#  Article 134-(Animal Abuse)
+## 61. Article 134-(Animal Abuse)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Abuse, neglect, or abandonment of an animal.
+#### (1) Abuse, neglect, or abandonment of an animal.
 
 (a) That the accused wrongfully abused, neglected, or abandoned a certain (public*) animal (and the accused caused the serious injury or death of the animal*); and
 
@@ -15046,19 +15046,19 @@ _See_ paragraph 60.
 
  (*Note:  Add these elements as applicable.)
 
-### (2) Sexual act with an animal. 
+#### (2) Sexual act with an animal. 
 
 (a) That the accused engaged in a sexual act with a certain animal; and
 
 (b) That, under the circumstances, the conduct of the accused was to the prejudice of good order and discipline in the armed forces or was of a nature to bring discredit upon the armed forces.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
  This offense prohibits knowing, reckless, or negligent abuse, neglect, or abandonment of an animal. This offense does not include legal hunting, trapping, or fishing; reasonable and recognized acts of training, handling, or disciplining of an animal; normal and accepted farm or veterinary practices; research or testing conducted in accordance with approved military protocols; protection of person or property from an unconfined animal; or authorized military operations or military training. 
 
-### (2) Definitions.
+#### (2) Definitions.
 
  As used in this paragraph:
 
@@ -15076,25 +15076,25 @@ _See_ paragraph 60.
 
 (G) "Serious injury of an animal" means physical harm that involves a temporary but substantial disfigurement; causes a temporary but substantial loss or impairment of the function of any bodily part or organ; causes a fracture of any bodily part; causes permanent maiming; causes acute pain of a duration that results in suffering; or carries a substantial risk of death. Serious injury includes, but is not limited to, burning, torturing, poisoning, or maiming.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Abuse, neglect, or abandonment of an animal.
+#### (1) Abuse, neglect, or abandonment of an animal.
 
  Bad-conduct discharge, forfeiture of all pay and allowances, and confinement for 1 year.
 
-### (2) Abuse, neglect, or abandonment of a public animal.
+#### (2) Abuse, neglect, or abandonment of a public animal.
 
  Bad-conduct discharge, forfeiture of all pay and allowances, and confinement for 2 years.
 
-### (3) Sexual act with an animal or cases where the accused caused the serious injury or death of the animal.
+#### (3) Sexual act with an animal or cases where the accused caused the serious injury or death of the animal.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 5 years.
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -15106,13 +15106,13 @@ on or about (date), wrongfully
 
 --LSQP--abuse--RSQP-- --LSQP--neglect--RSQP-- --LSQP--abandon--RSQP--) (*engage in a sexual act, to wit: , with) a certain (*public) animal (*and caused --LSQP--serious injury to--RSQP-- --LSQP--the death of--RSQP-- the animal), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Adultery)
+## 62. Article 134-(Adultery)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused wrongfully had sexual intercourse with a certain
 
@@ -15128,15 +15128,15 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Nature of offense.
+#### (1) Nature of offense.
 
 Adultery is clearly unacceptable conduct, and it reflects adversely
 
 on the service record of the military member. 
 
-### (2) Conduct prejudicial to good order and discipline or of a nature to
+#### (2) Conduct prejudicial to good order and discipline or of a nature to
 
 bring discredit upon the armed forces.
 
@@ -15214,13 +15214,13 @@ effect on unit or organization morale, teamwork, and efficiency;
 
 relationship or is remote in time. 
 
-### (3) Marriage.
+#### (3) Marriage.
 
 A marriage exists until it is dissolved in accordance with the laws
 
 of a competent state or foreign jurisdiction. 
 
-### (4) Mistake of fact.
+#### (4) Mistake of fact.
 
 A defense of mistake of fact exists if the accused had an honest
 
@@ -15232,17 +15232,17 @@ unmarried, or that they were lawfully married to each other. If this defense
 
 to establish that the accused's belief was unreasonable or not honest. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -15256,21 +15256,21 @@ jurisdiction data, if required), on or about  20
 
   , a (married) (woman/man) not (his wife) (her husband), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Deleted-See Appendix 27
+## 63. Deleted-See Appendix 27
 
 Indecent assault was deleted by Executive Order 13447, 72 Fed. Reg. 56179
 
 (Oct. 2, 2007). _See_ Appendix 25.
 
-#  Article 134-(Assault-with intent to commit murder, voluntary
+## 64. Article 134-(Assault-with intent to commit murder, voluntary
 
 manslaughter, rape, robbery, forcible sodomy, arson, burglary, or housebreaking)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused assaulted a certain person; 
 
@@ -15286,9 +15286,9 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 An assault with intent to commit any of the offenses mentioned above
 
@@ -15300,7 +15300,7 @@ achieving that proximity to consummation of an intended offense which is essenti
 
 to an attempt. _See_ paragraph 4. 
 
-### (2) Assault with intent to murder.
+#### (2) Assault with intent to murder.
 
 Assault with intent to commit murder is assault with specific intent
 
@@ -15326,7 +15326,7 @@ a group with intent to kill anyone in the group, that person is guilty of
 
 and assault with intent to murder each member of the group. 
 
-### (3) Assault with intent to commit voluntary manslaughter.
+#### (3) Assault with intent to commit voluntary manslaughter.
 
 Assault with intent to commit voluntary manslaughter is an assault
 
@@ -15338,7 +15338,7 @@ been committed. There can be no assault with intent to commit involuntary
 
 manslaughter, for it is not a crime capable of being intentionally committed.
 
-### (4) Assault with intent to commit rape.
+#### (4) Assault with intent to commit rape.
 
 In assault with intent to commit rape, the accused must have intended to complete the offense. Any lesser intent will not suffice. No actual touching is necessary, but indecent advances
 
@@ -15350,7 +15350,7 @@ to an assault. Once an assault with intent to commit rape is made, it is
 
 no defense that the accused voluntarily desisted. 
 
-### (5) Assault with intent to rob.
+#### (5) Assault with intent to rob.
 
 For assault with intent to rob, the fact that the accused intended
 
@@ -15358,7 +15358,7 @@ to take money and that the person the accused intended to rob had none is
 
 not a defense. 
 
-### (6) Assault with intent to commit forcible sodomy.
+#### (6) Assault with intent to commit forcible sodomy.
 
 Assault with intent to commit forcible sodomy is an assault against a human
 
@@ -15366,19 +15366,19 @@ being and must be committed with a specific intent to commit forcible sodomy. An
 
 lesser intent, or different intent, will not suffice. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Assault with intent to commit murder or rape.
+#### (1) Assault with intent to commit murder or rape.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 20 years. 
 
-### (2) Assault with intent to commit voluntary manslaughter, robbery, forcible sodomy,
+#### (2) Assault with intent to commit voluntary manslaughter, robbery, forcible sodomy,
 
 arson, or burglary.
 
@@ -15386,13 +15386,13 @@ Dishonorable discharge, forfeiture of all pay and allowances, and
 
 confinement for 10 years. 
 
-### (3) Assault with intent to commit housebreaking.
+#### (3) Assault with intent to commit housebreaking.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -15406,13 +15406,13 @@ to commit (murder) (voluntary manslaughter) (rape) (robbery) (forcible sodomy) (
 
 (burglary) (housebreaking), commit an assault upon  by  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Bigamy)
+## 65. Article 134-(Bigamy)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused had a living lawful spouse; 
 
@@ -15426,7 +15426,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 Bigamy is contracting another marriage by one who already has a
 
@@ -15442,17 +15442,17 @@ spouse, or otherwise, constitutes a defense only if the belief was reasonable. _
 
 See_ R.C.M. 916(j)(1). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 2 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -15466,15 +15466,15 @@ marry  , having at the time of his/her said marriage
 
 to  a lawful wife/husband then living, to wit:  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Bribery and graft)
+## 66. Article 134-(Bribery and graft)
 
-## a. Text of statute.
+### a. Text of statute.
 
  _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Asking, accepting, or receiving.
+#### (1) Asking, accepting, or receiving.
 
 (a) That the accused wrongfully asked, accepted, or received a thing
 
@@ -15508,7 +15508,7 @@ a nature to bring discredit upon the armed forces.
 
  (**Note: This element is required for graft.)
 
-### (2) Promising, offering, or giving.
+#### (2) Promising, offering, or giving.
 
 (a) That the accused wrongfully promised, offered, or gave a thing of
 
@@ -15540,7 +15540,7 @@ a nature to bring discredit upon the armed forces.
 
  (**Note: This element is required for graft.)
 
-## c. Explanation.
+### c. Explanation.
 
 Bribery requires an intent to influence or be influenced in an
 
@@ -15548,27 +15548,27 @@ official matter; graft does not. Graft involves compensation for services
 
  performed in an official matter when no compensation is due. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Bribery.
+#### (1) Bribery.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-### (2) Graft.
+#### (2) Graft.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Asking, accepting, or receiving.
+#### (1) Asking, accepting, or receiving.
 
  
 
@@ -15608,7 +15608,7 @@ with (  ) (  ), and that said conduct was (to the prejudice of good order and di
 
 --LSQP--**Note: This language should be used to allege graft.--RSQP--
 
-### (2) Promising, offering, or giving.
+#### (2) Promising, offering, or giving.
 
  
 
@@ -15644,13 +15644,13 @@ in favor of  ) (  ), and that said conduct was (to the prejudice of good order a
 
 --LSQP--**Note: This language should be used to allege graft.--RSQP--
 
-#  Article 134-(Burning with intent to defraud)
+## 67. Article 134-(Burning with intent to defraud)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused willfully and maliciously burned or set fire to
 
@@ -15666,23 +15666,23 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
  _See_ paragraph 49c(14) for a discussion of "intent
 
 to defraud." 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 10 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -15698,15 +15698,15 @@ the property of  , with intent to defraud (the insurer
 
 thereof, to wit:  ) (  ), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Check, worthless, making and uttering-by
+## 68. Article 134-(Check, worthless, making and uttering-by
 
 dishonorably failing to maintain funds)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused made and uttered a certain check; 
 
@@ -15728,7 +15728,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 This offense differs from an Article 123a offense (paragraph 49)
 
@@ -15752,17 +15752,17 @@ accused is necessary, and the other principles discussed in paragraph 71 also
 
 apply here. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
 confinement for 6 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -15782,13 +15782,13 @@ in the  Bank for payment of such check in full upon
 
 its presentment for payment, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Child endangerment)
+## 68a. Article 134-(Child endangerment)
 
-## a. Text of statute.
+### a. Text of statute.
 
 See paragraph 60.
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused had a duty for the care of a certain child;
 
@@ -15798,81 +15798,81 @@ See paragraph 60.
 
 (4) That, under the circumstances, the conduct of the accused was to the prejudice of good order and discipline in the armed forces or was of a nature to bring discredit upon the armed forces.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 This offense is intended to prohibit and therefore deter child endangerment through design or culpable negligence.
 
-### (2) Design.
+#### (2) Design.
 
 Design means on purpose, intentionally, or according to plan and requires specific intent to endanger the child.
 
-### (3) Culpable negligence.
+#### (3) Culpable negligence.
 
 Culpable negligence is a degree of carelessness greater than simple negligence. It is a negligent act or omission accompanied by a culpable disregard for the foreseeable consequences to others of that act or omission. In the context of this offense, culpable negligence may include acts that, when viewed in the light of human experience, might foreseeably result in harm to a child, even though such harm would not necessarily be the natural and probable consequences of such acts. In this regard, the age and maturity of the child, the conditions surrounding the neglectful conduct, the proximity of assistance available, the nature of the environment in which the child may have been left, the provisions made for care of the child, and the location of the parent or adult responsible for the child relative to the location of the child, among others, may be considered in determining whether the conduct constituted culpable negligence.
 
-### (4) Harm.
+#### (4) Harm.
 
  Actual physical or mental harm to the child is not required. The offense requires that the accused's actions reasonably could have caused physical or mental harm or suffering. However, if the accused's conduct does cause actual physical or mental harm, the potential maximum punishment increases.
 
 See Paragraph 54c(4)(a)(iii) for an explanation of "grievous bodily harm".
 
-### (5) Endanger.
+#### (5) Endanger.
 
 "Endanger" means to subject one to a reasonable probability of harm.
 
-### (6) Age of victim as a factor.
+#### (6) Age of victim as a factor.
 
 While this offense may be committed against any child under 16, the age of the victim is a factor in the culpable negligence determination.  Leaving a teenager alone for an evening may not be culpable (or even simple) negligence; leaving an infant or toddler for the same period might constitute culpable negligence. On the other hand, leaving a teenager without supervision for an extended period while the accused was on temporary duty outside commuting distance might constitute culpable negligence.
 
-### (7) Duty required.
+#### (7) Duty required.
 
 The duty of care is determined by the totality of the circumstances and may be established by statute, regulation, legal parent-child relationship, mutual agreement, or assumption of control or custody by affirmative act. When there is no duty of care of a child, there is no offense under this paragraph. Thus, there is no offense when a stranger makes no effort to feed a starving child or an individual/neighbor not charged with the care of a child does not prevent the child from running and playing in the street.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Endangerment by design resulting in grievous bodily harm.
+#### (1) Endangerment by design resulting in grievous bodily harm.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 8 years.
 
-#### (2) Endangerment by design resulting in harm.
+##### (2) Endangerment by design resulting in harm.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 5 years.
 
-##### (3) Other cases by design.
+###### (3) Other cases by design.
 
 Dishonorable discharge, forfeiture of all pay and
 
 allowances and confinement for 4 years. 
 
-###### (4) Endangerment by culpable negligence resulting in grievous bodily
+####### (4) Endangerment by culpable negligence resulting in grievous bodily
 
  harm.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 3 years.
 
-####### (5) Endangerment by culpable negligence resulting in harm.
+######## (5) Endangerment by culpable negligence resulting in harm.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and confinement for 2 years.
 
-######## (6) Other cases by culpable negligence.
+######### (6) Other cases by culpable negligence.
 
  Bad-conduct discharge, forfeiture of all pay and allowances, and confinement for 1 year.
 
-## f. Sample specification.
+### f. Sample specification.
 
-### (1) Resulting in grievous bodily harm.
+#### (1) Resulting in grievous bodily harm.
 
  
 
   In that  (personal jurisdiction data), (at/on board-location) (subject matter jurisdiction data, if required) on or about  20 , had a duty for the care of  , a child under the age of 16 years and did endanger the (mental health) (physical health) (safety) (welfare) of said  , by (leaving the said  unattended in his quarters for over  hours/days with no adult present in the home) (by failing to obtain medical care for the said  's diabetic condition) (  ), and that such conduct (was by design) (constituted culpable negligence) (which resulted in grievous bodily harm, to wit:) (broken leg) (deep cut) (fractured skull) (  ), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-### (2) Resulting in harm.
+#### (2) Resulting in harm.
 
  
 
@@ -15880,27 +15880,27 @@ Bad-conduct discharge, forfeiture of all pay and allowances, and confinement for
 
 (a black eye) (bloody nose) (minor cut) (  ), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-### (3) Other cases.
+#### (3) Other cases.
 
  
 
   In that  (personal jurisdiction data), (at/on board-location) (subject matter jurisdiction data, if required) on or about  20 , was responsible for the care of  , a child under the age of 16 years, and did endanger the (mental health) (physical health) (safety) (welfare) of said  , by (leaving the said  unattended in his quarters for over  hours/days with no adult present in the home) (by failing to obtain medical care for the said  's diabetic condition) (  ), and that such conduct (was by design) (constituted culpable negligence), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Child pornography)
+## 68b. Article 134-(Child pornography)
 
-## a. Text of Statute. 
+### a. Text of Statute. 
 
 See paragraph 60.
 
-## b. Elements. 
+### b. Elements. 
 
-### (1) Possessing, receiving, or viewing child pornography.
+#### (1) Possessing, receiving, or viewing child pornography.
 
 (a) That the accused knowingly and wrongfully possessed, received, or viewed child pornography; and
 
 (b) That, under the circumstances, the conduct of the accused was to the prejudice of good order and discipline in the armed forces or was of a nature to bring discredit upon the armed forces.
 
-### (2) Possessing child pornography with intent to distribute.
+#### (2) Possessing child pornography with intent to distribute.
 
 (a) That the accused knowingly and wrongfully possessed child pornography; 
 
@@ -15908,19 +15908,19 @@ See paragraph 60.
 
 (c) That, under the circumstances, the conduct of the accused was to the prejudice of good order and discipline in the armed forces or was of a nature to bring discredit upon the armed forces.
 
-### (3) Distributing child pornography. 
+#### (3) Distributing child pornography. 
 
 (a) That the accused knowingly and wrongfully distributed child pornography to another; and 
 
 (b) That, under the circumstances, the conduct of the accused was to the prejudice of good order and discipline in the armed forces or was of a nature to bring discredit upon the armed forces.
 
-### (4) Producing child pornography.
+#### (4) Producing child pornography.
 
 (a) That the accused knowingly and wrongfully produced child pornography; and
 
 (b) That, under the circumstances, the conduct of the accused was to the prejudice of good order and discipline in the armed forces or was of a nature to bring discredit upon the armed forces.
 
-## c. Explanation. 
+### c. Explanation. 
 
 (1) "Child Pornography" means material that contains either an obscene visual depiction of a minor engaging in sexually explicit conduct or a visual depiction of an actual minor engaging in sexually explicit conduct.
 
@@ -15952,29 +15952,29 @@ See paragraph 60.
 
 (10) On motion of the government, in any prosecution under this paragraph, except for good cause shown, the name, address, social security number, or other nonphysical identifying information, other than the age or approximate age, of any minor who is depicted in any child pornography or visual depiction or copy thereof shall not be admissible and may be redacted from any otherwise admissible evidence, and the panel shall be instructed, upon request of the Government, that it can draw no inference from the absence of such evidence. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment. 
+### e. Maximum punishment. 
 
-### (1) Possessing, receiving, or viewing child pornography. 
+#### (1) Possessing, receiving, or viewing child pornography. 
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 10 years. 
 
-### (2) Possessing child pornography with intent to distribute. 
+#### (2) Possessing child pornography with intent to distribute. 
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 15 years. 
 
-### (3) Distributing child pornography. 
+#### (3) Distributing child pornography. 
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 20 years. 
 
-### (4) Producing child pornography. 
+#### (4) Producing child pornography. 
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 30 years.
 
-## f. Sample specification. 
+### f. Sample specification. 
 
 _Possessing, receiving, viewing, possessing with intent to distribute, distributing, or producing child pornography._
 
@@ -15984,13 +15984,13 @@ _Possessing, receiving, viewing, possessing with intent to distribute, distribut
 
 about  20 knowingly and wrongfully (possess) (receive) (view) (distribute) (produce) child pornography, to wit: a (photograph) (picture) (film) (video) (digital image) (computer image) of a minor, or what appears to be a minor, engaging in sexually explicit conduct (, with intent to distribute the said child pornography), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (or) (and was) (of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Cohabitation, wrongful)
+## 69. Article 134-(Cohabitation, wrongful)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That, during a certain period of time, the accused and another person
 
@@ -16006,7 +16006,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 This offense differs from adultery (_see_ paragraph
 
@@ -16020,17 +16020,17 @@ as exhibited by conduct or language, that leads others to believe that a
 
 marital relationship exists. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Confinement for 4 months and forfeiture of two-thirds pay per month
 
  for 4 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
 In that  (personal jurisdiction data),
 
@@ -16042,15 +16042,15 @@ from about   20 , to about
 
 (a woman not his wife) (a man not her husband), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Correctional custody-offenses against)
+## 70. Article 134-(Correctional custody-offenses against)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Escape from correctional custody.
+#### (1) Escape from correctional custody.
 
 (a) That the accused was placed in correctional custody by a person
 
@@ -16072,7 +16072,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-### (2) Breach of correctional custody.
+#### (2) Breach of correctional custody.
 
 (a) That the accused was placed in correctional custody by a person
 
@@ -16094,9 +16094,9 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Escape from correctional custody.
+#### (1) Escape from correctional custody.
 
 Escape from correctional custody is the act of a person undergoing
 
@@ -16106,7 +16106,7 @@ being set at liberty by proper authority, casts off any physical restraint
 
 imposed by the custodian or by the place or conditions of custody. 
 
-### (2) Breach of correctional custody.
+#### (2) Breach of correctional custody.
 
 Breach of restraint during correctional custody is the act of a
 
@@ -16116,7 +16116,7 @@ imposed by a custodian or by the place or conditions of custody, breaches
 
  any form of restraint imposed during this period. 
 
-### (3) Authority to impose correctional custody.
+#### (3) Authority to impose correctional custody.
 
  _See_ Part V concerning who may impose correctional
 
@@ -16128,27 +16128,27 @@ judge. Whether the person who imposed correctional custody had such a status
 
  is a question of fact to be decided by the factfinder. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Escape from correctional custody.
+#### (1) Escape from correctional custody.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-### (2) Breach of correctional custody.
+#### (2) Breach of correctional custody.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Escape from correctional custody.
+#### (1) Escape from correctional custody.
 
  
 
@@ -16160,7 +16160,7 @@ authorized to do so, did, (at/on board-location), on or about   20 , escape from
 
 custody, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-### (2) Breach of correctional custody.
+#### (2) Breach of correctional custody.
 
  
 
@@ -16172,13 +16172,13 @@ a person authorized to do so, did, (at/on board-location), on or about   20 , br
 
 thereunder by  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Debt, dishonorably failing to pay)
+## 71. Article 134-(Debt, dishonorably failing to pay)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was indebted to a certain person or entity in a
 
@@ -16196,7 +16196,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 More than negligence in nonpayment is necessary. The failure to
 
@@ -16226,17 +16226,17 @@ that the accused's conduct was dishonorable, but the court-martial may convict
 
 only if it finds from all of the evidence that the conduct was in fact dishonorable.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
 confinement for 6 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -16250,13 +16250,13 @@ did (at/on board-location) (subject-matter jurisdiction data, if required),
 
 from   20 , to    20 , dishonorably fail to pay said debt, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Disloyal statements)
+## 72. Article 134-(Disloyal statements)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused made a certain statement; 
 
@@ -16278,7 +16278,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 Certain disloyal statements by military personnel may not constitute
 
@@ -16300,17 +16300,17 @@ to the United States as a political entity and not merely to a department
 
 or other agency that is a part of its administration. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
 confinement for 3 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -16324,13 +16324,13 @@ to  , the following statement, to wit: "  ," or words to that effect, which stat
 
 to the United States, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Disorderly conduct, drunkenness)
+## 73. Article 134-(Disorderly conduct, drunkenness)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was drunk, disorderly, or drunk and disorderly
 
@@ -16342,13 +16342,13 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Drunkenness.
+#### (1) Drunkenness.
 
 _See_ paragraph 35c(6) for a discussion of intoxication.
 
-### (2) Disorderly.
+#### (2) Disorderly.
 
 Disorderly conduct is conduct of such a nature as to affect the
 
@@ -16360,7 +16360,7 @@ morals or outrages public decency and any disturbance of a contentious or
 
 turbulent character. 
 
-### (3) Service discrediting.
+#### (3) Service discrediting.
 
 Unlike most offenses under Article 134, "conduct of a nature
 
@@ -16370,29 +16370,29 @@ and proved in order to authorized the higher maximum punishment when the
 
 offense is service discrediting. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Disorderly conduct.
+#### (1) Disorderly conduct.
 
-#### (a) Under such circumstances as to bring discredit upon the military service.
+##### (a) Under such circumstances as to bring discredit upon the military service.
 
  Confinement for 4 months and forfeiture of two-thirds pay per month
 
 for 4 months. 
 
-#### (b) Other cases.
+##### (b) Other cases.
 
 Confinement for 1 month and forfeiture of two-thirds pay per month
 
 for 1 month. 
 
-### (2) Drunkenness.
+#### (2) Drunkenness.
 
-#### (a) Aboard ship or under such circumstances as to bring discredit upon
+##### (a) Aboard ship or under such circumstances as to bring discredit upon
 
 the military service.
 
@@ -16400,33 +16400,33 @@ Confinement for 3 months and forfeiture of two-thirds pay per month
 
  for 3 months. 
 
-#### (b) Other cases.
+##### (b) Other cases.
 
 Confinement for 1 month and forfeiture of two-thirds pay per month
 
  for 1 month. 
 
-### (3) Drunk and disorderly.
+#### (3) Drunk and disorderly.
 
-#### (a) Aboard ship.
+##### (a) Aboard ship.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
 confinement for 6 months. 
 
-#### (b) Under such circumstances as to bring discredit upon the military service.
+##### (b) Under such circumstances as to bring discredit upon the military service.
 
 Confinement for 6 months and forfeiture of two-thirds pay per month
 
 for 6 months. 
 
-#### (c) Other cases.
+##### (c) Other cases.
 
 Confinement for 3 months and forfeiture of two-thirds pay per month
 
 for 3 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -16440,13 +16440,13 @@ if required), on or about   20 ,
 
 to bring discredit upon the armed forces), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Drinking liquor with prisoner)
+## 74. Article 134-(Drinking liquor with prisoner)
 
-## a. Text of statute.
+### a. Text of statute.
 
  _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was a sentinel or in another assignment in charge
 
@@ -16468,9 +16468,9 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Prisoner.
+#### (1) Prisoner.
 
 A "prisoner" is a person who is in confinement or custody
 
@@ -16478,23 +16478,23 @@ A "prisoner" is a person who is in confinement or custody
 
 who has not been set free by proper authority. 
 
-### (2) Liquor.
+#### (2) Liquor.
 
 For the purposes of this offense, "liquor" includes
 
 any alcoholic beverage. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Confinement for 3 months and forfeiture of two-thirds pay per month
 
  for 3 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -16508,13 +16508,13 @@ drink intoxicating liquor with  , a prisoner under
 
  his/her charge, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Drunk prisoner)
+## 75. Article 134-(Drunk prisoner)
 
-## a. Text of statute.
+### a. Text of statute.
 
  _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was a prisoner; 
 
@@ -16526,27 +16526,27 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Prisoner.
+#### (1) Prisoner.
 
  _See_ paragraph 74c(1). 
 
-### (2) Drunk.
+#### (2) Drunk.
 
  _See_ paragraph 35c(6) for a discussion of intoxication.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Confinement for 3 months and forfeiture of two-thirds pay per month
 
  for 3 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -16554,17 +16554,17 @@ Confinement for 3 months and forfeiture of two-thirds pay per month
 
  data), a prisoner, was (at/on board- location), on or about   20 , found drunk, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Drunkenness-incapacitation for performance
+## 76. Article 134-(Drunkenness-incapacitation for performance
 
  of duties through prior wrongful indulgence in intoxicating liquor or any
 
  drug)
 
-## a. Text of statute.
+### a. Text of statute.
 
  _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused had certain duties to perform; 
 
@@ -16582,13 +16582,13 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Liquor.
+#### (1) Liquor.
 
  _See_ paragraph 74c(2). 
 
-### (2) Incapacitated.
+#### (2) Incapacitated.
 
 Incapacitated means unfit or unable to perform properly. A person
 
@@ -16602,23 +16602,23 @@ duties. Illness resulting from previous overindulgence is an example of being
 
 see_ paragraph 35_c_(6). 
 
-### (3) Affirmative defense.
+#### (3) Affirmative defense.
 
 The accused's lack of knowledge of the duties assigned is an affirmative
 
 defense to this offense. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Confinement for 3 months and forfeiture of two-thirds pay per month
 
  for 3 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -16630,15 +16630,15 @@ Confinement for 3 months and forfeiture of two-thirds pay per month
 
 liquor or drugs incapacitated for the proper performance of his/her duties, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(False or unauthorized pass offenses)
+## 77. Article 134-(False or unauthorized pass offenses)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Wrongful making, altering, counterfeiting, or tampering with a military
+#### (1) Wrongful making, altering, counterfeiting, or tampering with a military
 
 or official pass, permit, discharge certificate, or identification card.
 
@@ -16654,7 +16654,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-### (2) Wrongful sale, gift, loan, or disposition of a military or official
+#### (2) Wrongful sale, gift, loan, or disposition of a military or official
 
  pass, permit, discharge certificate, or identification card.
 
@@ -16678,7 +16678,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-### (3) Wrongful use or possession of a false or unauthorized military or official
+#### (3) Wrongful use or possession of a false or unauthorized military or official
 
 pass, permit, discharge certificate, or identification card.
 
@@ -16708,9 +16708,9 @@ pass, permit, discharge certificate, or identification card with an intent
 
 to defraud or deceive.--RSQP--
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 "Military or official pass, permit, discharge certificate,
 
@@ -16720,17 +16720,17 @@ these documents, all documents issued by any governmental agency for the
 
 purpose of identification and copies thereof. 
 
-### (2) Intent to defraud or deceive.
+#### (2) Intent to defraud or deceive.
 
 _See_ paragraph 49c(14) and (15). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Possessing or using with intent to defraud or deceive, or making,
+#### (1) Possessing or using with intent to defraud or deceive, or making,
 
  altering, counterfeiting, tampering with, or selling.
 
@@ -16738,15 +16738,15 @@ See paragraph 3 of this part and Appendix 12A.
 
  confinement for 3 years. 
 
-### (2) All other cases.
+#### (2) All other cases.
 
  Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1)  Wrongful making, altering, counterfeiting, or tampering with military
+#### (1)  Wrongful making, altering, counterfeiting, or tampering with military
 
  or official pass, permit, discharge certificate, or identification card.
 
@@ -16768,7 +16768,7 @@ purporting to be) (a) (an) (another's) (naval) (military) (official) (pass)
 
 in words and figures as follows:  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-### (2) Wrongful sale, gift, loan, or disposition of a military or official
+#### (2) Wrongful sale, gift, loan, or disposition of a military or official
 
  pass, permit, discharge certificate, or identification card.
 
@@ -16794,7 +16794,7 @@ wrongfully (sell to  ) (give to  )
 
 same to be (false) (unauthorized), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-### (3) Wrongful use or possession of a false or unauthorized military or
+#### (3) Wrongful use or possession of a false or unauthorized military or
 
 official pass, permit, discharge certificate, or identification card.
 
@@ -16816,13 +16816,13 @@ if required), on or about   20
 
 then well knowing the same to be (false) (unauthorized), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(False pretenses, obtaining services under)
+## 78. Article 134-(False pretenses, obtaining services under)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused wrongfully obtained certain services; 
 
@@ -16840,7 +16840,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 This offense is similar to the offenses of larceny and wrongful
 
@@ -16854,27 +16854,27 @@ See_ paragraph 46c. _See_ paragraph 49c(14) for a definition
 
 of "intent to defraud." 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Obtaining services under false pretenses. 
 
-### (1) Of a value of $500.00 or less.
+#### (1) Of a value of $500.00 or less.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-### (2) Of a value of more than $500.00.
+#### (2) Of a value of more than $500.00.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -16888,13 +16888,13 @@ thereof did wrongfully obtain from  services, of a
 
 value of (about) $  , to wit:  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(False swearing)
+## 79. Article 134-(False swearing)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused took an oath or equivalent; 
 
@@ -16922,9 +16922,9 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Nature of offense.
+#### (1) Nature of offense.
 
 False swearing is the making under a lawful oath or equivalent of
 
@@ -16946,7 +16946,7 @@ c(2)(_e_) concerning "judicial proceeding or course of justice,"
 
 proof of the falsity, and the belief of the accused, respectively. 
 
-### (2) Oath.
+#### (2) Oath.
 
 _See_ Article 136 and R.C.M. 807 as to the authority
 
@@ -16958,17 +16958,17 @@ to administer oaths. An oath includes an affirmation when authorized in lieu
 
 of an oath. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
 confinement for 3 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -16984,13 +16984,13 @@ substance as follows:  , which statement he/she did
 
 not then believe to be true, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Firearm, discharging-through negligence)
+## 80. Article 134-(Firearm, discharging-through negligence)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused discharged a firearm; 
 
@@ -17004,21 +17004,21 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 For a discussion of negligence, _see_ paragraph 85c(2).
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Confinement for 3 months and forfeiture of two-thirds pay per month
 
  for 3 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -17034,15 +17034,15 @@ in the (squadron) (tent) (barracks) (  ) of
 
  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Firearm, discharging-willfully, under such
+## 81. Article 134-(Firearm, discharging-willfully, under such
 
 circumstances as to endanger human life)
 
-## a. Text of statute.
+### a. Text of statute.
 
  _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused discharged a firearm; 
 
@@ -17058,7 +17058,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 "Under circumstances such as to endanger human life"
 
@@ -17070,17 +17070,17 @@ The test is not whether the life was in fact endangered but whether, considering
 
  was unsafe to human life in general. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -17096,15 +17096,15 @@ wrongfully and willfully discharge a firearm, to wit:  ,
 
 under circumstances such as to endanger human life, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Fleeing scene of accident)
+## 82. Article 134-(Fleeing scene of accident)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Driver.
+#### (1) Driver.
 
 (a) That the accused was the driver of a vehicle; 
 
@@ -17128,7 +17128,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-### (2) Senior passenger.
+#### (2) Senior passenger.
 
 (a) That the accused was a passenger in a vehicle which was involved
 
@@ -17152,9 +17152,9 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Nature of offense.
+#### (1) Nature of offense.
 
 This offense covers "hit and run" situations where there
 
@@ -17166,7 +17166,7 @@ accidents caused by the accused, even if the accused's vehicle does not contact
 
 other people, vehicles, or property. 
 
-### (2) Knowledge.
+#### (2) Knowledge.
 
 Actual knowledge that an accident has occurred is an essential
 
@@ -17174,23 +17174,23 @@ element of this offense. Actual knowledge may be proved by circumstantial
 
 evidence. 
 
-### (3) Passenger.
+#### (3) Passenger.
 
 A passenger other than a senior passenger may also be liable under
 
  this paragraph. _See_ paragraph 1 of this Part. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -17222,13 +17222,13 @@ passenger and is charged as a principal. _See_ paragraph 1
 
 of this part.--RSQP--
 
-#  Article 134-(Fraternization)
+## 83. Article 134-(Fraternization)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was a commissioned or warrant officer; 
 
@@ -17250,9 +17250,9 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 The gist of this offense is a violation of the custom of the armed
 
@@ -17278,7 +17278,7 @@ of enlisted persons for the professionalism, integrity, and obligations of
 
 an officer. 
 
-### (2) Regulations.
+#### (2) Regulations.
 
 Regulations, directives, and orders may also govern conduct between
 
@@ -17292,17 +17292,17 @@ directives, or orders may be punishable under Article 92. _See_ paragraph
 
 16. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dismissal, forfeiture of all pay and allowances, and confinement
 
 for 2 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -17318,13 +17318,13 @@ States Coast Guard) that officers shall not fraternize with enlisted persons
 
 on terms of military equality, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Gambling with subordinate)
+## 84. Article 134-(Gambling with subordinate)
 
-## a. Text of statute.
+### a. Text of statute.
 
  _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused gambled with a certain servicemember; 
 
@@ -17344,7 +17344,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 This offense can only be committed by a noncommissioned or petty
 
@@ -17354,17 +17354,17 @@ petty officer rank. Gambling by an officer with an enlisted person may be
 
 a violation of Article 133. _See also_ paragraph 83. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Confinement for 3 months and forfeiture of two-thirds pay per month
 
  for 3 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -17376,13 +17376,13 @@ data, if required), on or about   20  , gamble with  , then knowing that the sai
 
 to the said  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Homicide, negligent)
+## 85. Article 134-(Homicide, negligent)
 
-## a. Text of statute.
+### a. Text of statute.
 
  _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That a certain person is dead; 
 
@@ -17402,15 +17402,15 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Nature of offense.
+#### (1) Nature of offense.
 
 Negligent homicide is any unlawful homicide which is the result
 
 of simple negligence. An intent to kill or injure is not required. 
 
-### (2) Simple negligence.
+#### (2) Simple negligence.
 
 Simple negligence is the absence of due care, that is, an act or
 
@@ -17424,17 +17424,17 @@ negligence is a lesser degree of carelessness than culpable negligence. _
 
 See_ paragraph 44c(2)(_a_). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -17454,15 +17454,15 @@ data, if required), on or about
 
 manner) (  ), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Impersonating a commissioned, warrant, noncommissioned,
+## 86. Article 134-(Impersonating a commissioned, warrant, noncommissioned,
 
 or petty officer, or an agent or official)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused impersonated a commissioned, warrant, noncommissioned,
 
@@ -17496,9 +17496,9 @@ one or more acts which exercised or asserted the authority of the office
 
 the accused claimed to have;--RSQP--.
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Nature of offense.
+#### (1) Nature of offense.
 
 Impersonation does not depend upon the accused deriving a benefit
 
@@ -17506,39 +17506,39 @@ Impersonation does not depend upon the accused deriving a benefit
 
 an aggravating factor. 
 
-### (2) Willfulness.
+#### (2) Willfulness.
 
 "Willful" means with the knowledge that one is falsely
 
  holding one's self out as such. 
 
-### (3) Intent to defraud.
+#### (3) Intent to defraud.
 
 _See_ paragraph 49c(14). 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Impersonating a commissioned, warrant, noncommissioned, or petty
 
  officer, or an agent or official. 
 
-### (1) With intent to defraud.
+#### (1) With intent to defraud.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-### (2) All other cases.
+#### (2) All other cases.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
 confinement for 6 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -17566,23 +17566,23 @@ and insignia of rank of a (lieutenant of the  ) ( )) (showing the credentials of
 
 --LSQP--**_See_ subsection b note 2.--RSQP--
 
-#  Deleted-See Appendix 27
+## 87. Deleted-See Appendix 27
 
 Indecent acts or liberties with a child was deleted by Executive Order 13447, 72 Fed. Reg. 56179 (Oct. 2, 2007). _See_ Appendix 25. 
 
-#  Deleted-See Appendix 27
+## 88. Deleted-See Appendix 27
 
 Indecent exposure was deleted by Executive Order 13447, 72 Fed. Reg. 56179
 
 (Oct. 2, 2007). _See_ Appendix 25. 
 
-#  Article 134-(Indecent language)
+## 89. Article 134-(Indecent language)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused orally or in writing communicated to another person
 
@@ -17602,33 +17602,33 @@ element (1): That the person to whom the language was communicated was a
 
 child under the age of 16.--RSQP--
 
-## c. Explanation.
+### c. Explanation.
 
 "Indecent" language is that which is grossly offensive to
 
  modesty, decency, or propriety, or shocks the moral sense, because of its vulgar, filthy, or disgusting nature, or its tendency to incite lustful thought. Language is indecent if it tends reasonably to corrupt morals or incite libidinous thoughts. The language must violate community standards. _See_ paragraph 45 if the communication was made in the physical presence of a child.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Indecent or insulting language. 
 
-### (1) Communicated to any child under the age of 16 years.
+#### (1) Communicated to any child under the age of 16 years.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
 confinement for 2 years. 
 
-### (2) Other cases.
+#### (2) Other cases.
 
 Bad-conduct discharge; forfeiture of all pay and allowances, and
 
 confinement for 6 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -17640,13 +17640,13 @@ if required), on or about   20 ,
 
 the age of 16 years), certain indecent language, to wit:  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Indecent conduct)
+## 90. Article 134-(Indecent conduct)
 
-## a. Text of Statute.
+### a. Text of Statute.
 
  _See_ paragraph 60.
 
-## b. Elements.
+### b. Elements.
 
 	(1) That the accused engaged in certain conduct;
 
@@ -17662,7 +17662,7 @@ the age of 16 years), certain indecent language, to wit:  , and that said conduc
 
 	
 
-## c. Explanation.
+### c. Explanation.
 
 	(1) "Indecent" means that form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations. 
 
@@ -17674,25 +17674,25 @@ the age of 16 years), certain indecent language, to wit:  , and that said conduc
 
 	
 
-## d. Lesser included offense.
+### d. Lesser included offense.
 
  _See_ paragraph 3 of this part and Appendix 12A.
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
  Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 5 years.
 
-## f. Sample specification.
+### f. Sample specification.
 
 	In that ______ (personal jurisdiction data), did (at/on board - location) (subject-matter jurisdiction data, if required), on or about (date), (wrongfully commit indecent conduct, to wit: _________), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces) .
 
-#  Article 134-(Jumping from vessel into the water)
+## 91. Article 134-(Jumping from vessel into the water)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused jumped from a vessel in use by the armed forces
 
@@ -17706,7 +17706,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 "In use by" means any vessel operated by or under the
 
@@ -17714,17 +17714,17 @@ control of the armed forces. This offense may be committed at sea, at anchor,
 
 or in port. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -17734,13 +17734,13 @@ jump from  , a vessel in use by the armed forces, into
 
  the (sea) (lake) (river), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Kidnapping)
+## 92. Article 134-(Kidnapping)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused seized, confined, inveigled, decoyed, or carried
 
@@ -17756,9 +17756,9 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Inveigle, decoy.
+#### (1) Inveigle, decoy.
 
 "Inveigle" means to lure, lead astray, or entice by
 
@@ -17772,7 +17772,7 @@ means to entice or lure by means of some fraud, trick, or temptation. For
 
 example, one who lures a child into a trap with candy has decoyed the child.
 
-### (2) Held.
+#### (2) Held.
 
 "Held" means detained. The holding must be more than
 
@@ -17790,7 +17790,7 @@ to a remote area of the base or post, this may be kidnapping, in addition
 
 to robbery or rape. 
 
-### (3) Against the will.
+#### (3) Against the will.
 
 "Against that person's will" means that the victim was
 
@@ -17810,7 +17810,7 @@ exit or escape is relevant to the voluntariness of the detention, as is evidence
 
 of threats or force, or lack thereof, by the accused to detain the victim.
 
-### (4) Willfully.
+#### (4) Willfully.
 
 The accused must have specifically intended to hold the victim
 
@@ -17824,7 +17824,7 @@ that the kidnapping was for ransom, however. _See_ R.C.M.
 
 1001(b)(4). 
 
-### (5) Wrongfully.
+#### (5) Wrongfully.
 
 "Wrongfully" means without justification or excuse.
 
@@ -17844,17 +17844,17 @@ for a parent or legal guardian to seize and hold that parent's or legal guardian
 
 minor child. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for life without eligibility for parole. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -17872,17 +17872,17 @@ away) and hold  (a minor whose parent or legal guardian
 
 the accused was not) (a person not a minor) against his/her will, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Mail: taking, opening, secreting, destroying, or
+## 93. Article 134-(Mail: taking, opening, secreting, destroying, or
 
 stealing)
 
-## a. Text of statute.
+### a. Text of statute.
 
  _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Taking.
+#### (1) Taking.
 
 (a) That the accused took certain mail matter; 
 
@@ -17902,7 +17902,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-### (2) Opening, secreting, destroying, or stealing.
+#### (2) Opening, secreting, destroying, or stealing.
 
 (a) That the accused opened, secreted, destroyed, or stole certain mail
 
@@ -17922,7 +17922,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 These offenses are intended to protect the mail and mail system.
 
@@ -17936,19 +17936,19 @@ The value of the mail matter is not an element. _See_ paragraph
 
 46c(1) concerning "steal." 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Taking.
+#### (1) Taking.
 
  
 
@@ -17966,7 +17966,7 @@ wrongfully take certain mail matter, to wit: (a) (letter(s)) (postal card(s))
 
 to (obstruct the correspondence) (pry into the (business) (secrets)) of  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-### (2) Opening, secreting, destroying, or stealing.
+#### (2) Opening, secreting, destroying, or stealing.
 
  
 
@@ -17974,15 +17974,15 @@ to (obstruct the correspondence) (pry into the (business) (secrets)) of  , and t
 
 to  , (a representative of  ,) (an official agency for the transmission of communications)) before said (letter(s)) (  ) (was) (were) (delivered) (actually received) (to) (by) the (addressee), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Mails: depositing or causing to be deposited obscene
+## 94. Article 134-(Mails: depositing or causing to be deposited obscene
 
 matters in)
 
-## a. Text of statute.
+### a. Text of statute.
 
  _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused deposited or caused to be deposited in the mails
 
@@ -17998,7 +17998,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 Whether something is obscene is a question of fact. "Obscene"
 
@@ -18010,17 +18010,17 @@ and must go beyond customary limits of expression. "Knowingly"
 
 means the accused deposited the material with knowledge of its nature. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -18040,13 +18040,13 @@ States) (  ) mails, for mailing and delivery a (letter)
 
  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Misprision of serious offense)
+## 95. Article 134-(Misprision of serious offense)
 
-## a. Text of statute.
+### a. Text of statute.
 
  _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That a certain serious offense was committed by a certain person;
 
@@ -18066,9 +18066,9 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 Misprision of a serious offense is the offense of concealing a
 
@@ -18080,7 +18080,7 @@ See_ paragraph 3. An intent to benefit the principal is not necessary
 
 to this offense. 
 
-### (2) Serious offense.
+#### (2) Serious offense.
 
 For purposes of this paragraph, a "serious offense"
 
@@ -18088,7 +18088,7 @@ is any offense punishable under the authority of the code by death or by
 
 confinement for a term exceeding 1 year. 
 
-### (3) Positive act of concealment.
+#### (3) Positive act of concealment.
 
 A mere failure or refusal to disclose the serious offense without
 
@@ -18098,17 +18098,17 @@ Making a false entry in an account book for the purpose of concealing a
 
 theft committed by another is an example of a positive act of concealment.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -18126,13 +18126,13 @@ conceal such serious offense by  and fail to make
 
  the same known to the civil or military authorities as soon as possible, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Obstructing justice)
+## 96. Article 134-(Obstructing justice)
 
-## a. Text of statute.
+### a. Text of statute.
 
  _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused wrongfully did a certain act; 
 
@@ -18152,7 +18152,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 This offense may be based on conduct that occurred before preferral
 
@@ -18180,17 +18180,17 @@ or prosecutions of such offenses; or endeavoring to do so. _See also
 
 _ paragraph 22 and Article 37. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -18234,13 +18234,13 @@ to the said  , (the sum of $ )
 
   --RSQP--, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Art 134-(Wrongful interference with an adverse administrative proceeding)
+## 96a. Art 134-(Wrongful interference with an adverse administrative proceeding)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused wrongfully did a certain act; 
 
@@ -18262,7 +18262,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 For purposes of this paragraph "adverse administrative proceeding"
 
@@ -18286,17 +18286,17 @@ destruction or concealment of information relevant to such adverse administrativ
 
 proceeding. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -18344,15 +18344,15 @@ said  --RSQP-- --LSQP--(wrongfully refuse to testify)
 
  --RSQP--, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Pandering and prostitution)
+## 97. Article 134-(Pandering and prostitution)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Prostitution.
+#### (1) Prostitution.
 
 (a) That the accused engaged in a sexual act with another person not
 
@@ -18370,7 +18370,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-### (2) Patronizing a prostitute.
+#### (2) Patronizing a prostitute.
 
 (a) That the accused engaged in a sexual act with another person not the accused's spouse; 
 
@@ -18380,7 +18380,7 @@ a nature to bring discredit upon the armed forces.
 
 (d) That, under the circumstances, the conduct of the accused was to the prejudice of good order and discipline in the armed forces or was of a nature to bring discredit upon the armed forces.
 
-### (3) Pandering by inducing, enticing, or procuring act of prostitution.
+#### (3) Pandering by inducing, enticing, or procuring act of prostitution.
 
 (a) That the accused induced, enticed, or procured a certain person to engage in a sexual act for hire and reward with a person to be directed to said person by the accused; 
 
@@ -18388,7 +18388,7 @@ a nature to bring discredit upon the armed forces.
 
 (c) That, under the circumstances, the conduct of the accused was to the prejudice of good order and discipline in the armed forces or was of a nature to bring discredit upon the armed forces.
 
-### (4) Pandering by arranging or receiving consideration for arranging for a sexual act.
+#### (4) Pandering by arranging or receiving consideration for arranging for a sexual act.
 
 (a) That the accused arranged for, or received valuable consideration
 
@@ -18406,35 +18406,35 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 (1) Prostitution may be committed by males or females.
 
-#### (2) Sexual act.
+##### (2) Sexual act.
 
  _See_ paragraph 45.a.(g)(1).
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Prostitution and patronizing a prostitute.
+#### (1) Prostitution and patronizing a prostitute.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-### (2) Pandering.
+#### (2) Pandering.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Prostitution.
+#### (1) Prostitution.
 
  
 
@@ -18450,7 +18450,7 @@ wrongfully engage in (a sexual act) (sexual acts) with
 
 (  ), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-### (2) Patronizing a prostitute.
+#### (2) Patronizing a prostitute.
 
  
 
@@ -18458,13 +18458,13 @@ wrongfully engage in (a sexual act) (sexual acts) with
 
 (), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-### (3) Inducing, enticing, or procuring act of prostitution.
+#### (3) Inducing, enticing, or procuring act of prostitution.
 
  
 
   In that  (personal jurisdiction data), did (at/on board-location) (subject-matter jurisdiction data, if required), on or about   20 , wrongfully (induce)(entice)(procure)  to engage in (a sexual act) (sexual acts for hire and reward) with persons to be directed to him/her by the said  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-### (4) Arranging, or receiving consideration for arranging for sexual intercourse
+#### (4) Arranging, or receiving consideration for arranging for sexual intercourse
 
 or sodomy.
 
@@ -18480,13 +18480,13 @@ wrongfully (arrange for) (receive valuable consideration, to wit:  on account of
 
 (an act) (acts) of (sexual intercourse) (sodomy) with  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Parole, Violation of)
+## 97a. Article 134-(Parole, Violation of)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was a prisoner as the result of a court-martial
 
@@ -18508,7 +18508,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces.
 
-## c. Explanation.
+### c. Explanation.
 
 (1) "Prisoner" refers only to those in confinement resulting
 
@@ -18538,17 +18538,17 @@ sentence. In return for giving his or her "word of honor" to abide by a parole
 
 plan and conditions of parole, the prisoner is granted parole.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Bad-conduct discharge, confinement for 6 months, and forfeiture
 
 of two-thirds pay per month for 6 months.
 
-## f. Sample specifications.
+### f. Sample specifications.
 
  
 
@@ -18558,13 +18558,13 @@ of two-thirds pay per month for 6 months.
 
 his/her parole by  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Perjury: subornation of)
+## 98. Article 134-(Perjury: subornation of)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused induced and procured a certain person to take an
 
@@ -18600,23 +18600,23 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
  _See_ paragraph 57c for applicable principles.
 
 "Induce and procure" means to influence, persuade, or cause.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -18644,15 +18644,15 @@ a material matter and which the accused and the said  did
 
 not then believe to be true, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Public record: altering, concealing, removing,
+## 99. Article 134-(Public record: altering, concealing, removing,
 
 mutilating, obliterating, or destroying)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused altered, concealed, removed, mutilated, obliterated,
 
@@ -18668,7 +18668,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 "Public records" include records, reports, statements,
 
@@ -18680,17 +18680,17 @@ forth the activities of the office or agency, or matters observed pursuant
 
 records" includes classified matters. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -18704,13 +18704,13 @@ willfully and unlawfully ((alter) (conceal) (remove) (mutilate) (obliterate)
 
 (destroy)) a public record, to wit:  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Quarantine: medical, breaking)
+## 100. Article 134-(Quarantine: medical, breaking)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That a certain person ordered the accused into medical quarantine;
 
@@ -18732,21 +18732,21 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 None. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Confinement for 6 months and forfeiture of two-thirds pay per month
 
 for 6 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -18758,13 +18758,13 @@ order the accused into medical quarantine, did, (at/on board-location)
 
 (subject-matter jurisdiction data, if required), on or about   20 , break said medical quarantine, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Reckless endangerment)
+## 100a. Article 134-(Reckless endangerment)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused did engage in conduct; 
 
@@ -18780,9 +18780,9 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 This offense is intended to prohibit and therefore deter reckless
 
@@ -18790,11 +18790,11 @@ or wanton conduct that wrongfully creates a substantial risk of death or grievou
 
 bodily harm to others.
 
-### (2) Wrongfulness.
+#### (2) Wrongfulness.
 
 Conduct is wrongful when it is without legal justification or excuse.
 
-### (3) Recklessness.
+#### (3) Recklessness.
 
 "Reckless" conduct is conduct that exhibits a culpable
 
@@ -18810,7 +18810,7 @@ of that heedless nature that made it actually or imminently dangerous to
 
 the rights or safety of others. 
 
-### (4) Wantonness.
+#### (4) Wantonness.
 
 "Wanton" includes "Reckless" but may connote
 
@@ -18818,7 +18818,7 @@ willfulness, or a disregard of probable consequences, and thus describe a
 
 more aggravated offense. 
 
-### (5) Likely to produce.
+#### (5) Likely to produce.
 
 When the natural or probable consequence of particular conduct would
 
@@ -18828,7 +18828,7 @@ be death or grievous bodily harm, it may be inferred that the conduct is
 
  54c(4)(a)(ii). 
 
-### (6) Grievous bodily harm.
+#### (6) Grievous bodily harm.
 
 "Grievous bodily harm" means serious bodily injury.
 
@@ -18838,23 +18838,23 @@ but does include fractured or dislocated bones, deep cuts, torn members of
 
 the body, serious damage to internal organs, and other serious bodily injuries.
 
-### (7) Death or injury not required.
+#### (7) Death or injury not required.
 
 It is not necessary that death or grievous bodily harm be actually
 
  inflicted to prove reckless endangerment. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 None. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
 confinement for 1 year. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -18866,17 +18866,17 @@ wrongfully and (recklessly) (wantonly) engage in conduct, to wit: (describe
 
 conduct), conduct likely to cause death or grievous bodily harm to  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Deleted-See Executive Order 12708
+## 101. Deleted-See Executive Order 12708
 
 Requesting commission of an offense was deleted pursuant to Executive Order 12708, effective 1 April 1990.
 
-#  Article 134-(Restriction, breaking)
+## 102. Article 134-(Restriction, breaking)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That a certain person ordered the accused to be restricted to certain
 
@@ -18896,7 +18896,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 Restriction is the moral restraint of a person imposed by an order
 
@@ -18912,17 +18912,17 @@ R.C.M. 1003(b)(6)), and administrative restriction in the interest of training,
 
 operations, security, or safety. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Confinement for 1 month and forfeiture of two-thirds pay per month
 
 for 1 month. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -18932,15 +18932,15 @@ by a person authorized to do so, did, (at/on board-location), on or
 
 about   20 , break said restriction, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Seizure: destruction, removal, or disposal of property
+## 103. Article 134-(Seizure: destruction, removal, or disposal of property
 
 to prevent)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That one or more persons authorized to make searches and seizures
 
@@ -18960,7 +18960,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
  _See_ Mil. R. Evid. 316(_e_) concerning
 
@@ -18968,17 +18968,17 @@ military personnel who may make seizures. It is not a defense that a search
 
 or seizure was technically defective. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that   (personal
 
@@ -18992,13 +18992,13 @@ knew, (a) person(s) authorized to make searches and seizures were (seizing)
 
 (about to seize) (endeavoring to seize), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Self-injury without intent to avoid service)
+## 103a. Article 134-(Self-injury without intent to avoid service)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused intentionally inflicted injury upon himself or
 
@@ -19018,9 +19018,9 @@ hostile fire pay zone, add the following element--RSQP--
 
  pay zone). 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Nature of offense.
+#### (1) Nature of offense.
 
 This offense differs from malingering (see paragraph 40) in that
 
@@ -19044,7 +19044,7 @@ however, are relevant to a determination that the accused's conduct was prejudic
 
 to good order and discipline, or service-discrediting. 
 
-### (2) How injury inflicted. 
+#### (2) How injury inflicted. 
 
 The injury may be inflicted by nonviolent as well as by violent
 
@@ -19056,19 +19056,19 @@ results in a debility is a self-inflicted injury. Similarly, the injury may
 
 be inflicted by another at the accused's request. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Intentional self-inflicted injury.
+#### (1) Intentional self-inflicted injury.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
 confinement for 2 years. 
 
-### (2) Intentional self-inflicted injury in time of war or in a hostile fire
+#### (2) Intentional self-inflicted injury in time of war or in a hostile fire
 
 pay zone.
 
@@ -19076,7 +19076,7 @@ pay zone.
 
 confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
   In that  (personal jurisdiction
 
@@ -19088,15 +19088,15 @@ war,) intentionally injure himself/herself by  (nature
 
 and circumstances of injury), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Sentinel or lookout: offenses against or by)
+## 104. Article 134-(Sentinel or lookout: offenses against or by)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Disrespect to a sentinel or lookout.
+#### (1) Disrespect to a sentinel or lookout.
 
 (a) That a certain person was a sentinel or lookout; 
 
@@ -19122,7 +19122,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-### (2) Loitering or wrongfully sitting on post by a sentinel or lookout.
+#### (2) Loitering or wrongfully sitting on post by a sentinel or lookout.
 
 (a) That the accused was posted as a sentinel or lookout; 
 
@@ -19144,23 +19144,23 @@ following element after element (a): That the accused was so posted (in time
 
 of war) (while receiving special pay under 37 U.S.C. --SECT-- 310).--RSQP--
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Disrespect.
+#### (1) Disrespect.
 
 For a discussion of "disrespect," _see_
 
 paragraph 13c(3). 
 
-### (2) Loitering or wrongfully sitting on post.
+#### (2) Loitering or wrongfully sitting on post.
 
-#### (a) In general.
+##### (a) In general.
 
 The discussion set forth in paragraph 38c applies to loitering or
 
  sitting down while posted as a sentinel or lookout as well. 
 
-#### (b) Loiter.
+##### (b) Loiter.
 
 "Loiter" means to stand around, to move about slowly,
 
@@ -19168,21 +19168,21 @@ to linger, or to lag behind when that conduct is in violation of known instructi
 
 or accompanied by a failure to give complete attention to duty. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
-### (1) Disrespect to a sentinel or lookout.
+#### (1) Disrespect to a sentinel or lookout.
 
 Confinement for 3 months and forfeiture of two-thirds pay per month
 
  for 3 months. 
 
-### (2) Loitering or wrongfully sitting on post by a sentinel or lookout.
+#### (2) Loitering or wrongfully sitting on post by a sentinel or lookout.
 
-#### (a) In time of war or while receiving special pay under 37 U.S.C. --SECT--
+##### (a) In time of war or while receiving special pay under 37 U.S.C. --SECT--
 
  310.
 
@@ -19190,15 +19190,15 @@ Confinement for 3 months and forfeiture of two-thirds pay per month
 
  confinement for 2 years. 
 
-#### (b) Other cases.
+##### (b) Other cases.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Disrespect to a sentinel or lookout.
+#### (1) Disrespect to a sentinel or lookout.
 
  
 
@@ -19214,7 +19214,7 @@ a sentinel or lookout, (wrongfully use the following disrespectful language
 
 the execution of his/her duty, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-### (2) Loitering or wrongfully sitting down on post by a sentinel or lookout.
+#### (2) Loitering or wrongfully sitting down on post by a sentinel or lookout.
 
  
 
@@ -19228,13 +19228,13 @@ board-location) (while receiving special pay under 37 U.S.C. --SECT--
 
 (a time of war) (loiter) (wrongfully sit down) on his/her post, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Soliciting another to commit an offense)
+## 105. Article 134-(Soliciting another to commit an offense)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused solicited or advised a certain person or persons
 
@@ -19252,17 +19252,17 @@ the prejudice of good order and discipline in the armed forces or was a nature
 
 to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 _See_ paragraph 6c. If the offense solicited was
 
  actually committed, _see also_ paragraph 1. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Any person subject to the code who is found guilty of soliciting
 
@@ -19284,7 +19284,7 @@ offense of espionage (Article 106a) shall be subject to any punishment, other
 
 than death, that a court-martial may direct. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -19300,15 +19300,15 @@ regulation, to wit:  ) (to steal  , of a value of (about) $  , the property
 
 of  ) (to  ), by  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Stolen property: knowingly receiving, buying,
+## 106. Article 134-(Stolen property: knowingly receiving, buying,
 
 concealing)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused wrongfully received, bought, or concealed certain
 
@@ -19326,9 +19326,9 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) In general.
+#### (1) In general.
 
 The actual thief is not criminally liable for receiving the property
 
@@ -19340,13 +19340,13 @@ the stolen property but may not be found guilty of both the larceny and
 
 receiving the property. 
 
-### (2) Knowledge.
+#### (2) Knowledge.
 
 Actual knowledge that the property was stolen is required. Knowledge
 
  may be proved by circumstantial evidence. 
 
-### (3) Wrongfulness.
+#### (3) Wrongfulness.
 
 Receiving stolen property is wrongful if it is without justification
 
@@ -19356,27 +19356,27 @@ stolen property for the purpose of returning it to its rightful owner, or
 
 for a law enforcement officer to seize it as evidence. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Stolen property, knowingly receiving, buying, or concealing. 
 
-### (1) Of a value of $500.00 or less.
+#### (1) Of a value of $500.00 or less.
 
  Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-### (2) Of a value of more than $500.00.
+#### (2) Of a value of more than $500.00.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -19394,13 +19394,13 @@ of (about) $  , the property of  ,
 
 had been stolen, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Straggling)
+## 107. Article 134-(Straggling)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused, while accompanying the accuse's organization on
 
@@ -19414,23 +19414,23 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 "Straggle" means to wander away, to stray, to become
 
  separated from, or to lag or linger behind. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Confinement for 3 months and forfeiture of two-thirds pay per month
 
  for 3 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -19440,13 +19440,13 @@ Confinement for 3 months and forfeiture of two-thirds pay per month
 
 on (a march) (maneuvers) (  ), wrongfully straggle, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Testify: wrongful refusal)
+## 108. Article 134-(Testify: wrongful refusal)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused was in the presence of a court-martial, board of
 
@@ -19472,7 +19472,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 To "qualify as a witness" means that the witness declares
 
@@ -19484,17 +19484,17 @@ to remain silent does not constitute a defense to a charge of wrongful to
 
 testify. _See also_ Mil. R. Evid. 301 and Section V. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 5 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -19522,15 +19522,15 @@ answer the following question(s) put to him/her as a witness,
 
 as a witness) (to answer said question(s)), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Threat or hoax designed or intended to cause panic or public fear)
+## 109. Article 134-(Threat or hoax designed or intended to cause panic or public fear)
 
-## a. Text of statute.
+### a. Text of statute.
 
 See paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
-### (1) Threat.
+#### (1) Threat.
 
 (a) That the accused communicated certain language;
 
@@ -19542,7 +19542,7 @@ See paragraph 60.
 
 (e) That, under the circumstances, the conduct of the accused was to the prejudice of good order and discipline in the armed forces or was of a nature to bring discredit upon the armed forces.
 
-### (2) Hoax.
+#### (2) Hoax.
 
 (a) That the accused communicated or conveyed certain information;
 
@@ -19554,21 +19554,21 @@ See paragraph 60.
 
 (e) That, under the circumstances, the conduct of the accused was to the prejudice of good order and discipline in the armed forces or was of a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Threat.
+#### (1) Threat.
 
  A "threat" means an expressed present determination or intent to kill, injure, or intimidate a person or to damage or destroy certain property presently or in the future. Proof that the accused actually intended to kill, injure, intimidate, damage, or destroy is not required.
 
-### (2) Explosive.
+#### (2) Explosive.
 
 "Explosive" means gunpowder, powders used for blasting, all forms of high explosives, blasting materials, fuses (other than electrical circuit breakers), detonators, and other detonating agents, smokeless powders, any explosive bomb, grenade, missile, or similar device, and any incendiary bomb or grenade, fire bomb, or similar device, and any other explosive compound, mixture, or similar material.
 
-### (3) Weapon of mass destruction.
+#### (3) Weapon of mass destruction.
 
 A weapon of mass destruction means any device, explosive or otherwise, that is intended, or has the capability, to cause death or serious bodily injury to a significant number of people through the release, dissemination, or impact of: toxic or poisonous chemicals, or their precursors; a disease organism; or radiation or radioactivity.
 
-### (4) Biological agent.
+#### (4) Biological agent.
 
 The term "biological agent" means any micro-organism (including bacteria, viruses, fungi, rickettsiac, or protozoa), pathogen, or infectious substance, and any naturally occurring, bioengineered, or synthesized component of any such micro-organism, pathogen, or infectious substance, whatever its origin or method of production, that is capable of causing-
 
@@ -19578,29 +19578,29 @@ The term "biological agent" means any micro-organism (including bacteria, viruse
 
 (c) deleterious alteration of the environment.
 
-### (5) Chemical agent, substance, or weapon.
+#### (5) Chemical agent, substance, or weapon.
 
 A chemical agent, substance, or weapon refers to a toxic chemical and its precursors or a munition or device, specifically designed to cause death or other harm through toxic properties of those chemicals that would be released as a result of the employment of such munition or device, and any equipment specifically designed for use directly in connection with the employment of such munitions or devices. 
 
-### (6) Hazardous material.
+#### (6) Hazardous material.
 
 A substance or material (including explosive, radioactive material, etiologic agent, flammable or combustible liquid or solid, poison, oxidizing or corrosive material, and compressed gas, or mixture thereof) or a group or class of material designated as hazardous by the Secretary of Transportation.
 
-### (7) Malicious.
+#### (7) Malicious.
 
 A communication is "malicious" if the accused believed that the information would probably interfere with the peaceful use of the building, vehicle, aircraft, or other property concerned, or would cause fear or concern to one or more persons. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeitures of all pay and allowances, and confinement for 10 years.
 
-## f. Sample specifications.
+### f. Sample specifications.
 
-### (1) Threat.
+#### (1) Threat.
 
  
 
@@ -19608,19 +19608,19 @@ Dishonorable discharge, forfeitures of all pay and allowances, and confinement f
 
 did,  (at/on  board-location)  on or about   20  , wrongfully communicate certain information, to wit:  , which language constituted a threat to harm a person or property by means of a(n) --LSQP--explosive; weapon of mass destruction; biological agent, substance, or weapon; chemical agent, substance, or weapon; and/or (a) hazardous material(s)--RSQP--, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-### (2) Hoax.
+#### (2) Hoax.
 
  
 
   In that   (personal jurisdiction data) did,  (at/on  board-location),  on or about   20  , maliciously (communicate) (convey) certain information concerning an attempt being made or to be made to unlawfully --LSQP--(kill) (injure) (intimidate)  --RSQP-- --LSQP--(damage) (destroy)  --RSQP-- by means of a(n) --LSQP--explosive; weapon of mass destruction; biological agent, substance, or weapon; chemical agent, substance, or weapon; and/or (a) hazardous material(s)--RSQP--, to wit:  , which information was false and which the accused then knew to be false, and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Threat, communicating)
+## 110. Article 134-(Threat, communicating)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused communicated certain language expressing a present
 
@@ -19640,7 +19640,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 To establish the threat it is not necessary that the accused actually
 
@@ -19656,17 +19656,17 @@ of intent to commit an unlawful act not involving injury to another. _
 
 See also_ paragraph 109 concerning bomb threat. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Dishonorable discharge, forfeiture of all pay and allowances, and
 
  confinement for 3 years. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -19682,13 +19682,13 @@ data, if required), on or about   20
 
 having committed the offense of  ) (  ), and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces).
 
-#  Article 134-(Unlawful entry)
+## 111. Article 134-(Unlawful entry)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused entered the real property of another or certain
 
@@ -19704,7 +19704,7 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 _See_ paragraph 55 for a discussion of "entry."
 
@@ -19726,17 +19726,17 @@ even though used for storage purposes. However, depending on the circumstances,
 
 an intrusion into such property may be prejudicial to good order and discipline.
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -19750,13 +19750,13 @@ unlawfully enter the (dwelling house) (garage) (warehouse) (tent) (vegetable
 
 garden) (orchard) (stateroom) (  ) of  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Weapon: concealed, carrying)
+## 112. Article 134-(Weapon: concealed, carrying)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused carried a certain weapon concealed on or about
 
@@ -19772,15 +19772,15 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
-### (1) Concealed weapon.
+#### (1) Concealed weapon.
 
 A weapon is concealed when it is carried by a person and intentionally
 
 covered or kept from sight. 
 
-### (2) Dangerous weapon.
+#### (2) Dangerous weapon.
 
  For purposes of this paragraph, a weapon is dangerous if it was
 
@@ -19788,23 +19788,23 @@ covered or kept from sight.
 
 was used or intended to be used by the accused to do grievous bodily harm.
 
-### (3) On or about.
+#### (3) On or about.
 
 "On or about" means the weapon was carried on the accused's
 
 person or was within the immediate reach of the accused. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 1 year. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 
@@ -19818,15 +19818,15 @@ unlawfully carry on or about his/her person a concealed weapon, to wit:
 
 a  , and that said conduct was (to the prejudice of good order and discipline in the armed forces) (of a nature to bring discredit upon the armed forces) (to the prejudice of good order and discipline in the armed forces and was of a nature to bring discredit upon the armed forces). 
 
-#  Article 134-(Wearing unauthorized insignia, decoration, badge,
+## 113. Article 134-(Wearing unauthorized insignia, decoration, badge,
 
 ribbon, device, or lapel button)
 
-## a. Text of statute.
+### a. Text of statute.
 
 _See_ paragraph 60. 
 
-## b. Elements.
+### b. Elements.
 
 (1) That the accused wore a certain insignia, decoration, badge, ribbon,
 
@@ -19842,21 +19842,21 @@ the prejudice of good order and discipline in the armed forces or was of
 
 a nature to bring discredit upon the armed forces. 
 
-## c. Explanation.
+### c. Explanation.
 
 None. 
 
-## d. Lesser included offenses.
+### d. Lesser included offenses.
 
 See paragraph 3 of this part and Appendix 12A. 
 
-## e. Maximum punishment.
+### e. Maximum punishment.
 
 Bad-conduct discharge, forfeiture of all pay and allowances, and
 
  confinement for 6 months. 
 
-## f. Sample specification.
+### f. Sample specification.
 
  
 

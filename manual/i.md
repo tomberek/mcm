@@ -1,6 +1,6 @@
 
 
-#  PREAMBLE
+# PREAMBLE
 
 ## 1. Sources of military jurisdiction
 
@@ -92,7 +92,7 @@ The Manual for Courts-Martial shall consist of this Preamble, the Rules for Cour
 
  The Department of Defense Joint Service Committee (JSC) on Military Justice reviews the Manual for Courts-Martial and proposes amendments to the Department of Defense (DoD) for consideration by the President on an annual basis. In conducting its annual review, the JSC is guided by DoD Directive 5500.17, "Role and Responsibilities of the Joint Service Committee (JSC) on Military Justice." DoD Directive 5500.17 includes provisions allowing public participation in the annual review process.
 
-##  Discussion
+### Discussion
 
   The Department of Defense, in conjunction with the Department of Homeland Security, has published supplementary materials to accompany the Manual for Courts-Martial. These materials consist of a Discussion (accompanying the Preamble, the Rules for Courts-Martial, and the Punitive Articles), an Analysis, and various appendices. These supplementary materials do not constitute the official views of the Department of Defense, the Department of Homeland Security, the Department of Justice, the military departments, the United States Court of Appeals for the Armed Forces, or any other authority of the Government of the United States, and they do not constitute rules. _Cf., e.g._, 5 U.S.C. --SECT-- 551(4). The supplementary materials do not create rights or responsibilities that are binding on any person, party, or other entity (including any authority of the Government of the United States whether or not included in the definition of "agency" in 5 U.S.C. --SECT-- 551(1)). Failure to comply with matter set forth in the supplementary materials does not, of itself, constitute error, although these materials may refer to requirements in the rules set forth in the Executive Order or established by other legal authorities (for example, binding judicial precedents applicable to courts-martial) that are based on sources of authority independent of the supplementary materials. See Appendix 21 in this Manual.
 
