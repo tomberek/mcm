@@ -1,5 +1,7 @@
 require 'oga'
 require 'byebug'
+require 'fileutils'
+require 'active_support/inflector'
 
 TEXT_CLEANERS = [
   [/&(emsp|ensp|thinsp);/, ' '],
@@ -48,7 +50,7 @@ module SAXNodes
   def part_open(name, attrs)
     return if name.include? '.'
     part_label = attrs['label'].downcase.to_sym
-    @parts[part_label] = @output = []
+    @output = []
   end
 
   def part_close(name, attrs)
@@ -90,6 +92,10 @@ module SAXNodes
     @output << " #{@header_label}" if @header_label
     @output << " #{string}\n\n"
     @header_label = nil
+
+    unless @parts.has_value? @output
+      @parts[string] = @output
+    end
   end
 
   def paratext_open(name, attrs)
@@ -165,9 +171,11 @@ class MCMDoc
   end
 
   def output
+    index = 0
     @parts.each do |key, value|
-      File.open("manual/#{key}.md", 'w') { |file| file.write(replace_entities(clean_newlines(value.join('')))) }
+      File.open("#{index}-#{key.match(/[a-zA-Z ]+/)[0].parameterize}.md", 'w') { |file| file.write(replace_entities(clean_newlines(value.join('')))) }
       # File.open("manual/#{key}.md", 'w') { |file| file.write((value.join(''))) }
+      index += 1
     end
   end
 
@@ -201,9 +209,10 @@ class MCMDoc
 end
 
 handler = MCMDoc.new
-xml = File.read('mcm_5_jun_2016.xml').dup.force_encoding('BINARY')
-xml = clean_text(xml)
+xml = File.read('legacy/mcm_5_jun_2016.xml').force_encoding 'BINARY'
+xml = clean_text xml
 
-Oga.sax_parse_html(handler, xml)
+Oga.sax_parse_html handler, xml
 
+FileUtils.rm Dir.glob('[^README]*.md')
 handler.output
