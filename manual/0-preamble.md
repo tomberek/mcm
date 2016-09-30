@@ -8,6 +8,9 @@ The sources of military jurisdiction include the Constitution and
 
 international law. International law includes the law of war.
 
+
+This is a new section
+
 ## 2. Exercise of military jurisdiction
 
 ### (a) Kinds.
