@@ -1,0 +1,16 @@
+- some ol’s start with lowercase letters, some skip directly to numbers
+- if the li starts with a lowercase letter, the header/title following it is italics. if it’s a number, the header/title is in quotes.
+- if the there’s a numbered li _inside_ a lowercase letter li, its title may also be italics.
+- sometimes an ol li will have no content except a further nested list, in which case the nested li will be on the same line as the containing li
+- Discussion often interrupts a list, and is of the format “Discussion \n paratext \n thematic break”
+- discussion sections sometimes contain unordered _and unbulleted_ lists. should these even be lists or should we just keep the whitespace?
+- discussion sections sometimes contain ordered lists, which exist outside the ordering of their containing list
+- sometimes there will be references to subsections within the same rule that don’t follow the `R.C.M. \d` format
+- some rules don’t have lists at all, just paratext
+- another link format: `R.C.M. 504; 1302`
+- more link formats: `See Arti- cles 4, 64, and 66, Geneva Convention Relative to the Protection of Civilian Persons in Time of War, August 12, 1949, arts. 4, 64, and 66, 6 U.S.T. 3516, 3559-60 T.I.A.S. No. 3365.`
+- there’s a `<note>` element which afaict wraps the para in square brackets `[ ]`
+- the deepest ol (roman numerals, `iii.`) can _still_ contain nested ol’s, in which case the ordering restarts at lowercase letter
+- deepest I’ve found so far: `202. (a) DISCUSSION (2)(B)(iii)(a)(2)(A)`
+- subsection header/titles do not break the following paragraph onto a newline
+- Tom is right, all Chapters page break
